@@ -1,0 +1,67 @@
+{
+  "id": 1226453093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85294,8.09817,30.85294,8.09817",
+    "geom:latitude":8.09817,
+    "geom:longitude":30.85294,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wulyang",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363755,
+    "gn:latitude":8.09817,
+    "gn:longitude":30.85294,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Wulyang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363755
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"bf9b76e502f19ad4e0dfecd4ea0940f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1226453093,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1226453093,
+    "wof:lastmodified":1536633418,
+    "wof:name":"Wulyang",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85294,
+    8.09817,
+    30.85294,
+    8.09817
+],
+  "geometry": {"coordinates":[30.85294,8.09817],"type":"Point"}
+}

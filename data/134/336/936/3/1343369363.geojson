@@ -1,0 +1,67 @@
+{
+  "id": 1343369363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42885,7.67237,31.42885,7.67237",
+    "geom:latitude":7.67237,
+    "geom:longitude":31.42885,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Duk Golwing",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376184,
+    "gn:latitude":7.67237,
+    "gn:longitude":31.42885,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Duk Golwing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376184
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e5e5771a6f8013123e15388fe8a51862",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915449,
+            "locality_id":1343369363,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1343369363,
+    "wof:lastmodified":1536876692,
+    "wof:name":"Duk Golwing",
+    "wof:parent_id":1091915449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42885,
+    7.67237,
+    31.42885,
+    7.67237
+],
+  "geometry": {"coordinates":[31.42885,7.67237],"type":"Point"}
+}

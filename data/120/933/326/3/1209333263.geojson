@@ -1,0 +1,62 @@
+{
+  "id": 1209333263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.97804,9.13545,26.97804,9.13545",
+    "geom:latitude":9.13545,
+    "geom:longitude":26.97804,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nyamlell",
+    "gn:country_code":"SS",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368993,
+    "gn:latitude":9.13545,
+    "gn:longitude":26.97804,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nyamlell",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368993,
+        "wk:page":"Nymlal"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"23aaf9eb2a8b201fbe6dbfe60ae7a69f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209333263
+        }
+    ],
+    "wof:id":1209333263,
+    "wof:lastmodified":1537573762,
+    "wof:name":"Nyamlell",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.97804,
+    9.13545,
+    26.97804,
+    9.13545
+],
+  "geometry": {"coordinates":[26.97804,9.13545],"type":"Point"}
+}

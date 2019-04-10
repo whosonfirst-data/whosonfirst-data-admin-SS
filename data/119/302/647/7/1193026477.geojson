@@ -1,0 +1,71 @@
+{
+  "id": 1193026477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95333,4.13778,30.95333,4.13778",
+    "geom:latitude":4.13778,
+    "geom:longitude":30.95333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kopera",
+    "gn:country_code":"SS",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372182,
+    "gn:latitude":4.13778,
+    "gn:longitude":30.95333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kopera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopeara",
+        "Kopera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091913733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372182
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0377535e8a12608214abb1a2dcd293be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913733,
+            "locality_id":1193026477,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1193026477,
+    "wof:lastmodified":1537701397,
+    "wof:name":"Kopera",
+    "wof:parent_id":1091913733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95333,
+    4.13778,
+    30.95333,
+    4.13778
+],
+  "geometry": {"coordinates":[30.95333,4.13778],"type":"Point"}
+}

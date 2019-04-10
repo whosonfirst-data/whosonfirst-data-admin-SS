@@ -1,0 +1,67 @@
+{
+  "id": 1259698787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10896,7.88992,29.10896,7.88992",
+    "geom:latitude":7.88992,
+    "geom:longitude":29.10896,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dan Ageir",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376789,
+    "gn:latitude":7.88992,
+    "gn:longitude":29.10896,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Dan Ageir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376789
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"61dd3cdf2acc92b456c1eb7581235b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914139,
+            "locality_id":1259698787,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1259698787,
+    "wof:lastmodified":1537043110,
+    "wof:name":"Dan Ageir",
+    "wof:parent_id":1091914139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10896,
+    7.88992,
+    29.10896,
+    7.88992
+],
+  "geometry": {"coordinates":[29.10896,7.88992],"type":"Point"}
+}

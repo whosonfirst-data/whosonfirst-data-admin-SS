@@ -1,0 +1,61 @@
+{
+  "id": 1209121111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85274,4.65529,32.85274,4.65529",
+    "geom:latitude":4.65529,
+    "geom:longitude":32.85274,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Logotok",
+    "gn:country_code":"SS",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646226,
+    "gn:latitude":4.65529,
+    "gn:longitude":32.85274,
+    "gn:modification_date":"2013-12-16",
+    "gn:name":"Logotok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646226
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ffd78df6008f14a407d5fc87a1ace564",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209121111
+        }
+    ],
+    "wof:id":1209121111,
+    "wof:lastmodified":1536297095,
+    "wof:name":"Logotok",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.852740000000004,
+    4.65529,
+    32.852740000000004,
+    4.65529
+],
+  "geometry": {"coordinates":[32.85274,4.65529],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327048773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78586,3.78141,30.78586,3.78141",
+    "geom:latitude":3.78141,
+    "geom:longitude":30.78586,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Loinga",
+    "gn:country_code":"SS",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371290,
+    "gn:latitude":3.78141,
+    "gn:longitude":30.78586,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Loinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371290
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fc479e3d24963d128f151404a6b7e99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1327048773,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1327048773,
+    "wof:lastmodified":1536736817,
+    "wof:name":"Loinga",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78586,
+    3.78141,
+    30.78586,
+    3.78141
+],
+  "geometry": {"coordinates":[30.78586,3.78141],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193147599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69435,8.62732,30.69435,8.62732",
+    "geom:latitude":8.62732,
+    "geom:longitude":30.69435,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nyod",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368909,
+    "gn:latitude":8.62732,
+    "gn:longitude":30.69435,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Nyod",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368909
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c80f3efdc9df9754fab16324c0ab9fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1193147599,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1193147599,
+    "wof:lastmodified":1536381705,
+    "wof:name":"Nyod",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69435,
+    8.62732,
+    30.69435,
+    8.62732
+],
+  "geometry": {"coordinates":[30.69435,8.62732],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209530771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.64166,4.43309,32.64166,4.43309",
+    "geom:latitude":4.43309,
+    "geom:longitude":32.64166,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Labalwa",
+    "gn:country_code":"SS",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371646,
+    "gn:latitude":4.43309,
+    "gn:longitude":32.64166,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Labalwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371646
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"80f5699366988e1b08719e7489c42b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209530771
+        }
+    ],
+    "wof:id":1209530771,
+    "wof:lastmodified":1536284287,
+    "wof:name":"Labalwa",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.641659999999995,
+    4.43309,
+    32.641659999999995,
+    4.43309
+],
+  "geometry": {"coordinates":[32.64165999999999,4.43309],"type":"Point"}
+}

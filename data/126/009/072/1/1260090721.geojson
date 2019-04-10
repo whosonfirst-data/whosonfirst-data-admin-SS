@@ -1,0 +1,67 @@
+{
+  "id": 1260090721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6824,11.1109,32.6824,11.1109",
+    "geom:latitude":11.1109,
+    "geom:longitude":32.6824,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Debbat el Aradeib",
+    "gn:country_code":"SS",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031689,
+    "gn:latitude":11.1109,
+    "gn:longitude":32.6824,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Debbat el Aradeib",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031689
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c28d830d969becc26d604e940891306d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1260090721,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1260090721,
+    "wof:lastmodified":1536976929,
+    "wof:name":"Debbat el Aradeib",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6824,
+    11.1109,
+    32.6824,
+    11.1109
+],
+  "geometry": {"coordinates":[32.6824,11.1109],"type":"Point"}
+}

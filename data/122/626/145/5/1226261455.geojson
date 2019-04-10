@@ -1,0 +1,67 @@
+{
+  "id": 1226261455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48628,9.72714,30.48628,9.72714",
+    "geom:latitude":9.72714,
+    "geom:longitude":30.48628,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Buliar",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059908,
+    "gn:latitude":9.72714,
+    "gn:longitude":30.48628,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Buliar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059908
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8561132d49390ff77be318c048bf8a67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915021,
+            "locality_id":1226261455,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1226261455,
+    "wof:lastmodified":1536911335,
+    "wof:name":"Buliar",
+    "wof:parent_id":1091915021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48628,
+    9.72714,
+    30.48628,
+    9.72714
+],
+  "geometry": {"coordinates":[30.48628,9.72714],"type":"Point"}
+}

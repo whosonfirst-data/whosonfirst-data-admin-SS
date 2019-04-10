@@ -1,0 +1,72 @@
+{
+  "id": 1326548829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62887,9.43072,31.62887,9.43072",
+    "geom:latitude":9.43072,
+    "geom:longitude":31.62887,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Taufikia",
+    "gn:country_code":"SS",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366337,
+    "gn:latitude":9.43072,
+    "gn:longitude":31.62887,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Taufikia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawfiqiyy\u0101",
+        "Taufikia",
+        "Tawf\u012bq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366337
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9ed96d16d048c67bd27842cbf9af90f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914001,
+            "locality_id":1326548829,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1326548829,
+    "wof:lastmodified":1537701386,
+    "wof:name":"Taufikia",
+    "wof:parent_id":1091914001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62887000000001,
+    9.43072,
+    31.62887000000001,
+    9.43072
+],
+  "geometry": {"coordinates":[31.62887000000001,9.43072],"type":"Point"}
+}

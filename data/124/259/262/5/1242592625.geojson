@@ -1,0 +1,67 @@
+{
+  "id": 1242592625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23128,10.3617,32.23128,10.3617",
+    "geom:latitude":10.3617,
+    "geom:longitude":32.23128,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyiwudo",
+    "gn:country_code":"SS",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368911,
+    "gn:latitude":10.3617,
+    "gn:longitude":32.23128,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Nyiwudo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368911
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c2f48a7bb5688cbbd45dbe351a006170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914927,
+            "locality_id":1242592625,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1242592625,
+    "wof:lastmodified":1537040214,
+    "wof:name":"Nyiwudo",
+    "wof:parent_id":1091914927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23128,
+    10.3617,
+    32.23128,
+    10.3617
+],
+  "geometry": {"coordinates":[32.23128,10.3617],"type":"Point"}
+}

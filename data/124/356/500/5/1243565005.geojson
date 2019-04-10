@@ -1,0 +1,67 @@
+{
+  "id": 1243565005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71498,8.83328,30.71498,8.83328",
+    "geom:latitude":8.83328,
+    "geom:longitude":30.71498,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tanyir",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366400,
+    "gn:latitude":8.83328,
+    "gn:longitude":30.71498,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Tanyir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366400
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b89e9839ea3c36892bd0621a1bf8fbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1243565005,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1243565005,
+    "wof:lastmodified":1536633193,
+    "wof:name":"Tanyir",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71498,
+    8.83328,
+    30.71498,
+    8.83328
+],
+  "geometry": {"coordinates":[30.71498,8.83328],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293311469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.74085,5.8569,28.74085,5.8569",
+    "geom:latitude":5.8569,
+    "geom:longitude":28.74085,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sangisangi",
+    "gn:country_code":"SS",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367652,
+    "gn:latitude":5.8569,
+    "gn:longitude":28.74085,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Sangisangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091916233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367652
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d06b73ba7a830b7bcbf76520fdc77a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916233,
+            "locality_id":1293311469,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1293311469,
+    "wof:lastmodified":1537039135,
+    "wof:name":"Sangisangi",
+    "wof:parent_id":1091916233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.74085,
+    5.8569,
+    28.74085,
+    5.8569
+],
+  "geometry": {"coordinates":[28.74085,5.8569],"type":"Point"}
+}

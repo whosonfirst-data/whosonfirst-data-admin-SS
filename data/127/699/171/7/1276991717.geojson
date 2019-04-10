@@ -1,0 +1,70 @@
+{
+  "id": 1276991717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18252,9.87522,32.18252,9.87522",
+    "geom:latitude":9.87522,
+    "geom:longitude":32.18252,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Marakok",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059936,
+    "gn:latitude":9.87522,
+    "gn:longitude":32.18252,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Marakok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059936
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6766835ba45a75f28e4c47a953cdfbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915503,
+            "locality_id":1276991717,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1276991717,
+    "wof:lastmodified":1537701420,
+    "wof:name":"Marakok",
+    "wof:parent_id":1091915503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18252,
+    9.87522,
+    32.18252,
+    9.87522
+],
+  "geometry": {"coordinates":[32.18252,9.87522],"type":"Point"}
+}

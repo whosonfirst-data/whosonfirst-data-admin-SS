@@ -1,0 +1,67 @@
+{
+  "id": 1276128925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00758,8.66883,28.00758,8.66883",
+    "geom:latitude":8.66883,
+    "geom:longitude":28.00758,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ashork",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430876,
+    "gn:latitude":8.66883,
+    "gn:longitude":28.00758,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ashork",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430876
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b31151080f4ff975e9e0f0e1592120be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1276128925,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1276128925,
+    "wof:lastmodified":1537050308,
+    "wof:name":"Ashork",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00758,
+    8.66883,
+    28.00758,
+    8.66883
+],
+  "geometry": {"coordinates":[28.00758,8.66883],"type":"Point"}
+}

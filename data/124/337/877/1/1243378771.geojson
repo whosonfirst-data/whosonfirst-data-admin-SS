@@ -1,0 +1,67 @@
+{
+  "id": 1243378771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.04751,10.04427,25.04751,10.04427",
+    "geom:latitude":10.04427,
+    "geom:longitude":25.04751,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Senaeiri",
+    "gn:country_code":"SS",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8046920,
+    "gn:latitude":10.04427,
+    "gn:longitude":25.04751,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Senaeiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8046920
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"75036f2af88b973f784bcff4ae5e057f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1243378771,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1243378771,
+    "wof:lastmodified":1536903252,
+    "wof:name":"Senaeiri",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.04751,
+    10.04427,
+    25.04751,
+    10.04427
+],
+  "geometry": {"coordinates":[25.04751,10.04427],"type":"Point"}
+}

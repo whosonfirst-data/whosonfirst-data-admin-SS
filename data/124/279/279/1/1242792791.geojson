@@ -1,0 +1,67 @@
+{
+  "id": 1242792791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53755,6.01133,31.53755,6.01133",
+    "geom:latitude":6.01133,
+    "geom:longitude":31.53755,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wunattau",
+    "gn:country_code":"SS",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382159,
+    "gn:latitude":6.01133,
+    "gn:longitude":31.53755,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Wunattau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091915369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382159
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5ad7300d718bb862b1c91ff1d39d16a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915369,
+            "locality_id":1242792791,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1242792791,
+    "wof:lastmodified":1536753595,
+    "wof:name":"Wunattau",
+    "wof:parent_id":1091915369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53755,
+    6.01133,
+    31.53755,
+    6.01133
+],
+  "geometry": {"coordinates":[31.53755,6.01133],"type":"Point"}
+}

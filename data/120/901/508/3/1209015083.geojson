@@ -1,0 +1,61 @@
+{
+  "id": 1209015083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79276,3.7693,30.79276,3.7693",
+    "geom:latitude":3.7693,
+    "geom:longitude":30.79276,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kanga",
+    "gn:country_code":"SS",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372916,
+    "gn:latitude":3.7693,
+    "gn:longitude":30.79276,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372916
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9d34d591c22358e51f30f93de96364dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209015083
+        }
+    ],
+    "wof:id":1209015083,
+    "wof:lastmodified":1536300321,
+    "wof:name":"Kanga",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79276,
+    3.7693,
+    30.79276,
+    3.7693
+],
+  "geometry": {"coordinates":[30.79276,3.7693],"type":"Point"}
+}

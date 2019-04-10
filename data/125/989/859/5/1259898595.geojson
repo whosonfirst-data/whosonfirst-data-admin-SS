@@ -1,0 +1,67 @@
+{
+  "id": 1259898595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40233,6.93227,30.40233,6.93227",
+    "geom:latitude":6.93227,
+    "geom:longitude":30.40233,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wun Thum",
+    "gn:country_code":"SS",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431064,
+    "gn:latitude":6.93227,
+    "gn:longitude":30.40233,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Wun Thum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431064
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d1f9b058ebea747aa550e8602c2654e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1259898595,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1259898595,
+    "wof:lastmodified":1536757476,
+    "wof:name":"Wun Thum",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40233,
+    6.93227,
+    30.40233,
+    6.93227
+],
+  "geometry": {"coordinates":[30.40233,6.93227],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242592871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01402,9.79168,32.01402,9.79168",
+    "geom:latitude":9.79168,
+    "geom:longitude":32.01402,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyirial",
+    "gn:country_code":"SS",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368915,
+    "gn:latitude":9.79168,
+    "gn:longitude":32.01402,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Nyirial",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368915
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"118c5512111f004ef7e8bff1e5271bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915503,
+            "locality_id":1242592871,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1242592871,
+    "wof:lastmodified":1537039855,
+    "wof:name":"Nyirial",
+    "wof:parent_id":1091915503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01402,
+    9.79168,
+    32.01402,
+    9.79168
+],
+  "geometry": {"coordinates":[32.01402,9.79168],"type":"Point"}
+}

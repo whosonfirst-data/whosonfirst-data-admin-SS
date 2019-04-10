@@ -1,0 +1,71 @@
+{
+  "id": 1344175813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.53863,6.82745,34.53863,6.82745",
+    "geom:latitude":6.82745,
+    "geom:longitude":34.53863,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Agwetta",
+    "gn:country_code":"SS",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379945,
+    "gn:latitude":6.82745,
+    "gn:longitude":34.53863,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Agwetta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aguatta",
+        "Agwetta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379945
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0d9698efaa0390bc5fc3f612e07d83b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1344175813,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1344175813,
+    "wof:lastmodified":1537701411,
+    "wof:name":"Agwetta",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.53863,
+    6.82745,
+    34.53863,
+    6.82745
+],
+  "geometry": {"coordinates":[34.53863,6.82745],"type":"Point"}
+}

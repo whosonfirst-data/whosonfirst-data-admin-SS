@@ -1,0 +1,67 @@
+{
+  "id": 1326548733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48103,9.43283,30.48103,9.43283",
+    "geom:latitude":9.43283,
+    "geom:longitude":30.48103,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dugang",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376212,
+    "gn:latitude":9.43283,
+    "gn:longitude":30.48103,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Dugang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376212
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0bd0babe80eb64672ba5ee52080977b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1326548733,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1326548733,
+    "wof:lastmodified":1536960151,
+    "wof:name":"Dugang",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48103,
+    9.43283,
+    30.48103,
+    9.43283
+],
+  "geometry": {"coordinates":[30.48103,9.43283],"type":"Point"}
+}

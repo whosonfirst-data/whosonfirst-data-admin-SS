@@ -1,0 +1,67 @@
+{
+  "id": 1260198115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08022,4.34944,31.08022,4.34944",
+    "geom:latitude":4.34944,
+    "geom:longitude":31.08022,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mari",
+    "gn:country_code":"SS",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370461,
+    "gn:latitude":4.34944,
+    "gn:longitude":31.08022,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Mari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091913733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370461
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c216b6818fd596cf921ec90310473466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913733,
+            "locality_id":1260198115,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1260198115,
+    "wof:lastmodified":1536826811,
+    "wof:name":"Mari",
+    "wof:parent_id":1091913733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08022,
+    4.34944,
+    31.08022,
+    4.34944
+],
+  "geometry": {"coordinates":[31.08022,4.34944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343277017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12477,8.92864,33.12477,8.92864",
+    "geom:latitude":8.92864,
+    "geom:longitude":33.12477,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pamiaker",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377052,
+    "gn:latitude":8.92864,
+    "gn:longitude":33.12477,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Pamiaker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377052
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"aef2ca5e1e473ec34ede00210dcf5bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913609,
+            "locality_id":1343277017,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1343277017,
+    "wof:lastmodified":1537010255,
+    "wof:name":"Pamiaker",
+    "wof:parent_id":1091913609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12477,
+    8.92864,
+    33.12477,
+    8.92864
+],
+  "geometry": {"coordinates":[33.12477,8.92864],"type":"Point"}
+}

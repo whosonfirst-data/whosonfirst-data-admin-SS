@@ -1,0 +1,67 @@
+{
+  "id": 1193026337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.71938,8.45252,24.71938,8.45252",
+    "geom:latitude":8.45252,
+    "geom:longitude":24.71938,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sa`id Bundas",
+    "gn:country_code":"SS",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367789,
+    "gn:latitude":8.45252,
+    "gn:longitude":24.71938,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Sa\u2018id Bundas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367789
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ad9d7fefaccc7d4628840ab4aa305718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1193026337,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1193026337,
+    "wof:lastmodified":1536367454,
+    "wof:name":"Sa`id Bundas",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.71938,
+    8.45252,
+    24.71938,
+    8.45252
+],
+  "geometry": {"coordinates":[24.71938,8.45252],"type":"Point"}
+}

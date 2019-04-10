@@ -1,0 +1,67 @@
+{
+  "id": 1243078189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74403,7.6532,31.74403,7.6532",
+    "geom:latitude":7.6532,
+    "geom:longitude":31.74403,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Luk Luk",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371072,
+    "gn:latitude":7.6532,
+    "gn:longitude":31.74403,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Luk Luk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091916167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371072
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0810a4b4aa10d122b14ba5e791c14875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916167,
+            "locality_id":1243078189,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1243078189,
+    "wof:lastmodified":1536838255,
+    "wof:name":"Luk Luk",
+    "wof:parent_id":1091916167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74403,
+    7.6532,
+    31.74403,
+    7.6532
+],
+  "geometry": {"coordinates":[31.74403,7.6532],"type":"Point"}
+}

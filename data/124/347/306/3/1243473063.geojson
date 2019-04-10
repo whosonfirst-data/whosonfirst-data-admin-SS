@@ -1,0 +1,71 @@
+{
+  "id": 1243473063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76155,6.00086,30.76155,6.00086",
+    "geom:latitude":6.00086,
+    "geom:longitude":30.76155,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dari",
+    "gn:country_code":"SS",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376723,
+    "gn:latitude":6.00086,
+    "gn:longitude":30.76155,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorri",
+        "Dari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376723
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"285abaa1564cb574abfe3796e6141f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1243473063,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1243473063,
+    "wof:lastmodified":1537701406,
+    "wof:name":"Dari",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76155,
+    6.00086,
+    30.76155,
+    6.00086
+],
+  "geometry": {"coordinates":[30.76155,6.00086],"type":"Point"}
+}

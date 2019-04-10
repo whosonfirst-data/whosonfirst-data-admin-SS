@@ -1,0 +1,70 @@
+{
+  "id": 1277000439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09263,6.12317,31.09263,6.12317",
+    "geom:latitude":6.12317,
+    "geom:longitude":31.09263,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Makeir",
+    "gn:country_code":"SS",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381987,
+    "gn:latitude":6.12317,
+    "gn:longitude":31.09263,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Makeir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makeyr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091915369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381987
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"160abbbf24b2ff53d3af33b0bccae549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915369,
+            "locality_id":1277000439,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1277000439,
+    "wof:lastmodified":1537701415,
+    "wof:name":"Makeir",
+    "wof:parent_id":1091915369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09263,
+    6.12317,
+    31.09263,
+    6.12317
+],
+  "geometry": {"coordinates":[31.09263,6.12317],"type":"Point"}
+}

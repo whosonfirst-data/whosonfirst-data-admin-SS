@@ -1,0 +1,67 @@
+{
+  "id": 1226656353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05552,6.00561,30.05552,6.00561",
+    "geom:latitude":6.00561,
+    "geom:longitude":30.05552,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Deboro Delau",
+    "gn:country_code":"SS",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433938,
+    "gn:latitude":6.00561,
+    "gn:longitude":30.05552,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Deboro Delau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433938
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3564e2b791fdadefaabd975dad6b42d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915945,
+            "locality_id":1226656353,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1226656353,
+    "wof:lastmodified":1536843004,
+    "wof:name":"Deboro Delau",
+    "wof:parent_id":1091915945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05552,
+    6.00561,
+    30.05552,
+    6.00561
+],
+  "geometry": {"coordinates":[30.05552,6.00561],"type":"Point"}
+}

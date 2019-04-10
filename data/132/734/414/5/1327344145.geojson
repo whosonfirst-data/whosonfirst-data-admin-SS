@@ -1,0 +1,71 @@
+{
+  "id": 1327344145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.59945,7.14374,28.59945,7.14374",
+    "geom:latitude":7.14374,
+    "geom:longitude":28.59945,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Regeb",
+    "gn:country_code":"SS",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368111,
+    "gn:latitude":7.14374,
+    "gn:longitude":28.59945,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Regeb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ragab",
+        "Regeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368111
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d8a3d1868c496a597b69c092b896e665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914221,
+            "locality_id":1327344145,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1327344145,
+    "wof:lastmodified":1537701388,
+    "wof:name":"Regeb",
+    "wof:parent_id":1091914221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.59945,
+    7.14374,
+    28.59945,
+    7.14374
+],
+  "geometry": {"coordinates":[28.59945,7.14374],"type":"Point"}
+}

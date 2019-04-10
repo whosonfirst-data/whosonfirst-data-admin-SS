@@ -1,0 +1,67 @@
+{
+  "id": 1259393005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.19034,10.53882,33.19034,10.53882",
+    "geom:latitude":10.53882,
+    "geom:longitude":33.19034,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ban Kaala",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377757,
+    "gn:latitude":10.53882,
+    "gn:longitude":33.19034,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Ban Kaala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377757
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9545f4b8f182d24e1bd769ada085541b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914847,
+            "locality_id":1259393005,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1259393005,
+    "wof:lastmodified":1536987645,
+    "wof:name":"Ban Kaala",
+    "wof:parent_id":1091914847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.19034,
+    10.53882,
+    33.19034,
+    10.53882
+],
+  "geometry": {"coordinates":[33.19034,10.53882],"type":"Point"}
+}

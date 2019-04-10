@@ -1,0 +1,67 @@
+{
+  "id": 1259393177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3385,6.86897,31.3385,6.86897",
+    "geom:latitude":6.86897,
+    "geom:longitude":31.3385,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Payom",
+    "gn:country_code":"SS",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382106,
+    "gn:latitude":6.86897,
+    "gn:longitude":31.3385,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Payom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382106
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f3f95777305ceba0ecf7ff8201f9f6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914319,
+            "locality_id":1259393177,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1259393177,
+    "wof:lastmodified":1536987404,
+    "wof:name":"Payom",
+    "wof:parent_id":1091914319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3385,
+    6.86897,
+    31.3385,
+    6.86897
+],
+  "geometry": {"coordinates":[31.3385,6.86897],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276458753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67911,7.99642,27.67911,7.99642",
+    "geom:latitude":7.99642,
+    "geom:longitude":27.67911,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Makot",
+    "gn:country_code":"SS",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370766,
+    "gn:latitude":7.99642,
+    "gn:longitude":27.67911,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Makot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091913431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370766
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ba70ce91ce88aca829d1211807baad19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913431,
+            "locality_id":1276458753,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1276458753,
+    "wof:lastmodified":1536607787,
+    "wof:name":"Makot",
+    "wof:parent_id":1091913431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67911,
+    7.99642,
+    27.67911,
+    7.99642
+],
+  "geometry": {"coordinates":[27.67911,7.99642],"type":"Point"}
+}

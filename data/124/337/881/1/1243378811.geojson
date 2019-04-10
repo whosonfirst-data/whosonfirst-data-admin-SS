@@ -1,0 +1,67 @@
+{
+  "id": 1243378811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89042,9.86673,31.89042,9.86673",
+    "geom:latitude":9.86673,
+    "geom:longitude":31.89042,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Oriny",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10123280,
+    "gn:latitude":9.86673,
+    "gn:longitude":31.89042,
+    "gn:modification_date":"2015-02-27",
+    "gn:name":"Oriny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10123280
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4e6a5c9b61a89fe2ffeffbb3dff06a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913653,
+            "locality_id":1243378811,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1243378811,
+    "wof:lastmodified":1536903194,
+    "wof:name":"Oriny",
+    "wof:parent_id":1091913653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89042,
+    9.86673,
+    31.89042,
+    9.86673
+],
+  "geometry": {"coordinates":[31.89042,9.86673],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226353009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.51323,10.36928,25.51323,10.36928",
+    "geom:latitude":10.36928,
+    "geom:longitude":25.51323,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Bisirda",
+    "gn:country_code":"SS",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047350,
+    "gn:latitude":10.36928,
+    "gn:longitude":25.51323,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"El Bisirda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047350
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a49e4fb0d4f7141c78bf2de19dbbc409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1226353009,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1226353009,
+    "wof:lastmodified":1536779423,
+    "wof:name":"El Bisirda",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.51323,
+    10.36928,
+    25.51323,
+    10.36928
+],
+  "geometry": {"coordinates":[25.51323,10.36928],"type":"Point"}
+}

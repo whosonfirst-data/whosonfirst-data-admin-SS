@@ -1,0 +1,67 @@
+{
+  "id": 1343973061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76296,3.84419,30.76296,3.84419",
+    "geom:latitude":3.84419,
+    "geom:longitude":30.76296,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mile",
+    "gn:country_code":"SS",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8167052,
+    "gn:latitude":3.84419,
+    "gn:longitude":30.76296,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Mile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8167052
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"07eb775f88fe0ef7e6980c6c1ca00b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1343973061,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1343973061,
+    "wof:lastmodified":1537001000,
+    "wof:name":"Mile",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76296,
+    3.84419,
+    30.76296,
+    3.84419
+],
+  "geometry": {"coordinates":[30.76296,3.84419],"type":"Point"}
+}

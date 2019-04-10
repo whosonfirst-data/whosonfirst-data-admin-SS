@@ -1,0 +1,61 @@
+{
+  "id": 1209116553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.75809,6.40325,29.75809,6.40325",
+    "geom:latitude":6.40325,
+    "geom:longitude":29.75809,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Warabol",
+    "gn:country_code":"SS",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363945,
+    "gn:latitude":6.40325,
+    "gn:longitude":29.75809,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Warabol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363945
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d6bd9e3cf550066cee9f902c21fddff7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209116553
+        }
+    ],
+    "wof:id":1209116553,
+    "wof:lastmodified":1536297234,
+    "wof:name":"Warabol",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.758090000000006,
+    6.40325,
+    29.758090000000006,
+    6.40325
+],
+  "geometry": {"coordinates":[29.75809000000001,6.40325],"type":"Point"}
+}

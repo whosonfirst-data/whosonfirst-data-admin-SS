@@ -1,0 +1,67 @@
+{
+  "id": 1276773553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53491,9.75127,33.53491,9.75127",
+    "geom:latitude":9.75127,
+    "geom:longitude":33.53491,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Aweida",
+    "gn:country_code":"SS",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068435,
+    "gn:latitude":9.75127,
+    "gn:longitude":33.53491,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Aweida",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068435
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9565e5ad0e507a3eacdb930163453776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914847,
+            "locality_id":1276773553,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1276773553,
+    "wof:lastmodified":1536685873,
+    "wof:name":"Aweida",
+    "wof:parent_id":1091914847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53491,
+    9.75127,
+    33.53491,
+    9.75127
+],
+  "geometry": {"coordinates":[33.53491,9.75127],"type":"Point"}
+}

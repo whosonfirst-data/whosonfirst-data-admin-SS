@@ -1,0 +1,67 @@
+{
+  "id": 1310116445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69565,9.28766,29.69565,9.28766",
+    "geom:latitude":9.28766,
+    "geom:longitude":29.69565,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Barjok",
+    "gn:country_code":"SS",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428818,
+    "gn:latitude":9.28766,
+    "gn:longitude":29.69565,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Barjok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428818
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e85012c9af6ec21c801232c2dc309e95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915999,
+            "locality_id":1310116445,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1310116445,
+    "wof:lastmodified":1536979947,
+    "wof:name":"Barjok",
+    "wof:parent_id":1091915999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69565,
+    9.28766,
+    29.69565,
+    9.28766
+],
+  "geometry": {"coordinates":[29.69565,9.28766],"type":"Point"}
+}

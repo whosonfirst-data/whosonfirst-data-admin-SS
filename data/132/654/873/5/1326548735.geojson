@@ -1,0 +1,70 @@
+{
+  "id": 1326548735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55992,5.86775,30.55992,5.86775",
+    "geom:latitude":5.86775,
+    "geom:longitude":30.55992,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marlango",
+    "gn:country_code":"SS",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382006,
+    "gn:latitude":5.86775,
+    "gn:longitude":30.55992,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Marlango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382006
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d3ee7aa3352418be99f140ab3166ca3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1326548735,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1326548735,
+    "wof:lastmodified":1537701415,
+    "wof:name":"Marlango",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55992,
+    5.86775,
+    30.55992,
+    5.86775
+],
+  "geometry": {"coordinates":[30.55992,5.86775],"type":"Point"}
+}

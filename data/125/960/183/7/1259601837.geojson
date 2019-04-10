@@ -1,0 +1,72 @@
+{
+  "id": 1259601837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.80682,9.96561,33.80682,9.96561",
+    "geom:latitude":9.96561,
+    "geom:longitude":33.80682,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Allah Gabu",
+    "gn:country_code":"SS",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379194,
+    "gn:latitude":9.96561,
+    "gn:longitude":33.80682,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Allah Gabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Allah Gabo",
+        "Allah Gabu",
+        "All\u0101h J\u0101b\u016b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379194
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"32539fcc165bb23526da84d780353997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914847,
+            "locality_id":1259601837,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1259601837,
+    "wof:lastmodified":1537701409,
+    "wof:name":"Allah Gabu",
+    "wof:parent_id":1091914847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.80682,
+    9.96561,
+    33.80682,
+    9.96561
+],
+  "geometry": {"coordinates":[33.80682,9.96561],"type":"Point"}
+}

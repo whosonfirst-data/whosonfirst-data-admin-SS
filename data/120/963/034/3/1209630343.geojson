@@ -1,0 +1,64 @@
+{
+  "id": 1209630343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24613,7.50743,28.24613,7.50743",
+    "geom:latitude":7.50743,
+    "geom:longitude":28.24613,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sirur",
+    "gn:country_code":"SS",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366613,
+    "gn:latitude":7.50743,
+    "gn:longitude":28.24613,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sirur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sur\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366613
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"412f82d6909f13115a65b8fa186e0d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209630343
+        }
+    ],
+    "wof:id":1209630343,
+    "wof:lastmodified":1537701386,
+    "wof:name":"Sirur",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24613,
+    7.50743,
+    28.24613,
+    7.50743
+],
+  "geometry": {"coordinates":[28.24613,7.50743],"type":"Point"}
+}

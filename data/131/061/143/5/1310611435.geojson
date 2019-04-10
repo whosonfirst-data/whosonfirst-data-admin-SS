@@ -1,0 +1,67 @@
+{
+  "id": 1310611435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3031,9.64026,32.3031,9.64026",
+    "geom:latitude":9.64026,
+    "geom:longitude":32.3031,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Atietit",
+    "gn:country_code":"SS",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378217,
+    "gn:latitude":9.64026,
+    "gn:longitude":32.3031,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Atietit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378217
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7fe9193e7793d4a78cd6c2155c095625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915503,
+            "locality_id":1310611435,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1310611435,
+    "wof:lastmodified":1536764383,
+    "wof:name":"Atietit",
+    "wof:parent_id":1091915503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3031,
+    9.64026,
+    32.3031,
+    9.64026
+],
+  "geometry": {"coordinates":[32.3031,9.64026],"type":"Point"}
+}

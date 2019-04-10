@@ -1,0 +1,61 @@
+{
+  "id": 1209019483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.06803,9.23361,28.06803,9.23361",
+    "geom:latitude":9.23361,
+    "geom:longitude":28.06803,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mayen",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416410,
+    "gn:latitude":9.23361,
+    "gn:longitude":28.06803,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Mayen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416410
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4f0ffac060f36fd2b0fb0d2c0078e397",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209019483
+        }
+    ],
+    "wof:id":1209019483,
+    "wof:lastmodified":1536300189,
+    "wof:name":"Mayen",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.06803,
+    9.23361,
+    28.06803,
+    9.23361
+],
+  "geometry": {"coordinates":[28.06803,9.23361],"type":"Point"}
+}

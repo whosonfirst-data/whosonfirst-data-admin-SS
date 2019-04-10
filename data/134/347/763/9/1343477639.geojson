@@ -1,0 +1,67 @@
+{
+  "id": 1343477639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.80158,6.93017,29.80158,6.93017",
+    "geom:latitude":6.93017,
+    "geom:longitude":29.80158,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lang",
+    "gn:country_code":"SS",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7429921,
+    "gn:latitude":6.93017,
+    "gn:longitude":29.80158,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Lang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7429921
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f28cbd2b6545a64c69d298eb00e79f1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916013,
+            "locality_id":1343477639,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1343477639,
+    "wof:lastmodified":1536721684,
+    "wof:name":"Lang",
+    "wof:parent_id":1091916013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80158,
+    6.93017,
+    29.80158,
+    6.93017
+],
+  "geometry": {"coordinates":[29.80158,6.93017],"type":"Point"}
+}

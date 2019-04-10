@@ -1,0 +1,70 @@
+{
+  "id": 1310320327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9332,8.78998,29.9332,8.78998",
+    "geom:latitude":8.78998,
+    "geom:longitude":29.9332,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gnopp",
+    "gn:country_code":"SS",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369208,
+    "gn:latitude":8.78998,
+    "gn:longitude":29.9332,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gnopp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngorp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369208
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d2f5a3f1d6f010d173fa9a449a315e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913585,
+            "locality_id":1310320327,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1310320327,
+    "wof:lastmodified":1537701391,
+    "wof:name":"Gnopp",
+    "wof:parent_id":1091913585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9332,
+    8.78998,
+    29.9332,
+    8.78998
+],
+  "geometry": {"coordinates":[29.9332,8.78998],"type":"Point"}
+}

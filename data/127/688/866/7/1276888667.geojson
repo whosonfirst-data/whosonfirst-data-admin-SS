@@ -1,0 +1,71 @@
+{
+  "id": 1276888667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.19054,9.00016,27.19054,9.00016",
+    "geom:latitude":9.00016,
+    "geom:longitude":27.19054,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wedweil",
+    "gn:country_code":"SS",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363869,
+    "gn:latitude":9.00016,
+    "gn:longitude":27.19054,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wedweil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wed Wel",
+        "Wedweil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363869
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"359317713c0e111da6476df6f91f000d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1276888667,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1276888667,
+    "wof:lastmodified":1537701382,
+    "wof:name":"Wedweil",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.19054,
+    9.00016,
+    27.19054,
+    9.00016
+],
+  "geometry": {"coordinates":[27.19054,9.00016],"type":"Point"}
+}

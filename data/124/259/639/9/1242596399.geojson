@@ -1,0 +1,67 @@
+{
+  "id": 1242596399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.83438,6.741,29.83438,6.741",
+    "geom:latitude":6.741,
+    "geom:longitude":29.83438,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kakor",
+    "gn:country_code":"SS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7429982,
+    "gn:latitude":6.741,
+    "gn:longitude":29.83438,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Kakor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7429982
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e441c13687b8d46dc4d2af313a8269b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914045,
+            "locality_id":1242596399,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1242596399,
+    "wof:lastmodified":1537035023,
+    "wof:name":"Kakor",
+    "wof:parent_id":1091914045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.83438,
+    6.741,
+    29.83438,
+    6.741
+],
+  "geometry": {"coordinates":[29.83438,6.741],"type":"Point"}
+}

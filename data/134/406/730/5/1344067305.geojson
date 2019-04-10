@@ -1,0 +1,67 @@
+{
+  "id": 1344067305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.99421,7.92803,32.99421,7.92803",
+    "geom:latitude":7.92803,
+    "geom:longitude":32.99421,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Denjok",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376546,
+    "gn:latitude":7.92803,
+    "gn:longitude":32.99421,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Denjok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376546
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"df35c7b3e9ba36ed1b6c5da3fd7adac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915285,
+            "locality_id":1344067305,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1344067305,
+    "wof:lastmodified":1536864265,
+    "wof:name":"Denjok",
+    "wof:parent_id":1091915285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.99421,
+    7.92803,
+    32.99421,
+    7.92803
+],
+  "geometry": {"coordinates":[32.99421,7.92803],"type":"Point"}
+}

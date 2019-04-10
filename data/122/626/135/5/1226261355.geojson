@@ -1,0 +1,67 @@
+{
+  "id": 1226261355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.73673,8.87282,25.73673,8.87282",
+    "geom:latitude":8.87282,
+    "geom:longitude":25.73673,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abuge",
+    "gn:country_code":"SS",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380911,
+    "gn:latitude":8.87282,
+    "gn:longitude":25.73673,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Abug\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380911
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8ca7b7f92d3d3d313c2b77956cb12845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1226261355,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1226261355,
+    "wof:lastmodified":1536911486,
+    "wof:name":"Abuge",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.73673,
+    8.87282,
+    25.73673,
+    8.87282
+],
+  "geometry": {"coordinates":[25.73673,8.87282],"type":"Point"}
+}

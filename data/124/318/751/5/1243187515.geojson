@@ -1,0 +1,67 @@
+{
+  "id": 1243187515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48333,4.91667,35.48333,4.91667",
+    "geom:latitude":4.91667,
+    "geom:longitude":35.48333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Naitatitok",
+    "gn:country_code":"SS",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369460,
+    "gn:latitude":4.91667,
+    "gn:longitude":35.48333,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Naitatitok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632329,
+        85672963,
+        1091912795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369460
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"770a3d47afe54b7c7bb5940ff5e5d5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632329,
+            "county_id":1091912795,
+            "locality_id":1243187515,
+            "region_id":85672963
+        }
+    ],
+    "wof:id":1243187515,
+    "wof:lastmodified":1536681735,
+    "wof:name":"Naitatitok",
+    "wof:parent_id":1091912795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48333,
+    4.91667,
+    35.48333,
+    4.91667
+],
+  "geometry": {"coordinates":[35.48333,4.91667],"type":"Point"}
+}

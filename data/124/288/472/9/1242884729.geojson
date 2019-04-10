@@ -1,0 +1,70 @@
+{
+  "id": 1242884729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75754,10.06631,33.75754,10.06631",
+    "geom:latitude":10.06631,
+    "geom:longitude":33.75754,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tuyo Quffa",
+    "gn:country_code":"SS",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365519,
+    "gn:latitude":10.06631,
+    "gn:longitude":33.75754,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tuyo Quffa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuyo Quffah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365519
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"801e543f271ecc531c45fe3bb11a0193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914847,
+            "locality_id":1242884729,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1242884729,
+    "wof:lastmodified":1537701384,
+    "wof:name":"Tuyo Quffa",
+    "wof:parent_id":1091914847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75754000000001,
+    10.06631,
+    33.75754000000001,
+    10.06631
+],
+  "geometry": {"coordinates":[33.75754000000001,10.06631],"type":"Point"}
+}

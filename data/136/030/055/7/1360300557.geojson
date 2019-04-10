@@ -1,0 +1,70 @@
+{
+  "id": 1360300557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63806,8.34232,30.63806,8.34232",
+    "geom:latitude":8.34232,
+    "geom:longitude":30.63806,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lai Kaich",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381760,
+    "gn:latitude":8.34232,
+    "gn:longitude":30.63806,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Lai Kaich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lay Kaych"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381760
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ab2ee03f757801b11d620554d0feab49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1360300557,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1360300557,
+    "wof:lastmodified":1537701414,
+    "wof:name":"Lai Kaich",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63806,
+    8.34232,
+    30.63806,
+    8.34232
+],
+  "geometry": {"coordinates":[30.63806,8.34232],"type":"Point"}
+}

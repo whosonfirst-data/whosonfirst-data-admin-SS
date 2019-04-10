@@ -1,0 +1,61 @@
+{
+  "id": 1209019541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53675,8.15183,31.53675,8.15183",
+    "geom:latitude":8.15183,
+    "geom:longitude":31.53675,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ngok",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369218,
+    "gn:latitude":8.15183,
+    "gn:longitude":31.53675,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ngok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369218
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f54e09c450a8d9a6fc24996ec783575b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209019541
+        }
+    ],
+    "wof:id":1209019541,
+    "wof:lastmodified":1536300187,
+    "wof:name":"Ngok",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53675,
+    8.15183,
+    31.53675,
+    8.15183
+],
+  "geometry": {"coordinates":[31.53675,8.15183],"type":"Point"}
+}

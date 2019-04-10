@@ -1,0 +1,67 @@
+{
+  "id": 1310512073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37316,7.11707,31.37316,7.11707",
+    "geom:latitude":7.11707,
+    "geom:longitude":31.37316,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fakwar",
+    "gn:country_code":"SS",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375604,
+    "gn:latitude":7.11707,
+    "gn:longitude":31.37316,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Fakwar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375604
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"255ccf8b3f65eca16a7a8a1b38863131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914319,
+            "locality_id":1310512073,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1310512073,
+    "wof:lastmodified":1536907609,
+    "wof:name":"Fakwar",
+    "wof:parent_id":1091914319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37316,
+    7.11707,
+    31.37316,
+    7.11707
+],
+  "geometry": {"coordinates":[31.37316,7.11707],"type":"Point"}
+}

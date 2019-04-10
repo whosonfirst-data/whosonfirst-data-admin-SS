@@ -1,0 +1,61 @@
+{
+  "id": 1209116549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16101,4.22366,33.16101,4.22366",
+    "geom:latitude":4.22366,
+    "geom:longitude":33.16101,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Narimari",
+    "gn:country_code":"SS",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8715905,
+    "gn:latitude":4.22366,
+    "gn:longitude":33.16101,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Narimari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8715905
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6573e8868909deea179eee52d7c6551d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209116549
+        }
+    ],
+    "wof:id":1209116549,
+    "wof:lastmodified":1536297234,
+    "wof:name":"Narimari",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16101,
+    4.22366,
+    33.16101,
+    4.22366
+],
+  "geometry": {"coordinates":[33.16101,4.22366],"type":"Point"}
+}

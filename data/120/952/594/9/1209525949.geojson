@@ -1,0 +1,61 @@
+{
+  "id": 1209525949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3249,5.36429,30.3249,5.36429",
+    "geom:latitude":5.36429,
+    "geom:longitude":30.3249,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Wolla",
+    "gn:country_code":"SS",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7434637,
+    "gn:latitude":5.36429,
+    "gn:longitude":30.3249,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Wolla",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7434637
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"816bd93adc4b2c4783d0f7a15f5221ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209525949
+        }
+    ],
+    "wof:id":1209525949,
+    "wof:lastmodified":1536284430,
+    "wof:name":"Wolla",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3249,
+    5.36429,
+    30.3249,
+    5.36429
+],
+  "geometry": {"coordinates":[30.3249,5.36429],"type":"Point"}
+}

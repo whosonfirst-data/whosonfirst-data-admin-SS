@@ -1,0 +1,67 @@
+{
+  "id": 1327149635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.52271,10.40572,32.52271,10.40572",
+    "geom:latitude":10.40572,
+    "geom:longitude":32.52271,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Warawut",
+    "gn:country_code":"SS",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363932,
+    "gn:latitude":10.40572,
+    "gn:longitude":32.52271,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Warawut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363932
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f2ba8ed15237e2eb6bda8c72f8971e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913689,
+            "locality_id":1327149635,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1327149635,
+    "wof:lastmodified":1537085825,
+    "wof:name":"Warawut",
+    "wof:parent_id":1091913689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52271,
+    10.40572,
+    32.52271,
+    10.40572
+],
+  "geometry": {"coordinates":[32.52271,10.40572],"type":"Point"}
+}

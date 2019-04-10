@@ -1,0 +1,67 @@
+{
+  "id": 1326741063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95801,8.90081,27.95801,8.90081",
+    "geom:latitude":8.90081,
+    "geom:longitude":27.95801,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Turo Kwoit",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430755,
+    "gn:latitude":8.90081,
+    "gn:longitude":27.95801,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Turo Kwoit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430755
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9e0accbbe7ec20c081d19a0d93d06e12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1326741063,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1326741063,
+    "wof:lastmodified":1536682843,
+    "wof:name":"Turo Kwoit",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95801,
+    8.90081,
+    27.95801,
+    8.90081
+],
+  "geometry": {"coordinates":[27.95801,8.90081],"type":"Point"}
+}

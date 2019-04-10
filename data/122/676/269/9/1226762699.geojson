@@ -1,0 +1,67 @@
+{
+  "id": 1226762699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53042,4.32615,33.53042,4.32615",
+    "geom:latitude":4.32615,
+    "geom:longitude":33.53042,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Loming",
+    "gn:country_code":"SS",
+    "gn:dem":1809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8715899,
+    "gn:latitude":4.32615,
+    "gn:longitude":33.53042,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Loming",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8715899
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"48b1f0518efa6cc2b705c8cab1262596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913493,
+            "locality_id":1226762699,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1226762699,
+    "wof:lastmodified":1536691215,
+    "wof:name":"Loming",
+    "wof:parent_id":1091913493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53042,
+    4.32615,
+    33.53042,
+    4.32615
+],
+  "geometry": {"coordinates":[33.53042,4.32615],"type":"Point"}
+}

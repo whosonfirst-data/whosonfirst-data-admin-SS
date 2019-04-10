@@ -1,0 +1,67 @@
+{
+  "id": 1327344135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.70417,8.86547,28.70417,8.86547",
+    "geom:latitude":8.86547,
+    "geom:longitude":28.70417,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Majom Kor",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370806,
+    "gn:latitude":8.86547,
+    "gn:longitude":28.70417,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Majom Kor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091913463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370806
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eb7cd13c282b9fd760ab2c3e612bc0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913463,
+            "locality_id":1327344135,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1327344135,
+    "wof:lastmodified":1536807860,
+    "wof:name":"Majom Kor",
+    "wof:parent_id":1091913463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70417,
+    8.86547,
+    28.70417,
+    8.86547
+],
+  "geometry": {"coordinates":[28.70417,8.86547],"type":"Point"}
+}

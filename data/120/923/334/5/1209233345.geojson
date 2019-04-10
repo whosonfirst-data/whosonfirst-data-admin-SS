@@ -1,0 +1,61 @@
+{
+  "id": 1209233345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32302,7.54063,31.32302,7.54063",
+    "geom:latitude":7.54063,
+    "geom:longitude":31.32302,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fawai",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":8169114,
+    "gn:latitude":7.54063,
+    "gn:longitude":31.32302,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Fawai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8169114
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"377534bbb70188a564a35035c8dd65d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209233345
+        }
+    ],
+    "wof:id":1209233345,
+    "wof:lastmodified":1536293567,
+    "wof:name":"Fawai",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32302,
+    7.54063,
+    31.32302,
+    7.54063
+],
+  "geometry": {"coordinates":[31.32302,7.54063],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209625805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.18699,6.96214,29.18699,6.96214",
+    "geom:latitude":6.96214,
+    "geom:longitude":29.18699,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Werakot",
+    "gn:country_code":"SS",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363851,
+    "gn:latitude":6.96214,
+    "gn:longitude":29.18699,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Werakot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363851
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"abcaba43313250db5d93ef5b4588d11e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209625805
+        }
+    ],
+    "wof:id":1209625805,
+    "wof:lastmodified":1536281358,
+    "wof:name":"Werakot",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18699,
+    6.96214,
+    29.18699,
+    6.96214
+],
+  "geometry": {"coordinates":[29.18699,6.96214],"type":"Point"}
+}

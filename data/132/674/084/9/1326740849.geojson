@@ -1,0 +1,67 @@
+{
+  "id": 1326740849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13108,9.03696,27.13108,9.03696",
+    "geom:latitude":9.03696,
+    "geom:longitude":27.13108,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wur Shwei",
+    "gn:country_code":"SS",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428406,
+    "gn:latitude":9.03696,
+    "gn:longitude":27.13108,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Wur Shwei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428406
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"edc3dabdbb091a42862b3ac29b4c6a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1326740849,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1326740849,
+    "wof:lastmodified":1536683163,
+    "wof:name":"Wur Shwei",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13108,
+    9.03696,
+    27.13108,
+    9.03696
+],
+  "geometry": {"coordinates":[27.13108,9.03696],"type":"Point"}
+}

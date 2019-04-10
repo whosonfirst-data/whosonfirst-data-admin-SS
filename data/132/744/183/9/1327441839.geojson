@@ -1,0 +1,71 @@
+{
+  "id": 1327441839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.02282,7.35096,34.02282,7.35096",
+    "geom:latitude":7.35096,
+    "geom:longitude":34.02282,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Neum",
+    "gn:country_code":"SS",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369255,
+    "gn:latitude":7.35096,
+    "gn:longitude":34.02282,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Neum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gneum",
+        "Neum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369255
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"dd0d650e105132d3d9336fd130118cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915101,
+            "locality_id":1327441839,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1327441839,
+    "wof:lastmodified":1537701392,
+    "wof:name":"Neum",
+    "wof:parent_id":1091915101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.02282,
+    7.35096,
+    34.02282,
+    7.35096
+],
+  "geometry": {"coordinates":[34.02282,7.35096],"type":"Point"}
+}

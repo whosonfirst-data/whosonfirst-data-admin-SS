@@ -1,0 +1,67 @@
+{
+  "id": 1326640299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.07333,6.33889,30.07333,6.33889",
+    "geom:latitude":6.33889,
+    "geom:longitude":30.07333,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mapuordit",
+    "gn:country_code":"SS",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10345576,
+    "gn:latitude":6.33889,
+    "gn:longitude":30.07333,
+    "gn:modification_date":"2015-06-22",
+    "gn:name":"Mapuordit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10345576
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9fadbbc3018f133352c3daef30d4dc54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915945,
+            "locality_id":1326640299,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1326640299,
+    "wof:lastmodified":1536827140,
+    "wof:name":"Mapuordit",
+    "wof:parent_id":1091915945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.07333,
+    6.33889,
+    30.07333,
+    6.33889
+],
+  "geometry": {"coordinates":[30.07333,6.33889],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210031431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97951,8.97546,27.97951,8.97546",
+    "geom:latitude":8.97546,
+    "geom:longitude":27.97951,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Madol",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430709,
+    "gn:latitude":8.97546,
+    "gn:longitude":27.97951,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Madol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430709
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ba11d6eef2cfc019c473e71f9e0ea2b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1210031431,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1210031431,
+    "wof:lastmodified":1536388384,
+    "wof:name":"Madol",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97951,
+    8.97546,
+    27.97951,
+    8.97546
+],
+  "geometry": {"coordinates":[27.97951,8.97546],"type":"Point"}
+}

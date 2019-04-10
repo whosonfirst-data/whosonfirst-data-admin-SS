@@ -1,0 +1,67 @@
+{
+  "id": 1193147409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84376,4.03806,32.84376,4.03806",
+    "geom:latitude":4.03806,
+    "geom:longitude":32.84376,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gilo",
+    "gn:country_code":"SS",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374816,
+    "gn:latitude":4.03806,
+    "gn:longitude":32.84376,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Gilo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374816
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b9116391fa35cd6ddfef8580facba7ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1193147409,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1193147409,
+    "wof:lastmodified":1536381895,
+    "wof:name":"Gilo",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84376,
+    4.03806,
+    32.84376,
+    4.03806
+],
+  "geometry": {"coordinates":[32.84376,4.03806],"type":"Point"}
+}

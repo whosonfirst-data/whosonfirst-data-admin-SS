@@ -1,0 +1,67 @@
+{
+  "id": 1276778589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45713,6.32333,30.45713,6.32333",
+    "geom:latitude":6.32333,
+    "geom:longitude":30.45713,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ekomber",
+    "gn:country_code":"SS",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431861,
+    "gn:latitude":6.32333,
+    "gn:longitude":30.45713,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Ekomber",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431861
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"de0e765da6c0250b76b4cd356a93c9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914585,
+            "locality_id":1276778589,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1276778589,
+    "wof:lastmodified":1536679184,
+    "wof:name":"Ekomber",
+    "wof:parent_id":1091914585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45713,
+    6.32333,
+    30.45713,
+    6.32333
+],
+  "geometry": {"coordinates":[30.45713,6.32333],"type":"Point"}
+}

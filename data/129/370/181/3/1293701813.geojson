@@ -1,0 +1,67 @@
+{
+  "id": 1293701813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.73362,7.54287,28.73362,7.54287",
+    "geom:latitude":7.54287,
+    "geom:longitude":28.73362,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pankeir",
+    "gn:country_code":"SS",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368601,
+    "gn:latitude":7.54287,
+    "gn:longitude":28.73362,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Pankeir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368601
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9ea502bc0d33fce38c2192f4f6e58d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914221,
+            "locality_id":1293701813,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1293701813,
+    "wof:lastmodified":1536974809,
+    "wof:name":"Pankeir",
+    "wof:parent_id":1091914221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.73362,
+    7.54287,
+    28.73362,
+    7.54287
+],
+  "geometry": {"coordinates":[28.73362,7.54287],"type":"Point"}
+}

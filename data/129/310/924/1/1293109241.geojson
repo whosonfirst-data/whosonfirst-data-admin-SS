@@ -1,0 +1,67 @@
+{
+  "id": 1293109241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3609,6.08323,30.3609,6.08323",
+    "geom:latitude":6.08323,
+    "geom:longitude":30.3609,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Aiyon",
+    "gn:country_code":"SS",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7433928,
+    "gn:latitude":6.08323,
+    "gn:longitude":30.3609,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Aiyon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7433928
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"89d83af7784ecf96600edbc8029b7ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1293109241,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1293109241,
+    "wof:lastmodified":1536834275,
+    "wof:name":"Aiyon",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3609,
+    6.08323,
+    30.3609,
+    6.08323
+],
+  "geometry": {"coordinates":[30.3609,6.08323],"type":"Point"}
+}

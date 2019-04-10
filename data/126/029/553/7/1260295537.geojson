@@ -1,0 +1,67 @@
+{
+  "id": 1260295537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3276,6.6679,29.3276,6.6679",
+    "geom:latitude":6.6679,
+    "geom:longitude":29.3276,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ubori",
+    "gn:country_code":"SS",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365488,
+    "gn:latitude":6.6679,
+    "gn:longitude":29.3276,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Ubori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365488
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0fe41464deaabd1c55f0032df21bdd00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914495,
+            "locality_id":1260295537,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1260295537,
+    "wof:lastmodified":1536695870,
+    "wof:name":"Ubori",
+    "wof:parent_id":1091914495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3276,
+    6.6679,
+    29.3276,
+    6.6679
+],
+  "geometry": {"coordinates":[29.3276,6.6679],"type":"Point"}
+}

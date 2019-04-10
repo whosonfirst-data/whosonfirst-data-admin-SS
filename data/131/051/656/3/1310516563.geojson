@@ -1,0 +1,67 @@
+{
+  "id": 1310516563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.85556,9.26534,29.85556,9.26534",
+    "geom:latitude":9.26534,
+    "geom:longitude":29.85556,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dabil el Gudeka",
+    "gn:country_code":"SS",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428828,
+    "gn:latitude":9.26534,
+    "gn:longitude":29.85556,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Dabil el Gudeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428828
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5ce714f822832e6aa3b0a9ba0f3dc955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915583,
+            "locality_id":1310516563,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1310516563,
+    "wof:lastmodified":1536900918,
+    "wof:name":"Dabil el Gudeka",
+    "wof:parent_id":1091915583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.85556,
+    9.26534,
+    29.85556,
+    9.26534
+],
+  "geometry": {"coordinates":[29.85556,9.26534],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310520167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42328,9.05435,33.42328,9.05435",
+    "geom:latitude":9.05435,
+    "geom:longitude":33.42328,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dulthiang",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376143,
+    "gn:latitude":9.05435,
+    "gn:longitude":33.42328,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dulthiang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dultang",
+        "Dulthiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376143
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d637e61f89725496b21e74540e10ea32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915801,
+            "locality_id":1310520167,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1310520167,
+    "wof:lastmodified":1537701404,
+    "wof:name":"Dulthiang",
+    "wof:parent_id":1091915801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42328,
+    9.05435,
+    33.42328,
+    9.05435
+],
+  "geometry": {"coordinates":[33.42328,9.05435],"type":"Point"}
+}

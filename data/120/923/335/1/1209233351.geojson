@@ -1,0 +1,61 @@
+{
+  "id": 1209233351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03,8.08499,32.03,8.08499",
+    "geom:latitude":8.08499,
+    "geom:longitude":32.03,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Rubguanchat",
+    "gn:country_code":"SS",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181288,
+    "gn:latitude":8.08499,
+    "gn:longitude":32.03,
+    "gn:modification_date":"2012-07-05",
+    "gn:name":"Rubguanchat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181288
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ea4c85047c19e63c928f6932f425d31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209233351
+        }
+    ],
+    "wof:id":1209233351,
+    "wof:lastmodified":1536293567,
+    "wof:name":"Rubguanchat",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03,
+    8.08499,
+    32.03,
+    8.08499
+],
+  "geometry": {"coordinates":[32.03,8.08499],"type":"Point"}
+}

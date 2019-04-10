@@ -1,0 +1,61 @@
+{
+  "id": 1209425325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15453,9.02441,28.15453,9.02441",
+    "geom:latitude":9.02441,
+    "geom:longitude":28.15453,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ngab Riang",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662074,
+    "gn:latitude":9.02441,
+    "gn:longitude":28.15453,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Ngab Riang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662074
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"82dadaccf0e016658854dddbf8dd0702",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209425325
+        }
+    ],
+    "wof:id":1209425325,
+    "wof:lastmodified":1536287398,
+    "wof:name":"Ngab Riang",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15453,
+    9.02441,
+    28.15453,
+    9.02441
+],
+  "geometry": {"coordinates":[28.15453,9.02441],"type":"Point"}
+}

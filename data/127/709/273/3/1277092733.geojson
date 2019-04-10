@@ -1,0 +1,67 @@
+{
+  "id": 1277092733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51157,7.40916,30.51157,7.40916",
+    "geom:latitude":7.40916,
+    "geom:longitude":30.51157,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Makang",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370793,
+    "gn:latitude":7.40916,
+    "gn:longitude":30.51157,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Makang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370793
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e0874ab237811cbe639fad1f686b843e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913959,
+            "locality_id":1277092733,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1277092733,
+    "wof:lastmodified":1536753182,
+    "wof:name":"Makang",
+    "wof:parent_id":1091913959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51157000000001,
+    7.40916,
+    30.51157000000001,
+    7.40916
+],
+  "geometry": {"coordinates":[30.51157000000001,7.40916],"type":"Point"}
+}

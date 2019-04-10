@@ -1,0 +1,70 @@
+{
+  "id": 1343477645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95085,3.78033,30.95085,3.78033",
+    "geom:latitude":3.78033,
+    "geom:longitude":30.95085,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Panyume",
+    "gn:country_code":"SS",
+    "gn:dem":1018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9257618,
+    "gn:latitude":3.78033,
+    "gn:longitude":30.95085,
+    "gn:modification_date":"2014-08-01",
+    "gn:name":"Panyume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panyumae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9257618
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3fb3c28194f33035a9ba92dc625dedb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914975,
+            "locality_id":1343477645,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1343477645,
+    "wof:lastmodified":1537701422,
+    "wof:name":"Panyume",
+    "wof:parent_id":1091914975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95085,
+    3.78033,
+    30.95085,
+    3.78033
+],
+  "geometry": {"coordinates":[30.95085,3.78033],"type":"Point"}
+}

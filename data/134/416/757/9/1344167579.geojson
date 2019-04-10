@@ -1,0 +1,70 @@
+{
+  "id": 1344167579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.74603,4.00936,32.74603,4.00936",
+    "geom:latitude":4.00936,
+    "geom:longitude":32.74603,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Talanga",
+    "gn:country_code":"SS",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382455,
+    "gn:latitude":4.00936,
+    "gn:longitude":32.74603,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Talanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Telanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382455
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"32a768196b4771c10899140915d0b25e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1344167579,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1344167579,
+    "wof:lastmodified":1537701417,
+    "wof:name":"Talanga",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.74603,
+    4.00936,
+    32.74603,
+    4.00936
+],
+  "geometry": {"coordinates":[32.74603,4.00936],"type":"Point"}
+}

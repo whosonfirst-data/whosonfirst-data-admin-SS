@@ -1,0 +1,67 @@
+{
+  "id": 1276991733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.64961,9.19909,29.64961,9.19909",
+    "geom:latitude":9.19909,
+    "geom:longitude":29.64961,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Leich",
+    "gn:country_code":"SS",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371487,
+    "gn:latitude":9.19909,
+    "gn:longitude":29.64961,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Leich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371487
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6eee483c599ff905cfffc092bf14a8df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915999,
+            "locality_id":1276991733,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1276991733,
+    "wof:lastmodified":1536890708,
+    "wof:name":"Leich",
+    "wof:parent_id":1091915999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.64961,
+    9.19909,
+    29.64961,
+    9.19909
+],
+  "geometry": {"coordinates":[29.64961,9.19909],"type":"Point"}
+}

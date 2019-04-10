@@ -1,0 +1,71 @@
+{
+  "id": 1259702291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03031,3.64976,32.03031,3.64976",
+    "geom:latitude":3.64976,
+    "geom:longitude":32.03031,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gelle",
+    "gn:country_code":"SS",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374998,
+    "gn:latitude":3.64976,
+    "gn:longitude":32.03031,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gelle",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Celle",
+        "Gelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        890452095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374998
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6302b8cf78c4083dbd494307aa2be3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":890452095,
+            "locality_id":1259702291,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1259702291,
+    "wof:lastmodified":1537701402,
+    "wof:name":"Gelle",
+    "wof:parent_id":890452095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03031,
+    3.64976,
+    32.03031,
+    3.64976
+],
+  "geometry": {"coordinates":[32.03031,3.64976],"type":"Point"}
+}

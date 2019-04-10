@@ -1,0 +1,67 @@
+{
+  "id": 1259998247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.42881,8.0546,29.42881,8.0546",
+    "geom:latitude":8.0546,
+    "geom:longitude":29.42881,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"War Bok",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363931,
+    "gn:latitude":8.0546,
+    "gn:longitude":29.42881,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"War Bok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363931
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9ff0dac160efa729a5777d29805c6556",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914139,
+            "locality_id":1259998247,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1259998247,
+    "wof:lastmodified":1536611331,
+    "wof:name":"War Bok",
+    "wof:parent_id":1091914139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.42881,
+    8.0546,
+    29.42881,
+    8.0546
+],
+  "geometry": {"coordinates":[29.42881,8.0546],"type":"Point"}
+}

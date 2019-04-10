@@ -1,0 +1,67 @@
+{
+  "id": 1293303203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93556,5.09889,29.93556,5.09889",
+    "geom:latitude":5.09889,
+    "geom:longitude":29.93556,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dodo",
+    "gn:country_code":"SS",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382190,
+    "gn:latitude":5.09889,
+    "gn:longitude":29.93556,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Dodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382190
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"953be55b3e5ec71ca02d382ed23ee89e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":1293303203,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1293303203,
+    "wof:lastmodified":1537050469,
+    "wof:name":"Dodo",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93556,
+    5.09889,
+    29.93556,
+    5.09889
+],
+  "geometry": {"coordinates":[29.93556,5.09889],"type":"Point"}
+}

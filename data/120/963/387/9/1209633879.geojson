@@ -1,0 +1,61 @@
+{
+  "id": 1209633879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00915,8.68841,28.00915,8.68841",
+    "geom:latitude":8.68841,
+    "geom:longitude":28.00915,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ruor Yom",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430872,
+    "gn:latitude":8.68841,
+    "gn:longitude":28.00915,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Ruor Yom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430872
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ba7ec944b3691b11979599024c29c63b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209633879
+        }
+    ],
+    "wof:id":1209633879,
+    "wof:lastmodified":1536281104,
+    "wof:name":"Ruor Yom",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00915,
+    8.688410000000001,
+    28.00915,
+    8.688410000000001
+],
+  "geometry": {"coordinates":[28.00915,8.68841],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209121211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33408,8.65786,26.33408,8.65786",
+    "geom:latitude":8.65786,
+    "geom:longitude":26.33408,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Beit `Ali",
+    "gn:country_code":"SS",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377539,
+    "gn:latitude":8.65786,
+    "gn:longitude":26.33408,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beit \u2018Ali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit \u2018Ali",
+        "Bayt \u2018Al\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377539
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d56a69d37bd02fba914a8c7952b78718",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209121211
+        }
+    ],
+    "wof:id":1209121211,
+    "wof:lastmodified":1537701408,
+    "wof:name":"Beit `Ali",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33408,
+    8.65786,
+    26.33408,
+    8.65786
+],
+  "geometry": {"coordinates":[26.33408,8.65786],"type":"Point"}
+}

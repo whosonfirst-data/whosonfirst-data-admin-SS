@@ -1,0 +1,72 @@
+{
+  "id": 1226664669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.41701,9.27345,24.41701,9.27345",
+    "geom:latitude":9.27345,
+    "geom:longitude":24.41701,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kafia Kingi",
+    "gn:country_code":"SS",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373130,
+    "gn:latitude":9.27345,
+    "gn:longitude":24.41701,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kafia Kingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafiya Kinji",
+        "Kafia Kingi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373130,
+        "wk:page":"Kafia_Kingi"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fb888e3612a50c2d2451259d1955a596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1226664669,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1226664669,
+    "wof:lastmodified":1537701399,
+    "wof:name":"Kafia Kingi",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.41701,
+    9.27345,
+    24.41701,
+    9.27345
+],
+  "geometry": {"coordinates":[24.41701,9.27345],"type":"Point"}
+}

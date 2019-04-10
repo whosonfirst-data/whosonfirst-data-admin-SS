@@ -1,0 +1,67 @@
+{
+  "id": 1276883855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72975,3.98557,30.72975,3.98557",
+    "geom:latitude":3.98557,
+    "geom:longitude":30.72975,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Iamba",
+    "gn:country_code":"SS",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373656,
+    "gn:latitude":3.98557,
+    "gn:longitude":30.72975,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Iamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373656
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0425fc53aa2aede199b7d4ddfd51a79f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1276883855,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1276883855,
+    "wof:lastmodified":1537034206,
+    "wof:name":"Iamba",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72975,
+    3.98557,
+    30.72975,
+    3.98557
+],
+  "geometry": {"coordinates":[30.72975,3.98557],"type":"Point"}
+}

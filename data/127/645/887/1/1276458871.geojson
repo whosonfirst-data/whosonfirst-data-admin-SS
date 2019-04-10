@@ -1,0 +1,70 @@
+{
+  "id": 1276458871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98268,4.60949,29.98268,4.60949",
+    "geom:latitude":4.60949,
+    "geom:longitude":29.98268,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Garniabe",
+    "gn:country_code":"SS",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375090,
+    "gn:latitude":4.60949,
+    "gn:longitude":29.98268,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Garniabe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarmabe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375090
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2aa4a054d259ee2b808fa1b2c71e9421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1276458871,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1276458871,
+    "wof:lastmodified":1537701402,
+    "wof:name":"Garniabe",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98268,
+    4.60949,
+    29.98268,
+    4.60949
+],
+  "geometry": {"coordinates":[29.98268,4.60949],"type":"Point"}
+}

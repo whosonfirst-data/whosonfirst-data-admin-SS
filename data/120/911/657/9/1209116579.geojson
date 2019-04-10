@@ -1,0 +1,61 @@
+{
+  "id": 1209116579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80689,5.26725,31.80689,5.26725",
+    "geom:latitude":5.26725,
+    "geom:longitude":31.80689,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Malang",
+    "gn:country_code":"SS",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038769,
+    "gn:latitude":5.26725,
+    "gn:longitude":31.80689,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Malang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038769
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8accf0d740731d439413b78fc5928658",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209116579
+        }
+    ],
+    "wof:id":1209116579,
+    "wof:lastmodified":1536297234,
+    "wof:name":"Malang",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.806890000000006,
+    5.26725,
+    31.806890000000006,
+    5.26725
+],
+  "geometry": {"coordinates":[31.80689000000001,5.26725],"type":"Point"}
+}

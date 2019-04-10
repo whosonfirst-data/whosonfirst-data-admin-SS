@@ -1,0 +1,67 @@
+{
+  "id": 1327045371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83776,8.15751,31.83776,8.15751",
+    "geom:latitude":8.15751,
+    "geom:longitude":31.83776,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dwoing",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181249,
+    "gn:latitude":8.15751,
+    "gn:longitude":31.83776,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Dwoing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091916167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181249
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7a7030f1728a2bfe0fd7f7dd901c287a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916167,
+            "locality_id":1327045371,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1327045371,
+    "wof:lastmodified":1536741461,
+    "wof:name":"Dwoing",
+    "wof:parent_id":1091916167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83776,
+    8.15751,
+    31.83776,
+    8.15751
+],
+  "geometry": {"coordinates":[31.83776,8.15751],"type":"Point"}
+}

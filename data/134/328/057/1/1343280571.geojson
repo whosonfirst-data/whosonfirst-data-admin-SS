@@ -1,0 +1,67 @@
+{
+  "id": 1343280571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.80486,6.92077,29.80486,6.92077",
+    "geom:latitude":6.92077,
+    "geom:longitude":29.80486,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Golmayen",
+    "gn:country_code":"SS",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374724,
+    "gn:latitude":6.92077,
+    "gn:longitude":29.80486,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Golmayen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374724
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a7141b859c453b31be76c90c6f42e9c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916013,
+            "locality_id":1343280571,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1343280571,
+    "wof:lastmodified":1537005143,
+    "wof:name":"Golmayen",
+    "wof:parent_id":1091916013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80486,
+    6.92077,
+    29.80486,
+    6.92077
+],
+  "geometry": {"coordinates":[29.80486,6.92077],"type":"Point"}
+}

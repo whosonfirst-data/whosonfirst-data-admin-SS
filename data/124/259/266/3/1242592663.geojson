@@ -1,0 +1,67 @@
+{
+  "id": 1242592663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4538,8.55403,28.4538,8.55403",
+    "geom:latitude":8.55403,
+    "geom:longitude":28.4538,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Afras",
+    "gn:country_code":"SS",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061401,
+    "gn:latitude":8.55403,
+    "gn:longitude":28.4538,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Afras",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091913463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061401
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f2007c7147651b72f93117b31377c2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913463,
+            "locality_id":1242592663,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1242592663,
+    "wof:lastmodified":1537040156,
+    "wof:name":"Afras",
+    "wof:parent_id":1091913463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4538,
+    8.55403,
+    28.4538,
+    8.55403
+],
+  "geometry": {"coordinates":[28.4538,8.55403],"type":"Point"}
+}

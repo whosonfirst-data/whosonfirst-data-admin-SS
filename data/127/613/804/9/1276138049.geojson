@@ -1,0 +1,67 @@
+{
+  "id": 1276138049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72306,4.03861,30.72306,4.03861",
+    "geom:latitude":4.03861,
+    "geom:longitude":30.72306,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Perusha",
+    "gn:country_code":"SS",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382600,
+    "gn:latitude":4.03861,
+    "gn:longitude":30.72306,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Perusha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382600
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"44a8cd215d44b92ad2e6c4833a7819b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1276138049,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1276138049,
+    "wof:lastmodified":1537038650,
+    "wof:name":"Perusha",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72306,
+    4.03861,
+    30.72306,
+    4.03861
+],
+  "geometry": {"coordinates":[30.72306,4.03861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242692751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.24334,8.55163,33.24334,8.55163",
+    "geom:latitude":8.55163,
+    "geom:longitude":33.24334,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Thakral",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375827,
+    "gn:latitude":8.55163,
+    "gn:longitude":33.24334,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Thakral",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375827
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7e76b0c041fcc61d6fa0b153ef2092d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913609,
+            "locality_id":1242692751,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1242692751,
+    "wof:lastmodified":1536897753,
+    "wof:name":"Thakral",
+    "wof:parent_id":1091913609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24334,
+    8.55163,
+    33.24334,
+    8.55163
+],
+  "geometry": {"coordinates":[33.24334,8.55163],"type":"Point"}
+}

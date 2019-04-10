@@ -1,0 +1,67 @@
+{
+  "id": 1293215673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.00541,7.40762,29.00541,7.40762",
+    "geom:latitude":7.40762,
+    "geom:longitude":29.00541,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Amett",
+    "gn:country_code":"SS",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378872,
+    "gn:latitude":7.40762,
+    "gn:longitude":29.00541,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Amett",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378872
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9d019c5ec566c9d3c8ec34f9471c559b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914221,
+            "locality_id":1293215673,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1293215673,
+    "wof:lastmodified":1536681763,
+    "wof:name":"Amett",
+    "wof:parent_id":1091914221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00541,
+    7.40762,
+    29.00541,
+    7.40762
+],
+  "geometry": {"coordinates":[29.00541,7.40762],"type":"Point"}
+}

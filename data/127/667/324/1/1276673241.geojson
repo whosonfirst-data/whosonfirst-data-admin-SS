@@ -1,0 +1,67 @@
+{
+  "id": 1276673241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.61843,9.2351,29.61843,9.2351",
+    "geom:latitude":9.2351,
+    "geom:longitude":29.61843,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Akait",
+    "gn:country_code":"SS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379856,
+    "gn:latitude":9.2351,
+    "gn:longitude":29.61843,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Akait",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379856
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"bde58418c1b0a02118039b562025ae1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915999,
+            "locality_id":1276673241,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1276673241,
+    "wof:lastmodified":1536819308,
+    "wof:name":"Akait",
+    "wof:parent_id":1091915999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.61843,
+    9.2351,
+    29.61843,
+    9.2351
+],
+  "geometry": {"coordinates":[29.61843,9.2351],"type":"Point"}
+}

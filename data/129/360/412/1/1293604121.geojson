@@ -1,0 +1,67 @@
+{
+  "id": 1293604121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07573,8.56165,33.07573,8.56165",
+    "geom:latitude":8.56165,
+    "geom:longitude":33.07573,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kwerenga",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375002,
+    "gn:latitude":8.56165,
+    "gn:longitude":33.07573,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Kwerenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375002
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1226ad07525389bf1dad519b5982ca7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913609,
+            "locality_id":1293604121,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1293604121,
+    "wof:lastmodified":1536616665,
+    "wof:name":"Kwerenga",
+    "wof:parent_id":1091913609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07573,
+    8.56165,
+    33.07573,
+    8.56165
+],
+  "geometry": {"coordinates":[33.07573,8.56165],"type":"Point"}
+}

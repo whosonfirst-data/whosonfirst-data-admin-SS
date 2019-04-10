@@ -1,0 +1,72 @@
+{
+  "id": 1276247481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.67703,6.22705,34.67703,6.22705",
+    "geom:latitude":6.22705,
+    "geom:longitude":34.67703,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Meiyino",
+    "gn:country_code":"SS",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370210,
+    "gn:latitude":6.22705,
+    "gn:longitude":34.67703,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Meiyino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meino",
+        "Meiyino",
+        "Meyno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370210
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"58726bd2fd9f0897b7476ddcd66b8d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915059,
+            "locality_id":1276247481,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276247481,
+    "wof:lastmodified":1537701393,
+    "wof:name":"Meiyino",
+    "wof:parent_id":1091915059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.67703,
+    6.22705,
+    34.67703,
+    6.22705
+],
+  "geometry": {"coordinates":[34.67703,6.22705],"type":"Point"}
+}

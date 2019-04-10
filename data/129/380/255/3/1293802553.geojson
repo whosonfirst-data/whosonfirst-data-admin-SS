@@ -1,0 +1,67 @@
+{
+  "id": 1293802553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03194,4.92194,28.03194,4.92194",
+    "geom:latitude":4.92194,
+    "geom:longitude":28.03194,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nagasi",
+    "gn:country_code":"SS",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381282,
+    "gn:latitude":4.92194,
+    "gn:longitude":28.03194,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Nagasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381282
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"109a3cd0eaddb035788b306fc1630819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914189,
+            "locality_id":1293802553,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1293802553,
+    "wof:lastmodified":1536828987,
+    "wof:name":"Nagasi",
+    "wof:parent_id":1091914189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03194,
+    4.92194,
+    28.03194,
+    4.92194
+],
+  "geometry": {"coordinates":[28.03194,4.92194],"type":"Point"}
+}

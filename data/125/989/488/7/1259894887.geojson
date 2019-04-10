@@ -1,0 +1,67 @@
+{
+  "id": 1259894887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.64559,9.25947,30.64559,9.25947",
+    "geom:latitude":9.25947,
+    "geom:longitude":30.64559,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kau",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372708,
+    "gn:latitude":9.25947,
+    "gn:longitude":30.64559,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Kau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372708
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"423ae14f2f83b82f769731201e80af8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1259894887,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1259894887,
+    "wof:lastmodified":1536762916,
+    "wof:name":"Kau",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.64559,
+    9.25947,
+    30.64559,
+    9.25947
+],
+  "geometry": {"coordinates":[30.64559,9.25947],"type":"Point"}
+}

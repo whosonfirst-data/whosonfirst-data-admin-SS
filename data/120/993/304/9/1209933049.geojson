@@ -1,0 +1,67 @@
+{
+  "id": 1209933049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.77769,7.40269,27.77769,7.40269",
+    "geom:latitude":7.40269,
+    "geom:longitude":27.77769,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Girish",
+    "gn:country_code":"SS",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374781,
+    "gn:latitude":7.40269,
+    "gn:longitude":27.77769,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Girish",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091916187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374781
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fd00bab178a94c31970dcd9d6d9a6174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916187,
+            "locality_id":1209933049,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1209933049,
+    "wof:lastmodified":1536391871,
+    "wof:name":"Girish",
+    "wof:parent_id":1091916187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.77769,
+    7.40269,
+    27.77769,
+    7.40269
+],
+  "geometry": {"coordinates":[27.77769,7.40269],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343677051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41565,7.15044,29.41565,7.15044",
+    "geom:latitude":7.15044,
+    "geom:longitude":29.41565,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Baag",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377979,
+    "gn:latitude":7.15044,
+    "gn:longitude":29.41565,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Baag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baang",
+        "Baag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377979
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"55c8d95a70b73ca47da955c039cf0d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1343677051,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1343677051,
+    "wof:lastmodified":1537701408,
+    "wof:name":"Baag",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41565,
+    7.15044,
+    29.41565,
+    7.15044
+],
+  "geometry": {"coordinates":[29.41565,7.15044],"type":"Point"}
+}

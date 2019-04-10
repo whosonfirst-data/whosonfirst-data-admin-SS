@@ -1,0 +1,68 @@
+{
+  "id": 1276991645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6248,9.01632,27.6248,9.01632",
+    "geom:latitude":9.01632,
+    "geom:longitude":27.6248,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Malualkon",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10123482,
+    "gn:latitude":9.01632,
+    "gn:longitude":27.6248,
+    "gn:modification_date":"2015-02-27",
+    "gn:name":"Malualkon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10123482,
+        "wk:page":"Malualkon"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"094871ae5fc0716f4c8610ba165c44a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1276991645,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1276991645,
+    "wof:lastmodified":1537573767,
+    "wof:name":"Malualkon",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6248,
+    9.01632,
+    27.6248,
+    9.01632
+],
+  "geometry": {"coordinates":[27.6248,9.01632],"type":"Point"}
+}

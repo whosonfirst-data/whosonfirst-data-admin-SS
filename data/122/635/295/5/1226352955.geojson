@@ -1,0 +1,67 @@
+{
+  "id": 1226352955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53922,8.92198,32.53922,8.92198",
+    "geom:latitude":8.92198,
+    "geom:longitude":32.53922,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyaiyin",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374393,
+    "gn:latitude":8.92198,
+    "gn:longitude":32.53922,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Nyaiyin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374393
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d3d9a118f4383f2c03776e87f6a343f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1226352955,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1226352955,
+    "wof:lastmodified":1536779496,
+    "wof:name":"Nyaiyin",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53922,
+    8.92198,
+    32.53922,
+    8.92198
+],
+  "geometry": {"coordinates":[32.53922,8.92198],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243274479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58261,9.76561,33.58261,9.76561",
+    "geom:latitude":9.76561,
+    "geom:longitude":33.58261,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bella",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377831,
+    "gn:latitude":9.76561,
+    "gn:longitude":33.58261,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bella",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ballah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377831
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1cbbc7de4f949459c07fa09b69a33b2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914847,
+            "locality_id":1243274479,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1243274479,
+    "wof:lastmodified":1537701408,
+    "wof:name":"Bella",
+    "wof:parent_id":1091914847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58261,
+    9.76561,
+    33.58261,
+    9.76561
+],
+  "geometry": {"coordinates":[33.58261,9.76561],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310520333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92444,6.65778,30.92444,6.65778",
+    "geom:latitude":6.65778,
+    "geom:longitude":30.92444,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wunkel",
+    "gn:country_code":"SS",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363716,
+    "gn:latitude":6.65778,
+    "gn:longitude":30.92444,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Wunkel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363716
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"84b3731769a472dcf973ff071f01c70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1310520333,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1310520333,
+    "wof:lastmodified":1536895271,
+    "wof:name":"Wunkel",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92444,
+    6.65778,
+    30.92444,
+    6.65778
+],
+  "geometry": {"coordinates":[30.92444,6.65778],"type":"Point"}
+}

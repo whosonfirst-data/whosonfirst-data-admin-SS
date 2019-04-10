@@ -1,0 +1,70 @@
+{
+  "id": 1225959571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87923,9.98491,33.87923,9.98491",
+    "geom:latitude":9.98491,
+    "geom:longitude":33.87923,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Agyagya",
+    "gn:country_code":"SS",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379939,
+    "gn:latitude":9.98491,
+    "gn:longitude":33.87923,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Agyagya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheikh Leiti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379939
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0c84e4a74eacdaca3f15bd0e85732de7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914847,
+            "locality_id":1225959571,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1225959571,
+    "wof:lastmodified":1537701410,
+    "wof:name":"Agyagya",
+    "wof:parent_id":1091914847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87923,
+    9.98491,
+    33.87923,
+    9.98491
+],
+  "geometry": {"coordinates":[33.87923,9.98491],"type":"Point"}
+}

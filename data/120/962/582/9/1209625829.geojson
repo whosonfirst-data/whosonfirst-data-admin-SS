@@ -1,0 +1,65 @@
+{
+  "id": 1209625829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.67561,9.40273,30.67561,9.40273",
+    "geom:latitude":9.40273,
+    "geom:longitude":30.67561,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tuai Bur",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365701,
+    "gn:latitude":9.40273,
+    "gn:longitude":30.67561,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tuai Bur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuai Bor",
+        "Tuai Bur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365701
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"40621eda1668103cc5fb6133e902d2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209625829
+        }
+    ],
+    "wof:id":1209625829,
+    "wof:lastmodified":1537701384,
+    "wof:name":"Tuai Bur",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.67561,
+    9.40273,
+    30.67561,
+    9.40273
+],
+  "geometry": {"coordinates":[30.67561,9.40273],"type":"Point"}
+}

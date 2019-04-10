@@ -1,0 +1,61 @@
+{
+  "id": 1209124775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.91528,8.04617,28.91528,8.04617",
+    "geom:latitude":8.04617,
+    "geom:longitude":28.91528,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wun Kwel",
+    "gn:country_code":"SS",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363708,
+    "gn:latitude":8.04617,
+    "gn:longitude":28.91528,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Wun Kwel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363708
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d5e77c6c9ae098281e0ce3ae82cbad23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209124775
+        }
+    ],
+    "wof:id":1209124775,
+    "wof:lastmodified":1536296987,
+    "wof:name":"Wun Kwel",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.91528,
+    8.04617,
+    28.91528,
+    8.04617
+],
+  "geometry": {"coordinates":[28.91528,8.04617],"type":"Point"}
+}

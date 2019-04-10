@@ -1,0 +1,64 @@
+{
+  "id": 1209019651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59001,6.15657,30.59001,6.15657",
+    "geom:latitude":6.15657,
+    "geom:longitude":30.59001,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Atiit",
+    "gn:country_code":"SS",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378216,
+    "gn:latitude":6.15657,
+    "gn:longitude":30.59001,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Atiit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378216
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e8a3d2cff28992606c8734d52cfc99da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209019651
+        }
+    ],
+    "wof:id":1209019651,
+    "wof:lastmodified":1537701409,
+    "wof:name":"Atiit",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59001,
+    6.15657,
+    30.59001,
+    6.15657
+],
+  "geometry": {"coordinates":[30.59001,6.15657],"type":"Point"}
+}

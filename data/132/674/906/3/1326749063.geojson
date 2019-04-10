@@ -1,0 +1,70 @@
+{
+  "id": 1326749063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93074,6.16134,30.93074,6.16134",
+    "geom:latitude":6.16134,
+    "geom:longitude":30.93074,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Makwet",
+    "gn:country_code":"SS",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432039,
+    "gn:latitude":6.16134,
+    "gn:longitude":30.93074,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Makwet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091915369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432039
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6d535242fa0fa939ae8bcc4a5d239716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915369,
+            "locality_id":1326749063,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1326749063,
+    "wof:lastmodified":1537701419,
+    "wof:name":"Makwet",
+    "wof:parent_id":1091915369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93074,
+    6.16134,
+    30.93074,
+    6.16134
+],
+  "geometry": {"coordinates":[30.93074,6.16134],"type":"Point"}
+}

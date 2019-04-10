@@ -1,0 +1,67 @@
+{
+  "id": 1327149695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.38047,8.11477,27.38047,8.11477",
+    "geom:latitude":8.11477,
+    "geom:longitude":27.38047,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Zaid",
+    "gn:country_code":"SS",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431168,
+    "gn:latitude":8.11477,
+    "gn:longitude":27.38047,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Zaid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091913431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431168
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1bee386e116dbe37d273334d5d1c8ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913431,
+            "locality_id":1327149695,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1327149695,
+    "wof:lastmodified":1537085740,
+    "wof:name":"Zaid",
+    "wof:parent_id":1091913431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.38047000000001,
+    8.11477,
+    27.38047000000001,
+    8.11477
+],
+  "geometry": {"coordinates":[27.38047000000001,8.11477],"type":"Point"}
+}

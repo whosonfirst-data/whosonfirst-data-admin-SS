@@ -1,0 +1,67 @@
+{
+  "id": 1276782501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.77353,6.62875,29.77353,6.62875",
+    "geom:latitude":6.62875,
+    "geom:longitude":29.77353,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Makere",
+    "gn:country_code":"SS",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370780,
+    "gn:latitude":6.62875,
+    "gn:longitude":29.77353,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Makere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370780
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7497e92c562940d4fe3fa8f980cc5231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914045,
+            "locality_id":1276782501,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1276782501,
+    "wof:lastmodified":1536674034,
+    "wof:name":"Makere",
+    "wof:parent_id":1091914045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.77353,
+    6.62875,
+    29.77353,
+    6.62875
+],
+  "geometry": {"coordinates":[29.77353,6.62875],"type":"Point"}
+}

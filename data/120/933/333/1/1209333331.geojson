@@ -1,0 +1,61 @@
+{
+  "id": 1209333331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53796,6.468,30.53796,6.468",
+    "geom:latitude":6.468,
+    "geom:longitude":30.53796,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Goltoin",
+    "gn:country_code":"SS",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431871,
+    "gn:latitude":6.468,
+    "gn:longitude":30.53796,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Goltoin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431871
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4e469808c1b088434b7164dbfc1ae5b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209333331
+        }
+    ],
+    "wof:id":1209333331,
+    "wof:lastmodified":1536290302,
+    "wof:name":"Goltoin",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53796,
+    6.468,
+    30.53796,
+    6.468
+],
+  "geometry": {"coordinates":[30.53796,6.468],"type":"Point"}
+}

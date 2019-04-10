@@ -1,0 +1,71 @@
+{
+  "id": 1327242163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.62628,4.12652,33.62628,4.12652",
+    "geom:latitude":4.12652,
+    "geom:longitude":33.62628,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Latome",
+    "gn:country_code":"SS",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371515,
+    "gn:latitude":4.12652,
+    "gn:longitude":33.62628,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Latome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blat Latome",
+        "Latome"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371515
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b114a7d893c2f4ced37e6a9638b53c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913493,
+            "locality_id":1327242163,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1327242163,
+    "wof:lastmodified":1537701396,
+    "wof:name":"Latome",
+    "wof:parent_id":1091913493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.62628,
+    4.12652,
+    33.62628,
+    4.12652
+],
+  "geometry": {"coordinates":[33.62628,4.12652],"type":"Point"}
+}

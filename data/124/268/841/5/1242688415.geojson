@@ -1,0 +1,67 @@
+{
+  "id": 1242688415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.57808,8.9637,27.57808,8.9637",
+    "geom:latitude":8.9637,
+    "geom:longitude":27.57808,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Makwoich",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430650,
+    "gn:latitude":8.9637,
+    "gn:longitude":27.57808,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Makwoich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430650
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ca0a726eb321db84557bb9257b1aeb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1242688415,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1242688415,
+    "wof:lastmodified":1536904242,
+    "wof:name":"Makwoich",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.57808,
+    8.9637,
+    27.57808,
+    8.9637
+],
+  "geometry": {"coordinates":[27.57808,8.9637],"type":"Point"}
+}

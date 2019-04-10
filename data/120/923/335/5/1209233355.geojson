@@ -1,0 +1,61 @@
+{
+  "id": 1209233355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.29966,7.58733,28.29966,7.58733",
+    "geom:latitude":7.58733,
+    "geom:longitude":28.29966,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Akwai",
+    "gn:country_code":"SS",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379782,
+    "gn:latitude":7.58733,
+    "gn:longitude":28.29966,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Akwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379782
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eb4c5a12a23455041457dc3b2a95d2de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209233355
+        }
+    ],
+    "wof:id":1209233355,
+    "wof:lastmodified":1536293567,
+    "wof:name":"Akwai",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.29966,
+    7.5873300000000015,
+    28.29966,
+    7.5873300000000015
+],
+  "geometry": {"coordinates":[28.29966,7.58733],"type":"Point"}
+}

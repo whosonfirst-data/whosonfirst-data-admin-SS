@@ -1,0 +1,70 @@
+{
+  "id": 1225855169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.93766,7.8012,25.93766,7.8012",
+    "geom:latitude":7.8012,
+    "geom:longitude":25.93766,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gabir",
+    "gn:country_code":"SS",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373456,
+    "gn:latitude":7.8012,
+    "gn:longitude":25.93766,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gabir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "J\u0101bir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373456
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"376526571ee6fe98e81a89f0aebc263f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1225855169,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1225855169,
+    "wof:lastmodified":1537701400,
+    "wof:name":"Gabir",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.93766,
+    7.8012,
+    25.93766,
+    7.8012
+],
+  "geometry": {"coordinates":[25.93766,7.8012],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226664835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16818,4.49499,32.16818,4.49499",
+    "geom:latitude":4.49499,
+    "geom:longitude":32.16818,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kheba",
+    "gn:country_code":"SS",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372482,
+    "gn:latitude":4.49499,
+    "gn:longitude":32.16818,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Kheba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372482
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"039fe2066b06bb2770cee7ed347601dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1226664835,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1226664835,
+    "wof:lastmodified":1536831007,
+    "wof:name":"Kheba",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16818,
+    4.49499,
+    32.16818,
+    4.49499
+],
+  "geometry": {"coordinates":[32.16818,4.49499],"type":"Point"}
+}

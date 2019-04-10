@@ -1,0 +1,67 @@
+{
+  "id": 1276567387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.74662,6.57857,32.74662,6.57857",
+    "geom:latitude":6.57857,
+    "geom:longitude":32.74662,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nyangobal",
+    "gn:country_code":"SS",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368974,
+    "gn:latitude":6.57857,
+    "gn:longitude":32.74662,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Nyangobal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368974
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"27e18abcc59b22b62ed6379c6d59bce9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915059,
+            "locality_id":1276567387,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276567387,
+    "wof:lastmodified":1536962434,
+    "wof:name":"Nyangobal",
+    "wof:parent_id":1091915059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.74662,
+    6.57857,
+    32.74662,
+    6.57857
+],
+  "geometry": {"coordinates":[32.74662,6.57857],"type":"Point"}
+}

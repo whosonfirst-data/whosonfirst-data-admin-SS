@@ -1,0 +1,70 @@
+{
+  "id": 1243274497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34696,5.62093,30.34696,5.62093",
+    "geom:latitude":5.62093,
+    "geom:longitude":30.34696,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mainaguro",
+    "gn:country_code":"SS",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382174,
+    "gn:latitude":5.62093,
+    "gn:longitude":30.34696,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mainaguro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maynaguro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091913781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382174
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9753ab2d89f863a13b758e96c1e027d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913781,
+            "locality_id":1243274497,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1243274497,
+    "wof:lastmodified":1537701417,
+    "wof:name":"Mainaguro",
+    "wof:parent_id":1091913781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34696,
+    5.62093,
+    30.34696,
+    5.62093
+],
+  "geometry": {"coordinates":[30.34696,5.62093],"type":"Point"}
+}

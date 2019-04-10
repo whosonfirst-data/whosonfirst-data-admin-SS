@@ -1,0 +1,67 @@
+{
+  "id": 1344072299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35869,8.31148,31.35869,8.31148",
+    "geom:latitude":8.31148,
+    "geom:longitude":31.35869,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Jeru",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181108,
+    "gn:latitude":8.31148,
+    "gn:longitude":31.35869,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Jeru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181108
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"92899f6fd294dcb9b39580dc446a056e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1344072299,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1344072299,
+    "wof:lastmodified":1536857135,
+    "wof:name":"Jeru",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35869000000001,
+    8.31148,
+    31.35869000000001,
+    8.31148
+],
+  "geometry": {"coordinates":[31.35869000000001,8.31148],"type":"Point"}
+}

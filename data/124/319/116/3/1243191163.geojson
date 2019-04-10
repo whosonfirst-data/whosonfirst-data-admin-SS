@@ -1,0 +1,67 @@
+{
+  "id": 1243191163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.47034,8.90482,27.47034,8.90482",
+    "geom:latitude":8.90482,
+    "geom:longitude":27.47034,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gair",
+    "gn:country_code":"SS",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430641,
+    "gn:latitude":8.90482,
+    "gn:longitude":27.47034,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Gair",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430641
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6961f93bf86f73aaef19795b869da364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1243191163,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1243191163,
+    "wof:lastmodified":1536676581,
+    "wof:name":"Gair",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47034,
+    8.90482,
+    27.47034,
+    8.90482
+],
+  "geometry": {"coordinates":[27.47034,8.90482],"type":"Point"}
+}

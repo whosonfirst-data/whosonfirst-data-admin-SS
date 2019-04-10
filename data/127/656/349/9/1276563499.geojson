@@ -1,0 +1,67 @@
+{
+  "id": 1276563499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.15852,8.4367,33.15852,8.4367",
+    "geom:latitude":8.4367,
+    "geom:longitude":33.15852,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dwaldong",
+    "gn:country_code":"SS",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375138,
+    "gn:latitude":8.4367,
+    "gn:longitude":33.15852,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Dwaldong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375138
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4f4b8d2421c50373671b05279de07d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1276563499,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1276563499,
+    "wof:lastmodified":1536967372,
+    "wof:name":"Dwaldong",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15852,
+    8.4367,
+    33.15852,
+    8.4367
+],
+  "geometry": {"coordinates":[33.15852,8.4367],"type":"Point"}
+}

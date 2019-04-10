@@ -1,0 +1,61 @@
+{
+  "id": 1209525969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.92428,8.5139,28.92428,8.5139",
+    "geom:latitude":8.5139,
+    "geom:longitude":28.92428,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Alabek",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058933,
+    "gn:latitude":8.5139,
+    "gn:longitude":28.92428,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Alabek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058933
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5e83be3535bbc25e562e66efb48cfd62",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209525969
+        }
+    ],
+    "wof:id":1209525969,
+    "wof:lastmodified":1536284429,
+    "wof:name":"Alabek",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.92428,
+    8.5139,
+    28.92428,
+    8.5139
+],
+  "geometry": {"coordinates":[28.92428,8.5139],"type":"Point"}
+}

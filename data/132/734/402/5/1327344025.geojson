@@ -1,0 +1,67 @@
+{
+  "id": 1327344025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.80582,8.74707,27.80582,8.74707",
+    "geom:latitude":8.74707,
+    "geom:longitude":27.80582,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fan Dung",
+    "gn:country_code":"SS",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430702,
+    "gn:latitude":8.74707,
+    "gn:longitude":27.80582,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Fan Dung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430702
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"60543814e7d2b549e6cef505ef9ee761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913405,
+            "locality_id":1327344025,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1327344025,
+    "wof:lastmodified":1536808003,
+    "wof:name":"Fan Dung",
+    "wof:parent_id":1091913405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.80582,
+    8.74707,
+    27.80582,
+    8.74707
+],
+  "geometry": {"coordinates":[27.80582,8.74707],"type":"Point"}
+}

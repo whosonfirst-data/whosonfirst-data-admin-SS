@@ -1,0 +1,67 @@
+{
+  "id": 1360304033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.75528,6.81163,29.75528,6.81163",
+    "geom:latitude":6.81163,
+    "geom:longitude":29.75528,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Binawaw",
+    "gn:country_code":"SS",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377386,
+    "gn:latitude":6.81163,
+    "gn:longitude":29.75528,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Binawaw",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377386
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"515457ca24d6295f94ba4d934c0ee679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916013,
+            "locality_id":1360304033,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1360304033,
+    "wof:lastmodified":1536628033,
+    "wof:name":"Binawaw",
+    "wof:parent_id":1091916013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75528,
+    6.81163,
+    29.75528,
+    6.81163
+],
+  "geometry": {"coordinates":[29.75528,6.81163],"type":"Point"}
+}

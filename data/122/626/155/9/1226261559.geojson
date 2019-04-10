@@ -1,0 +1,67 @@
+{
+  "id": 1226261559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.18333,4.92861,28.18333,4.92861",
+    "geom:latitude":4.92861,
+    "geom:longitude":28.18333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Lingasi",
+    "gn:country_code":"SS",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371385,
+    "gn:latitude":4.92861,
+    "gn:longitude":28.18333,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Lingasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371385
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8caf0b69d33ecc71f0f0e5997b03fe31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914537,
+            "locality_id":1226261559,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1226261559,
+    "wof:lastmodified":1536911188,
+    "wof:name":"Lingasi",
+    "wof:parent_id":1091914537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18333,
+    4.92861,
+    28.18333,
+    4.92861
+],
+  "geometry": {"coordinates":[28.18333,4.92861],"type":"Point"}
+}

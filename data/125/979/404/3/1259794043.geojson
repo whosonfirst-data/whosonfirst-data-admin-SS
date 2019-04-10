@@ -1,0 +1,67 @@
+{
+  "id": 1259794043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.82203,8.66258,27.82203,8.66258",
+    "geom:latitude":8.66258,
+    "geom:longitude":27.82203,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Maknai",
+    "gn:country_code":"SS",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370771,
+    "gn:latitude":8.66258,
+    "gn:longitude":27.82203,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Maknai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370771
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f43ea1fc6460bfe59ae446bd37bc3ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913405,
+            "locality_id":1259794043,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1259794043,
+    "wof:lastmodified":1536908150,
+    "wof:name":"Maknai",
+    "wof:parent_id":1091913405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82203,
+    8.66258,
+    27.82203,
+    8.66258
+],
+  "geometry": {"coordinates":[27.82203,8.66258],"type":"Point"}
+}

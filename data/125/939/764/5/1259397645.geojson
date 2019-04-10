@@ -1,0 +1,67 @@
+{
+  "id": 1259397645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9574,11.4628,32.9574,11.4628",
+    "geom:latitude":11.4628,
+    "geom:longitude":32.9574,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Omamet",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031702,
+    "gn:latitude":11.4628,
+    "gn:longitude":32.9574,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Omamet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031702
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c35328b948d21fb3be7e7fe3ab93fd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1259397645,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1259397645,
+    "wof:lastmodified":1536981178,
+    "wof:name":"Omamet",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9574,
+    11.4628,
+    32.9574,
+    11.4628
+],
+  "geometry": {"coordinates":[32.9574,11.4628],"type":"Point"}
+}

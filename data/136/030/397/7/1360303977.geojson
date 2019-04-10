@@ -1,0 +1,70 @@
+{
+  "id": 1360303977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48178,9.19813,24.48178,9.19813",
+    "geom:latitude":9.19813,
+    "geom:longitude":24.48178,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abu Thalathin",
+    "gn:country_code":"SS",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380419,
+    "gn:latitude":9.19813,
+    "gn:longitude":24.48178,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abu Thalathin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u016b Thal\u0101th\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380419
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"024d4f3c6e9a29d6bb52b4031c2c9e76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1360303977,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1360303977,
+    "wof:lastmodified":1537701411,
+    "wof:name":"Abu Thalathin",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48178,
+    9.19813,
+    24.48178,
+    9.19813
+],
+  "geometry": {"coordinates":[24.48178,9.19813],"type":"Point"}
+}

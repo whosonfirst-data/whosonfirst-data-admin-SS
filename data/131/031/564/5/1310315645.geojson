@@ -1,0 +1,67 @@
+{
+  "id": 1310315645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96722,4.23083,30.96722,4.23083",
+    "geom:latitude":4.23083,
+    "geom:longitude":30.96722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mngali",
+    "gn:country_code":"SS",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382569,
+    "gn:latitude":4.23083,
+    "gn:longitude":30.96722,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Mngali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091913733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382569
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e03dd5d7ba816974fd01ca6db407662b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913733,
+            "locality_id":1310315645,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1310315645,
+    "wof:lastmodified":1536693409,
+    "wof:name":"Mngali",
+    "wof:parent_id":1091913733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96722,
+    4.23083,
+    30.96722,
+    4.23083
+],
+  "geometry": {"coordinates":[30.96722,4.23083],"type":"Point"}
+}

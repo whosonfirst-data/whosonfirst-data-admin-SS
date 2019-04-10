@@ -1,0 +1,67 @@
+{
+  "id": 1360103717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.87531,8.36029,29.87531,8.36029",
+    "geom:latitude":8.36029,
+    "geom:longitude":29.87531,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Jagwar",
+    "gn:country_code":"SS",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059006,
+    "gn:latitude":8.36029,
+    "gn:longitude":29.87531,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Jagwar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059006
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1929c8bab7b71aad2abc7ead87e74314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913585,
+            "locality_id":1360103717,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1360103717,
+    "wof:lastmodified":1536919346,
+    "wof:name":"Jagwar",
+    "wof:parent_id":1091913585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.87531,
+    8.36029,
+    29.87531,
+    8.36029
+],
+  "geometry": {"coordinates":[29.87531,8.36029],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293502535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.8602,9.21547,26.8602,9.21547",
+    "geom:latitude":9.21547,
+    "geom:longitude":26.8602,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gok Machar",
+    "gn:country_code":"SS",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714223,
+    "gn:latitude":9.21547,
+    "gn:longitude":26.8602,
+    "gn:modification_date":"2014-02-19",
+    "gn:name":"Gok Machar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091914653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714223
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d378d34dee89ad7d97a936b6e1d9d8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914653,
+            "locality_id":1293502535,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1293502535,
+    "wof:lastmodified":1536765648,
+    "wof:name":"Gok Machar",
+    "wof:parent_id":1091914653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.8602,
+    9.21547,
+    26.8602,
+    9.21547
+],
+  "geometry": {"coordinates":[26.8602,9.21547],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209022901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6867,11.0949,32.6867,11.0949",
+    "geom:latitude":11.0949,
+    "geom:longitude":32.6867,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Debbat er Rigal",
+    "gn:country_code":"SS",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031690,
+    "gn:latitude":11.0949,
+    "gn:longitude":32.6867,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Debbat er Rigal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031690
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"906253acfa8f7fdc80e5a28eac0062eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209022901
+        }
+    ],
+    "wof:id":1209022901,
+    "wof:lastmodified":1536300090,
+    "wof:name":"Debbat er Rigal",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6867,
+    11.0949,
+    32.6867,
+    11.0949
+],
+  "geometry": {"coordinates":[32.6867,11.0949],"type":"Point"}
+}

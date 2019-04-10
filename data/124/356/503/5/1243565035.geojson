@@ -1,0 +1,67 @@
+{
+  "id": 1243565035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.70263,8.26861,28.70263,8.26861",
+    "geom:latitude":8.26861,
+    "geom:longitude":28.70263,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mapeir",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370531,
+    "gn:latitude":8.26861,
+    "gn:longitude":28.70263,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Mapeir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091916123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370531
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7ab27db523405587229f848dcb3b23db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916123,
+            "locality_id":1243565035,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1243565035,
+    "wof:lastmodified":1536633144,
+    "wof:name":"Mapeir",
+    "wof:parent_id":1091916123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70263,
+    8.26861,
+    28.70263,
+    8.26861
+],
+  "geometry": {"coordinates":[28.70263,8.26861],"type":"Point"}
+}

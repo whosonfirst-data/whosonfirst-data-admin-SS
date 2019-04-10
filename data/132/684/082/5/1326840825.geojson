@@ -1,0 +1,67 @@
+{
+  "id": 1326840825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79721,5.26303,31.79721,5.26303",
+    "geom:latitude":5.26303,
+    "geom:longitude":31.79721,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Yakara Dogatwan",
+    "gn:country_code":"SS",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363665,
+    "gn:latitude":5.26303,
+    "gn:longitude":31.79721,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Yakara Dogatwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091915677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363665
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6baf655370e7af83fb9fca21d0745c96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915677,
+            "locality_id":1326840825,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1326840825,
+    "wof:lastmodified":1537034764,
+    "wof:name":"Yakara Dogatwan",
+    "wof:parent_id":1091915677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79721,
+    5.26303,
+    31.79721,
+    5.26303
+],
+  "geometry": {"coordinates":[31.79721,5.26303],"type":"Point"}
+}

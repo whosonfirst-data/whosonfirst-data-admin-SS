@@ -1,0 +1,67 @@
+{
+  "id": 1277089359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.90255,5.80694,29.90255,5.80694",
+    "geom:latitude":5.80694,
+    "geom:longitude":29.90255,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ndia Azai",
+    "gn:country_code":"SS",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369296,
+    "gn:latitude":5.80694,
+    "gn:longitude":29.90255,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Ndia Azai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369296
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d7309957b667e29698a8dc0dc4e7523a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915945,
+            "locality_id":1277089359,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1277089359,
+    "wof:lastmodified":1536758136,
+    "wof:name":"Ndia Azai",
+    "wof:parent_id":1091915945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.90255,
+    5.80694,
+    29.90255,
+    5.80694
+],
+  "geometry": {"coordinates":[29.90255,5.80694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226357637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.58535,8.86959,27.58535,8.86959",
+    "geom:latitude":8.86959,
+    "geom:longitude":27.58535,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marial",
+    "gn:country_code":"SS",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430646,
+    "gn:latitude":8.86959,
+    "gn:longitude":27.58535,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Marial",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430646
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"440997e37b0a8676d1d5b45139b6ac3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1226357637,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1226357637,
+    "wof:lastmodified":1536772914,
+    "wof:name":"Marial",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.58535,
+    8.86959,
+    27.58535,
+    8.86959
+],
+  "geometry": {"coordinates":[27.58535,8.86959],"type":"Point"}
+}

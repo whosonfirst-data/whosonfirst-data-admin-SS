@@ -1,0 +1,61 @@
+{
+  "id": 1209325049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.80112,8.30118,25.80112,8.30118",
+    "geom:latitude":8.30118,
+    "geom:longitude":25.80112,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ombo",
+    "gn:country_code":"SS",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8031396,
+    "gn:latitude":8.30118,
+    "gn:longitude":25.80112,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Ombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8031396
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"dac59a37272d97a1146e172c51cf4f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209325049
+        }
+    ],
+    "wof:id":1209325049,
+    "wof:lastmodified":1536290559,
+    "wof:name":"Ombo",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.80112,
+    8.30118,
+    25.80112,
+    8.30118
+],
+  "geometry": {"coordinates":[25.80112,8.30118],"type":"Point"}
+}

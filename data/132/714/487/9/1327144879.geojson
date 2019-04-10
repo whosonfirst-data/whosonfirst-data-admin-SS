@@ -1,0 +1,67 @@
+{
+  "id": 1327144879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.29778,7.00553,29.29778,7.00553",
+    "geom:latitude":7.00553,
+    "geom:longitude":29.29778,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kashwal",
+    "gn:country_code":"SS",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372762,
+    "gn:latitude":7.00553,
+    "gn:longitude":29.29778,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Kashwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372762
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a9e40d390b04453a225e1820d11437d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1327144879,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1327144879,
+    "wof:lastmodified":1537092630,
+    "wof:name":"Kashwal",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.29778,
+    7.00553,
+    29.29778,
+    7.00553
+],
+  "geometry": {"coordinates":[29.29778,7.00553],"type":"Point"}
+}

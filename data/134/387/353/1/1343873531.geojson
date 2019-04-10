@@ -1,0 +1,67 @@
+{
+  "id": 1343873531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,8.73853,31.1,8.73853",
+    "geom:latitude":8.73853,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Akai",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":379858,
+    "gn:latitude":8.73853,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Akai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379858
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d025622f53b1ef4b084fc54bf55a8670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1343873531,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1343873531,
+    "wof:lastmodified":1536647252,
+    "wof:name":"Akai",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    8.73853,
+    31.1,
+    8.73853
+],
+  "geometry": {"coordinates":[31.1,8.73853],"type":"Point"}
+}

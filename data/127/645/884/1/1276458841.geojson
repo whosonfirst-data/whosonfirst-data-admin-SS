@@ -1,0 +1,67 @@
+{
+  "id": 1276458841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91004,6.65709,32.91004,6.65709",
+    "geom:latitude":6.65709,
+    "geom:longitude":32.91004,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gumuri",
+    "gn:country_code":"SS",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8220938,
+    "gn:latitude":6.65709,
+    "gn:longitude":32.91004,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Gumuri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8220938
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8f7994a962da28ea17a3dcad103899a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915059,
+            "locality_id":1276458841,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276458841,
+    "wof:lastmodified":1536607659,
+    "wof:name":"Gumuri",
+    "wof:parent_id":1091915059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91004,
+    6.65709,
+    32.91004,
+    6.65709
+],
+  "geometry": {"coordinates":[32.91004,6.65709],"type":"Point"}
+}

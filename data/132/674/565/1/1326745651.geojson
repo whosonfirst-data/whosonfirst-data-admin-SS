@@ -1,0 +1,70 @@
+{
+  "id": 1326745651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.796,12.0459,32.796,12.0459",
+    "geom:latitude":12.0459,
+    "geom:longitude":32.796,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kilu Arba`a",
+    "gn:country_code":"SS",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504295,
+    "gn:latitude":12.0459,
+    "gn:longitude":32.796,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u012blu Arba\u2018a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u012blu Arba\u2018a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504295
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cfe81398892804317507919c595034d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1326745651,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1326745651,
+    "wof:lastmodified":1537701420,
+    "wof:name":"Kilu Arba`a",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.796,
+    12.0459,
+    32.796,
+    12.0459
+],
+  "geometry": {"coordinates":[32.796,12.0459],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209825921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26929,8.87729,27.26929,8.87729",
+    "geom:latitude":8.87729,
+    "geom:longitude":27.26929,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wu Dum",
+    "gn:country_code":"SS",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430614,
+    "gn:latitude":8.87729,
+    "gn:longitude":27.26929,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Wu Dum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430614
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f45ca9d3a34be9f412e0092695c3b920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1209825921,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1209825921,
+    "wof:lastmodified":1536373706,
+    "wof:name":"Wu Dum",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26929,
+    8.87729,
+    27.26929,
+    8.87729
+],
+  "geometry": {"coordinates":[27.26929,8.87729],"type":"Point"}
+}

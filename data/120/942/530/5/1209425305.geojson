@@ -1,0 +1,61 @@
+{
+  "id": 1209425305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18772,7.5862,32.18772,7.5862",
+    "geom:latitude":7.5862,
+    "geom:longitude":32.18772,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nyadio",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181079,
+    "gn:latitude":7.5862,
+    "gn:longitude":32.18772,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Nyadio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181079
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"85d7794e997a9c2d5edd0e1488a5e527",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209425305
+        }
+    ],
+    "wof:id":1209425305,
+    "wof:lastmodified":1536287399,
+    "wof:name":"Nyadio",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18772,
+    7.5862,
+    32.18772,
+    7.5862
+],
+  "geometry": {"coordinates":[32.18772,7.5862],"type":"Point"}
+}

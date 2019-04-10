@@ -1,0 +1,127 @@
+{
+  "id": 421177341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49758,6.55097,30.49758,6.55097",
+    "geom:latitude":6.55097,
+    "geom:longitude":30.49758,
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u064a\u064a\u0631\u0648\u0644"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0439\u0440\u043e\u043b"
+    ],
+    "name:ceb_x_preferred":[
+        "Yirol"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u7f85\u52d2"
+    ],
+    "name:dut_x_preferred":[
+        "Yirol"
+    ],
+    "name:eng_x_preferred":[
+        "Yirol"
+    ],
+    "name:fra_x_preferred":[
+        "Yirol"
+    ],
+    "name:fre_x_preferred":[
+        "Yirol"
+    ],
+    "name:ita_x_preferred":[
+        "Yirol"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ed\u30eb"
+    ],
+    "name:pol_x_preferred":[
+        "Yirol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0419\u0438\u0440\u043e\u043b\u044c"
+    ],
+    "name:srp_x_preferred":[
+        "\u0408\u0438\u0440\u043e\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Yirol"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0627\u0631\u0648\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u7f85\u52d2"
+    ],
+    "qs:gn_country":"SS",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":363594,
+    "qs:gn_pop":0,
+    "qs:name":"Yirol",
+    "qs:name_adm0":"The Republic of South Sudan",
+    "qs:name_adm1":"Lakes",
+    "qs:photos":33,
+    "qs:photos_1k":7,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":33,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1175246,
+    "qs:woe_adm0":56558055,
+    "qs:woe_id":1437611,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":328,
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363594,
+        "gp:id":1437611,
+        "qs:id":1175246,
+        "wd:id":"Q3132425",
+        "wk:page":"Yirol"
+    },
+    "wof:country":"SS",
+    "wof:created":1459009141,
+    "wof:geomhash":"58009a8031b6157991e92e1a74e60922",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914585,
+            "locality_id":421177341,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":421177341,
+    "wof:lastmodified":1527716481,
+    "wof:name":"Yirol",
+    "wof:parent_id":1091914585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49758,
+    6.55097,
+    30.49758,
+    6.55097
+],
+  "geometry": {"coordinates":[30.49758,6.55097],"type":"Point"}
+}

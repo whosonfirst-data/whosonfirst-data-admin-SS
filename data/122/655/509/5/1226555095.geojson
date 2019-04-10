@@ -1,0 +1,67 @@
+{
+  "id": 1226555095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1033,8.46219,27.1033,8.46219",
+    "geom:latitude":8.46219,
+    "geom:longitude":27.1033,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bahr en Nil",
+    "gn:country_code":"SS",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7430962,
+    "gn:latitude":8.46219,
+    "gn:longitude":27.1033,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Bahr en Nil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430962
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9fd57cab56d36adcf46885079689e80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913401,
+            "locality_id":1226555095,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1226555095,
+    "wof:lastmodified":1536983722,
+    "wof:name":"Bahr en Nil",
+    "wof:parent_id":1091913401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1033,
+    8.46219,
+    27.1033,
+    8.46219
+],
+  "geometry": {"coordinates":[27.1033,8.46219],"type":"Point"}
+}

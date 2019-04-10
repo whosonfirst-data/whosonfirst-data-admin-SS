@@ -1,0 +1,67 @@
+{
+  "id": 1343579909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.93428,8.45635,24.93428,8.45635",
+    "geom:latitude":8.45635,
+    "geom:longitude":24.93428,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kosho",
+    "gn:country_code":"SS",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372104,
+    "gn:latitude":8.45635,
+    "gn:longitude":24.93428,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Kosho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372104
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"51b581e0c8399f04ca4865cb6e5d0324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1343579909,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1343579909,
+    "wof:lastmodified":1537068392,
+    "wof:name":"Kosho",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.93428,
+    8.45635,
+    24.93428,
+    8.45635
+],
+  "geometry": {"coordinates":[24.93428,8.45635],"type":"Point"}
+}

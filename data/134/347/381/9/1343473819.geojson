@@ -1,0 +1,71 @@
+{
+  "id": 1343473819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.84837,9.10242,26.84837,9.10242",
+    "geom:latitude":9.10242,
+    "geom:longitude":26.84837,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Maryal Bai",
+    "gn:country_code":"SS",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370413,
+    "gn:latitude":9.10242,
+    "gn:longitude":26.84837,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maryal Bai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maryal Bay",
+        "Maryal Bai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370413
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8ae5f7786cd6e9069bbd63ebdf15758f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1343473819,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1343473819,
+    "wof:lastmodified":1537701393,
+    "wof:name":"Maryal Bai",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.84837000000001,
+    9.10242,
+    26.84837000000001,
+    9.10242
+],
+  "geometry": {"coordinates":[26.84837000000001,9.10242],"type":"Point"}
+}

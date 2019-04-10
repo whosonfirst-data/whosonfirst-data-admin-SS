@@ -1,0 +1,67 @@
+{
+  "id": 1226352727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.86325,6.87623,29.86325,6.87623",
+    "geom:latitude":6.87623,
+    "geom:longitude":29.86325,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Menyinganaat",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7429927,
+    "gn:latitude":6.87623,
+    "gn:longitude":29.86325,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Menyinganaat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7429927
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"26f6982db8802a1d9ec995c2a9267743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916013,
+            "locality_id":1226352727,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1226352727,
+    "wof:lastmodified":1536779828,
+    "wof:name":"Menyinganaat",
+    "wof:parent_id":1091916013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.86325,
+    6.87623,
+    29.86325,
+    6.87623
+],
+  "geometry": {"coordinates":[29.86325,6.87623],"type":"Point"}
+}

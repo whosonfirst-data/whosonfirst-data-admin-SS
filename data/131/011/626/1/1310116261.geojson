@@ -1,0 +1,67 @@
+{
+  "id": 1310116261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.08091,7.52049,28.08091,7.52049",
+    "geom:latitude":7.52049,
+    "geom:longitude":28.08091,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Chief Kwoi Okel",
+    "gn:country_code":"SS",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7875075,
+    "gn:latitude":7.52049,
+    "gn:longitude":28.08091,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Chief Kwoi Okel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091913431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7875075
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5c59b19bfffd43f43fac270a89d5c34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913431,
+            "locality_id":1310116261,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1310116261,
+    "wof:lastmodified":1536980208,
+    "wof:name":"Chief Kwoi Okel",
+    "wof:parent_id":1091913431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.08091,
+    7.52049,
+    28.08091,
+    7.52049
+],
+  "geometry": {"coordinates":[28.08091,7.52049],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209730687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78359,4.80753,29.78359,4.80753",
+    "geom:latitude":4.80753,
+    "geom:longitude":29.78359,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Manum",
+    "gn:country_code":"SS",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370553,
+    "gn:latitude":4.80753,
+    "gn:longitude":29.78359,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Manum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370553
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8982b03ee1196b3f07ee6f3b0f0fc264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":1209730687,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1209730687,
+    "wof:lastmodified":1536378965,
+    "wof:name":"Manum",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78359,
+    4.80753,
+    29.78359,
+    4.80753
+],
+  "geometry": {"coordinates":[29.78359,4.80753],"type":"Point"}
+}

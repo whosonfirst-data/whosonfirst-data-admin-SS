@@ -1,0 +1,67 @@
+{
+  "id": 1292922245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60488,7.7958,27.60488,7.7958",
+    "geom:latitude":7.7958,
+    "geom:longitude":27.60488,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dombo",
+    "gn:country_code":"SS",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376313,
+    "gn:latitude":7.7958,
+    "gn:longitude":27.60488,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Dombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091916187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376313
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ebb28a5c2f80a76e07722b81d86e79dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916187,
+            "locality_id":1292922245,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1292922245,
+    "wof:lastmodified":1536604800,
+    "wof:name":"Dombo",
+    "wof:parent_id":1091916187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60488,
+    7.7958,
+    27.60488,
+    7.7958
+],
+  "geometry": {"coordinates":[27.60488,7.7958],"type":"Point"}
+}

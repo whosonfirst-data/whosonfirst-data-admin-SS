@@ -1,0 +1,67 @@
+{
+  "id": 1225962951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96579,6.52947,29.96579,6.52947",
+    "geom:latitude":6.52947,
+    "geom:longitude":29.96579,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Owan",
+    "gn:country_code":"SS",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368682,
+    "gn:latitude":6.52947,
+    "gn:longitude":29.96579,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Owan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368682
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"981dfaeceea9130a868245ad42d690d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914045,
+            "locality_id":1225962951,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1225962951,
+    "wof:lastmodified":1536843426,
+    "wof:name":"Owan",
+    "wof:parent_id":1091914045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96579,
+    6.52947,
+    29.96579,
+    6.52947
+],
+  "geometry": {"coordinates":[29.96579,6.52947],"type":"Point"}
+}

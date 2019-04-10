@@ -1,0 +1,67 @@
+{
+  "id": 1242596329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.79544,3.91044,32.79544,3.91044",
+    "geom:latitude":3.91044,
+    "geom:longitude":32.79544,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Issore",
+    "gn:country_code":"SS",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373493,
+    "gn:latitude":3.91044,
+    "gn:longitude":32.79544,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Issore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373493
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5e145051596201ac9fe95ea08f72594f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1242596329,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1242596329,
+    "wof:lastmodified":1537035122,
+    "wof:name":"Issore",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.79544,
+    3.91044,
+    32.79544,
+    3.91044
+],
+  "geometry": {"coordinates":[32.79544,3.91044],"type":"Point"}
+}

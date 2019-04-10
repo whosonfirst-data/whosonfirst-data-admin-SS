@@ -1,0 +1,61 @@
+{
+  "id": 1209530679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98164,9.94636,29.98164,9.94636",
+    "geom:latitude":9.94636,
+    "geom:longitude":29.98164,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Manajunga",
+    "gn:country_code":"SS",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370631,
+    "gn:latitude":9.94636,
+    "gn:longitude":29.98164,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Manajunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370631
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fe868653e5d849f3896d886b155e2301",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209530679
+        }
+    ],
+    "wof:id":1209530679,
+    "wof:lastmodified":1536284290,
+    "wof:name":"Manajunga",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98164,
+    9.94636,
+    29.98164,
+    9.94636
+],
+  "geometry": {"coordinates":[29.98164,9.94636],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243082693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59853,10.14616,32.59853,10.14616",
+    "geom:latitude":10.14616,
+    "geom:longitude":32.59853,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kwili",
+    "gn:country_code":"SS",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371677,
+    "gn:latitude":10.14616,
+    "gn:longitude":32.59853,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Kwili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371677
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"703b0be7e5764197369dd663dcd61964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913689,
+            "locality_id":1243082693,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1243082693,
+    "wof:lastmodified":1536831785,
+    "wof:name":"Kwili",
+    "wof:parent_id":1091913689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59853,
+    10.14616,
+    32.59853,
+    10.14616
+],
+  "geometry": {"coordinates":[32.59853,10.14616],"type":"Point"}
+}

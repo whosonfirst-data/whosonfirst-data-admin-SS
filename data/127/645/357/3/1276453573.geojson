@@ -1,0 +1,67 @@
+{
+  "id": 1276453573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21869,9.84972,32.21869,9.84972",
+    "geom:latitude":9.84972,
+    "geom:longitude":32.21869,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pamir",
+    "gn:country_code":"SS",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368617,
+    "gn:latitude":9.84972,
+    "gn:longitude":32.21869,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Pamir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368617
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"be14e554130e2b7a2c537ef35b6e9393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915503,
+            "locality_id":1276453573,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1276453573,
+    "wof:lastmodified":1536615101,
+    "wof:name":"Pamir",
+    "wof:parent_id":1091915503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21869,
+    9.84972,
+    32.21869,
+    9.84972
+],
+  "geometry": {"coordinates":[32.21869,9.84972],"type":"Point"}
+}

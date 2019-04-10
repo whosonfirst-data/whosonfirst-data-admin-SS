@@ -1,0 +1,67 @@
+{
+  "id": 1292922175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4861,5.09625,30.4861,5.09625",
+    "geom:latitude":5.09625,
+    "geom:longitude":30.4861,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mulai",
+    "gn:country_code":"SS",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369737,
+    "gn:latitude":5.09625,
+    "gn:longitude":30.4861,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Mulai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369737
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a2ec193b04d6e437ea56ea3cb39f08f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915905,
+            "locality_id":1292922175,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1292922175,
+    "wof:lastmodified":1536604908,
+    "wof:name":"Mulai",
+    "wof:parent_id":1091915905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4861,
+    5.09625,
+    30.4861,
+    5.09625
+],
+  "geometry": {"coordinates":[30.4861,5.09625],"type":"Point"}
+}

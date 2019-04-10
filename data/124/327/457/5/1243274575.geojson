@@ -1,0 +1,67 @@
+{
+  "id": 1243274575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52348,9.14358,31.52348,9.14358",
+    "geom:latitude":9.14358,
+    "geom:longitude":31.52348,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Neinjang",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369274,
+    "gn:latitude":9.14358,
+    "gn:longitude":31.52348,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Neinjang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369274
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a3f5cbcea375071d632e54955654a547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913821,
+            "locality_id":1243274575,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1243274575,
+    "wof:lastmodified":1537051067,
+    "wof:name":"Neinjang",
+    "wof:parent_id":1091913821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52348,
+    9.14358,
+    31.52348,
+    9.14358
+],
+  "geometry": {"coordinates":[31.52348,9.14358],"type":"Point"}
+}

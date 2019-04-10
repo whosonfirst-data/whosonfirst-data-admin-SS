@@ -1,0 +1,67 @@
+{
+  "id": 1243082761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06338,3.96872,33.06338,3.96872",
+    "geom:latitude":3.96872,
+    "geom:longitude":33.06338,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Logoforok",
+    "gn:country_code":"SS",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371308,
+    "gn:latitude":3.96872,
+    "gn:longitude":33.06338,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Logoforok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371308
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6d70c97fdbbb762795f1ebe56edf7ddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1243082761,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1243082761,
+    "wof:lastmodified":1536831688,
+    "wof:name":"Logoforok",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06338,
+    3.96872,
+    33.06338,
+    3.96872
+],
+  "geometry": {"coordinates":[33.06338,3.96872],"type":"Point"}
+}

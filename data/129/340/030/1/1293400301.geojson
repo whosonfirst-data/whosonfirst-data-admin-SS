@@ -1,0 +1,71 @@
+{
+  "id": 1293400301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27895,9.38194,31.27895,9.38194",
+    "geom:latitude":9.38194,
+    "geom:longitude":31.27895,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Thaworo",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366101,
+    "gn:latitude":9.38194,
+    "gn:longitude":31.27895,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Thaworo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thworo",
+        "Thaworo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366101
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ab9ca65b4a853576f115ae305e591170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913821,
+            "locality_id":1293400301,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1293400301,
+    "wof:lastmodified":1537701385,
+    "wof:name":"Thaworo",
+    "wof:parent_id":1091913821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27895,
+    9.38194,
+    31.27895,
+    9.38194
+],
+  "geometry": {"coordinates":[31.27895,9.38194],"type":"Point"}
+}

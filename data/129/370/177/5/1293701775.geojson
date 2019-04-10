@@ -1,0 +1,67 @@
+{
+  "id": 1293701775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24813,8.27903,29.24813,8.27903",
+    "geom:latitude":8.27903,
+    "geom:longitude":29.24813,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fayir",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375415,
+    "gn:latitude":8.27903,
+    "gn:longitude":29.24813,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Fayir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091916123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375415
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d3ea7c7a2a0564256885bc97977e27d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916123,
+            "locality_id":1293701775,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1293701775,
+    "wof:lastmodified":1536974863,
+    "wof:name":"Fayir",
+    "wof:parent_id":1091916123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24813,
+    8.27903,
+    29.24813,
+    8.27903
+],
+  "geometry": {"coordinates":[29.24813,8.27903],"type":"Point"}
+}

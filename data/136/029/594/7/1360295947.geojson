@@ -1,0 +1,67 @@
+{
+  "id": 1360295947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.67079,7.13022,29.67079,7.13022",
+    "geom:latitude":7.13022,
+    "geom:longitude":29.67079,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Malwal",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370666,
+    "gn:latitude":7.13022,
+    "gn:longitude":29.67079,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Malwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370666
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e0b6e4d2f08d6420b884772b6b8d0ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916013,
+            "locality_id":1360295947,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1360295947,
+    "wof:lastmodified":1536640420,
+    "wof:name":"Malwal",
+    "wof:parent_id":1091916013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.67079,
+    7.13022,
+    29.67079,
+    7.13022
+],
+  "geometry": {"coordinates":[29.67079,7.13022],"type":"Point"}
+}

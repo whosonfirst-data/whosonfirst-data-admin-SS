@@ -1,0 +1,71 @@
+{
+  "id": 1293015859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04507,9.47443,31.04507,9.47443",
+    "geom:latitude":9.47443,
+    "geom:longitude":31.04507,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tonga",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365775,
+    "gn:latitude":9.47443,
+    "gn:longitude":31.04507,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonja",
+        "Tonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365775
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"142b07916ec08fd625da64e449a1c203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914001,
+            "locality_id":1293015859,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1293015859,
+    "wof:lastmodified":1537701384,
+    "wof:name":"Tonga",
+    "wof:parent_id":1091914001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04507000000001,
+    9.47443,
+    31.04507000000001,
+    9.47443
+],
+  "geometry": {"coordinates":[31.04507000000001,9.47443],"type":"Point"}
+}

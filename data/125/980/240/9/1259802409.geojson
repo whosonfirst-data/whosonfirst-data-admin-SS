@@ -1,0 +1,67 @@
+{
+  "id": 1259802409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.64117,7.69205,29.64117,7.69205",
+    "geom:latitude":7.69205,
+    "geom:longitude":29.64117,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aiwi",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379897,
+    "gn:latitude":7.69205,
+    "gn:longitude":29.64117,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Aiwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379897
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d1a6ad6b783daa958adffacb98121dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916061,
+            "locality_id":1259802409,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1259802409,
+    "wof:lastmodified":1536895771,
+    "wof:name":"Aiwi",
+    "wof:parent_id":1091916061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.64117,
+    7.69205,
+    29.64117,
+    7.69205
+],
+  "geometry": {"coordinates":[29.64117,7.69205],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293607627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62812,5.07188,30.62812,5.07188",
+    "geom:latitude":5.07188,
+    "geom:longitude":30.62812,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bundukki",
+    "gn:country_code":"SS",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377127,
+    "gn:latitude":5.07188,
+    "gn:longitude":30.62812,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Bundukki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377127
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"12b7e713a572605b2ae9954b667eda36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915905,
+            "locality_id":1293607627,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1293607627,
+    "wof:lastmodified":1536611377,
+    "wof:name":"Bundukki",
+    "wof:parent_id":1091915905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62812000000001,
+    5.07188,
+    30.62812000000001,
+    5.07188
+],
+  "geometry": {"coordinates":[30.62812000000001,5.07188],"type":"Point"}
+}

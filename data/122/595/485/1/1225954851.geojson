@@ -1,0 +1,67 @@
+{
+  "id": 1225954851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.62762,8.04203,28.62762,8.04203",
+    "geom:latitude":8.04203,
+    "geom:longitude":28.62762,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fatiam",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058843,
+    "gn:latitude":8.04203,
+    "gn:longitude":28.62762,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Fatiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091916123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058843
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fb8939b861ce9b4c5440b8e72aa747e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916123,
+            "locality_id":1225954851,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1225954851,
+    "wof:lastmodified":1536854900,
+    "wof:name":"Fatiam",
+    "wof:parent_id":1091916123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.62762,
+    8.04203,
+    28.62762,
+    8.04203
+],
+  "geometry": {"coordinates":[28.62762,8.04203],"type":"Point"}
+}

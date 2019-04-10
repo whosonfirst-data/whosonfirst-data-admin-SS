@@ -1,0 +1,61 @@
+{
+  "id": 1209625787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.00955,9.13819,28.00955,9.13819",
+    "geom:latitude":9.13819,
+    "geom:longitude":28.00955,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manuer",
+    "gn:country_code":"SS",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416412,
+    "gn:latitude":9.13819,
+    "gn:longitude":28.00955,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Manuer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416412
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"618b9634dbe0ac9796a8a29597ef7b46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209625787
+        }
+    ],
+    "wof:id":1209625787,
+    "wof:lastmodified":1536281358,
+    "wof:name":"Manuer",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.00955,
+    9.13819,
+    28.00955,
+    9.13819
+],
+  "geometry": {"coordinates":[28.00955,9.13819],"type":"Point"}
+}

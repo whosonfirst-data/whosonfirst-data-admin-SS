@@ -1,0 +1,67 @@
+{
+  "id": 1260300611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3881,5.28972,33.3881,5.28972",
+    "geom:latitude":5.28972,
+    "geom:longitude":33.3881,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lokidangoai",
+    "gn:country_code":"SS",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371274,
+    "gn:latitude":5.28972,
+    "gn:longitude":33.3881,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Lokidangoai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371274
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"99c149a2cbc835673668d1a942c5d068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913517,
+            "locality_id":1260300611,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1260300611,
+    "wof:lastmodified":1536688902,
+    "wof:name":"Lokidangoai",
+    "wof:parent_id":1091913517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3881,
+    5.28972,
+    33.3881,
+    5.28972
+],
+  "geometry": {"coordinates":[33.3881,5.28972],"type":"Point"}
+}

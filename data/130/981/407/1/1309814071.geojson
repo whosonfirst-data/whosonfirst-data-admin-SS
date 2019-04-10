@@ -1,0 +1,67 @@
+{
+  "id": 1309814071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.24089,4.07772,33.24089,4.07772",
+    "geom:latitude":4.07772,
+    "geom:longitude":33.24089,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Leriok",
+    "gn:country_code":"SS",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371464,
+    "gn:latitude":4.07772,
+    "gn:longitude":33.24089,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Leriok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371464
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"895ba76bac9e2d1232f8116be182855e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1309814071,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1309814071,
+    "wof:lastmodified":1536919669,
+    "wof:name":"Leriok",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.24089,
+    4.07772,
+    33.24089,
+    4.07772
+],
+  "geometry": {"coordinates":[33.24089,4.07772],"type":"Point"}
+}

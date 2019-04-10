@@ -1,0 +1,61 @@
+{
+  "id": 1209022887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63592,9.31104,31.63592,9.31104",
+    "geom:latitude":9.31104,
+    "geom:longitude":31.63592,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fakoi",
+    "gn:country_code":"SS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375609,
+    "gn:latitude":9.31104,
+    "gn:longitude":31.63592,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Fakoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375609
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c0d26e527a7bb327d4062213e9b79ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209022887
+        }
+    ],
+    "wof:id":1209022887,
+    "wof:lastmodified":1536300091,
+    "wof:name":"Fakoi",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63592,
+    9.31104,
+    31.63592,
+    9.31104
+],
+  "geometry": {"coordinates":[31.63592,9.31104],"type":"Point"}
+}

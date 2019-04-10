@@ -1,0 +1,67 @@
+{
+  "id": 1292918593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41452,6.9438,31.41452,6.9438",
+    "geom:latitude":6.9438,
+    "geom:longitude":31.41452,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Assaung",
+    "gn:country_code":"SS",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382096,
+    "gn:latitude":6.9438,
+    "gn:longitude":31.41452,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Assaung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382096
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fedc5baa97e785224135cdd1e006a40b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914319,
+            "locality_id":1292918593,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1292918593,
+    "wof:lastmodified":1536610395,
+    "wof:name":"Assaung",
+    "wof:parent_id":1091914319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41452,
+    6.9438,
+    31.41452,
+    6.9438
+],
+  "geometry": {"coordinates":[31.41452,6.9438],"type":"Point"}
+}

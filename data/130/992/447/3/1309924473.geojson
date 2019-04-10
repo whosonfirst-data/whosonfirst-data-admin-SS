@@ -1,0 +1,67 @@
+{
+  "id": 1309924473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09258,7.51206,28.09258,7.51206",
+    "geom:latitude":7.51206,
+    "geom:longitude":28.09258,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kuchuk `Ali",
+    "gn:country_code":"SS",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372037,
+    "gn:latitude":7.51206,
+    "gn:longitude":28.09258,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Kuchuk \u2018Al\u012b",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091913431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372037
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"20ddc8f00219dd0721013261f364d407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913431,
+            "locality_id":1309924473,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1309924473,
+    "wof:lastmodified":1536760244,
+    "wof:name":"Kuchuk `Ali",
+    "wof:parent_id":1091913431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09258,
+    7.51206,
+    28.09258,
+    7.51206
+],
+  "geometry": {"coordinates":[28.09258,7.51206],"type":"Point"}
+}

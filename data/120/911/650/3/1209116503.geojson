@@ -1,0 +1,61 @@
+{
+  "id": 1209116503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.74968,8.60795,33.74968,8.60795",
+    "geom:latitude":8.60795,
+    "geom:longitude":33.74968,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bek",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377496,
+    "gn:latitude":8.60795,
+    "gn:longitude":33.74968,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Bek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377496
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"17f3c1463af6264b721d22fc5a9c31ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209116503
+        }
+    ],
+    "wof:id":1209116503,
+    "wof:lastmodified":1536297236,
+    "wof:name":"Bek",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.74968,
+    8.60795,
+    33.74968,
+    8.60795
+],
+  "geometry": {"coordinates":[33.74968,8.60795],"type":"Point"}
+}

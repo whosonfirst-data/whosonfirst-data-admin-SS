@@ -1,0 +1,67 @@
+{
+  "id": 1243464835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94285,8.16335,27.94285,8.16335",
+    "geom:latitude":8.16335,
+    "geom:longitude":27.94285,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Maleng Kway",
+    "gn:country_code":"SS",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370705,
+    "gn:latitude":8.16335,
+    "gn:longitude":27.94285,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Maleng Kway",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370705
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5b53e5f50237c9c29682b1a120fcab84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1243464835,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1243464835,
+    "wof:lastmodified":1536779446,
+    "wof:name":"Maleng Kway",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94285,
+    8.16335,
+    27.94285,
+    8.16335
+],
+  "geometry": {"coordinates":[27.94285,8.16335],"type":"Point"}
+}

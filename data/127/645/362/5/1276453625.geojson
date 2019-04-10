@@ -1,0 +1,67 @@
+{
+  "id": 1276453625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.08803,9.16287,27.08803,9.16287",
+    "geom:latitude":9.16287,
+    "geom:longitude":27.08803,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wan Adol",
+    "gn:country_code":"SS",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416253,
+    "gn:latitude":9.16287,
+    "gn:longitude":27.08803,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Wan Adol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091914653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416253
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a228bc363ee36446440f2edb4f5274c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914653,
+            "locality_id":1276453625,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1276453625,
+    "wof:lastmodified":1536615036,
+    "wof:name":"Wan Adol",
+    "wof:parent_id":1091914653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08803,
+    9.16287,
+    27.08803,
+    9.16287
+],
+  "geometry": {"coordinates":[27.08803,9.16287],"type":"Point"}
+}

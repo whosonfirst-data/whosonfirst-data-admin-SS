@@ -1,0 +1,71 @@
+{
+  "id": 1343469313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38958,8.22291,31.38958,8.22291",
+    "geom:latitude":8.22291,
+    "geom:longitude":31.38958,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Agum",
+    "gn:country_code":"SS",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379962,
+    "gn:latitude":8.22291,
+    "gn:longitude":31.38958,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Agum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gung",
+        "Agum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379962
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"635d15612a5df7854b7fb5185cd95891",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1343469313,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1343469313,
+    "wof:lastmodified":1537701411,
+    "wof:name":"Agum",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38958,
+    8.22291,
+    31.38958,
+    8.22291
+],
+  "geometry": {"coordinates":[31.38958,8.22291],"type":"Point"}
+}

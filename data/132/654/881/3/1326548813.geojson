@@ -1,0 +1,73 @@
+{
+  "id": 1326548813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.37412,8.55762,26.37412,8.55762",
+    "geom:latitude":8.55762,
+    "geom:longitude":26.37412,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Beit `Uthman",
+    "gn:country_code":"SS",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377531,
+    "gn:latitude":8.55762,
+    "gn:longitude":26.37412,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Beit \u2018Uthman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Itman",
+        "Beit \u2018Ithman",
+        "Beit \u2018Uthman",
+        "Bayt \u2018Uthm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377531
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"75f47c688fe0d401ea3f4cdfc4a4b88a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913401,
+            "locality_id":1326548813,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1326548813,
+    "wof:lastmodified":1537701408,
+    "wof:name":"Beit `Uthman",
+    "wof:parent_id":1091913401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.37412,
+    8.55762,
+    26.37412,
+    8.55762
+],
+  "geometry": {"coordinates":[26.37412,8.55762],"type":"Point"}
+}

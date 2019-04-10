@@ -1,0 +1,73 @@
+{
+  "id": 1309818775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41032,6.7291,30.41032,6.7291",
+    "geom:latitude":6.7291,
+    "geom:longitude":30.41032,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lau",
+    "gn:country_code":"SS",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371513,
+    "gn:latitude":6.7291,
+    "gn:longitude":30.41032,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagarau",
+        "Laupost",
+        "Law",
+        "Lau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371513
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f15a22a10506b6a47f2d5bb2b13ddab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1309818775,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1309818775,
+    "wof:lastmodified":1537701396,
+    "wof:name":"Lau",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41032,
+    6.7291,
+    30.41032,
+    6.7291
+],
+  "geometry": {"coordinates":[30.41032,6.7291],"type":"Point"}
+}

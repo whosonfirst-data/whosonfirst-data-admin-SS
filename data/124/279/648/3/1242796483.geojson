@@ -1,0 +1,70 @@
+{
+  "id": 1242796483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26434,10.03267,32.26434,10.03267",
+    "geom:latitude":10.03267,
+    "geom:longitude":32.26434,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyu Fan Num Ti",
+    "gn:country_code":"SS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375572,
+    "gn:latitude":10.03267,
+    "gn:longitude":32.26434,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nyu Fan Num Ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanam Tin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375572
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"055eb03faa442387cf11126354f707a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913689,
+            "locality_id":1242796483,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1242796483,
+    "wof:lastmodified":1537701403,
+    "wof:name":"Nyu Fan Num Ti",
+    "wof:parent_id":1091913689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26434,
+    10.03267,
+    32.26434,
+    10.03267
+],
+  "geometry": {"coordinates":[32.26434,10.03267],"type":"Point"}
+}

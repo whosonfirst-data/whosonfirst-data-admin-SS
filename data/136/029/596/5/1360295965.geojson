@@ -1,0 +1,71 @@
+{
+  "id": 1360295965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.45341,6.96044,29.45341,6.96044",
+    "geom:latitude":6.96044,
+    "geom:longitude":29.45341,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abi Rij",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381081,
+    "gn:latitude":6.96044,
+    "gn:longitude":29.45341,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abi Rij",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abiriu",
+        "Abi Rij"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381081
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2b7d3deeca8bd3e7ec69d2d9f5d4f0d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1360295965,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1360295965,
+    "wof:lastmodified":1537701412,
+    "wof:name":"Abi Rij",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.45341,
+    6.96044,
+    29.45341,
+    6.96044
+],
+  "geometry": {"coordinates":[29.45341,6.96044],"type":"Point"}
+}

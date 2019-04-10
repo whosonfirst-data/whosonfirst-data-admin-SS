@@ -1,0 +1,67 @@
+{
+  "id": 1310424293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21413,6.81669,30.21413,6.81669",
+    "geom:latitude":6.81669,
+    "geom:longitude":30.21413,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gailual",
+    "gn:country_code":"SS",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431132,
+    "gn:latitude":6.81669,
+    "gn:longitude":30.21413,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Gailual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431132
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7400235aedf36f41cb137efd0f28f221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914045,
+            "locality_id":1310424293,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1310424293,
+    "wof:lastmodified":1537032704,
+    "wof:name":"Gailual",
+    "wof:parent_id":1091914045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21413,
+    6.81669,
+    30.21413,
+    6.81669
+],
+  "geometry": {"coordinates":[30.21413,6.81669],"type":"Point"}
+}

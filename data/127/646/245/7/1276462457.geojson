@@ -1,0 +1,67 @@
+{
+  "id": 1276462457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27373,9.84352,30.27373,9.84352",
+    "geom:latitude":9.84352,
+    "geom:longitude":30.27373,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Atingrur",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378212,
+    "gn:latitude":9.84352,
+    "gn:longitude":30.27373,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Atingrur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378212
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c38f579524a72d24606128baaafaa8e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915021,
+            "locality_id":1276462457,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1276462457,
+    "wof:lastmodified":1536602621,
+    "wof:name":"Atingrur",
+    "wof:parent_id":1091915021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27373,
+    9.84352,
+    30.27373,
+    9.84352
+],
+  "geometry": {"coordinates":[30.27373,9.84352],"type":"Point"}
+}

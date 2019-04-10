@@ -1,0 +1,67 @@
+{
+  "id": 1259393115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60105,4.77645,31.60105,4.77645",
+    "geom:latitude":4.77645,
+    "geom:longitude":31.60105,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Buduge",
+    "gn:country_code":"SS",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047794,
+    "gn:latitude":4.77645,
+    "gn:longitude":31.60105,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Buduge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091915677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047794
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"96bf5b8340acb8c9c9f6df9a8fe22808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915677,
+            "locality_id":1259393115,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1259393115,
+    "wof:lastmodified":1536987489,
+    "wof:name":"Buduge",
+    "wof:parent_id":1091915677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60105,
+    4.77645,
+    31.60105,
+    4.77645
+],
+  "geometry": {"coordinates":[31.60105,4.77645],"type":"Point"}
+}

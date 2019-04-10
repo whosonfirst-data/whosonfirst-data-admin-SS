@@ -1,0 +1,73 @@
+{
+  "id": 1226261503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.72453,9.01169,27.72453,9.01169",
+    "geom:latitude":9.01169,
+    "geom:longitude":27.72453,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manyel",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370549,
+    "gn:latitude":9.01169,
+    "gn:longitude":27.72453,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Manyel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayel",
+        "Manyel",
+        "Mimyal",
+        "Manyal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370549
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3dea3ed04c23f6a28e250032980b4980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1226261503,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1226261503,
+    "wof:lastmodified":1537701394,
+    "wof:name":"Manyel",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.72453,
+    9.01169,
+    27.72453,
+    9.01169
+],
+  "geometry": {"coordinates":[27.72453,9.01169],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209530811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14276,9.94357,32.14276,9.94357",
+    "geom:latitude":9.94357,
+    "geom:longitude":32.14276,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyafer",
+    "gn:country_code":"SS",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369016,
+    "gn:latitude":9.94357,
+    "gn:longitude":32.14276,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Nyafer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369016
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ed7016cbc207aa2f3e9deabf7adfba92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209530811
+        }
+    ],
+    "wof:id":1209530811,
+    "wof:lastmodified":1536284286,
+    "wof:name":"Nyafer",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14276,
+    9.94357,
+    32.14276,
+    9.94357
+],
+  "geometry": {"coordinates":[32.14276,9.94357],"type":"Point"}
+}

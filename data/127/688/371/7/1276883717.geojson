@@ -1,0 +1,67 @@
+{
+  "id": 1276883717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.43121,8.05903,31.43121,8.05903",
+    "geom:latitude":8.05903,
+    "geom:longitude":31.43121,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dorweng",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376263,
+    "gn:latitude":8.05903,
+    "gn:longitude":31.43121,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dorweng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376263
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b56112bc4760c561c8fc39f8cc5f7da4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1276883717,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276883717,
+    "wof:lastmodified":1537034381,
+    "wof:name":"Dorweng",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.43121,
+    8.05903,
+    31.43121,
+    8.05903
+],
+  "geometry": {"coordinates":[31.43121,8.05903],"type":"Point"}
+}

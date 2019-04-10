@@ -1,0 +1,67 @@
+{
+  "id": 1193026331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96973,3.92007,30.96973,3.92007",
+    "geom:latitude":3.92007,
+    "geom:longitude":30.96973,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marjo",
+    "gn:country_code":"SS",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381418,
+    "gn:latitude":3.92007,
+    "gn:longitude":30.96973,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Marjo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381418
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3b14c35577a679d993972e27d8d2781e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914975,
+            "locality_id":1193026331,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1193026331,
+    "wof:lastmodified":1536367459,
+    "wof:name":"Marjo",
+    "wof:parent_id":1091914975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96973,
+    3.92007,
+    30.96973,
+    3.92007
+],
+  "geometry": {"coordinates":[30.96973,3.92007],"type":"Point"}
+}

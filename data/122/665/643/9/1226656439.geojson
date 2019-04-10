@@ -1,0 +1,67 @@
+{
+  "id": 1226656439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.79815,7.01403,29.79815,7.01403",
+    "geom:latitude":7.01403,
+    "geom:longitude":29.79815,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Amit",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378855,
+    "gn:latitude":7.01403,
+    "gn:longitude":29.79815,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Amit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378855
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f133821dc60ec1fe015371feeb3ceb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916013,
+            "locality_id":1226656439,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1226656439,
+    "wof:lastmodified":1536842885,
+    "wof:name":"Amit",
+    "wof:parent_id":1091916013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79815,
+    7.01403,
+    29.79815,
+    7.01403
+],
+  "geometry": {"coordinates":[29.79815,7.01403],"type":"Point"}
+}

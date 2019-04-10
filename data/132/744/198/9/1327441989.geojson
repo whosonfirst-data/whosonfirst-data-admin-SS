@@ -1,0 +1,67 @@
+{
+  "id": 1327441989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58209,4.13577,33.58209,4.13577",
+    "geom:latitude":4.13577,
+    "geom:longitude":33.58209,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Maniangado",
+    "gn:country_code":"SS",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370584,
+    "gn:latitude":4.13577,
+    "gn:longitude":33.58209,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Maniangado",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370584
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7aefddb43e697ed02465e65010861262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913493,
+            "locality_id":1327441989,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1327441989,
+    "wof:lastmodified":1536666905,
+    "wof:name":"Maniangado",
+    "wof:parent_id":1091913493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58209,
+    4.13577,
+    33.58209,
+    4.13577
+],
+  "geometry": {"coordinates":[33.58209,4.13577],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259894971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58293,6.11739,31.58293,6.11739",
+    "geom:latitude":6.11739,
+    "geom:longitude":31.58293,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Melwal",
+    "gn:country_code":"SS",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370175,
+    "gn:latitude":6.11739,
+    "gn:longitude":31.58293,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Melwal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370175
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b277dec3b0ecc1722bd7ae911bf2834b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914581,
+            "locality_id":1259894971,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1259894971,
+    "wof:lastmodified":1536762793,
+    "wof:name":"Melwal",
+    "wof:parent_id":1091914581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58293,
+    6.11739,
+    31.58293,
+    6.11739
+],
+  "geometry": {"coordinates":[31.58293,6.11739],"type":"Point"}
+}

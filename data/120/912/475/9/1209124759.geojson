@@ -1,0 +1,61 @@
+{
+  "id": 1209124759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66106,8.54137,33.66106,8.54137",
+    "geom:latitude":8.54137,
+    "geom:longitude":33.66106,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tharyier",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8376064,
+    "gn:latitude":8.54137,
+    "gn:longitude":33.66106,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Tharyier",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8376064
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"195a62fe51f8db20b67f908efdfdde00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209124759
+        }
+    ],
+    "wof:id":1209124759,
+    "wof:lastmodified":1536296988,
+    "wof:name":"Tharyier",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66106,
+    8.54137,
+    33.66106,
+    8.54137
+],
+  "geometry": {"coordinates":[33.66106,8.54137],"type":"Point"}
+}

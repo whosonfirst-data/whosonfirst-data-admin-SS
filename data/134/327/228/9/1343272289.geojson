@@ -1,0 +1,67 @@
+{
+  "id": 1343272289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95556,10.06802,29.95556,10.06802",
+    "geom:latitude":10.06802,
+    "geom:longitude":29.95556,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Padara",
+    "gn:country_code":"SS",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368656,
+    "gn:latitude":10.06802,
+    "gn:longitude":29.95556,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Padara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368656
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"08d8164fcae251fa2679d9ef0200adeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915021,
+            "locality_id":1343272289,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1343272289,
+    "wof:lastmodified":1537017022,
+    "wof:name":"Padara",
+    "wof:parent_id":1091915021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95556,
+    10.06802,
+    29.95556,
+    10.06802
+],
+  "geometry": {"coordinates":[29.95556,10.06802],"type":"Point"}
+}

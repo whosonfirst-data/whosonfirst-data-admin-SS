@@ -1,0 +1,67 @@
+{
+  "id": 1360300735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59921,10.83213,32.59921,10.83213",
+    "geom:latitude":10.83213,
+    "geom:longitude":32.59921,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wunlwak",
+    "gn:country_code":"SS",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8067806,
+    "gn:latitude":10.83213,
+    "gn:longitude":32.59921,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Wunlwak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8067806
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9af9f2d2ee08ae6a6daafc11b3b5989d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1360300735,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1360300735,
+    "wof:lastmodified":1536633049,
+    "wof:name":"Wunlwak",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59921,
+    10.83213,
+    32.59921,
+    10.83213
+],
+  "geometry": {"coordinates":[32.59921,10.83213],"type":"Point"}
+}

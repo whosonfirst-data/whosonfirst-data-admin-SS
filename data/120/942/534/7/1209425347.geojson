@@ -1,0 +1,61 @@
+{
+  "id": 1209425347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48527,8.91488,27.48527,8.91488",
+    "geom:latitude":8.91488,
+    "geom:longitude":27.48527,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ajak",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379885,
+    "gn:latitude":8.91488,
+    "gn:longitude":27.48527,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ajak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379885
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cdfb55b50f8d96c9a08e60ab61ec0ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209425347
+        }
+    ],
+    "wof:id":1209425347,
+    "wof:lastmodified":1536287398,
+    "wof:name":"Ajak",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48527,
+    8.91488,
+    27.48527,
+    8.91488
+],
+  "geometry": {"coordinates":[27.48527,8.91488],"type":"Point"}
+}

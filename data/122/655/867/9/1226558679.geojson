@@ -1,0 +1,67 @@
+{
+  "id": 1226558679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68069,9.35244,30.68069,9.35244",
+    "geom:latitude":9.35244,
+    "geom:longitude":30.68069,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fachul",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375725,
+    "gn:latitude":9.35244,
+    "gn:longitude":30.68069,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Fachul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375725
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"81f90f2522c7c613d3c9d78cce0d731e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1226558679,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1226558679,
+    "wof:lastmodified":1536978797,
+    "wof:name":"Fachul",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68069,
+    9.35244,
+    30.68069,
+    9.35244
+],
+  "geometry": {"coordinates":[30.68069,9.35244],"type":"Point"}
+}

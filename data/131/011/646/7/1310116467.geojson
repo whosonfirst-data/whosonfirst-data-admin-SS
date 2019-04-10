@@ -1,0 +1,67 @@
+{
+  "id": 1310116467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70549,7.57212,33.70549,7.57212",
+    "geom:latitude":7.57212,
+    "geom:longitude":33.70549,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Omila",
+    "gn:country_code":"SS",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368763,
+    "gn:latitude":7.57212,
+    "gn:longitude":33.70549,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Omila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368763
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8cecb0a46df8527dc4395bd3daf81495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915101,
+            "locality_id":1310116467,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1310116467,
+    "wof:lastmodified":1536979915,
+    "wof:name":"Omila",
+    "wof:parent_id":1091915101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70549,
+    7.57212,
+    33.70549,
+    7.57212
+],
+  "geometry": {"coordinates":[33.70549,7.57212],"type":"Point"}
+}

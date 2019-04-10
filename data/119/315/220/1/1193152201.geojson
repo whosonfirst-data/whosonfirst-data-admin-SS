@@ -1,0 +1,67 @@
+{
+  "id": 1193152201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16819,8.28082,30.16819,8.28082",
+    "geom:latitude":8.28082,
+    "geom:longitude":30.16819,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Twoich Pair",
+    "gn:country_code":"SS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365509,
+    "gn:latitude":8.28082,
+    "gn:longitude":30.16819,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Twoich Pair",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365509
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9fc9223c25b90fdccf1e549d4cde6219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915755,
+            "locality_id":1193152201,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1193152201,
+    "wof:lastmodified":1536377029,
+    "wof:name":"Twoich Pair",
+    "wof:parent_id":1091915755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16819000000001,
+    8.28082,
+    30.16819000000001,
+    8.28082
+],
+  "geometry": {"coordinates":[30.16819000000001,8.28082],"type":"Point"}
+}

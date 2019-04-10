@@ -1,0 +1,67 @@
+{
+  "id": 1193026381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69829,8.89529,30.69829,8.89529",
+    "geom:latitude":8.89529,
+    "geom:longitude":30.69829,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Laulau",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381718,
+    "gn:latitude":8.89529,
+    "gn:longitude":30.69829,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Laulau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381718
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"04ae9043df25734886c3d12ee3a9bfd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1193026381,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1193026381,
+    "wof:lastmodified":1536367423,
+    "wof:name":"Laulau",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69829,
+    8.89529,
+    30.69829,
+    8.89529
+],
+  "geometry": {"coordinates":[30.69829,8.89529],"type":"Point"}
+}

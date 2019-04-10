@@ -1,0 +1,67 @@
+{
+  "id": 1276453583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41625,8.92383,32.41625,8.92383",
+    "geom:latitude":8.92383,
+    "geom:longitude":32.41625,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Timsah Id",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181139,
+    "gn:latitude":8.92383,
+    "gn:longitude":32.41625,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Timsah Id",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181139
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6a4dc7baf41bf8db57ddf51a346e006b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913861,
+            "locality_id":1276453583,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276453583,
+    "wof:lastmodified":1536615093,
+    "wof:name":"Timsah Id",
+    "wof:parent_id":1091913861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41625,
+    8.92383,
+    32.41625,
+    8.92383
+],
+  "geometry": {"coordinates":[32.41625,8.92383],"type":"Point"}
+}

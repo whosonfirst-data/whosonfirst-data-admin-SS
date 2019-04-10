@@ -1,0 +1,67 @@
+{
+  "id": 1276991737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59483,8.9895,27.59483,8.9895",
+    "geom:latitude":8.9895,
+    "geom:longitude":27.59483,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gordem",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430651,
+    "gn:latitude":8.9895,
+    "gn:longitude":27.59483,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Gordem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430651
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cfa341598baf60a3627ac19b38d10a00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1276991737,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1276991737,
+    "wof:lastmodified":1536890702,
+    "wof:name":"Gordem",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59483,
+    8.9895,
+    27.59483,
+    8.9895
+],
+  "geometry": {"coordinates":[27.59483,8.9895],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293311501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68333,4.91667,35.68333,4.91667",
+    "geom:latitude":4.91667,
+    "geom:longitude":35.68333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Liwan",
+    "gn:country_code":"SS",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371360,
+    "gn:latitude":4.91667,
+    "gn:longitude":35.68333,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Liwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371360
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e91df9159fd3b2f358e71e2783107a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914791,
+            "locality_id":1293311501,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1293311501,
+    "wof:lastmodified":1537039094,
+    "wof:name":"Liwan",
+    "wof:parent_id":1091914791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68333,
+    4.91667,
+    35.68333,
+    4.91667
+],
+  "geometry": {"coordinates":[35.68333,4.91667],"type":"Point"}
+}

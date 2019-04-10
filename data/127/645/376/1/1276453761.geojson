@@ -1,0 +1,67 @@
+{
+  "id": 1276453761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59688,5.91534,30.59688,5.91534",
+    "geom:latitude":5.91534,
+    "geom:longitude":30.59688,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Buron",
+    "gn:country_code":"SS",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377061,
+    "gn:latitude":5.91534,
+    "gn:longitude":30.59688,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Buron",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377061
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"43a38e524c4f4581d608b7867168d95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1276453761,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1276453761,
+    "wof:lastmodified":1536614852,
+    "wof:name":"Buron",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59688,
+    5.91534,
+    30.59688,
+    5.91534
+],
+  "geometry": {"coordinates":[30.59688,5.91534],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243082653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97255,6.31519,29.97255,6.31519",
+    "geom:latitude":6.31519,
+    "geom:longitude":29.97255,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Pulkum",
+    "gn:country_code":"SS",
+    "gn:dem":513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368513,
+    "gn:latitude":6.31519,
+    "gn:longitude":29.97255,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Pulkum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368513
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"dd020fd3df5541054b54aff9698fb9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915945,
+            "locality_id":1243082653,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1243082653,
+    "wof:lastmodified":1536831836,
+    "wof:name":"Pulkum",
+    "wof:parent_id":1091915945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97255,
+    6.31519,
+    29.97255,
+    6.31519
+],
+  "geometry": {"coordinates":[29.97255,6.31519],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343272247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.47068,8.07604,29.47068,8.07604",
+    "geom:latitude":8.07604,
+    "geom:longitude":29.47068,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kwok",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059001,
+    "gn:latitude":8.07604,
+    "gn:longitude":29.47068,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Kwok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059001
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3657cb7a86fb3379cb5c62f7502b1d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914139,
+            "locality_id":1343272247,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1343272247,
+    "wof:lastmodified":1537017079,
+    "wof:name":"Kwok",
+    "wof:parent_id":1091914139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.47068,
+    8.07604,
+    29.47068,
+    8.07604
+],
+  "geometry": {"coordinates":[29.47068,8.07604],"type":"Point"}
+}

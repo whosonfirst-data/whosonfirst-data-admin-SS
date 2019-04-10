@@ -1,0 +1,67 @@
+{
+  "id": 1310511831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.97874,9.49371,28.97874,9.49371",
+    "geom:latitude":9.49371,
+    "geom:longitude":28.97874,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Smarshuntsi",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11523388,
+    "gn:latitude":9.49371,
+    "gn:longitude":28.97874,
+    "gn:modification_date":"2017-04-10",
+    "gn:name":"Smarshuntsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11523388
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"da5aa8410b2483b4bfe52becea54291d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913397,
+            "locality_id":1310511831,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1310511831,
+    "wof:lastmodified":1536907964,
+    "wof:name":"Smarshuntsi",
+    "wof:parent_id":1091913397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97874,
+    9.49371,
+    28.97874,
+    9.49371
+],
+  "geometry": {"coordinates":[28.97874,9.49371],"type":"Point"}
+}

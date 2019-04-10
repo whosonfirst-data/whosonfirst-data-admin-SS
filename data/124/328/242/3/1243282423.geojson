@@ -1,0 +1,67 @@
+{
+  "id": 1243282423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52494,9.00066,31.52494,9.00066",
+    "geom:latitude":9.00066,
+    "geom:longitude":31.52494,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wuriyang",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363684,
+    "gn:latitude":9.00066,
+    "gn:longitude":31.52494,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Wuriyang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363684
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7a53b1eab9a72ac1916dad96f460a077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913821,
+            "locality_id":1243282423,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1243282423,
+    "wof:lastmodified":1537040280,
+    "wof:name":"Wuriyang",
+    "wof:parent_id":1091913821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52494,
+    9.00066,
+    31.52494,
+    9.00066
+],
+  "geometry": {"coordinates":[31.52494,9.00066],"type":"Point"}
+}

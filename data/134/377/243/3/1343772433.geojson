@@ -1,0 +1,67 @@
+{
+  "id": 1343772433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40521,4.37121,33.40521,4.37121",
+    "geom:latitude":4.37121,
+    "geom:longitude":33.40521,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Loturut",
+    "gn:country_code":"SS",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371132,
+    "gn:latitude":4.37121,
+    "gn:longitude":33.40521,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Loturut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371132
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"80af09ee4821d49dcbffadd43fdda124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913493,
+            "locality_id":1343772433,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1343772433,
+    "wof:lastmodified":1536793845,
+    "wof:name":"Loturut",
+    "wof:parent_id":1091913493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40521,
+    4.37121,
+    33.40521,
+    4.37121
+],
+  "geometry": {"coordinates":[33.40521,4.37121],"type":"Point"}
+}

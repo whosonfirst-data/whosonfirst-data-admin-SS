@@ -1,0 +1,70 @@
+{
+  "id": 1225863629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32886,6.4864,31.32886,6.4864",
+    "geom:latitude":6.4864,
+    "geom:longitude":31.32886,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gut Thom",
+    "gn:country_code":"SS",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381936,
+    "gn:latitude":6.4864,
+    "gn:longitude":31.32886,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Gut Thom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tut Tom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091915369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381936
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eca2c1b7e3c12fd63cb37db300daf34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915369,
+            "locality_id":1225863629,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1225863629,
+    "wof:lastmodified":1537701415,
+    "wof:name":"Gut Thom",
+    "wof:parent_id":1091915369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32886,
+    6.4864,
+    31.32886,
+    6.4864
+],
+  "geometry": {"coordinates":[31.32886,6.4864],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209019583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71384,8.67645,33.71384,8.67645",
+    "geom:latitude":8.67645,
+    "geom:longitude":33.71384,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Malek",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370710,
+    "gn:latitude":8.67645,
+    "gn:longitude":33.71384,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Malek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370710
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8d06eb1988c2b12022850a9dac1c0c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209019583
+        }
+    ],
+    "wof:id":1209019583,
+    "wof:lastmodified":1536300186,
+    "wof:name":"Malek",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.713840000000005,
+    8.67645,
+    33.713840000000005,
+    8.67645
+],
+  "geometry": {"coordinates":[33.71384,8.67645],"type":"Point"}
+}

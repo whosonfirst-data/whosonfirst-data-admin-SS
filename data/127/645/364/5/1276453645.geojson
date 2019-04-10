@@ -1,0 +1,67 @@
+{
+  "id": 1276453645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96723,6.61495,32.96723,6.61495",
+    "geom:latitude":6.61495,
+    "geom:longitude":32.96723,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Burbur",
+    "gn:country_code":"SS",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377086,
+    "gn:latitude":6.61495,
+    "gn:longitude":32.96723,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Burbur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377086
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"48697a9c368734ccf31176e3349a23a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915059,
+            "locality_id":1276453645,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276453645,
+    "wof:lastmodified":1536615009,
+    "wof:name":"Burbur",
+    "wof:parent_id":1091915059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96723,
+    6.61495,
+    32.96723,
+    6.61495
+],
+  "geometry": {"coordinates":[32.96723,6.61495],"type":"Point"}
+}

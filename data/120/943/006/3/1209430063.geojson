@@ -1,0 +1,61 @@
+{
+  "id": 1209430063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84552,8.12418,27.84552,8.12418",
+    "geom:latitude":8.12418,
+    "geom:longitude":27.84552,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"War Shwai",
+    "gn:country_code":"SS",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431149,
+    "gn:latitude":8.12418,
+    "gn:longitude":27.84552,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"War Shwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431149
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c1c7785ef18d6aa76cad320b8a9ba73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209430063
+        }
+    ],
+    "wof:id":1209430063,
+    "wof:lastmodified":1536287262,
+    "wof:name":"War Shwai",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84552,
+    8.12418,
+    27.84552,
+    8.12418
+],
+  "geometry": {"coordinates":[27.84552,8.12418],"type":"Point"}
+}

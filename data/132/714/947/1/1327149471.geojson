@@ -1,0 +1,67 @@
+{
+  "id": 1327149471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.72797,7.23991,29.72797,7.23991",
+    "geom:latitude":7.23991,
+    "geom:longitude":29.72797,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gark Mayol",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375092,
+    "gn:latitude":7.23991,
+    "gn:longitude":29.72797,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Gark Mayol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091916013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375092
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fe3601ffad7ff42c5bbe5ade3b45b7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916013,
+            "locality_id":1327149471,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1327149471,
+    "wof:lastmodified":1537086053,
+    "wof:name":"Gark Mayol",
+    "wof:parent_id":1091916013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.72797000000001,
+    7.23991,
+    29.72797000000001,
+    7.23991
+],
+  "geometry": {"coordinates":[29.72797000000001,7.23991],"type":"Point"}
+}

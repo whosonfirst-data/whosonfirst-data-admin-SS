@@ -1,0 +1,67 @@
+{
+  "id": 1327048885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.44624,8.59261,28.44624,8.59261",
+    "geom:latitude":8.59261,
+    "geom:longitude":28.44624,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ping Dit",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368543,
+    "gn:latitude":8.59261,
+    "gn:longitude":28.44624,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Ping Dit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091913463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368543
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f81072b35dd92eead0ab429e474ad553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913463,
+            "locality_id":1327048885,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1327048885,
+    "wof:lastmodified":1536736663,
+    "wof:name":"Ping Dit",
+    "wof:parent_id":1091913463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.44624,
+    8.59261,
+    28.44624,
+    8.59261
+],
+  "geometry": {"coordinates":[28.44624,8.59261],"type":"Point"}
+}

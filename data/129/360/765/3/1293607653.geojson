@@ -1,0 +1,67 @@
+{
+  "id": 1293607653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00916,9.45542,31.00916,9.45542",
+    "geom:latitude":9.45542,
+    "geom:longitude":31.00916,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Berboi",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377467,
+    "gn:latitude":9.45542,
+    "gn:longitude":31.00916,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Berboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377467
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cd96aedcccdb88ce3691b60912b23f8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1293607653,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1293607653,
+    "wof:lastmodified":1536611341,
+    "wof:name":"Berboi",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00916,
+    9.45542,
+    31.00916,
+    9.45542
+],
+  "geometry": {"coordinates":[31.00916,9.45542],"type":"Point"}
+}

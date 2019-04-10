@@ -1,0 +1,61 @@
+{
+  "id": 1209625715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47959,5.66951,31.47959,5.66951",
+    "geom:latitude":5.66951,
+    "geom:longitude":31.47959,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Baringa",
+    "gn:country_code":"SS",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377658,
+    "gn:latitude":5.66951,
+    "gn:longitude":31.47959,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Baringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377658
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3d003d285453ca7b53c42ec95fcdd283",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209625715
+        }
+    ],
+    "wof:id":1209625715,
+    "wof:lastmodified":1536281361,
+    "wof:name":"Baringa",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47959,
+    5.66951,
+    31.47959,
+    5.66951
+],
+  "geometry": {"coordinates":[31.47959,5.66951],"type":"Point"}
+}

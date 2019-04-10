@@ -1,0 +1,70 @@
+{
+  "id": 1293117339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.78019,8.69552,32.78019,8.69552",
+    "geom:latitude":8.69552,
+    "geom:longitude":32.78019,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pagwar",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368642,
+    "gn:latitude":8.69552,
+    "gn:longitude":32.78019,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Pagwar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pagvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368642
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"689d928915df8c6df7579d1b90a16cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1293117339,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1293117339,
+    "wof:lastmodified":1537701390,
+    "wof:name":"Pagwar",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.78019,
+    8.69552,
+    32.78019,
+    8.69552
+],
+  "geometry": {"coordinates":[32.78019,8.69552],"type":"Point"}
+}

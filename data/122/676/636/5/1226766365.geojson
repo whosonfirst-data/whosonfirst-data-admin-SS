@@ -1,0 +1,67 @@
+{
+  "id": 1226766365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95671,8.19603,27.95671,8.19603",
+    "geom:latitude":8.19603,
+    "geom:longitude":27.95671,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fan Rian",
+    "gn:country_code":"SS",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431115,
+    "gn:latitude":8.19603,
+    "gn:longitude":27.95671,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Fan Rian",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431115
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3f1d33a2e9d1c1274e8728c93766660c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1226766365,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1226766365,
+    "wof:lastmodified":1536685859,
+    "wof:name":"Fan Rian",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95671,
+    8.19603,
+    27.95671,
+    8.19603
+],
+  "geometry": {"coordinates":[27.95671,8.19603],"type":"Point"}
+}

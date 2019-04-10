@@ -1,0 +1,67 @@
+{
+  "id": 1343973091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.17628,9.1022,27.17628,9.1022",
+    "geom:latitude":9.1022,
+    "geom:longitude":27.17628,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marluk",
+    "gn:country_code":"SS",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416377,
+    "gn:latitude":9.1022,
+    "gn:longitude":27.17628,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Marluk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091914653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416377
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"58c69cb32f96acce9eb0c2bb70da75e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914653,
+            "locality_id":1343973091,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1343973091,
+    "wof:lastmodified":1537000956,
+    "wof:name":"Marluk",
+    "wof:parent_id":1091914653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.17628,
+    9.1022,
+    27.17628,
+    9.1022
+],
+  "geometry": {"coordinates":[27.17628,9.1022],"type":"Point"}
+}

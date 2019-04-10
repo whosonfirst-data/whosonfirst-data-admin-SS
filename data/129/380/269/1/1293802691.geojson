@@ -1,0 +1,67 @@
+{
+  "id": 1293802691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23386,7.72828,30.23386,7.72828",
+    "geom:latitude":7.72828,
+    "geom:longitude":30.23386,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tiam",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366069,
+    "gn:latitude":7.72828,
+    "gn:longitude":30.23386,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tiam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366069
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3c945d002e3357cbdc2479000d86fac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913959,
+            "locality_id":1293802691,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1293802691,
+    "wof:lastmodified":1536828794,
+    "wof:name":"Tiam",
+    "wof:parent_id":1091913959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23386,
+    7.72828,
+    30.23386,
+    7.72828
+],
+  "geometry": {"coordinates":[30.23386,7.72828],"type":"Point"}
+}

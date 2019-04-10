@@ -1,0 +1,61 @@
+{
+  "id": 1209124933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63718,6.82226,30.63718,6.82226",
+    "geom:latitude":6.82226,
+    "geom:longitude":30.63718,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pakujiak",
+    "gn:country_code":"SS",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382060,
+    "gn:latitude":6.82226,
+    "gn:longitude":30.63718,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Pakujiak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382060
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d6b2815831dfc0b6a93f1a408b21c291",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209124933
+        }
+    ],
+    "wof:id":1209124933,
+    "wof:lastmodified":1536296982,
+    "wof:name":"Pakujiak",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63718,
+    6.822260000000001,
+    30.63718,
+    6.822260000000001
+],
+  "geometry": {"coordinates":[30.63718,6.82226],"type":"Point"}
+}

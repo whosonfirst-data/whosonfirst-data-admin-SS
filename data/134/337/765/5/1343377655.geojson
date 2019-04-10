@@ -1,0 +1,67 @@
+{
+  "id": 1343377655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31549,8.38524,28.31549,8.38524",
+    "geom:latitude":8.38524,
+    "geom:longitude":28.31549,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nit Nyer",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061409,
+    "gn:latitude":8.38524,
+    "gn:longitude":28.31549,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Nit Nyer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091913463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061409
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0b406de02b24f9e9a9ecb8b1147fe28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913463,
+            "locality_id":1343377655,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1343377655,
+    "wof:lastmodified":1536864344,
+    "wof:name":"Nit Nyer",
+    "wof:parent_id":1091913463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31549,
+    8.38524,
+    28.31549,
+    8.38524
+],
+  "geometry": {"coordinates":[28.31549,8.38524],"type":"Point"}
+}

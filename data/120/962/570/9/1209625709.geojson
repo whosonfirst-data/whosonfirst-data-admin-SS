@@ -1,0 +1,61 @@
+{
+  "id": 1209625709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9037,8.61466,27.9037,8.61466",
+    "geom:latitude":8.61466,
+    "geom:longitude":27.9037,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bagamok",
+    "gn:country_code":"SS",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430911,
+    "gn:latitude":8.61466,
+    "gn:longitude":27.9037,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Bagamok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430911
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"142a511a1b98238524187902a8a1c691",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209625709
+        }
+    ],
+    "wof:id":1209625709,
+    "wof:lastmodified":1536281361,
+    "wof:name":"Bagamok",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9037,
+    8.61466,
+    27.9037,
+    8.61466
+],
+  "geometry": {"coordinates":[27.9037,8.61466],"type":"Point"}
+}

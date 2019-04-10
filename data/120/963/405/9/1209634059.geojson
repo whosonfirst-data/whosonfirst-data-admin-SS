@@ -1,0 +1,61 @@
+{
+  "id": 1209634059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61883,6.46308,31.61883,6.46308",
+    "geom:latitude":6.46308,
+    "geom:longitude":31.61883,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tong",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365776,
+    "gn:latitude":6.46308,
+    "gn:longitude":31.61883,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365776
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eb7f69a0d45173b03dfa972d76e52e3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209634059
+        }
+    ],
+    "wof:id":1209634059,
+    "wof:lastmodified":1536281098,
+    "wof:name":"Tong",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61883,
+    6.4630800000000015,
+    31.61883,
+    6.4630800000000015
+],
+  "geometry": {"coordinates":[31.61883,6.46308],"type":"Point"}
+}

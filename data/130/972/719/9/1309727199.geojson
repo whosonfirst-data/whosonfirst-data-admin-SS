@@ -1,0 +1,67 @@
+{
+  "id": 1309727199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76288,6.41374,29.76288,6.41374",
+    "geom:latitude":6.41374,
+    "geom:longitude":29.76288,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tinjok",
+    "gn:country_code":"SS",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430938,
+    "gn:latitude":6.41374,
+    "gn:longitude":29.76288,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Tinjok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430938
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"46f01c7902d70b8121e34b478890041d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914045,
+            "locality_id":1309727199,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1309727199,
+    "wof:lastmodified":1537042567,
+    "wof:name":"Tinjok",
+    "wof:parent_id":1091914045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76288,
+    6.41374,
+    29.76288,
+    6.41374
+],
+  "geometry": {"coordinates":[29.76288,6.41374],"type":"Point"}
+}

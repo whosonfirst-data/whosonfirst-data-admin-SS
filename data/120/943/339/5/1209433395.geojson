@@ -1,0 +1,61 @@
+{
+  "id": 1209433395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47731,7.54181,31.47731,7.54181",
+    "geom:latitude":7.54181,
+    "geom:longitude":31.47731,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Duk Aleur",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8169228,
+    "gn:latitude":7.54181,
+    "gn:longitude":31.47731,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Duk Aleur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8169228
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"586a1ab6b4845dcf1626ce6e94a1a5c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209433395
+        }
+    ],
+    "wof:id":1209433395,
+    "wof:lastmodified":1536287172,
+    "wof:name":"Duk Aleur",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47731,
+    7.541810000000001,
+    31.47731,
+    7.541810000000001
+],
+  "geometry": {"coordinates":[31.47731,7.54181],"type":"Point"}
+}

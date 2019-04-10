@@ -1,0 +1,64 @@
+{
+  "id": 1209225229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7796,12.0727,32.7796,12.0727",
+    "geom:latitude":12.0727,
+    "geom:longitude":32.7796,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ar Rimela Janub",
+    "gn:country_code":"SS",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504288,
+    "gn:latitude":12.0727,
+    "gn:longitude":32.7796,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ar Rimela Jan\u016bb",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Rimela Jan\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504288
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"456b489d6a7f95582e3ac6e8fba7d07d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209225229
+        }
+    ],
+    "wof:id":1209225229,
+    "wof:lastmodified":1537701420,
+    "wof:name":"Ar Rimela Janub",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7796,
+    12.0727,
+    32.7796,
+    12.0727
+],
+  "geometry": {"coordinates":[32.7796,12.0727],"type":"Point"}
+}

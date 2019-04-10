@@ -1,0 +1,67 @@
+{
+  "id": 1326948839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.07231,8.48338,28.07231,8.48338",
+    "geom:latitude":8.48338,
+    "geom:longitude":28.07231,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Powang",
+    "gn:country_code":"SS",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368523,
+    "gn:latitude":8.48338,
+    "gn:longitude":28.07231,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Powang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368523
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"de172260fe2c6fe99a92da7dd4b0a8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1326948839,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1326948839,
+    "wof:lastmodified":1536880165,
+    "wof:name":"Powang",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.07231,
+    8.48338,
+    28.07231,
+    8.48338
+],
+  "geometry": {"coordinates":[28.07231,8.48338],"type":"Point"}
+}

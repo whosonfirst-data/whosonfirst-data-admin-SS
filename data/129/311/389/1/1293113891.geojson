@@ -1,0 +1,67 @@
+{
+  "id": 1293113891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00277,7.90128,33.00277,7.90128",
+    "geom:latitude":7.90128,
+    "geom:longitude":33.00277,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Garkong",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375091,
+    "gn:latitude":7.90128,
+    "gn:longitude":33.00277,
+    "gn:modification_date":"2012-09-07",
+    "gn:name":"Garkong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375091
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"74075df4432a9207c3a4e854eb978eb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915285,
+            "locality_id":1293113891,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1293113891,
+    "wof:lastmodified":1536827686,
+    "wof:name":"Garkong",
+    "wof:parent_id":1091915285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00277,
+    7.90128,
+    33.00277,
+    7.90128
+],
+  "geometry": {"coordinates":[33.00277,7.90128],"type":"Point"}
+}

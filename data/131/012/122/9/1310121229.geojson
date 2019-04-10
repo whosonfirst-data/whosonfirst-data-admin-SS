@@ -1,0 +1,67 @@
+{
+  "id": 1310121229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54821,8.92011,33.54821,8.92011",
+    "geom:latitude":8.92011,
+    "geom:longitude":33.54821,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Majok",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374921,
+    "gn:latitude":8.92011,
+    "gn:longitude":33.54821,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Majok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374921
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c20c918acf7652d5f574cedf1e8042f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915801,
+            "locality_id":1310121229,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1310121229,
+    "wof:lastmodified":1536973288,
+    "wof:name":"Majok",
+    "wof:parent_id":1091915801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54821,
+    8.92011,
+    33.54821,
+    8.92011
+],
+  "geometry": {"coordinates":[33.54821,8.92011],"type":"Point"}
+}

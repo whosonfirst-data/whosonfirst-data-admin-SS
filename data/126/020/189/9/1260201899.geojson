@@ -1,0 +1,67 @@
+{
+  "id": 1260201899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.99509,9.04683,27.99509,9.04683",
+    "geom:latitude":9.04683,
+    "geom:longitude":27.99509,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mankaich",
+    "gn:country_code":"SS",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416432,
+    "gn:latitude":9.04683,
+    "gn:longitude":27.99509,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Mankaich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416432
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"bb4253b90a945b613d4e388a159f6c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1260201899,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1260201899,
+    "wof:lastmodified":1536821824,
+    "wof:name":"Mankaich",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.99509,
+    9.04683,
+    27.99509,
+    9.04683
+],
+  "geometry": {"coordinates":[27.99509,9.04683],"type":"Point"}
+}

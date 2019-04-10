@@ -1,0 +1,72 @@
+{
+  "id": 1310619863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33107,6.51622,31.33107,6.51622",
+    "geom:latitude":6.51622,
+    "geom:longitude":31.33107,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Papiu",
+    "gn:country_code":"SS",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368586,
+    "gn:latitude":6.51622,
+    "gn:longitude":31.33107,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Papiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Papu",
+        "Papiu",
+        "Bapiu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368586
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5a24ef5f1a6768dba3292d4bbbae1eee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1310619863,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1310619863,
+    "wof:lastmodified":1537701389,
+    "wof:name":"Papiu",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33107,
+    6.51622,
+    31.33107,
+    6.51622
+],
+  "geometry": {"coordinates":[31.33107,6.51622],"type":"Point"}
+}

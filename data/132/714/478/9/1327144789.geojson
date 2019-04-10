@@ -1,0 +1,67 @@
+{
+  "id": 1327144789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.90771,8.53338,27.90771,8.53338",
+    "geom:latitude":8.53338,
+    "geom:longitude":27.90771,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Rum Gain",
+    "gn:country_code":"SS",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430981,
+    "gn:latitude":8.53338,
+    "gn:longitude":27.90771,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Rum Gain",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430981
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2f3a7e55e8cd053d2af70a601f239300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913405,
+            "locality_id":1327144789,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1327144789,
+    "wof:lastmodified":1537092761,
+    "wof:name":"Rum Gain",
+    "wof:parent_id":1091913405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.90771,
+    8.53338,
+    27.90771,
+    8.53338
+],
+  "geometry": {"coordinates":[27.90771,8.53338],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310116375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.76149,8.32136,25.76149,8.32136",
+    "geom:latitude":8.32136,
+    "geom:longitude":25.76149,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Azraq",
+    "gn:country_code":"SS",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378013,
+    "gn:latitude":8.32136,
+    "gn:longitude":25.76149,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Azraq",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378013
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a420d1490828440dbf41d5957675ff72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1310116375,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1310116375,
+    "wof:lastmodified":1536980046,
+    "wof:name":"Azraq",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.76149,
+    8.32136,
+    25.76149,
+    8.32136
+],
+  "geometry": {"coordinates":[25.76149,8.32136],"type":"Point"}
+}

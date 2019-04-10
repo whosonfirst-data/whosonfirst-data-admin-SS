@@ -1,0 +1,67 @@
+{
+  "id": 1276462713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24105,6.92369,29.24105,6.92369",
+    "geom:latitude":6.92369,
+    "geom:longitude":29.24105,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Billing",
+    "gn:country_code":"SS",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377395,
+    "gn:latitude":6.92369,
+    "gn:longitude":29.24105,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Billing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377395
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4c4ccc824edce9a1bd6856d90633dd24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1276462713,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1276462713,
+    "wof:lastmodified":1536602252,
+    "wof:name":"Billing",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24105,
+    6.92369,
+    29.24105,
+    6.92369
+],
+  "geometry": {"coordinates":[29.24105,6.92369],"type":"Point"}
+}

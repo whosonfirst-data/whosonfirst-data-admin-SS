@@ -1,0 +1,67 @@
+{
+  "id": 1326548743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7111,9.06176,30.7111,9.06176",
+    "geom:latitude":9.06176,
+    "geom:longitude":30.7111,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dungloch",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381704,
+    "gn:latitude":9.06176,
+    "gn:longitude":30.7111,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Dungloch",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381704
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e03ed28a515cc1ef432c3cb65798b095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1326548743,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1326548743,
+    "wof:lastmodified":1536960137,
+    "wof:name":"Dungloch",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7111,
+    9.06176,
+    30.7111,
+    9.06176
+],
+  "geometry": {"coordinates":[30.7111,9.06176],"type":"Point"}
+}

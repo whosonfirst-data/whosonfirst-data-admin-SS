@@ -1,0 +1,67 @@
+{
+  "id": 1276350851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60268,5.20134,30.60268,5.20134",
+    "geom:latitude":5.20134,
+    "geom:longitude":30.60268,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Amberungwa",
+    "gn:country_code":"SS",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435849,
+    "gn:latitude":5.20134,
+    "gn:longitude":30.60268,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Amberungwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435849
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f283c181b69fb9944c9e4d84115c5809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915905,
+            "locality_id":1276350851,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1276350851,
+    "wof:lastmodified":1536755023,
+    "wof:name":"Amberungwa",
+    "wof:parent_id":1091915905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60268,
+    5.20134,
+    30.60268,
+    5.20134
+],
+  "geometry": {"coordinates":[30.60268,5.20134],"type":"Point"}
+}

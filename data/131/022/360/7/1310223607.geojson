@@ -1,0 +1,67 @@
+{
+  "id": 1310223607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.64101,5.49195,30.64101,5.49195",
+    "geom:latitude":5.49195,
+    "geom:longitude":30.64101,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Wandi",
+    "gn:country_code":"SS",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7434627,
+    "gn:latitude":5.49195,
+    "gn:longitude":30.64101,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Wandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7434627
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d13f139bf8acdabffb790e1aa0adf8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915905,
+            "locality_id":1310223607,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1310223607,
+    "wof:lastmodified":1536825184,
+    "wof:name":"Wandi",
+    "wof:parent_id":1091915905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.64101,
+    5.49195,
+    30.64101,
+    5.49195
+],
+  "geometry": {"coordinates":[30.64101,5.49195],"type":"Point"}
+}

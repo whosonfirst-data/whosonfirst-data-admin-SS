@@ -1,0 +1,67 @@
+{
+  "id": 1326749093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.22579,8.91723,27.22579,8.91723",
+    "geom:latitude":8.91723,
+    "geom:longitude":27.22579,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Luen Abor",
+    "gn:country_code":"SS",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371094,
+    "gn:latitude":8.91723,
+    "gn:longitude":27.22579,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Luen Abor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371094
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1292a25baebdcd3aaaa37348f9d4c2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1326749093,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1326749093,
+    "wof:lastmodified":1536671342,
+    "wof:name":"Luen Abor",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.22579,
+    8.91723,
+    27.22579,
+    8.91723
+],
+  "geometry": {"coordinates":[27.22579,8.91723],"type":"Point"}
+}

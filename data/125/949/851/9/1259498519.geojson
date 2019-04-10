@@ -1,0 +1,67 @@
+{
+  "id": 1259498519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.27558,8.92663,27.27558,8.92663",
+    "geom:latitude":8.92663,
+    "geom:longitude":27.27558,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Burdit",
+    "gn:country_code":"SS",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430619,
+    "gn:latitude":8.92663,
+    "gn:longitude":27.27558,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Burdit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430619
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f2890c68edf3ebe04932afaa95641eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1259498519,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1259498519,
+    "wof:lastmodified":1536836080,
+    "wof:name":"Burdit",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27558,
+    8.92663,
+    27.27558,
+    8.92663
+],
+  "geometry": {"coordinates":[27.27558,8.92663],"type":"Point"}
+}

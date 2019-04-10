@@ -1,0 +1,70 @@
+{
+  "id": 1327048705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49168,6.52443,30.49168,6.52443",
+    "geom:latitude":6.52443,
+    "geom:longitude":30.49168,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Alerwei",
+    "gn:country_code":"SS",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382040,
+    "gn:latitude":6.52443,
+    "gn:longitude":30.49168,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Alerwei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alerwey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382040
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"17b59c1681136efe4a3d82155f03b6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914585,
+            "locality_id":1327048705,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1327048705,
+    "wof:lastmodified":1537701416,
+    "wof:name":"Alerwei",
+    "wof:parent_id":1091914585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49168,
+    6.52443,
+    30.49168,
+    6.52443
+],
+  "geometry": {"coordinates":[30.49168,6.52443],"type":"Point"}
+}

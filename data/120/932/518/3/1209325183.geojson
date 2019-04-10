@@ -1,0 +1,61 @@
+{
+  "id": 1209325183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06856,4.12908,33.06856,4.12908",
+    "geom:latitude":4.12908,
+    "geom:longitude":33.06856,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Akoro",
+    "gn:country_code":"SS",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379805,
+    "gn:latitude":4.12908,
+    "gn:longitude":33.06856,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Akoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379805
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"769cc554aa4d39f30bde4a216732893b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209325183
+        }
+    ],
+    "wof:id":1209325183,
+    "wof:lastmodified":1536290554,
+    "wof:name":"Akoro",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06856,
+    4.12908,
+    33.06856,
+    4.12908
+],
+  "geometry": {"coordinates":[33.06856,4.12908],"type":"Point"}
+}

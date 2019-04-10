@@ -1,0 +1,61 @@
+{
+  "id": 1209433413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.40772,8.26788,28.40772,8.26788",
+    "geom:latitude":8.26788,
+    "geom:longitude":28.40772,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yik",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061567,
+    "gn:latitude":8.26788,
+    "gn:longitude":28.40772,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Yik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061567
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ba68a6779a683f104002867efb19c0f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209433413
+        }
+    ],
+    "wof:id":1209433413,
+    "wof:lastmodified":1536287171,
+    "wof:name":"Yik",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.40772,
+    8.26788,
+    28.40772,
+    8.26788
+],
+  "geometry": {"coordinates":[28.40772,8.26788],"type":"Point"}
+}

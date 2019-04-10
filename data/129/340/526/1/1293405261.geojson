@@ -1,0 +1,67 @@
+{
+  "id": 1293405261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.80729,3.72688,30.80729,3.72688",
+    "geom:latitude":3.72688,
+    "geom:longitude":30.80729,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gulumbi",
+    "gn:country_code":"SS",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374611,
+    "gn:latitude":3.72688,
+    "gn:longitude":30.80729,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gulumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374611
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fda75edff3d252595087d6c9b942883c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914975,
+            "locality_id":1293405261,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1293405261,
+    "wof:lastmodified":1536905689,
+    "wof:name":"Gulumbi",
+    "wof:parent_id":1091914975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.80729,
+    3.72688,
+    30.80729,
+    3.72688
+],
+  "geometry": {"coordinates":[30.80729,3.72688],"type":"Point"}
+}

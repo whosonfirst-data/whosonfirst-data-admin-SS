@@ -1,0 +1,61 @@
+{
+  "id": 1209333345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.96523,9.14173,26.96523,9.14173",
+    "geom:latitude":9.14173,
+    "geom:longitude":26.96523,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Abya",
+    "gn:country_code":"SS",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149332,
+    "gn:latitude":9.14173,
+    "gn:longitude":26.96523,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Abya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149332
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d19c8fea5a834d99adcf19d7a530551a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209333345
+        }
+    ],
+    "wof:id":1209333345,
+    "wof:lastmodified":1536290302,
+    "wof:name":"Abya",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.96523,
+    9.14173,
+    26.96523,
+    9.14173
+],
+  "geometry": {"coordinates":[26.96523,9.14173],"type":"Point"}
+}

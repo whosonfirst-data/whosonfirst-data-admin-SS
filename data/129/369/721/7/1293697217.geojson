@@ -1,0 +1,67 @@
+{
+  "id": 1293697217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14278,8.69261,33.14278,8.69261",
+    "geom:latitude":8.69261,
+    "geom:longitude":33.14278,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Jilang",
+    "gn:country_code":"SS",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8377057,
+    "gn:latitude":8.69261,
+    "gn:longitude":33.14278,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Jilang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8377057
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"731526f69f08b4632c0d438c359bea80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913609,
+            "locality_id":1293697217,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1293697217,
+    "wof:lastmodified":1536981233,
+    "wof:name":"Jilang",
+    "wof:parent_id":1091913609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14278,
+    8.69261,
+    33.14278,
+    8.69261
+],
+  "geometry": {"coordinates":[33.14278,8.69261],"type":"Point"}
+}

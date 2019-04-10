@@ -1,0 +1,67 @@
+{
+  "id": 1327242115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.54603,6.24698,34.54603,6.24698",
+    "geom:latitude":6.24698,
+    "geom:longitude":34.54603,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gigiman",
+    "gn:country_code":"SS",
+    "gn:dem":932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374825,
+    "gn:latitude":6.24698,
+    "gn:longitude":34.54603,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Gigiman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374825
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"986f7de192d327c9ef64bd32106a22c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915059,
+            "locality_id":1327242115,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1327242115,
+    "wof:lastmodified":1536955501,
+    "wof:name":"Gigiman",
+    "wof:parent_id":1091915059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.54603,
+    6.24698,
+    34.54603,
+    6.24698
+],
+  "geometry": {"coordinates":[34.54603,6.24698],"type":"Point"}
+}

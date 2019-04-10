@@ -1,0 +1,67 @@
+{
+  "id": 1310315723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77547,4.70606,32.77547,4.70606",
+    "geom:latitude":4.70606,
+    "geom:longitude":32.77547,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tabur",
+    "gn:country_code":"SS",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646212,
+    "gn:latitude":4.70606,
+    "gn:longitude":32.77547,
+    "gn:modification_date":"2013-12-16",
+    "gn:name":"Tabur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091915633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646212
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f52d3173c121538d28f2c11226c6e836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915633,
+            "locality_id":1310315723,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1310315723,
+    "wof:lastmodified":1536693292,
+    "wof:name":"Tabur",
+    "wof:parent_id":1091915633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77547,
+    4.70606,
+    32.77547,
+    4.70606
+],
+  "geometry": {"coordinates":[32.77547,4.70606],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293011051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.58362,9.13509,29.58362,9.13509",
+    "geom:latitude":9.13509,
+    "geom:longitude":29.58362,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Wath Jak",
+    "gn:country_code":"SS",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363891,
+    "gn:latitude":9.13509,
+    "gn:longitude":29.58362,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Wath Jak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363891
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2f20cf57807a081b37ad7296246b39ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915999,
+            "locality_id":1293011051,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1293011051,
+    "wof:lastmodified":1536976221,
+    "wof:name":"Wath Jak",
+    "wof:parent_id":1091915999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.58362,
+    9.13509,
+    29.58362,
+    9.13509
+],
+  "geometry": {"coordinates":[29.58362,9.13509],"type":"Point"}
+}

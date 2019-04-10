@@ -1,0 +1,64 @@
+{
+  "id": 1209225039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54007,9.39325,31.54007,9.39325",
+    "geom:latitude":9.39325,
+    "geom:longitude":31.54007,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Adidhiang Paich",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381812,
+    "gn:latitude":9.39325,
+    "gn:longitude":31.54007,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Adidhiang Paich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adidiang Paych"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381812
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1ab2dff18309b71ec26c4a92e98578aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209225039
+        }
+    ],
+    "wof:id":1209225039,
+    "wof:lastmodified":1537701414,
+    "wof:name":"Adidhiang Paich",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54007,
+    9.39325,
+    31.54007,
+    9.39325
+],
+  "geometry": {"coordinates":[31.54007,9.39325],"type":"Point"}
+}

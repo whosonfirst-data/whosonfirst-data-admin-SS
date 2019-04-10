@@ -1,0 +1,61 @@
+{
+  "id": 1209329565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82834,5.63906,31.82834,5.63906",
+    "geom:latitude":5.63906,
+    "geom:longitude":31.82834,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adiar",
+    "gn:country_code":"SS",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8038761,
+    "gn:latitude":5.63906,
+    "gn:longitude":31.82834,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Adiar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8038761
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"52d187f156e025480267409fe8983f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209329565
+        }
+    ],
+    "wof:id":1209329565,
+    "wof:lastmodified":1536290415,
+    "wof:name":"Adiar",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82834,
+    5.63906,
+    31.82834,
+    5.63906
+],
+  "geometry": {"coordinates":[31.82834,5.63906],"type":"Point"}
+}

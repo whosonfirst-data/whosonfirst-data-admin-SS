@@ -1,0 +1,70 @@
+{
+  "id": 1276458701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72722,4.23889,30.72722,4.23889",
+    "geom:latitude":4.23889,
+    "geom:longitude":30.72722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pisasuk",
+    "gn:country_code":"SS",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382619,
+    "gn:latitude":4.23889,
+    "gn:longitude":30.72722,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pisasuk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pisakuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091913733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382619
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b510c06877e85467e2d7319f6e66c2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913733,
+            "locality_id":1276458701,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1276458701,
+    "wof:lastmodified":1537701418,
+    "wof:name":"Pisasuk",
+    "wof:parent_id":1091913733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72722000000001,
+    4.23889,
+    30.72722000000001,
+    4.23889
+],
+  "geometry": {"coordinates":[30.72722000000001,4.23889],"type":"Point"}
+}

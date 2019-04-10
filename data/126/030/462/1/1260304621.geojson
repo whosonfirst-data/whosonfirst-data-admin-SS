@@ -1,0 +1,67 @@
+{
+  "id": 1260304621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.99268,4.21095,32.99268,4.21095",
+    "geom:latitude":4.21095,
+    "geom:longitude":32.99268,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Madok",
+    "gn:country_code":"SS",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382448,
+    "gn:latitude":4.21095,
+    "gn:longitude":32.99268,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Madok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382448
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6800c421879b77700126fd4c9c128d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1260304621,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1260304621,
+    "wof:lastmodified":1536683520,
+    "wof:name":"Madok",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.99268,
+    4.21095,
+    32.99268,
+    4.21095
+],
+  "geometry": {"coordinates":[32.99268,4.21095],"type":"Point"}
+}

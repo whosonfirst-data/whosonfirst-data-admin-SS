@@ -1,0 +1,61 @@
+{
+  "id": 1209430037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.33566,9.46332,25.33566,9.46332",
+    "geom:latitude":9.46332,
+    "geom:longitude":25.33566,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Faraghi",
+    "gn:country_code":"SS",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":375510,
+    "gn:latitude":9.46332,
+    "gn:longitude":25.33566,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Faraghi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375510
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7209d4d2298122ac1a9b119eea07ceb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209430037
+        }
+    ],
+    "wof:id":1209430037,
+    "wof:lastmodified":1536287262,
+    "wof:name":"Faraghi",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.33566,
+    9.46332,
+    25.33566,
+    9.46332
+],
+  "geometry": {"coordinates":[25.33566,9.46332],"type":"Point"}
+}

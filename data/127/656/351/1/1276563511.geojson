@@ -1,0 +1,67 @@
+{
+  "id": 1276563511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.7378,8.96805,27.7378,8.96805",
+    "geom:latitude":8.96805,
+    "geom:longitude":27.7378,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Toyor",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430678,
+    "gn:latitude":8.96805,
+    "gn:longitude":27.7378,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Toyor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430678
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"99d8884fd76d93ce0d3fe938e8be0c41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1276563511,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1276563511,
+    "wof:lastmodified":1536967358,
+    "wof:name":"Toyor",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.7378,
+    8.96805,
+    27.7378,
+    8.96805
+],
+  "geometry": {"coordinates":[27.7378,8.96805],"type":"Point"}
+}

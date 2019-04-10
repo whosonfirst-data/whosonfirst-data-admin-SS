@@ -1,0 +1,66 @@
+{
+  "id": 1209530867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71985,4.932,33.71985,4.932",
+    "geom:latitude":4.932,
+    "geom:longitude":33.71985,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lotelepey",
+    "gn:country_code":"SS",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371146,
+    "gn:latitude":4.932,
+    "gn:longitude":33.71985,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Lotelepey",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lotelepego",
+        "Lotelepeg",
+        "Lotelepey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371146
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"21eeb840394775f8d78b7b734b9d40d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209530867
+        }
+    ],
+    "wof:id":1209530867,
+    "wof:lastmodified":1537701395,
+    "wof:name":"Lotelepey",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71985,
+    4.932,
+    33.71985,
+    4.932
+],
+  "geometry": {"coordinates":[33.71985,4.932],"type":"Point"}
+}

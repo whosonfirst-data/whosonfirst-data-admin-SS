@@ -1,0 +1,67 @@
+{
+  "id": 1259998125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59342,9.09368,27.59342,9.09368",
+    "geom:latitude":9.09368,
+    "geom:longitude":27.59342,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mabyor",
+    "gn:country_code":"SS",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416386,
+    "gn:latitude":9.09368,
+    "gn:longitude":27.59342,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Mabyor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416386
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5abd60e7f7d52782fcd85bdb47981a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1259998125,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1259998125,
+    "wof:lastmodified":1536611521,
+    "wof:name":"Mabyor",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59342,
+    9.09368,
+    27.59342,
+    9.09368
+],
+  "geometry": {"coordinates":[27.59342,9.09368],"type":"Point"}
+}

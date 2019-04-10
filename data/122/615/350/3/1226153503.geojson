@@ -1,0 +1,67 @@
+{
+  "id": 1226153503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37648,9.32485,25.37648,9.32485",
+    "geom:latitude":9.32485,
+    "geom:longitude":25.37648,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Tingar",
+    "gn:country_code":"SS",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365970,
+    "gn:latitude":9.32485,
+    "gn:longitude":25.37648,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tingar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365970
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"febfb6115e963ae30c8a032bb853dbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1226153503,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1226153503,
+    "wof:lastmodified":1537063600,
+    "wof:name":"Tingar",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37648,
+    9.32485,
+    25.37648,
+    9.32485
+],
+  "geometry": {"coordinates":[25.37648,9.32485],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209014855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.10813,9.88444,30.10813,9.88444",
+    "geom:latitude":9.88444,
+    "geom:longitude":30.10813,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Paljok",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368625,
+    "gn:latitude":9.88444,
+    "gn:longitude":30.10813,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Paljok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368625
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eb4d96a83916ad524b0ec1ed90a9965b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209014855
+        }
+    ],
+    "wof:id":1209014855,
+    "wof:lastmodified":1536300328,
+    "wof:name":"Paljok",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10813,
+    9.88444,
+    30.10813,
+    9.88444
+],
+  "geometry": {"coordinates":[30.10813,9.88444],"type":"Point"}
+}

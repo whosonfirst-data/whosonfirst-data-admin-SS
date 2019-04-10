@@ -1,0 +1,67 @@
+{
+  "id": 1226053081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77773,8.66208,32.77773,8.66208",
+    "geom:latitude":8.66208,
+    "geom:longitude":32.77773,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gworyik",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374767,
+    "gn:latitude":8.66208,
+    "gn:longitude":32.77773,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Gworyik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374767
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"30fb90bec460f25a27fa92bfe9e67ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1226053081,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1226053081,
+    "wof:lastmodified":1536714809,
+    "wof:name":"Gworyik",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77773,
+    8.66208,
+    32.77773,
+    8.66208
+],
+  "geometry": {"coordinates":[32.77773,8.66208],"type":"Point"}
+}

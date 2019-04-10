@@ -1,0 +1,71 @@
+{
+  "id": 1276892637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05017,8.50926,30.05017,8.50926",
+    "geom:latitude":8.50926,
+    "geom:longitude":30.05017,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kwach",
+    "gn:country_code":"SS",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371721,
+    "gn:latitude":8.50926,
+    "gn:longitude":30.05017,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kwach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Petit",
+        "Kwach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371721
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6dd6b106cd25cce42f1b039c65077425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913585,
+            "locality_id":1276892637,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1276892637,
+    "wof:lastmodified":1537701397,
+    "wof:name":"Kwach",
+    "wof:parent_id":1091913585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05017,
+    8.50926,
+    30.05017,
+    8.50926
+],
+  "geometry": {"coordinates":[30.05017,8.50926],"type":"Point"}
+}

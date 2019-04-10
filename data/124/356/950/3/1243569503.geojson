@@ -1,0 +1,67 @@
+{
+  "id": 1243569503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2835,10.06791,32.2835,10.06791",
+    "geom:latitude":10.06791,
+    "geom:longitude":32.2835,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mialek",
+    "gn:country_code":"SS",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370100,
+    "gn:latitude":10.06791,
+    "gn:longitude":32.2835,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Mialek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370100
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cbabe2ca3255754f4e410554f4d533d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913689,
+            "locality_id":1243569503,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1243569503,
+    "wof:lastmodified":1536626293,
+    "wof:name":"Mialek",
+    "wof:parent_id":1091913689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2835,
+    10.06791,
+    32.2835,
+    10.06791
+],
+  "geometry": {"coordinates":[32.2835,10.06791],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327348623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13298,8.45858,28.13298,8.45858",
+    "geom:latitude":8.45858,
+    "geom:longitude":28.13298,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Natur",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8060877,
+    "gn:latitude":8.45858,
+    "gn:longitude":28.13298,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Natur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8060877
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8e9a5da425ec83130ebb903488c27a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1327348623,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1327348623,
+    "wof:lastmodified":1536801736,
+    "wof:name":"Natur",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13298,
+    8.45858,
+    28.13298,
+    8.45858
+],
+  "geometry": {"coordinates":[28.13298,8.45858],"type":"Point"}
+}

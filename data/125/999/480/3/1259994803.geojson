@@ -1,0 +1,71 @@
+{
+  "id": 1259994803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4375,4.86444,29.4375,4.86444",
+    "geom:latitude":4.86444,
+    "geom:longitude":29.4375,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bushayr",
+    "gn:country_code":"SS",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377022,
+    "gn:latitude":4.86444,
+    "gn:longitude":29.4375,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bushayr",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Besheir",
+        "Bushayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377022
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"bacc7adb05fb0cf95aa0c49fd0728a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":1259994803,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1259994803,
+    "wof:lastmodified":1537701406,
+    "wof:name":"Bushayr",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4375,
+    4.86444,
+    29.4375,
+    4.86444
+],
+  "geometry": {"coordinates":[29.4375,4.86444],"type":"Point"}
+}

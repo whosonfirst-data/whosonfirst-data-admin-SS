@@ -1,0 +1,67 @@
+{
+  "id": 1243469657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86486,9.05243,27.86486,9.05243",
+    "geom:latitude":9.05243,
+    "geom:longitude":27.86486,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Angwart",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416439,
+    "gn:latitude":9.05243,
+    "gn:longitude":27.86486,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Angwart",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416439
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b886182f4f2eecf3efd8d51a868460bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1243469657,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1243469657,
+    "wof:lastmodified":1536772608,
+    "wof:name":"Angwart",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86486,
+    9.05243,
+    27.86486,
+    9.05243
+],
+  "geometry": {"coordinates":[27.86486,9.05243],"type":"Point"}
+}

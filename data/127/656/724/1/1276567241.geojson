@@ -1,0 +1,70 @@
+{
+  "id": 1276567241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.67039,8.95695,25.67039,8.95695",
+    "geom:latitude":8.95695,
+    "geom:longitude":25.67039,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gamus",
+    "gn:country_code":"SS",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373399,
+    "gn:latitude":8.95695,
+    "gn:longitude":25.67039,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gamus",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101m\u016bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373399
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1e71c0cb5824dda254fe9567abd896de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1276567241,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1276567241,
+    "wof:lastmodified":1537701400,
+    "wof:name":"Gamus",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.67039,
+    8.95695,
+    25.67039,
+    8.95695
+],
+  "geometry": {"coordinates":[25.67039,8.95695],"type":"Point"}
+}

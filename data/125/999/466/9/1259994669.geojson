@@ -1,0 +1,67 @@
+{
+  "id": 1259994669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79362,8.63333,27.79362,8.63333",
+    "geom:latitude":8.63333,
+    "geom:longitude":27.79362,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Riangker",
+    "gn:country_code":"SS",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368088,
+    "gn:latitude":8.63333,
+    "gn:longitude":27.79362,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Riangker",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368088
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a67e07ad314d1b941ca3e6258991c589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913405,
+            "locality_id":1259994669,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1259994669,
+    "wof:lastmodified":1536616691,
+    "wof:name":"Riangker",
+    "wof:parent_id":1091913405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79362,
+    8.63333,
+    27.79362,
+    8.63333
+],
+  "geometry": {"coordinates":[27.79362,8.63333],"type":"Point"}
+}

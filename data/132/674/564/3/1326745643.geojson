@@ -1,0 +1,67 @@
+{
+  "id": 1326745643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99588,6.8578,29.99588,6.8578",
+    "geom:latitude":6.8578,
+    "geom:longitude":29.99588,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Away",
+    "gn:country_code":"SS",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7429935,
+    "gn:latitude":6.8578,
+    "gn:longitude":29.99588,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Away",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7429935
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b7e13d121c59a5dd73a648e28b10b700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914045,
+            "locality_id":1326745643,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1326745643,
+    "wof:lastmodified":1536676299,
+    "wof:name":"Away",
+    "wof:parent_id":1091914045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99588,
+    6.8578,
+    29.99588,
+    6.8578
+],
+  "geometry": {"coordinates":[29.99588,6.8578],"type":"Point"}
+}

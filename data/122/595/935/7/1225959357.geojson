@@ -1,0 +1,71 @@
+{
+  "id": 1225959357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97676,9.88649,29.97676,9.88649",
+    "geom:latitude":9.88649,
+    "geom:longitude":29.97676,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Dulaybah",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376158,
+    "gn:latitude":9.88649,
+    "gn:longitude":29.97676,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Dulaybah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doleiba",
+        "Dulaybah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376158
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"005bed1e09a43568981eb45efa59436b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915021,
+            "locality_id":1225959357,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1225959357,
+    "wof:lastmodified":1537701404,
+    "wof:name":"Dulaybah",
+    "wof:parent_id":1091915021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97676,
+    9.88649,
+    29.97676,
+    9.88649
+],
+  "geometry": {"coordinates":[29.97676,9.88649],"type":"Point"}
+}

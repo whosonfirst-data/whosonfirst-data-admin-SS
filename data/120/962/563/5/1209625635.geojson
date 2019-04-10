@@ -1,0 +1,64 @@
+{
+  "id": 1209625635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22844,10.10731,33.22844,10.10731",
+    "geom:latitude":10.10731,
+    "geom:longitude":33.22844,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Falaka",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375597,
+    "gn:latitude":10.10731,
+    "gn:longitude":33.22844,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Falaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Falakah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375597
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"aa8afa5a3c29290fcb7c7eae09be0691",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209625635
+        }
+    ],
+    "wof:id":1209625635,
+    "wof:lastmodified":1537701403,
+    "wof:name":"Falaka",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22844,
+    10.10731,
+    33.22844,
+    10.10731
+],
+  "geometry": {"coordinates":[33.22844,10.10731],"type":"Point"}
+}

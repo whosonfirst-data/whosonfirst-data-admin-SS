@@ -1,0 +1,67 @@
+{
+  "id": 1292918791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70368,8.69667,32.70368,8.69667",
+    "geom:latitude":8.69667,
+    "geom:longitude":32.70368,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Riek",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368080,
+    "gn:latitude":8.69667,
+    "gn:longitude":32.70368,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Riek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368080
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5d09272b0404c4c41e6fdcda4e79da7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1292918791,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1292918791,
+    "wof:lastmodified":1536610088,
+    "wof:name":"Riek",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70368,
+    8.69667,
+    32.70368,
+    8.69667
+],
+  "geometry": {"coordinates":[32.70368,8.69667],"type":"Point"}
+}

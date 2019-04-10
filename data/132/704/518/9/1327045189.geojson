@@ -1,0 +1,67 @@
+{
+  "id": 1327045189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83195,5.84267,30.83195,5.84267",
+    "geom:latitude":5.84267,
+    "geom:longitude":30.83195,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Verlingai",
+    "gn:country_code":"SS",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364351,
+    "gn:latitude":5.84267,
+    "gn:longitude":30.83195,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Verlingai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364351
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d8c6d7add68148efd274de6b6fbcefd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1327045189,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1327045189,
+    "wof:lastmodified":1536741719,
+    "wof:name":"Verlingai",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83195,
+    5.84267,
+    30.83195,
+    5.84267
+],
+  "geometry": {"coordinates":[30.83195,5.84267],"type":"Point"}
+}

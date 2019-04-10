@@ -1,0 +1,67 @@
+{
+  "id": 1327348583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.4035,8.37592,28.4035,8.37592",
+    "geom:latitude":8.37592,
+    "geom:longitude":28.4035,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Abyei",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061458,
+    "gn:latitude":8.37592,
+    "gn:longitude":28.4035,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Abyei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091913463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061458
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"862c3b28f97388d2fc895a0861f5e47e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913463,
+            "locality_id":1327348583,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1327348583,
+    "wof:lastmodified":1536801794,
+    "wof:name":"Abyei",
+    "wof:parent_id":1091913463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.4035,
+    8.37592,
+    28.4035,
+    8.37592
+],
+  "geometry": {"coordinates":[28.4035,8.37592],"type":"Point"}
+}

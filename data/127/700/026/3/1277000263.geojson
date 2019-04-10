@@ -1,0 +1,68 @@
+{
+  "id": 1277000263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4729,5.02893,32.4729,5.02893",
+    "geom:latitude":5.02893,
+    "geom:longitude":32.4729,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lafon",
+    "gn:country_code":"SS",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371624,
+    "gn:latitude":5.02893,
+    "gn:longitude":32.4729,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lafon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091915633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371624,
+        "wk:page":"Lafon%2C_South_Sudan"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3347bc09fc0d49d82d8ae658beae9378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915633,
+            "locality_id":1277000263,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1277000263,
+    "wof:lastmodified":1537573763,
+    "wof:name":"Lafon",
+    "wof:parent_id":1091915633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4729,
+    5.02893,
+    32.4729,
+    5.02893
+],
+  "geometry": {"coordinates":[32.4729,5.02893],"type":"Point"}
+}

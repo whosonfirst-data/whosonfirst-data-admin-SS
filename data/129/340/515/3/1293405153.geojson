@@ -1,0 +1,70 @@
+{
+  "id": 1293405153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.66166,7.77555,27.66166,7.77555",
+    "geom:latitude":7.77555,
+    "geom:longitude":27.66166,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bahr el Ghazal",
+    "gn:country_code":"SS",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377891,
+    "gn:latitude":7.77555,
+    "gn:longitude":27.66166,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bahr el Ghazal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u1e29r al Ghaz\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091916187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377891
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c13ed936bf8e5230cb35dc72ca52e6ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916187,
+            "locality_id":1293405153,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1293405153,
+    "wof:lastmodified":1537701408,
+    "wof:name":"Bahr el Ghazal",
+    "wof:parent_id":1091916187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.66166,
+    7.77555,
+    27.66166,
+    7.77555
+],
+  "geometry": {"coordinates":[27.66166,7.77555],"type":"Point"}
+}

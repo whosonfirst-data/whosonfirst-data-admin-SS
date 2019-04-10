@@ -1,0 +1,67 @@
+{
+  "id": 1293902323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49276,7.24399,29.49276,7.24399",
+    "geom:latitude":7.24399,
+    "geom:longitude":29.49276,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Adull",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380071,
+    "gn:latitude":7.24399,
+    "gn:longitude":29.49276,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Adull",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380071
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a18b550f4e1d73ba1dd17f75e0de3f5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1293902323,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1293902323,
+    "wof:lastmodified":1536686218,
+    "wof:name":"Adull",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49276,
+    7.24399,
+    29.49276,
+    7.24399
+],
+  "geometry": {"coordinates":[29.49276,7.24399],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226656553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05558,8.16877,30.05558,8.16877",
+    "geom:latitude":8.16877,
+    "geom:longitude":30.05558,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Pul Lual",
+    "gn:country_code":"SS",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368512,
+    "gn:latitude":8.16877,
+    "gn:longitude":30.05558,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pul Lual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368512
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d3cffca04591bd6ee890dedccad6b566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913913,
+            "locality_id":1226656553,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1226656553,
+    "wof:lastmodified":1536842716,
+    "wof:name":"Pul Lual",
+    "wof:parent_id":1091913913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05558,
+    8.16877,
+    30.05558,
+    8.16877
+],
+  "geometry": {"coordinates":[30.05558,8.16877],"type":"Point"}
+}

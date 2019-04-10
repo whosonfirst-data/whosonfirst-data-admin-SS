@@ -1,0 +1,72 @@
+{
+  "id": 1309730885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.25631,10.11321,32.25631,10.11321",
+    "geom:latitude":10.11321,
+    "geom:longitude":32.25631,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Abiangyai",
+    "gn:country_code":"SS",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381098,
+    "gn:latitude":10.11321,
+    "gn:longitude":32.25631,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abiangyai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abiayai",
+        "Abiangyai",
+        "Abiagyai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381098
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6c85641fdfe29fc29177c0717a7507fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913653,
+            "locality_id":1309730885,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1309730885,
+    "wof:lastmodified":1537701412,
+    "wof:name":"Abiangyai",
+    "wof:parent_id":1091913653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.25631,
+    10.11321,
+    32.25631,
+    10.11321
+],
+  "geometry": {"coordinates":[32.25631,10.11321],"type":"Point"}
+}

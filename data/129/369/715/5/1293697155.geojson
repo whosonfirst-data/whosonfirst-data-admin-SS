@@ -1,0 +1,77 @@
+{
+  "id": 1293697155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.47678,6.89938,34.47678,6.89938",
+    "geom:latitude":6.89938,
+    "geom:longitude":34.47678,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fingting",
+    "gn:country_code":"SS",
+    "gn:dem":486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375365,
+    "gn:latitude":6.89938,
+    "gn:longitude":34.47678,
+    "gn:modification_date":"2013-08-07",
+    "gn:name":"Fingting",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915101,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375365
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a4df1bf71816c2681162a5fefc1a97a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915101,
+            "locality_id":1293697155,
+            "region_id":85676957
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1293697155,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1293697155,
+    "wof:lastmodified":1536981322,
+    "wof:name":"Fingting",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.47678,
+    6.89938,
+    34.47678,
+    6.89938
+],
+  "geometry": {"coordinates":[34.47678,6.89938],"type":"Point"}
+}

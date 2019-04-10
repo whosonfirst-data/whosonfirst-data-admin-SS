@@ -1,0 +1,67 @@
+{
+  "id": 1309924399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38697,5.23566,30.38697,5.23566",
+    "geom:latitude":5.23566,
+    "geom:longitude":30.38697,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gujur",
+    "gn:country_code":"SS",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7435834,
+    "gn:latitude":5.23566,
+    "gn:longitude":30.38697,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Gujur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091913781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7435834
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8c0c6ef25aeea6fec4faa1134febd2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913781,
+            "locality_id":1309924399,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1309924399,
+    "wof:lastmodified":1536760352,
+    "wof:name":"Gujur",
+    "wof:parent_id":1091913781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38697,
+    5.23566,
+    30.38697,
+    5.23566
+],
+  "geometry": {"coordinates":[30.38697,5.23566],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209022957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94711,4.07763,32.94711,4.07763",
+    "geom:latitude":4.07763,
+    "geom:longitude":32.94711,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lomo",
+    "gn:country_code":"SS",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382450,
+    "gn:latitude":4.07763,
+    "gn:longitude":32.94711,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Lomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382450
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"719cd80afe0c61837008959bbea6133c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209022957
+        }
+    ],
+    "wof:id":1209022957,
+    "wof:lastmodified":1536300089,
+    "wof:name":"Lomo",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.947109999999995,
+    4.07763,
+    32.947109999999995,
+    4.07763
+],
+  "geometry": {"coordinates":[32.94711,4.07763],"type":"Point"}
+}

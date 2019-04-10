@@ -1,0 +1,67 @@
+{
+  "id": 1327045147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84984,4.03031,32.84984,4.03031",
+    "geom:latitude":4.03031,
+    "geom:longitude":32.84984,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Itibol",
+    "gn:country_code":"SS",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382452,
+    "gn:latitude":4.03031,
+    "gn:longitude":32.84984,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Itibol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382452
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0632b2dbe0d274375951190a08149453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1327045147,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1327045147,
+    "wof:lastmodified":1536741776,
+    "wof:name":"Itibol",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84984,
+    4.03031,
+    32.84984,
+    4.03031
+],
+  "geometry": {"coordinates":[32.84984,4.03031],"type":"Point"}
+}

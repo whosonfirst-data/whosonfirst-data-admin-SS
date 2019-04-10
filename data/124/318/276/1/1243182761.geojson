@@ -1,0 +1,68 @@
+{
+  "id": 1243182761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45498,4.25458,33.45498,4.25458",
+    "geom:latitude":4.25458,
+    "geom:longitude":33.45498,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chukudum",
+    "gn:country_code":"SS",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376932,
+    "gn:latitude":4.25458,
+    "gn:longitude":33.45498,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Chukudum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376932,
+        "wk:page":"Chukudum"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7f3c1576d1a041c3490c3341091d4e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913493,
+            "locality_id":1243182761,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1243182761,
+    "wof:lastmodified":1537573764,
+    "wof:name":"Chukudum",
+    "wof:parent_id":1091913493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45498,
+    4.25458,
+    33.45498,
+    4.25458
+],
+  "geometry": {"coordinates":[33.45498,4.25458],"type":"Point"}
+}

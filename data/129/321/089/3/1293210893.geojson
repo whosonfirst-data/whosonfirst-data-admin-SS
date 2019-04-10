@@ -1,0 +1,67 @@
+{
+  "id": 1293210893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50794,4.42829,32.50794,4.42829",
+    "geom:latitude":4.42829,
+    "geom:longitude":32.50794,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lumo",
+    "gn:country_code":"SS",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382435,
+    "gn:latitude":4.42829,
+    "gn:longitude":32.50794,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Lumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382435
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c98ca6041739af61114fbf5c87b4d0e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1293210893,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1293210893,
+    "wof:lastmodified":1536688799,
+    "wof:name":"Lumo",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50794,
+    4.42829,
+    32.50794,
+    4.42829
+],
+  "geometry": {"coordinates":[32.50794,4.42829],"type":"Point"}
+}

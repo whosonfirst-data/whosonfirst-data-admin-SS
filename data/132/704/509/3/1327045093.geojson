@@ -1,0 +1,71 @@
+{
+  "id": 1327045093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38279,5.73269,31.38279,5.73269",
+    "geom:latitude":5.73269,
+    "geom:longitude":31.38279,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Maralin",
+    "gn:country_code":"SS",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370491,
+    "gn:latitude":5.73269,
+    "gn:longitude":31.38279,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Maralin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maralinn",
+        "Maralin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370491
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"dcd65c59aac5ee2f702a29dc1aab3dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1327045093,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1327045093,
+    "wof:lastmodified":1537701394,
+    "wof:name":"Maralin",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38279,
+    5.73269,
+    31.38279,
+    5.73269
+],
+  "geometry": {"coordinates":[31.38279,5.73269],"type":"Point"}
+}

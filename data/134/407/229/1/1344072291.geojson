@@ -1,0 +1,67 @@
+{
+  "id": 1344072291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.235,8.43717,26.235,8.43717",
+    "geom:latitude":8.43717,
+    "geom:longitude":26.235,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Guru",
+    "gn:country_code":"SS",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374547,
+    "gn:latitude":8.43717,
+    "gn:longitude":26.235,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Guru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374547
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8a302e3757b454feb4160fe684befe78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913401,
+            "locality_id":1344072291,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1344072291,
+    "wof:lastmodified":1536857148,
+    "wof:name":"Guru",
+    "wof:parent_id":1091913401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.235,
+    8.43717,
+    26.235,
+    8.43717
+],
+  "geometry": {"coordinates":[26.235,8.43717],"type":"Point"}
+}

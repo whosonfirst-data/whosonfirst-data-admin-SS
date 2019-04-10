@@ -1,0 +1,67 @@
+{
+  "id": 1293506081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.67024,7.67515,28.67024,7.67515",
+    "geom:latitude":7.67515,
+    "geom:longitude":28.67024,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Morchol",
+    "gn:country_code":"SS",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369878,
+    "gn:latitude":7.67515,
+    "gn:longitude":28.67024,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Morchol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369878
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c9f561c13da2f6f1ced7e284712d51c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914221,
+            "locality_id":1293506081,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1293506081,
+    "wof:lastmodified":1536760436,
+    "wof:name":"Morchol",
+    "wof:parent_id":1091914221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.67024,
+    7.67515,
+    28.67024,
+    7.67515
+],
+  "geometry": {"coordinates":[28.67024,7.67515],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243274547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1761,4.05598,33.1761,4.05598",
+    "geom:latitude":4.05598,
+    "geom:longitude":33.1761,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ramirok",
+    "gn:country_code":"SS",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382345,
+    "gn:latitude":4.05598,
+    "gn:longitude":33.1761,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Ramirok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382345
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1ff15f8987241313e9e7a6f91508e95d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1243274547,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1243274547,
+    "wof:lastmodified":1537051101,
+    "wof:name":"Ramirok",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1761,
+    4.05598,
+    33.1761,
+    4.05598
+],
+  "geometry": {"coordinates":[33.1761,4.05598],"type":"Point"}
+}

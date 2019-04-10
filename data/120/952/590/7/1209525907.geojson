@@ -1,0 +1,65 @@
+{
+  "id": 1209525907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45992,10.23561,32.45992,10.23561",
+    "geom:latitude":10.23561,
+    "geom:longitude":32.45992,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wunachwil",
+    "gn:country_code":"SS",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363751,
+    "gn:latitude":10.23561,
+    "gn:longitude":32.45992,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wunachwil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wunachfiel",
+        "Wunachwil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363751
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5ba2a11318570c898975e482278d95f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209525907
+        }
+    ],
+    "wof:id":1209525907,
+    "wof:lastmodified":1537701382,
+    "wof:name":"Wunachwil",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45992,
+    10.23561,
+    32.45992,
+    10.23561
+],
+  "geometry": {"coordinates":[32.45992,10.23561],"type":"Point"}
+}

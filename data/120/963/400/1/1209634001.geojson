@@ -1,0 +1,61 @@
+{
+  "id": 1209634001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32517,4.32837,33.32517,4.32837",
+    "geom:latitude":4.32837,
+    "geom:longitude":33.32517,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lochar",
+    "gn:country_code":"SS",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371338,
+    "gn:latitude":4.32837,
+    "gn:longitude":33.32517,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Lochar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371338
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cbc66e665328f47994b2992f72428509",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209634001
+        }
+    ],
+    "wof:id":1209634001,
+    "wof:lastmodified":1536281100,
+    "wof:name":"Lochar",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32517,
+    4.32837,
+    33.32517,
+    4.32837
+],
+  "geometry": {"coordinates":[33.32517,4.32837],"type":"Point"}
+}

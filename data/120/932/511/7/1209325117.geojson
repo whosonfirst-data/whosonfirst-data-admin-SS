@@ -1,0 +1,61 @@
+{
+  "id": 1209325117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.9749,9.17816,26.9749,9.17816",
+    "geom:latitude":9.17816,
+    "geom:longitude":26.9749,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kwol",
+    "gn:country_code":"SS",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149334,
+    "gn:latitude":9.17816,
+    "gn:longitude":26.9749,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kwol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149334
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"bd6a89b762a87f027f78c9df21062d71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209325117
+        }
+    ],
+    "wof:id":1209325117,
+    "wof:lastmodified":1536290557,
+    "wof:name":"Kwol",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.9749,
+    9.17816,
+    26.9749,
+    9.17816
+],
+  "geometry": {"coordinates":[26.9749,9.17816],"type":"Point"}
+}

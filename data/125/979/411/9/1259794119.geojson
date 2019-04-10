@@ -1,0 +1,71 @@
+{
+  "id": 1259794119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.23962,8.45663,28.23962,8.45663",
+    "geom:latitude":8.45663,
+    "geom:longitude":28.23962,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"N'gab Riang",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369252,
+    "gn:latitude":8.45663,
+    "gn:longitude":28.23962,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"N\u2019gab Riang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019gob Riang",
+        "N\u2019gab Riang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091913463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369252
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5e48dc97576925688d76e990d5ba548d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913463,
+            "locality_id":1259794119,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1259794119,
+    "wof:lastmodified":1537701392,
+    "wof:name":"N'gab Riang",
+    "wof:parent_id":1091913463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.23962,
+    8.45663,
+    28.23962,
+    8.45663
+],
+  "geometry": {"coordinates":[28.23962,8.45663],"type":"Point"}
+}

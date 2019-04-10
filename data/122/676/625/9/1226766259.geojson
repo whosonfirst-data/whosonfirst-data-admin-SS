@@ -1,0 +1,67 @@
+{
+  "id": 1226766259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21429,5.79992,31.21429,5.79992",
+    "geom:latitude":5.79992,
+    "geom:longitude":31.21429,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gillut",
+    "gn:country_code":"SS",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382497,
+    "gn:latitude":5.79992,
+    "gn:longitude":31.21429,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Gillut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382497
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8e997b91f47ae31fa171cd3cdf2caf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1226766259,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1226766259,
+    "wof:lastmodified":1536686015,
+    "wof:name":"Gillut",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21429,
+    5.79992,
+    31.21429,
+    5.79992
+],
+  "geometry": {"coordinates":[31.21429,5.79992],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243382351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53034,7.79802,31.53034,7.79802",
+    "geom:latitude":7.79802,
+    "geom:longitude":31.53034,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Duk Warawar",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8174533,
+    "gn:latitude":7.79802,
+    "gn:longitude":31.53034,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Duk Warawar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8174533
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a0efa3cec9e2db0654fc6cd27d854280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915449,
+            "locality_id":1243382351,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1243382351,
+    "wof:lastmodified":1536897918,
+    "wof:name":"Duk Warawar",
+    "wof:parent_id":1091915449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53034,
+    7.79802,
+    31.53034,
+    7.79802
+],
+  "geometry": {"coordinates":[31.53034,7.79802],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360195189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70227,9.16292,31.70227,9.16292",
+    "geom:latitude":9.16292,
+    "geom:longitude":31.70227,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Buingfiort",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377172,
+    "gn:latitude":9.16292,
+    "gn:longitude":31.70227,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Buingfiort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bungfiort",
+        "Buingfiort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377172
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3fe8626a343c5f193b92a7dc566401bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913821,
+            "locality_id":1360195189,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1360195189,
+    "wof:lastmodified":1537701407,
+    "wof:name":"Buingfiort",
+    "wof:parent_id":1091913821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70227,
+    9.16292,
+    31.70227,
+    9.16292
+],
+  "geometry": {"coordinates":[31.70227,9.16292],"type":"Point"}
+}

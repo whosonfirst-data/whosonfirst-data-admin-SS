@@ -1,0 +1,67 @@
+{
+  "id": 1310320303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54748,6.51171,31.54748,6.51171",
+    "geom:latitude":6.51171,
+    "geom:longitude":31.54748,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fatoich",
+    "gn:country_code":"SS",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375436,
+    "gn:latitude":6.51171,
+    "gn:longitude":31.54748,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fatoich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375436
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d9300bcc4ff101659be5246347327c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914581,
+            "locality_id":1310320303,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1310320303,
+    "wof:lastmodified":1536686511,
+    "wof:name":"Fatoich",
+    "wof:parent_id":1091914581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54748,
+    6.51171,
+    31.54748,
+    6.51171
+],
+  "geometry": {"coordinates":[31.54748,6.51171],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193151963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2,4.03333,30.2,4.03333",
+    "geom:latitude":4.03333,
+    "geom:longitude":30.2,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lakima",
+    "gn:country_code":"SS",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371601,
+    "gn:latitude":4.03333,
+    "gn:longitude":30.2,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Lakima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371601
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9aa8f1656e47d9c7fa4830aa3df7f7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1193151963,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1193151963,
+    "wof:lastmodified":1536377273,
+    "wof:name":"Lakima",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2,
+    4.03333,
+    30.2,
+    4.03333
+],
+  "geometry": {"coordinates":[30.2,4.03333],"type":"Point"}
+}

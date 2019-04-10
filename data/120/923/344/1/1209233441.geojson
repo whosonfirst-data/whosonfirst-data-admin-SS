@@ -1,0 +1,61 @@
+{
+  "id": 1209233441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32961,7.78886,31.32961,7.78886",
+    "geom:latitude":7.78886,
+    "geom:longitude":31.32961,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Deng",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376558,
+    "gn:latitude":7.78886,
+    "gn:longitude":31.32961,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Deng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376558
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"78e89dbf43b2f72f6a7952472b5730a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209233441
+        }
+    ],
+    "wof:id":1209233441,
+    "wof:lastmodified":1536293564,
+    "wof:name":"Deng",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32961,
+    7.7888600000000014,
+    31.32961,
+    7.7888600000000014
+],
+  "geometry": {"coordinates":[31.32961,7.78886],"type":"Point"}
+}

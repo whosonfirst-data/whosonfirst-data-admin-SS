@@ -1,0 +1,67 @@
+{
+  "id": 1343571797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.35631,8.52958,26.35631,8.52958",
+    "geom:latitude":8.52958,
+    "geom:longitude":26.35631,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kira",
+    "gn:country_code":"SS",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372372,
+    "gn:latitude":8.52958,
+    "gn:longitude":26.35631,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Kira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372372
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b860d9f15bdc00c72eaccc086084b32a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913401,
+            "locality_id":1343571797,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1343571797,
+    "wof:lastmodified":1537079860,
+    "wof:name":"Kira",
+    "wof:parent_id":1091913401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.35631,
+    8.52958,
+    26.35631,
+    8.52958
+],
+  "geometry": {"coordinates":[26.35631,8.52958],"type":"Point"}
+}

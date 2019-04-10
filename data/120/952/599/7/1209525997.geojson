@@ -1,0 +1,61 @@
+{
+  "id": 1209525997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30272,8.75048,33.30272,8.75048",
+    "geom:latitude":8.75048,
+    "geom:longitude":33.30272,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kirmut",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374915,
+    "gn:latitude":8.75048,
+    "gn:longitude":33.30272,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Kirmut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374915
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"da8b67b0645ace07e055054c77de84cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209525997
+        }
+    ],
+    "wof:id":1209525997,
+    "wof:lastmodified":1536284429,
+    "wof:name":"Kirmut",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30272,
+    8.75048,
+    33.30272,
+    8.75048
+],
+  "geometry": {"coordinates":[33.30272,8.75048],"type":"Point"}
+}

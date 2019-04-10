@@ -1,0 +1,61 @@
+{
+  "id": 1209430007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.50553,8.2972,27.50553,8.2972",
+    "geom:latitude":8.2972,
+    "geom:longitude":27.50553,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Matong",
+    "gn:country_code":"SS",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431162,
+    "gn:latitude":8.2972,
+    "gn:longitude":27.50553,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Matong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431162
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9adea1708f967e49764e78847d5a10fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209430007
+        }
+    ],
+    "wof:id":1209430007,
+    "wof:lastmodified":1536287263,
+    "wof:name":"Matong",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50553,
+    8.2972,
+    27.50553,
+    8.2972
+],
+  "geometry": {"coordinates":[27.50553,8.2972],"type":"Point"}
+}

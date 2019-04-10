@@ -1,0 +1,61 @@
+{
+  "id": 1209225197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.18845,9.12546,27.18845,9.12546",
+    "geom:latitude":9.12546,
+    "geom:longitude":27.18845,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Gok",
+    "gn:country_code":"SS",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416359,
+    "gn:latitude":9.12546,
+    "gn:longitude":27.18845,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Gok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416359
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0e2ad5f7871df9aaab2401e45c349184",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209225197
+        }
+    ],
+    "wof:id":1209225197,
+    "wof:lastmodified":1536293820,
+    "wof:name":"Gok",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18845,
+    9.12546,
+    27.18845,
+    9.12546
+],
+  "geometry": {"coordinates":[27.18845,9.12546],"type":"Point"}
+}

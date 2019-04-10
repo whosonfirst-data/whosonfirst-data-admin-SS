@@ -1,0 +1,67 @@
+{
+  "id": 1276883961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50433,4.24131,32.50433,4.24131",
+    "geom:latitude":4.24131,
+    "geom:longitude":32.50433,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Gonyiro",
+    "gn:country_code":"SS",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374704,
+    "gn:latitude":4.24131,
+    "gn:longitude":32.50433,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Gonyiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374704
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"338af09ae7082f80e950afd33e65513b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1276883961,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1276883961,
+    "wof:lastmodified":1537034071,
+    "wof:name":"Gonyiro",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50433,
+    4.24131,
+    32.50433,
+    4.24131
+],
+  "geometry": {"coordinates":[32.50433,4.24131],"type":"Point"}
+}

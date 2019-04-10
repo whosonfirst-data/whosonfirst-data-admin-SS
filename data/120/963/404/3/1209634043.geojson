@@ -1,0 +1,61 @@
+{
+  "id": 1209634043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78952,4.24773,30.78952,4.24773",
+    "geom:latitude":4.24773,
+    "geom:longitude":30.78952,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Morsak",
+    "gn:country_code":"SS",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382615,
+    "gn:latitude":4.24773,
+    "gn:longitude":30.78952,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Morsak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382615
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4713ba50308ade944ed7fb9fe19c3c3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209634043
+        }
+    ],
+    "wof:id":1209634043,
+    "wof:lastmodified":1536281099,
+    "wof:name":"Morsak",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78952,
+    4.247730000000002,
+    30.78952,
+    4.247730000000002
+],
+  "geometry": {"coordinates":[30.78952,4.24773],"type":"Point"}
+}

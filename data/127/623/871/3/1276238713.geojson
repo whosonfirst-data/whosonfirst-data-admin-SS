@@ -1,0 +1,70 @@
+{
+  "id": 1276238713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66717,8.18916,30.66717,8.18916",
+    "geom:latitude":8.18916,
+    "geom:longitude":30.66717,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gemmeiza",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381761,
+    "gn:latitude":8.18916,
+    "gn:longitude":30.66717,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Gemmeiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jummayzah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381761
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"dd727b8753eca0ae8800c925641a3748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1276238713,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276238713,
+    "wof:lastmodified":1537701414,
+    "wof:name":"Gemmeiza",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66717,
+    8.18916,
+    30.66717,
+    8.18916
+],
+  "geometry": {"coordinates":[30.66717,8.18916],"type":"Point"}
+}

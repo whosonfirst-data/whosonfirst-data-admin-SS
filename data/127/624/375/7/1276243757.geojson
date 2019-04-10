@@ -1,0 +1,67 @@
+{
+  "id": 1276243757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04368,6.58875,31.04368,6.58875",
+    "geom:latitude":6.58875,
+    "geom:longitude":31.04368,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Buol",
+    "gn:country_code":"SS",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382128,
+    "gn:latitude":6.58875,
+    "gn:longitude":31.04368,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Buol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382128
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8332a44f8ae49525de03b4d8d7ac2730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1276243757,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1276243757,
+    "wof:lastmodified":1536898601,
+    "wof:name":"Buol",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04368,
+    6.58875,
+    31.04368,
+    6.58875
+],
+  "geometry": {"coordinates":[31.04368,6.58875],"type":"Point"}
+}

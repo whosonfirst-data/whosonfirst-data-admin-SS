@@ -1,0 +1,67 @@
+{
+  "id": 1309924423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.39265,7.10412,29.39265,7.10412",
+    "geom:latitude":7.10412,
+    "geom:longitude":29.39265,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Achod",
+    "gn:country_code":"SS",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381872,
+    "gn:latitude":7.10412,
+    "gn:longitude":29.39265,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Achod",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381872
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7c904c431de5ca2ab30970098530db27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1309924423,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1309924423,
+    "wof:lastmodified":1536760317,
+    "wof:name":"Achod",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.39265,
+    7.10412,
+    29.39265,
+    7.10412
+],
+  "geometry": {"coordinates":[29.39265,7.10412],"type":"Point"}
+}

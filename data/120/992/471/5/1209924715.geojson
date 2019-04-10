@@ -1,0 +1,67 @@
+{
+  "id": 1209924715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3771,6.29943,30.3771,6.29943",
+    "geom:latitude":6.29943,
+    "geom:longitude":30.3771,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aruli",
+    "gn:country_code":"SS",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431914,
+    "gn:latitude":6.29943,
+    "gn:longitude":30.3771,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Aruli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431914
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7bc43ec5bb690924c3bb3711c48b5b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914585,
+            "locality_id":1209924715,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1209924715,
+    "wof:lastmodified":1536395415,
+    "wof:name":"Aruli",
+    "wof:parent_id":1091914585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3771,
+    6.29943,
+    30.3771,
+    6.29943
+],
+  "geometry": {"coordinates":[30.3771,6.29943],"type":"Point"}
+}

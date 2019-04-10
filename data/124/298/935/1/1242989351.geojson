@@ -1,0 +1,72 @@
+{
+  "id": 1242989351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6196,11.2928,32.6196,11.2928",
+    "geom:latitude":11.2928,
+    "geom:longitude":32.6196,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Debbat Nabaqaya",
+    "gn:country_code":"SS",
+    "gn:dem":379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369526,
+    "gn:latitude":11.2928,
+    "gn:longitude":32.6196,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Debbat Nabaqaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabaqaya",
+        "Nabaq\u0101yah",
+        "Debbat Nabaqaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369526
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a5d1b6ce9b8ef4aa88005ac5c2657836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914927,
+            "locality_id":1242989351,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1242989351,
+    "wof:lastmodified":1537701392,
+    "wof:name":"Debbat Nabaqaya",
+    "wof:parent_id":1091914927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6196,
+    11.2928,
+    32.6196,
+    11.2928
+],
+  "geometry": {"coordinates":[32.6196,11.2928],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226153579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81199,6.17785,31.81199,6.17785",
+    "geom:latitude":6.17785,
+    "geom:longitude":31.81199,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kwal Tiu",
+    "gn:country_code":"SS",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371709,
+    "gn:latitude":6.17785,
+    "gn:longitude":31.81199,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kwal Tiu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371709
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1e5d5ef7f892113a2c857f6aaa81f9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914581,
+            "locality_id":1226153579,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1226153579,
+    "wof:lastmodified":1537063493,
+    "wof:name":"Kwal Tiu",
+    "wof:parent_id":1091914581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81199,
+    6.17785,
+    31.81199,
+    6.17785
+],
+  "geometry": {"coordinates":[31.81199,6.17785],"type":"Point"}
+}

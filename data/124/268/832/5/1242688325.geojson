@@ -1,0 +1,67 @@
+{
+  "id": 1242688325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91685,9.38915,30.91685,9.38915",
+    "geom:latitude":9.38915,
+    "geom:longitude":30.91685,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Thukak",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366081,
+    "gn:latitude":9.38915,
+    "gn:longitude":30.91685,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Thukak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366081
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b9469d129c9f5058d67f3dcc674fd39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1242688325,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1242688325,
+    "wof:lastmodified":1536904369,
+    "wof:name":"Thukak",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91685,
+    9.38915,
+    30.91685,
+    9.38915
+],
+  "geometry": {"coordinates":[30.91685,9.38915],"type":"Point"}
+}

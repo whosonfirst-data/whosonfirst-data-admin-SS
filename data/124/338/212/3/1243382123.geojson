@@ -1,0 +1,70 @@
+{
+  "id": 1243382123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49847,9.01047,33.49847,9.01047",
+    "geom:latitude":9.01047,
+    "geom:longitude":33.49847,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mathiang",
+    "gn:country_code":"SS",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369731,
+    "gn:latitude":9.01047,
+    "gn:longitude":33.49847,
+    "gn:modification_date":"2015-02-27",
+    "gn:name":"Mathiang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Multhiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369731
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b6084655296c06aa8f726797d3933d75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915801,
+            "locality_id":1243382123,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1243382123,
+    "wof:lastmodified":1537701392,
+    "wof:name":"Mathiang",
+    "wof:parent_id":1091915801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49847,
+    9.01047,
+    33.49847,
+    9.01047
+],
+  "geometry": {"coordinates":[33.49847,9.01047],"type":"Point"}
+}

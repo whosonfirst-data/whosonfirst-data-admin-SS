@@ -1,0 +1,61 @@
+{
+  "id": 1209325107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.48253,9.09646,24.48253,9.09646",
+    "geom:latitude":9.09646,
+    "geom:longitude":24.48253,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Diofo",
+    "gn:country_code":"SS",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376416,
+    "gn:latitude":9.09646,
+    "gn:longitude":24.48253,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Diofo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376416
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f16b4152049a55f5e29d64ff63c56f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209325107
+        }
+    ],
+    "wof:id":1209325107,
+    "wof:lastmodified":1536290557,
+    "wof:name":"Diofo",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.48253,
+    9.09646,
+    24.48253,
+    9.09646
+],
+  "geometry": {"coordinates":[24.48253,9.09646],"type":"Point"}
+}

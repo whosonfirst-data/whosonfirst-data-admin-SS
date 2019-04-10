@@ -1,0 +1,67 @@
+{
+  "id": 1326945309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.77332,6.76101,29.77332,6.76101",
+    "geom:latitude":6.76101,
+    "geom:longitude":29.77332,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kurur",
+    "gn:country_code":"SS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371780,
+    "gn:latitude":6.76101,
+    "gn:longitude":29.77332,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Kurur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371780
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"89e5535f6f390325030b80445f3007b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914045,
+            "locality_id":1326945309,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1326945309,
+    "wof:lastmodified":1536885390,
+    "wof:name":"Kurur",
+    "wof:parent_id":1091914045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.77332,
+    6.76101,
+    29.77332,
+    6.76101
+],
+  "geometry": {"coordinates":[29.77332,6.76101],"type":"Point"}
+}

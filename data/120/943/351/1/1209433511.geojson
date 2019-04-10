@@ -1,0 +1,61 @@
+{
+  "id": 1209433511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31542,8.65108,28.31542,8.65108",
+    "geom:latitude":8.65108,
+    "geom:longitude":28.31542,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Riet",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061275,
+    "gn:latitude":8.65108,
+    "gn:longitude":28.31542,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Riet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061275
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3e279c7dc32338c6fa09fdab7c0dce61",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209433511
+        }
+    ],
+    "wof:id":1209433511,
+    "wof:lastmodified":1536287168,
+    "wof:name":"Riet",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31542,
+    8.65108,
+    28.31542,
+    8.65108
+],
+  "geometry": {"coordinates":[28.31542,8.65108],"type":"Point"}
+}

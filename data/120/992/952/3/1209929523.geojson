@@ -1,0 +1,72 @@
+{
+  "id": 1209929523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08333,8.51667,34.08333,8.51667",
+    "geom:latitude":8.51667,
+    "geom:longitude":34.08333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gwa",
+    "gn:country_code":"SS",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":374537,
+    "gn:latitude":8.51667,
+    "gn:longitude":34.08333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaka",
+        "Gwaa",
+        "Gwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671137,
+        421171033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":374537
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b8d786083d6a50913213c79d52ad0d6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":421171033,
+            "locality_id":1209929523,
+            "region_id":85671137
+        }
+    ],
+    "wof:id":1209929523,
+    "wof:lastmodified":1537701401,
+    "wof:name":"Gwa",
+    "wof:parent_id":421171033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08333,
+    8.51667,
+    34.08333,
+    8.51667
+],
+  "geometry": {"coordinates":[34.08333,8.51667],"type":"Point"}
+}

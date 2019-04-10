@@ -1,0 +1,67 @@
+{
+  "id": 1310315531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.12426,8.19343,30.12426,8.19343",
+    "geom:latitude":8.19343,
+    "geom:longitude":30.12426,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rupchai",
+    "gn:country_code":"SS",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367911,
+    "gn:latitude":8.19343,
+    "gn:longitude":30.12426,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Rupchai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367911
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7c86e4d171c923f89a2eabae74cbc5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915755,
+            "locality_id":1310315531,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1310315531,
+    "wof:lastmodified":1536693571,
+    "wof:name":"Rupchai",
+    "wof:parent_id":1091915755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12426,
+    8.19343,
+    30.12426,
+    8.19343
+],
+  "geometry": {"coordinates":[30.12426,8.19343],"type":"Point"}
+}

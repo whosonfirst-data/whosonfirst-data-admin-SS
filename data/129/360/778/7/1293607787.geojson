@@ -1,0 +1,67 @@
+{
+  "id": 1293607787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63897,8.92279,27.63897,8.92279",
+    "geom:latitude":8.92279,
+    "geom:longitude":27.63897,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Madal",
+    "gn:country_code":"SS",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430664,
+    "gn:latitude":8.92279,
+    "gn:longitude":27.63897,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Madal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430664
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f3ded80e6ae8e13fa775cc822de10958",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913403,
+            "locality_id":1293607787,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1293607787,
+    "wof:lastmodified":1536611139,
+    "wof:name":"Madal",
+    "wof:parent_id":1091913403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63897,
+    8.92279,
+    27.63897,
+    8.92279
+],
+  "geometry": {"coordinates":[27.63897,8.92279],"type":"Point"}
+}

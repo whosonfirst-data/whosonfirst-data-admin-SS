@@ -1,0 +1,70 @@
+{
+  "id": 1327450079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.32764,4.80833,30.32764,4.80833",
+    "geom:latitude":4.80833,
+    "geom:longitude":30.32764,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bangalo",
+    "gn:country_code":"SS",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363721,
+    "gn:latitude":4.80833,
+    "gn:longitude":30.32764,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bangalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuneba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091913781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363721
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b50d03e61447dd82022ebaa068407a85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913781,
+            "locality_id":1327450079,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1327450079,
+    "wof:lastmodified":1537701381,
+    "wof:name":"Bangalo",
+    "wof:parent_id":1091913781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.32764,
+    4.80833,
+    30.32764,
+    4.80833
+],
+  "geometry": {"coordinates":[30.32764,4.80833],"type":"Point"}
+}

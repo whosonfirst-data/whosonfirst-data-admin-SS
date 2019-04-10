@@ -1,0 +1,67 @@
+{
+  "id": 1243190965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.94656,8.13993,25.94656,8.13993",
+    "geom:latitude":8.13993,
+    "geom:longitude":25.94656,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Umm Tugulgul",
+    "gn:country_code":"SS",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364515,
+    "gn:latitude":8.13993,
+    "gn:longitude":25.94656,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Umm Tugulgul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364515
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ebb2bc1c4220c372920ad75de7d13317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1243190965,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1243190965,
+    "wof:lastmodified":1536676868,
+    "wof:name":"Umm Tugulgul",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.94656,
+    8.13993,
+    25.94656,
+    8.13993
+],
+  "geometry": {"coordinates":[25.94656,8.13993],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327348661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82983,7.12055,33.82983,7.12055",
+    "geom:latitude":7.12055,
+    "geom:longitude":33.82983,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Utalo",
+    "gn:country_code":"SS",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364379,
+    "gn:latitude":7.12055,
+    "gn:longitude":33.82983,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Utalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364379
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"20e37039e3fa426126ca247abfe91e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915101,
+            "locality_id":1327348661,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1327348661,
+    "wof:lastmodified":1536801682,
+    "wof:name":"Utalo",
+    "wof:parent_id":1091915101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82983,
+    7.12055,
+    33.82983,
+    7.12055
+],
+  "geometry": {"coordinates":[33.82983,7.12055],"type":"Point"}
+}

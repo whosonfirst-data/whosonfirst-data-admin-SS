@@ -1,0 +1,67 @@
+{
+  "id": 1259601785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97564,5.81699,29.97564,5.81699",
+    "geom:latitude":5.81699,
+    "geom:longitude":29.97564,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dabai",
+    "gn:country_code":"SS",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376916,
+    "gn:latitude":5.81699,
+    "gn:longitude":29.97564,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Dabai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376916
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3221ecf07fcd485eb16f6d78eb39f9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915945,
+            "locality_id":1259601785,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1259601785,
+    "wof:lastmodified":1536688510,
+    "wof:name":"Dabai",
+    "wof:parent_id":1091915945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97564,
+    5.81699,
+    29.97564,
+    5.81699
+],
+  "geometry": {"coordinates":[29.97564,5.81699],"type":"Point"}
+}

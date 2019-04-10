@@ -1,0 +1,67 @@
+{
+  "id": 1226261341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65287,5.04599,31.65287,5.04599",
+    "geom:latitude":5.04599,
+    "geom:longitude":31.65287,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jalang",
+    "gn:country_code":"SS",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373418,
+    "gn:latitude":5.04599,
+    "gn:longitude":31.65287,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Jalang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091915677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373418
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b6a4b2bc1bf36c9a10b61b37d66a7626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915677,
+            "locality_id":1226261341,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1226261341,
+    "wof:lastmodified":1536911506,
+    "wof:name":"Jalang",
+    "wof:parent_id":1091915677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65287,
+    5.04599,
+    31.65287,
+    5.04599
+],
+  "geometry": {"coordinates":[31.65287,5.04599],"type":"Point"}
+}

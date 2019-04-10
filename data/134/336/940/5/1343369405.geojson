@@ -1,0 +1,67 @@
+{
+  "id": 1343369405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83406,6.92824,30.83406,6.92824",
+    "geom:latitude":6.92824,
+    "geom:longitude":30.83406,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nyachir",
+    "gn:country_code":"SS",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382050,
+    "gn:latitude":6.92824,
+    "gn:longitude":30.83406,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Nyachir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382050
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2531005a309b540e2582a23844cf65af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1343369405,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1343369405,
+    "wof:lastmodified":1536876631,
+    "wof:name":"Nyachir",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83406,
+    6.92824,
+    30.83406,
+    6.92824
+],
+  "geometry": {"coordinates":[30.83406,6.92824],"type":"Point"}
+}

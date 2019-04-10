@@ -1,0 +1,67 @@
+{
+  "id": 1276558381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48351,4.91184,31.48351,4.91184",
+    "geom:latitude":4.91184,
+    "geom:longitude":31.48351,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pitia",
+    "gn:country_code":"SS",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368538,
+    "gn:latitude":4.91184,
+    "gn:longitude":31.48351,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Pitia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091915677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368538
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"04791bf0d00978e62e7759b6b55e901c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915677,
+            "locality_id":1276558381,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1276558381,
+    "wof:lastmodified":1536973982,
+    "wof:name":"Pitia",
+    "wof:parent_id":1091915677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48351,
+    4.91184,
+    31.48351,
+    4.91184
+],
+  "geometry": {"coordinates":[31.48351,4.91184],"type":"Point"}
+}

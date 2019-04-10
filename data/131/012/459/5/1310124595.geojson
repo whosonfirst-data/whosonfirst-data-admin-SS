@@ -1,0 +1,67 @@
+{
+  "id": 1310124595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.20436,8.44882,33.20436,8.44882",
+    "geom:latitude":8.44882,
+    "geom:longitude":33.20436,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kwat",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375864,
+    "gn:latitude":8.44882,
+    "gn:longitude":33.20436,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Kwat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375864
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"554f40a7a0e8d210028b784c4ac7b8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913609,
+            "locality_id":1310124595,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1310124595,
+    "wof:lastmodified":1536968654,
+    "wof:name":"Kwat",
+    "wof:parent_id":1091913609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.20436,
+    8.44882,
+    33.20436,
+    8.44882
+],
+  "geometry": {"coordinates":[33.20436,8.44882],"type":"Point"}
+}

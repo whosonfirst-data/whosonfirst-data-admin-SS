@@ -1,0 +1,67 @@
+{
+  "id": 1293599647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12762,4.79273,29.12762,4.79273",
+    "geom:latitude":4.79273,
+    "geom:longitude":29.12762,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ibba",
+    "gn:country_code":"SS",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373653,
+    "gn:latitude":4.79273,
+    "gn:longitude":29.12762,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Ibba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373653
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2aaaea26ed76b606a107b1695d989d1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914701,
+            "locality_id":1293599647,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1293599647,
+    "wof:lastmodified":1536623335,
+    "wof:name":"Ibba",
+    "wof:parent_id":1091914701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12762,
+    4.79273,
+    29.12762,
+    4.79273
+],
+  "geometry": {"coordinates":[29.12762,4.79273],"type":"Point"}
+}

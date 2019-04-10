@@ -1,0 +1,67 @@
+{
+  "id": 1242788143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59495,9.17678,31.59495,9.17678",
+    "geom:latitude":9.17678,
+    "geom:longitude":31.59495,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Angnor",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378768,
+    "gn:latitude":9.17678,
+    "gn:longitude":31.59495,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Angnor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378768
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e462c6b1816430f020656313920d0af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913821,
+            "locality_id":1242788143,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1242788143,
+    "wof:lastmodified":1536760495,
+    "wof:name":"Angnor",
+    "wof:parent_id":1091913821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59495,
+    9.17678,
+    31.59495,
+    9.17678
+],
+  "geometry": {"coordinates":[31.59495,9.17678],"type":"Point"}
+}

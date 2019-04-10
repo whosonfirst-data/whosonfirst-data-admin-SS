@@ -1,0 +1,67 @@
+{
+  "id": 1310424349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45706,4.9086,33.45706,4.9086",
+    "geom:latitude":4.9086,
+    "geom:longitude":33.45706,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lumeyen",
+    "gn:country_code":"SS",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371054,
+    "gn:latitude":4.9086,
+    "gn:longitude":33.45706,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Lumeyen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371054
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"78c1fa5d3cced122c194705201dc95d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913517,
+            "locality_id":1310424349,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1310424349,
+    "wof:lastmodified":1537032626,
+    "wof:name":"Lumeyen",
+    "wof:parent_id":1091913517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45706,
+    4.9086,
+    33.45706,
+    4.9086
+],
+  "geometry": {"coordinates":[33.45706,4.9086],"type":"Point"}
+}

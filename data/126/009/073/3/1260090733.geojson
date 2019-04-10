@@ -1,0 +1,67 @@
+{
+  "id": 1260090733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56896,4.75831,33.56896,4.75831",
+    "geom:latitude":4.75831,
+    "geom:longitude":33.56896,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Morugurn",
+    "gn:country_code":"SS",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369857,
+    "gn:latitude":4.75831,
+    "gn:longitude":33.56896,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Morugurn",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091915407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369857
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f5a496f23e81b4118d22211b81b95fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915407,
+            "locality_id":1260090733,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1260090733,
+    "wof:lastmodified":1536976913,
+    "wof:name":"Morugurn",
+    "wof:parent_id":1091915407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56896,
+    4.75831,
+    33.56896,
+    4.75831
+],
+  "geometry": {"coordinates":[33.56896,4.75831],"type":"Point"}
+}

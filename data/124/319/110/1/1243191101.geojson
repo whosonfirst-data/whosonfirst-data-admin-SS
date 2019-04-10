@@ -1,0 +1,67 @@
+{
+  "id": 1243191101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70724,4.89022,33.70724,4.89022",
+    "geom:latitude":4.89022,
+    "geom:longitude":33.70724,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nangolet",
+    "gn:country_code":"SS",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369404,
+    "gn:latitude":4.89022,
+    "gn:longitude":33.70724,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Nangolet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369404
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"89a68586ee113893ad0c882e2a869da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914791,
+            "locality_id":1243191101,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1243191101,
+    "wof:lastmodified":1536676665,
+    "wof:name":"Nangolet",
+    "wof:parent_id":1091914791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70724000000001,
+    4.89022,
+    33.70724000000001,
+    4.89022
+],
+  "geometry": {"coordinates":[33.70724000000001,4.89022],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243203307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40904,8.12193,31.40904,8.12193",
+    "geom:latitude":8.12193,
+    "geom:longitude":31.40904,
+    "gn:admin1_code":"11550580",
+    "gn:asciiname":"Ayod",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":378039,
+    "gn:latitude":8.12193,
+    "gn:longitude":31.40904,
+    "gn:modification_date":"2017-06-15",
+    "gn:name":"Ayod",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duk Ayod",
+        "Duk Yod",
+        "Ayod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378039,
+        "wk:page":"Ayod"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7d145dbe45779939a07b0f7f3156d1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1243203307,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1243203307,
+    "wof:lastmodified":1537701408,
+    "wof:name":"Ayod",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40904,
+    8.12193,
+    31.40904,
+    8.12193
+],
+  "geometry": {"coordinates":[31.40904,8.12193],"type":"Point"}
+}

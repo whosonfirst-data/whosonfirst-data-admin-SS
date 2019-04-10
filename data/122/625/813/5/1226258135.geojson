@@ -1,0 +1,67 @@
+{
+  "id": 1226258135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85937,3.81016,31.85937,3.81016",
+    "geom:latitude":3.81016,
+    "geom:longitude":31.85937,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Omdurman",
+    "gn:country_code":"SS",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368768,
+    "gn:latitude":3.81016,
+    "gn:longitude":31.85937,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Omdurman",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        890452095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368768
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4497eac89d1e4912b5bf6393b927de03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":890452095,
+            "locality_id":1226258135,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1226258135,
+    "wof:lastmodified":1536916194,
+    "wof:name":"Omdurman",
+    "wof:parent_id":890452095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85937,
+    3.81016,
+    31.85937,
+    3.81016
+],
+  "geometry": {"coordinates":[31.85937,3.81016],"type":"Point"}
+}

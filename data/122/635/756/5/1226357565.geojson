@@ -1,0 +1,70 @@
+{
+  "id": 1226357565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65147,9.18211,30.65147,9.18211",
+    "geom:latitude":9.18211,
+    "geom:longitude":30.65147,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dorchengdwoth",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381692,
+    "gn:latitude":9.18211,
+    "gn:longitude":30.65147,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dorchengdwoth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dorchengdwot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381692
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"aa5a9afc84553b7876ac37e523d16aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1226357565,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1226357565,
+    "wof:lastmodified":1537701413,
+    "wof:name":"Dorchengdwoth",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65147,
+    9.18211,
+    30.65147,
+    9.18211
+],
+  "geometry": {"coordinates":[30.65147,9.18211],"type":"Point"}
+}

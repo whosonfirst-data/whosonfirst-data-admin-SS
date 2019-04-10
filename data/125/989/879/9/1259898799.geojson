@@ -1,0 +1,67 @@
+{
+  "id": 1259898799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68093,6.80042,30.68093,6.80042",
+    "geom:latitude":6.80042,
+    "geom:longitude":30.68093,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Jangdo",
+    "gn:country_code":"SS",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382067,
+    "gn:latitude":6.80042,
+    "gn:longitude":30.68093,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Jangdo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382067
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eedcc5ec09c6c58487fd8d90f597d6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1259898799,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1259898799,
+    "wof:lastmodified":1536757176,
+    "wof:name":"Jangdo",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68093,
+    6.80042,
+    30.68093,
+    6.80042
+],
+  "geometry": {"coordinates":[30.68093,6.80042],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209534339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.11454,9.20412,27.11454,9.20412",
+    "geom:latitude":9.20412,
+    "geom:longitude":27.11454,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Marol Deng Gang",
+    "gn:country_code":"SS",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543848,
+    "gn:latitude":9.20412,
+    "gn:longitude":27.11454,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Marol Deng Gang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u041c\u0430\u0440\u043e\u043b\u044c-\u0414\u0435\u043d\u0433-\u0413\u0430\u043d\u0433",
+        "Marol\u2019 Deng Gang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543848
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7414cc8bb6fc1c7624dac1c4f7743d02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209534339
+        }
+    ],
+    "wof:id":1209534339,
+    "wof:lastmodified":1537701422,
+    "wof:name":"Marol Deng Gang",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.11454,
+    9.20412,
+    27.11454,
+    9.20412
+],
+  "geometry": {"coordinates":[27.11454,9.20412],"type":"Point"}
+}

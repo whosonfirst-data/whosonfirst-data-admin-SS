@@ -1,0 +1,70 @@
+{
+  "id": 1343272201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67924,3.8579,31.67924,3.8579",
+    "geom:latitude":3.8579,
+    "geom:longitude":31.67924,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mangora",
+    "gn:country_code":"SS",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370587,
+    "gn:latitude":3.8579,
+    "gn:longitude":31.67924,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mangora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangord"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091915715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370587
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f9a450384604d3e2f64540e79852cb98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915715,
+            "locality_id":1343272201,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1343272201,
+    "wof:lastmodified":1537701394,
+    "wof:name":"Mangora",
+    "wof:parent_id":1091915715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67924,
+    3.8579,
+    31.67924,
+    3.8579
+],
+  "geometry": {"coordinates":[31.67924,3.8579],"type":"Point"}
+}

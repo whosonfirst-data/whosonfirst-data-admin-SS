@@ -1,0 +1,67 @@
+{
+  "id": 1277000411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38158,6.86406,29.38158,6.86406",
+    "geom:latitude":6.86406,
+    "geom:longitude":29.38158,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Panraag",
+    "gn:country_code":"SS",
+    "gn:dem":432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368598,
+    "gn:latitude":6.86406,
+    "gn:longitude":29.38158,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Panraag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368598
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8f08ae7e05bd15ce9345ecd19b92c165",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1277000411,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1277000411,
+    "wof:lastmodified":1536878794,
+    "wof:name":"Panraag",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38158,
+    6.86406,
+    29.38158,
+    6.86406
+],
+  "geometry": {"coordinates":[29.38158,6.86406],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343672299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.978,10.01567,31.978,10.01567",
+    "geom:latitude":10.01567,
+    "geom:longitude":31.978,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Fama",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375586,
+    "gn:latitude":10.01567,
+    "gn:longitude":31.978,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Fama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faabo",
+        "Fama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375586
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b0786d2e94563d5bc20a05fdc22535d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913653,
+            "locality_id":1343672299,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1343672299,
+    "wof:lastmodified":1537701403,
+    "wof:name":"Fama",
+    "wof:parent_id":1091913653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.978,
+    10.01567,
+    31.978,
+    10.01567
+],
+  "geometry": {"coordinates":[31.978,10.01567],"type":"Point"}
+}

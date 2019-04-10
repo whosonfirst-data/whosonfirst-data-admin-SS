@@ -1,0 +1,61 @@
+{
+  "id": 1209116711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58177,9.17324,31.58177,9.17324",
+    "geom:latitude":9.17324,
+    "geom:longitude":31.58177,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Abwong",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":380324,
+    "gn:latitude":9.17324,
+    "gn:longitude":31.58177,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Abwong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":380324
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fdf4d35e134c6e0777be9d31847158b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209116711
+        }
+    ],
+    "wof:id":1209116711,
+    "wof:lastmodified":1536297229,
+    "wof:name":"Abwong",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58177,
+    9.17324,
+    31.58177,
+    9.17324
+],
+  "geometry": {"coordinates":[31.58177,9.17324],"type":"Point"}
+}

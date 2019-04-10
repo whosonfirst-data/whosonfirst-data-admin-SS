@@ -1,0 +1,67 @@
+{
+  "id": 1276563529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19091,9.77407,30.19091,9.77407",
+    "geom:latitude":9.77407,
+    "geom:longitude":30.19091,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Angeich",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378776,
+    "gn:latitude":9.77407,
+    "gn:longitude":30.19091,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Angeich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378776
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"055735595b088af56a590b275242c9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915021,
+            "locality_id":1276563529,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1276563529,
+    "wof:lastmodified":1536967335,
+    "wof:name":"Angeich",
+    "wof:parent_id":1091915021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19091,
+    9.77407,
+    30.19091,
+    9.77407
+],
+  "geometry": {"coordinates":[30.19091,9.77407],"type":"Point"}
+}

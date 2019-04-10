@@ -1,0 +1,71 @@
+{
+  "id": 1360095425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56624,10.05168,32.56624,10.05168",
+    "geom:latitude":10.05168,
+    "geom:longitude":32.56624,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Abaj",
+    "gn:country_code":"SS",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381217,
+    "gn:latitude":10.05168,
+    "gn:longitude":32.56624,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Abaj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abuj",
+        "Abaj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381217
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6e73d318e4c43ffd2b76ddc628fd2ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913689,
+            "locality_id":1360095425,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1360095425,
+    "wof:lastmodified":1537701413,
+    "wof:name":"Abaj",
+    "wof:parent_id":1091913689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56624,
+    10.05168,
+    32.56624,
+    10.05168
+],
+  "geometry": {"coordinates":[32.56624,10.05168],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260304469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77694,4.67715,32.77694,4.67715",
+    "geom:latitude":4.67715,
+    "geom:longitude":32.77694,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Iboni",
+    "gn:country_code":"SS",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373644,
+    "gn:latitude":4.67715,
+    "gn:longitude":32.77694,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Iboni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091915633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373644
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e579f21673b3106efad519e855eced2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915633,
+            "locality_id":1260304469,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1260304469,
+    "wof:lastmodified":1536683719,
+    "wof:name":"Iboni",
+    "wof:parent_id":1091915633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77694,
+    4.67715,
+    32.77694,
+    4.67715
+],
+  "geometry": {"coordinates":[32.77694,4.67715],"type":"Point"}
+}

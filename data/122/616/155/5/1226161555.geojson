@@ -1,0 +1,67 @@
+{
+  "id": 1226161555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.27715,8.75279,28.27715,8.75279",
+    "geom:latitude":8.75279,
+    "geom:longitude":28.27715,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Angwel",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061326,
+    "gn:latitude":8.75279,
+    "gn:longitude":28.27715,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Angwel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061326
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"59604d4a0c0115bbe0a6e76413e07710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1226161555,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1226161555,
+    "wof:lastmodified":1537052673,
+    "wof:name":"Angwel",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.27715,
+    8.75279,
+    28.27715,
+    8.75279
+],
+  "geometry": {"coordinates":[28.27715,8.75279],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209229885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.10263,7.4692,29.10263,7.4692",
+    "geom:latitude":7.4692,
+    "geom:longitude":29.10263,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Aliab",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379348,
+    "gn:latitude":7.4692,
+    "gn:longitude":29.10263,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aliab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Al\u012by\u0101b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379348
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c307e5844767d2efd5e0ee02019cc93c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209229885
+        }
+    ],
+    "wof:id":1209229885,
+    "wof:lastmodified":1537701409,
+    "wof:name":"Aliab",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10263,
+    7.4692,
+    29.10263,
+    7.4692
+],
+  "geometry": {"coordinates":[29.10263,7.4692],"type":"Point"}
+}

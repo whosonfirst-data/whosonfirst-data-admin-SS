@@ -1,0 +1,67 @@
+{
+  "id": 1259393203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95294,6.85414,30.95294,6.85414",
+    "geom:latitude":6.85414,
+    "geom:longitude":30.95294,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Agany",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431206,
+    "gn:latitude":6.85414,
+    "gn:longitude":30.95294,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Agany",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431206
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eaae05885c9c917718cbc10388872114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1259393203,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1259393203,
+    "wof:lastmodified":1536987372,
+    "wof:name":"Agany",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95294,
+    6.85414,
+    30.95294,
+    6.85414
+],
+  "geometry": {"coordinates":[30.95294,6.85414],"type":"Point"}
+}

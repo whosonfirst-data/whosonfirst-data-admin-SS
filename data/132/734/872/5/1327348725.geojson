@@ -1,0 +1,71 @@
+{
+  "id": 1327348725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25325,9.71122,30.25325,9.71122",
+    "geom:latitude":9.71122,
+    "geom:longitude":30.25325,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bol Dit",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377266,
+    "gn:latitude":9.71122,
+    "gn:longitude":30.25325,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bol Dit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bol Dis",
+        "Bol Dit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377266
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6a4a972b69a197d2120dfb02a7e1a829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915021,
+            "locality_id":1327348725,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1327348725,
+    "wof:lastmodified":1537701407,
+    "wof:name":"Bol Dit",
+    "wof:parent_id":1091915021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25325,
+    9.71122,
+    30.25325,
+    9.71122
+],
+  "geometry": {"coordinates":[30.25325,9.71122],"type":"Point"}
+}

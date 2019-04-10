@@ -1,0 +1,67 @@
+{
+  "id": 1226661167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91199,4.10994,32.91199,4.10994",
+    "geom:latitude":4.10994,
+    "geom:longitude":32.91199,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Losua",
+    "gn:country_code":"SS",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371147,
+    "gn:latitude":4.10994,
+    "gn:longitude":32.91199,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Losua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371147
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e6bb6d9aa505c3373576b881ab1ed0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1226661167,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1226661167,
+    "wof:lastmodified":1536836118,
+    "wof:name":"Losua",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91199,
+    4.10994,
+    32.91199,
+    4.10994
+],
+  "geometry": {"coordinates":[32.91199,4.10994],"type":"Point"}
+}

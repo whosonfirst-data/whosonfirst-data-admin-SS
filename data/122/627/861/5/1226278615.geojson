@@ -1,0 +1,76 @@
+{
+  "id": 1226278615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75083,5.44389,31.75083,5.44389",
+    "geom:latitude":5.44389,
+    "geom:longitude":31.75083,
+    "gn:admin1_code":"11550571",
+    "gn:admin2_code":"7874621",
+    "gn:asciiname":"Terekeka",
+    "gn:country_code":"SS",
+    "gn:dem":445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":366167,
+    "gn:latitude":5.44389,
+    "gn:longitude":31.75083,
+    "gn:modification_date":"2017-06-17",
+    "gn:name":"Terekeka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Terekeka"
+    ],
+    "name:und_x_variant":[
+        "Tarakaka",
+        "Terrakekka",
+        "Terakeka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366167
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7dd22f51687dad41a30062b979bfe9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1226278615,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1226278615,
+    "wof:lastmodified":1537701385,
+    "wof:name":"Terekeka",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75083,
+    5.44389,
+    31.75083,
+    5.44389
+],
+  "geometry": {"coordinates":[31.75083,5.44389],"type":"Point"}
+}

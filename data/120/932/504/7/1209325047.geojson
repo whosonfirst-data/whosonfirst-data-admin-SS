@@ -1,0 +1,61 @@
+{
+  "id": 1209325047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21095,4.64877,33.21095,4.64877",
+    "geom:latitude":4.64877,
+    "geom:longitude":33.21095,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Katagan",
+    "gn:country_code":"SS",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372745,
+    "gn:latitude":4.64877,
+    "gn:longitude":33.21095,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Katagan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372745
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4904964b052d407e9318a659ea1bc523",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209325047
+        }
+    ],
+    "wof:id":1209325047,
+    "wof:lastmodified":1536290559,
+    "wof:name":"Katagan",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21095,
+    4.64877,
+    33.21095,
+    4.64877
+],
+  "geometry": {"coordinates":[33.21095,4.64877],"type":"Point"}
+}

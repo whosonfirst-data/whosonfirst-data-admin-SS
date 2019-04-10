@@ -1,0 +1,67 @@
+{
+  "id": 1327040393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7531,11.543,32.7531,11.543",
+    "geom:latitude":11.543,
+    "geom:longitude":32.7531,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Warrit",
+    "gn:country_code":"SS",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363913,
+    "gn:latitude":11.543,
+    "gn:longitude":32.7531,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Warrit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363913
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5de22341559e7715f1f4d9b58cfae513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1327040393,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1327040393,
+    "wof:lastmodified":1536748629,
+    "wof:name":"Warrit",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7531,
+    11.543,
+    32.7531,
+    11.543
+],
+  "geometry": {"coordinates":[32.7531,11.543],"type":"Point"}
+}

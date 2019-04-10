@@ -1,0 +1,67 @@
+{
+  "id": 1193026449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.97505,8.88285,27.97505,8.88285",
+    "geom:latitude":8.88285,
+    "geom:longitude":27.97505,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mido",
+    "gn:country_code":"SS",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430758,
+    "gn:latitude":8.88285,
+    "gn:longitude":27.97505,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Mido",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430758
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fa859ad8192b04e08f29f23c471c44a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1193026449,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1193026449,
+    "wof:lastmodified":1536367376,
+    "wof:name":"Mido",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.97505,
+    8.88285,
+    27.97505,
+    8.88285
+],
+  "geometry": {"coordinates":[27.97505,8.88285],"type":"Point"}
+}

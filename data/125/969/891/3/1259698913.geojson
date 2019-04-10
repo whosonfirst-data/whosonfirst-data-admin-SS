@@ -1,0 +1,67 @@
+{
+  "id": 1259698913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58659,6.42417,31.58659,6.42417",
+    "geom:latitude":6.42417,
+    "geom:longitude":31.58659,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fanoing",
+    "gn:country_code":"SS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375534,
+    "gn:latitude":6.42417,
+    "gn:longitude":31.58659,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Fanoing",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375534
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"145d93d9fe7598839f9eddf6d2b3648c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914581,
+            "locality_id":1259698913,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1259698913,
+    "wof:lastmodified":1537042937,
+    "wof:name":"Fanoing",
+    "wof:parent_id":1091914581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58659,
+    6.42417,
+    31.58659,
+    6.42417
+],
+  "geometry": {"coordinates":[31.58659,6.42417],"type":"Point"}
+}

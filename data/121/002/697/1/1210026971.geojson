@@ -1,0 +1,67 @@
+{
+  "id": 1210026971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47341,8.96568,33.47341,8.96568",
+    "geom:latitude":8.96568,
+    "geom:longitude":33.47341,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Banyjiel",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377751,
+    "gn:latitude":8.96568,
+    "gn:longitude":33.47341,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Banyjiel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377751
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1f74cbdaeda50c0be5661e45817452a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915801,
+            "locality_id":1210026971,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1210026971,
+    "wof:lastmodified":1536390286,
+    "wof:name":"Banyjiel",
+    "wof:parent_id":1091915801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47341,
+    8.96568,
+    33.47341,
+    8.96568
+],
+  "geometry": {"coordinates":[33.47341,8.96568],"type":"Point"}
+}

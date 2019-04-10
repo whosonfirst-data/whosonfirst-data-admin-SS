@@ -1,0 +1,67 @@
+{
+  "id": 1310416363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.37324,10.36952,25.37324,10.36952",
+    "geom:latitude":10.36952,
+    "geom:longitude":25.37324,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"El Kilah",
+    "gn:country_code":"SS",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047345,
+    "gn:latitude":10.36952,
+    "gn:longitude":25.37324,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"El Kilah",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047345
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"38087ae75290b05624bd86274894231d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1310416363,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1310416363,
+    "wof:lastmodified":1537043729,
+    "wof:name":"El Kilah",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.37324,
+    10.36952,
+    25.37324,
+    10.36952
+],
+  "geometry": {"coordinates":[25.37324,10.36952],"type":"Point"}
+}

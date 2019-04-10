@@ -1,0 +1,67 @@
+{
+  "id": 1310116451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37155,6.77138,30.37155,6.77138",
+    "geom:latitude":6.77138,
+    "geom:longitude":30.37155,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wunakot",
+    "gn:country_code":"SS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431180,
+    "gn:latitude":6.77138,
+    "gn:longitude":30.37155,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Wunakot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431180
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3b8a86a14cf4883431e7921b90026686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1310116451,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1310116451,
+    "wof:lastmodified":1536979938,
+    "wof:name":"Wunakot",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37155,
+    6.77138,
+    30.37155,
+    6.77138
+],
+  "geometry": {"coordinates":[30.37155,6.77138],"type":"Point"}
+}

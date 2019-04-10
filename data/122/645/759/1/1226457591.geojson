@@ -1,0 +1,67 @@
+{
+  "id": 1226457591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3953,4.15505,30.3953,4.15505",
+    "geom:latitude":4.15505,
+    "geom:longitude":30.3953,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zora",
+    "gn:country_code":"SS",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8034180,
+    "gn:latitude":4.15505,
+    "gn:longitude":30.3953,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Zora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8034180
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1a146901c73cf9fc6b59b1d21d2f1e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1226457591,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1226457591,
+    "wof:lastmodified":1536626512,
+    "wof:name":"Zora",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3953,
+    4.15505,
+    30.3953,
+    4.15505
+],
+  "geometry": {"coordinates":[30.3953,4.15505],"type":"Point"}
+}

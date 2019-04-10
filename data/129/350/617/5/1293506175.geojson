@@ -1,0 +1,67 @@
+{
+  "id": 1293506175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1275,9.05335,27.1275,9.05335",
+    "geom:latitude":9.05335,
+    "geom:longitude":27.1275,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Yur Dit",
+    "gn:country_code":"SS",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416496,
+    "gn:latitude":9.05335,
+    "gn:longitude":27.1275,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Yur Dit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416496
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d3d35d118f4dd58dd349971aba458137",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1293506175,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1293506175,
+    "wof:lastmodified":1536760300,
+    "wof:name":"Yur Dit",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1275,
+    9.05335,
+    27.1275,
+    9.05335
+],
+  "geometry": {"coordinates":[27.1275,9.05335],"type":"Point"}
+}

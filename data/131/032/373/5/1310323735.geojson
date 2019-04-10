@@ -1,0 +1,67 @@
+{
+  "id": 1310323735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7932,3.69326,30.7932,3.69326",
+    "geom:latitude":3.69326,
+    "geom:longitude":30.7932,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Panyabu",
+    "gn:country_code":"SS",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368593,
+    "gn:latitude":3.69326,
+    "gn:longitude":30.7932,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Panyabu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368593
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fcea986ac4fbf171b5423782c0796415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914975,
+            "locality_id":1310323735,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1310323735,
+    "wof:lastmodified":1536681630,
+    "wof:name":"Panyabu",
+    "wof:parent_id":1091914975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7932,
+    3.69326,
+    30.7932,
+    3.69326
+],
+  "geometry": {"coordinates":[30.7932,3.69326],"type":"Point"}
+}

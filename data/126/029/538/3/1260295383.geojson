@@ -1,0 +1,67 @@
+{
+  "id": 1260295383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23261,8.51213,32.23261,8.51213",
+    "geom:latitude":8.51213,
+    "geom:longitude":32.23261,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Fagur",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8181227,
+    "gn:latitude":8.51213,
+    "gn:longitude":32.23261,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Fagur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8181227
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c21157007f921f0657944cbcd91f3b8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913861,
+            "locality_id":1260295383,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1260295383,
+    "wof:lastmodified":1536696073,
+    "wof:name":"Fagur",
+    "wof:parent_id":1091913861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23261,
+    8.51213,
+    32.23261,
+    8.51213
+],
+  "geometry": {"coordinates":[32.23261,8.51213],"type":"Point"}
+}

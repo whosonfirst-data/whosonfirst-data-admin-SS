@@ -1,0 +1,67 @@
+{
+  "id": 1259593701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08814,9.28674,32.08814,9.28674",
+    "geom:latitude":9.28674,
+    "geom:longitude":32.08814,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wunagak",
+    "gn:country_code":"SS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363748,
+    "gn:latitude":9.28674,
+    "gn:longitude":32.08814,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Wunagak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363748
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e4e1981d2a7b020a5edc36c676ac0499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915503,
+            "locality_id":1259593701,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1259593701,
+    "wof:lastmodified":1536700257,
+    "wof:name":"Wunagak",
+    "wof:parent_id":1091915503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08814,
+    9.28674,
+    32.08814,
+    9.28674
+],
+  "geometry": {"coordinates":[32.08814,9.28674],"type":"Point"}
+}

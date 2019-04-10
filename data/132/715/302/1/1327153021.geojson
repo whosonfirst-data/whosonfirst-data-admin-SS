@@ -1,0 +1,70 @@
+{
+  "id": 1327153021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08174,3.59574,32.08174,3.59574",
+    "geom:latitude":3.59574,
+    "geom:longitude":32.08174,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sultan Saroor",
+    "gn:country_code":"SS",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366676,
+    "gn:latitude":3.59574,
+    "gn:longitude":32.08174,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sultan Saroor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sul\u0163\u0101n Sar\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        890452095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366676
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7e400cbb00dea693dad85f40e8d2bc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":890452095,
+            "locality_id":1327153021,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1327153021,
+    "wof:lastmodified":1537701386,
+    "wof:name":"Sultan Saroor",
+    "wof:parent_id":890452095,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08174,
+    3.59574,
+    32.08174,
+    3.59574
+],
+  "geometry": {"coordinates":[32.08174,3.59574],"type":"Point"}
+}

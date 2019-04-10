@@ -1,0 +1,67 @@
+{
+  "id": 1310016389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.09732,8.40187,33.09732,8.40187",
+    "geom:latitude":8.40187,
+    "geom:longitude":33.09732,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wie Giet",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8375113,
+    "gn:latitude":8.40187,
+    "gn:longitude":33.09732,
+    "gn:modification_date":"2012-10-08",
+    "gn:name":"Wie Giet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8375113
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b9359d2273abb4db708d67d598122aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1310016389,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1310016389,
+    "wof:lastmodified":1536625631,
+    "wof:name":"Wie Giet",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.09732,
+    8.40187,
+    33.09732,
+    8.40187
+],
+  "geometry": {"coordinates":[33.09732,8.40187],"type":"Point"}
+}

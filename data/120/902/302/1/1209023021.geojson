@@ -1,0 +1,61 @@
+{
+  "id": 1209023021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.93419,7.94251,28.93419,7.94251",
+    "geom:latitude":7.94251,
+    "geom:longitude":28.93419,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kunjok",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381831,
+    "gn:latitude":7.94251,
+    "gn:longitude":28.93419,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Kunjok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381831
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ea2f1e71986203c1652db4e9daf6702e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209023021
+        }
+    ],
+    "wof:id":1209023021,
+    "wof:lastmodified":1536300087,
+    "wof:name":"Kunjok",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.93419,
+    7.94251,
+    28.93419,
+    7.94251
+],
+  "geometry": {"coordinates":[28.93419,7.94251],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310024333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.695,5.43778,29.695,5.43778",
+    "geom:latitude":5.43778,
+    "geom:longitude":29.695,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bani",
+    "gn:country_code":"SS",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382187,
+    "gn:latitude":5.43778,
+    "gn:longitude":29.695,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Bani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382187
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"65eaa0c7f1132cc1946d0b3b093e8991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":1310024333,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1310024333,
+    "wof:lastmodified":1536613778,
+    "wof:name":"Bani",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.695,
+    5.43778,
+    29.695,
+    5.43778
+],
+  "geometry": {"coordinates":[29.695,5.43778],"type":"Point"}
+}

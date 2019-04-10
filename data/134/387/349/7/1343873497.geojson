@@ -1,0 +1,67 @@
+{
+  "id": 1343873497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.19964,4.23978,33.19964,4.23978",
+    "geom:latitude":4.23978,
+    "geom:longitude":33.19964,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lobalong",
+    "gn:country_code":"SS",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382383,
+    "gn:latitude":4.23978,
+    "gn:longitude":33.19964,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Lobalong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382383
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fcd6cef4dacf39244c96eadd8258e8a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1343873497,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1343873497,
+    "wof:lastmodified":1536647305,
+    "wof:name":"Lobalong",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.19964,
+    4.23978,
+    33.19964,
+    4.23978
+],
+  "geometry": {"coordinates":[33.19964,4.23978],"type":"Point"}
+}

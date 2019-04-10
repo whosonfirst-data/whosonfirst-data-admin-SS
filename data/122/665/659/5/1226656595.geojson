@@ -1,0 +1,67 @@
+{
+  "id": 1226656595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.45971,8.28071,28.45971,8.28071",
+    "geom:latitude":8.28071,
+    "geom:longitude":28.45971,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anyen",
+    "gn:country_code":"SS",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061568,
+    "gn:latitude":8.28071,
+    "gn:longitude":28.45971,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Anyen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091913463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061568
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ca189d93d709c86250c9b406d84e0ffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913463,
+            "locality_id":1226656595,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1226656595,
+    "wof:lastmodified":1536842659,
+    "wof:name":"Anyen",
+    "wof:parent_id":1091913463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.45971,
+    8.28071,
+    28.45971,
+    8.28071
+],
+  "geometry": {"coordinates":[28.45971,8.28071],"type":"Point"}
+}

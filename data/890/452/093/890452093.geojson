@@ -1,0 +1,66 @@
+{
+  "id": 890452093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.51732,3.76763,32.51732,3.76763",
+    "geom:latitude":3.76763,
+    "geom:longitude":32.51732,
+    "gn:country":"SS",
+    "gn:fcode":"PPL",
+    "gn:pop":49000,
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"PAJOK Pogee,",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        890452095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224933,
+        "gp:id":56121481,
+        "qs:id":760112
+    },
+    "wof:country":"SS",
+    "wof:created":1469052805,
+    "wof:geomhash":"8b2f60063417a90d2e19b2a20169f042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":890452095,
+            "locality_id":890452093,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":890452093,
+    "wof:lastmodified":1505343643,
+    "wof:name":"PAJOK Pogee,",
+    "wof:parent_id":890452095,
+    "wof:placetype":"locality",
+    "wof:population":49000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.51732,
+    3.76763,
+    32.51732,
+    3.76763
+],
+  "geometry": {"coordinates":[32.51732,3.76763],"type":"Point"}
+}

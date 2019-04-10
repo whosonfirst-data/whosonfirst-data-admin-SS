@@ -1,0 +1,70 @@
+{
+  "id": 1343369387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.64062,11.00019,32.64062,11.00019",
+    "geom:latitude":11.00019,
+    "geom:longitude":32.64062,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Torakit",
+    "gn:country_code":"SS",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":378065,
+    "gn:latitude":11.00019,
+    "gn:longitude":32.64062,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Torakit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aworo Kit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914927
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":378065
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"898a5eb9179249df58fa75ae7ce2041f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914927,
+            "locality_id":1343369387,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1343369387,
+    "wof:lastmodified":1537701408,
+    "wof:name":"Torakit",
+    "wof:parent_id":1091914927,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.64062,
+    11.00019,
+    32.64062,
+    11.00019
+],
+  "geometry": {"coordinates":[32.64062,11.00019],"type":"Point"}
+}

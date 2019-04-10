@@ -1,0 +1,67 @@
+{
+  "id": 1293607713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59406,4.7562,33.59406,4.7562",
+    "geom:latitude":4.7562,
+    "geom:longitude":33.59406,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Korea",
+    "gn:country_code":"SS",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372161,
+    "gn:latitude":4.7562,
+    "gn:longitude":33.59406,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Korea",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091915407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372161
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"821279d7651c8dc2ac050eca24c3e196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915407,
+            "locality_id":1293607713,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1293607713,
+    "wof:lastmodified":1536611250,
+    "wof:name":"Korea",
+    "wof:parent_id":1091915407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59406,
+    4.7562,
+    33.59406,
+    4.7562
+],
+  "geometry": {"coordinates":[33.59406,4.7562],"type":"Point"}
+}

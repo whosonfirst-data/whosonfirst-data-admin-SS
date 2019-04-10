@@ -1,0 +1,71 @@
+{
+  "id": 1242989411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26627,9.42259,31.26627,9.42259",
+    "geom:latitude":9.42259,
+    "geom:longitude":31.26627,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nielwag",
+    "gn:country_code":"SS",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369177,
+    "gn:latitude":9.42259,
+    "gn:longitude":31.26627,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Nielwag",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyilwag",
+        "Nielwag"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369177
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"82fb4cddcf9c50d49a48d3c6257ae4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914001,
+            "locality_id":1242989411,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1242989411,
+    "wof:lastmodified":1537701391,
+    "wof:name":"Nielwag",
+    "wof:parent_id":1091914001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.26627,
+    9.42259,
+    31.26627,
+    9.42259
+],
+  "geometry": {"coordinates":[31.26627,9.42259],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326945259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97228,6.22694,30.97228,6.22694",
+    "geom:latitude":6.22694,
+    "geom:longitude":30.97228,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Abiem",
+    "gn:country_code":"SS",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7432033,
+    "gn:latitude":6.22694,
+    "gn:longitude":30.97228,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Abiem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091915369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7432033
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3ba740f6472c8bc90b962074051b4cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915369,
+            "locality_id":1326945259,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1326945259,
+    "wof:lastmodified":1536885467,
+    "wof:name":"Abiem",
+    "wof:parent_id":1091915369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97228,
+    6.22694,
+    30.97228,
+    6.22694
+],
+  "geometry": {"coordinates":[30.97228,6.22694],"type":"Point"}
+}

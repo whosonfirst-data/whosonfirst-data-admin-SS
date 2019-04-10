@@ -1,0 +1,67 @@
+{
+  "id": 1327153035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78031,4.91809,29.78031,4.91809",
+    "geom:latitude":4.91809,
+    "geom:longitude":29.78031,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Malissi",
+    "gn:country_code":"SS",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8033569,
+    "gn:latitude":4.91809,
+    "gn:longitude":29.78031,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Malissi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8033569
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4dd3399e5a230aff90422bcec10ec620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":1327153035,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1327153035,
+    "wof:lastmodified":1537081018,
+    "wof:name":"Malissi",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78031,
+    4.91809,
+    29.78031,
+    4.91809
+],
+  "geometry": {"coordinates":[29.78031,4.91809],"type":"Point"}
+}

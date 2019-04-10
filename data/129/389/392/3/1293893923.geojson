@@ -1,0 +1,71 @@
+{
+  "id": 1293893923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38147,9.07303,32.38147,9.07303",
+    "geom:latitude":9.07303,
+    "geom:longitude":32.38147,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wunagoi",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363746,
+    "gn:latitude":9.07303,
+    "gn:longitude":32.38147,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Wunagoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wunagoi Din",
+        "Wunagoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363746
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"33b74f5a8f834e1dfc623e9a20826b4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913861,
+            "locality_id":1293893923,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1293893923,
+    "wof:lastmodified":1537701382,
+    "wof:name":"Wunagoi",
+    "wof:parent_id":1091913861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38147,
+    9.07303,
+    32.38147,
+    9.07303
+],
+  "geometry": {"coordinates":[32.38147,9.07303],"type":"Point"}
+}

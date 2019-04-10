@@ -1,0 +1,67 @@
+{
+  "id": 1310215495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62389,3.93214,32.62389,3.93214",
+    "geom:latitude":3.93214,
+    "geom:longitude":32.62389,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kiteng",
+    "gn:country_code":"SS",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372342,
+    "gn:latitude":3.93214,
+    "gn:longitude":32.62389,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Kiteng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372342
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9f8c5420b41d2750990f7ea92054d3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1310215495,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1310215495,
+    "wof:lastmodified":1536836688,
+    "wof:name":"Kiteng",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62389,
+    3.93214,
+    32.62389,
+    3.93214
+],
+  "geometry": {"coordinates":[32.62389,3.93214],"type":"Point"}
+}

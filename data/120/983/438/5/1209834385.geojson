@@ -1,0 +1,70 @@
+{
+  "id": 1209834385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66817,8.55601,30.66817,8.55601",
+    "geom:latitude":8.55601,
+    "geom:longitude":30.66817,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kaiteng",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381732,
+    "gn:latitude":8.55601,
+    "gn:longitude":30.66817,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kaiteng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayteng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381732
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cd8072b0bdb4d974a3a32dbb22a76f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1209834385,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1209834385,
+    "wof:lastmodified":1537701414,
+    "wof:name":"Kaiteng",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66817,
+    8.55601,
+    30.66817,
+    8.55601
+],
+  "geometry": {"coordinates":[30.66817,8.55601],"type":"Point"}
+}

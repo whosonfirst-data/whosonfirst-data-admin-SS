@@ -1,0 +1,61 @@
+{
+  "id": 1209433525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07358,4.34359,31.07358,4.34359",
+    "geom:latitude":4.34359,
+    "geom:longitude":31.07358,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Dubu",
+    "gn:country_code":"SS",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047878,
+    "gn:latitude":4.34359,
+    "gn:longitude":31.07358,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Dubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047878
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c0129133bf46c4792fbf39ea5846d56a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209433525
+        }
+    ],
+    "wof:id":1209433525,
+    "wof:lastmodified":1536287168,
+    "wof:name":"Dubu",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07358,
+    4.34359,
+    31.07358,
+    4.34359
+],
+  "geometry": {"coordinates":[31.07358,4.34359],"type":"Point"}
+}

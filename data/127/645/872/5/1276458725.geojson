@@ -1,0 +1,67 @@
+{
+  "id": 1276458725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11947,8.68496,33.11947,8.68496",
+    "geom:latitude":8.68496,
+    "geom:longitude":33.11947,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rogrog",
+    "gn:country_code":"SS",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368031,
+    "gn:latitude":8.68496,
+    "gn:longitude":33.11947,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Rogrog",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368031
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5eb40008ec9d46caf1533b7b6004e3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913609,
+            "locality_id":1276458725,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1276458725,
+    "wof:lastmodified":1536607827,
+    "wof:name":"Rogrog",
+    "wof:parent_id":1091913609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11947,
+    8.68496,
+    33.11947,
+    8.68496
+],
+  "geometry": {"coordinates":[33.11947,8.68496],"type":"Point"}
+}

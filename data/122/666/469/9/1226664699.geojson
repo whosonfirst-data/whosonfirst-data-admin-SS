@@ -1,0 +1,67 @@
+{
+  "id": 1226664699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41176,7.02424,30.41176,7.02424",
+    "geom:latitude":7.02424,
+    "geom:longitude":30.41176,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pul Akot",
+    "gn:country_code":"SS",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381924,
+    "gn:latitude":7.02424,
+    "gn:longitude":30.41176,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Pul Akot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381924
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"be85918b23516b7294a1a42e69edade7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1226664699,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1226664699,
+    "wof:lastmodified":1536831202,
+    "wof:name":"Pul Akot",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41176,
+    7.02424,
+    30.41176,
+    7.02424
+],
+  "geometry": {"coordinates":[30.41176,7.02424],"type":"Point"}
+}

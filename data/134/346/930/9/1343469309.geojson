@@ -1,0 +1,70 @@
+{
+  "id": 1343469309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8032,12.2048,32.8032,12.2048",
+    "geom:latitude":12.2048,
+    "geom:longitude":32.8032,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Imtidad Jada",
+    "gn:country_code":"SS",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7504280,
+    "gn:latitude":12.2048,
+    "gn:longitude":32.8032,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Imtid\u0101d J\u0101da",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imtid\u0101d J\u0101da"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7504280
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d7368d342961fd789e131e803a7560f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1343469309,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1343469309,
+    "wof:lastmodified":1537701420,
+    "wof:name":"Imtidad Jada",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8032,
+    12.2048,
+    32.8032,
+    12.2048
+],
+  "geometry": {"coordinates":[32.8032,12.2048],"type":"Point"}
+}

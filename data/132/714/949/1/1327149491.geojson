@@ -1,0 +1,67 @@
+{
+  "id": 1327149491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62683,8.24636,30.62683,8.24636",
+    "geom:latitude":8.24636,
+    "geom:longitude":30.62683,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mungud",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369709,
+    "gn:latitude":8.24636,
+    "gn:longitude":30.62683,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Mungud",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369709
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1497a415790a9c23c89b4a0d44354d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913549,
+            "locality_id":1327149491,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1327149491,
+    "wof:lastmodified":1537086023,
+    "wof:name":"Mungud",
+    "wof:parent_id":1091913549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62683,
+    8.24636,
+    30.62683,
+    8.24636
+],
+  "geometry": {"coordinates":[30.62683,8.24636],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360195139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19544,5.20814,30.19544,5.20814",
+    "geom:latitude":5.20814,
+    "geom:longitude":30.19544,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Keru",
+    "gn:country_code":"SS",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372579,
+    "gn:latitude":5.20814,
+    "gn:longitude":30.19544,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Keru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091913781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372579
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"80558d0d0f3b827d0bb6d990cbec9af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913781,
+            "locality_id":1360195139,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1360195139,
+    "wof:lastmodified":1536787269,
+    "wof:name":"Keru",
+    "wof:parent_id":1091913781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19544,
+    5.20814,
+    30.19544,
+    5.20814
+],
+  "geometry": {"coordinates":[30.19544,5.20814],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259598259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71872,8.66792,32.71872,8.66792",
+    "geom:latitude":8.66792,
+    "geom:longitude":32.71872,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Jyoga",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374764,
+    "gn:latitude":8.66792,
+    "gn:longitude":32.71872,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Jyoga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374764
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9cf177f667433b8ff7ecc4ae8d03c411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1259598259,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1259598259,
+    "wof:lastmodified":1536693635,
+    "wof:name":"Jyoga",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71872,
+    8.66792,
+    32.71872,
+    8.66792
+],
+  "geometry": {"coordinates":[32.71872,8.66792],"type":"Point"}
+}

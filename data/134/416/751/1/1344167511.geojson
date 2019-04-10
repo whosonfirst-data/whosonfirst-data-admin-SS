@@ -1,0 +1,67 @@
+{
+  "id": 1344167511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36687,8.90784,28.36687,8.90784",
+    "geom:latitude":8.90784,
+    "geom:longitude":28.36687,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gwong Gwong",
+    "gn:country_code":"SS",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8061362,
+    "gn:latitude":8.90784,
+    "gn:longitude":28.36687,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Gwong Gwong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8061362
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b5eb590e6c823f18c36d2f41de277e82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914361,
+            "locality_id":1344167511,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1344167511,
+    "wof:lastmodified":1536721379,
+    "wof:name":"Gwong Gwong",
+    "wof:parent_id":1091914361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36687,
+    8.90784,
+    28.36687,
+    8.90784
+],
+  "geometry": {"coordinates":[28.36687,8.90784],"type":"Point"}
+}

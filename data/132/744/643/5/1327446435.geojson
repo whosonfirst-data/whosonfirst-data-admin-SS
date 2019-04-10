@@ -1,0 +1,67 @@
+{
+  "id": 1327446435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08107,9.06909,30.08107,9.06909",
+    "geom:latitude":9.06909,
+    "geom:longitude":30.08107,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Joknyang",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":373320,
+    "gn:latitude":9.06909,
+    "gn:longitude":30.08107,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Joknyang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":373320
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"69d55a0b7cd8cc990613f61da2f40c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915583,
+            "locality_id":1327446435,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1327446435,
+    "wof:lastmodified":1536660474,
+    "wof:name":"Joknyang",
+    "wof:parent_id":1091915583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08107,
+    9.06909,
+    30.08107,
+    9.06909
+],
+  "geometry": {"coordinates":[30.08107,9.06909],"type":"Point"}
+}

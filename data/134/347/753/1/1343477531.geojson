@@ -1,0 +1,72 @@
+{
+  "id": 1343477531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.7795,11.9042,32.7795,11.9042",
+    "geom:latitude":11.9042,
+    "geom:longitude":32.7795,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kurshwat",
+    "gn:country_code":"SS",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372782,
+    "gn:latitude":11.9042,
+    "gn:longitude":32.7795,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kurshwat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karshawal",
+        "Karshwal",
+        "Kurshwat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372782
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"339b3c6a3cf96a3051249e54e5e9baed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1343477531,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1343477531,
+    "wof:lastmodified":1537701398,
+    "wof:name":"Kurshwat",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.7795,
+    11.9042,
+    32.7795,
+    11.9042
+],
+  "geometry": {"coordinates":[32.7795,11.9042],"type":"Point"}
+}

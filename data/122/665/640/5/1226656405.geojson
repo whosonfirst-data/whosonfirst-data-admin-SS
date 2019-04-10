@@ -1,0 +1,67 @@
+{
+  "id": 1226656405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.96181,6.88005,27.96181,6.88005",
+    "geom:latitude":6.88005,
+    "geom:longitude":27.96181,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Raffili Mission",
+    "gn:country_code":"SS",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368249,
+    "gn:latitude":6.88005,
+    "gn:longitude":27.96181,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Raffili Mission",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091916187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368249
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e32cd0999c8e54466b63275a7c482583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916187,
+            "locality_id":1226656405,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1226656405,
+    "wof:lastmodified":1536842931,
+    "wof:name":"Raffili Mission",
+    "wof:parent_id":1091916187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.96181,
+    6.88005,
+    27.96181,
+    6.88005
+],
+  "geometry": {"coordinates":[27.96181,6.88005],"type":"Point"}
+}

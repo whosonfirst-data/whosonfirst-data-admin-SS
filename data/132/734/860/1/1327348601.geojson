@@ -1,0 +1,67 @@
+{
+  "id": 1327348601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84591,5.78411,30.84591,5.78411",
+    "geom:latitude":5.78411,
+    "geom:longitude":30.84591,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mirda",
+    "gn:country_code":"SS",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370031,
+    "gn:latitude":5.78411,
+    "gn:longitude":30.84591,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Mirda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370031
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8bb2bc5f43755598188ec0e679c2a8da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1327348601,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1327348601,
+    "wof:lastmodified":1536801769,
+    "wof:name":"Mirda",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84591,
+    5.78411,
+    30.84591,
+    5.78411
+],
+  "geometry": {"coordinates":[30.84591,5.78411],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209229671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.45469,9.08701,29.45469,9.08701",
+    "geom:latitude":9.08701,
+    "geom:longitude":29.45469,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ghabat el `Arab",
+    "gn:country_code":"SS",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363972,
+    "gn:latitude":9.08701,
+    "gn:longitude":29.45469,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gh\u0101bat el \u2018Arab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gh\u0101bat al \u2018Arab",
+        "Wanj Kay",
+        "Gh\u0101bat el \u2018Arab",
+        "Wang Kai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363972
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c31d8d2e69a2a64fd1cb0c7dfa4258a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209229671
+        }
+    ],
+    "wof:id":1209229671,
+    "wof:lastmodified":1537701383,
+    "wof:name":"Ghabat el `Arab",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.45469000000001,
+    9.08701,
+    29.45469000000001,
+    9.08701
+],
+  "geometry": {"coordinates":[29.45469000000001,9.08701],"type":"Point"}
+}

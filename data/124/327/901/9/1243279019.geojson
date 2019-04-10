@@ -1,0 +1,67 @@
+{
+  "id": 1243279019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7446,7.09764,28.7446,7.09764",
+    "geom:latitude":7.09764,
+    "geom:longitude":28.7446,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fiki",
+    "gn:country_code":"SS",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375372,
+    "gn:latitude":7.09764,
+    "gn:longitude":28.7446,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Fiki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375372
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8a3d36eda4a5ae3b114a55fc06ac726e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914221,
+            "locality_id":1243279019,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1243279019,
+    "wof:lastmodified":1537044935,
+    "wof:name":"Fiki",
+    "wof:parent_id":1091914221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.7446,
+    7.09764,
+    28.7446,
+    7.09764
+],
+  "geometry": {"coordinates":[28.7446,7.09764],"type":"Point"}
+}

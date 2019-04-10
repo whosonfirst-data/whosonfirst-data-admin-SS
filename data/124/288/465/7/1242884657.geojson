@@ -1,0 +1,67 @@
+{
+  "id": 1242884657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.87974,9.30812,30.87974,9.30812",
+    "geom:latitude":9.30812,
+    "geom:longitude":30.87974,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lil",
+    "gn:country_code":"SS",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371409,
+    "gn:latitude":9.30812,
+    "gn:longitude":30.87974,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Lil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371409
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"2313894d74ca138c061102e5e81de4e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1242884657,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1242884657,
+    "wof:lastmodified":1536619175,
+    "wof:name":"Lil",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.87974,
+    9.30812,
+    30.87974,
+    9.30812
+],
+  "geometry": {"coordinates":[30.87974,9.30812],"type":"Point"}
+}

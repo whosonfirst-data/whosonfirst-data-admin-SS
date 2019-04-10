@@ -1,0 +1,67 @@
+{
+  "id": 1293893907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41899,9.06844,33.41899,9.06844",
+    "geom:latitude":9.06844,
+    "geom:longitude":33.41899,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Jongok",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068587,
+    "gn:latitude":9.06844,
+    "gn:longitude":33.41899,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Jongok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068587
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"aaec64066a09034cbd9736ff2019f07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915801,
+            "locality_id":1293893907,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1293893907,
+    "wof:lastmodified":1536698520,
+    "wof:name":"Jongok",
+    "wof:parent_id":1091915801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41899,
+    9.06844,
+    33.41899,
+    9.06844
+],
+  "geometry": {"coordinates":[33.41899,9.06844],"type":"Point"}
+}

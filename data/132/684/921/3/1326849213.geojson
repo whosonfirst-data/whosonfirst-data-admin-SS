@@ -1,0 +1,67 @@
+{
+  "id": 1326849213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31927,6.60016,29.31927,6.60016",
+    "geom:latitude":6.60016,
+    "geom:longitude":29.31927,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ndia",
+    "gn:country_code":"SS",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369298,
+    "gn:latitude":6.60016,
+    "gn:longitude":29.31927,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Ndia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369298
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"caf698c88e0299081bea9bb7d15d62bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914495,
+            "locality_id":1326849213,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1326849213,
+    "wof:lastmodified":1537023254,
+    "wof:name":"Ndia",
+    "wof:parent_id":1091914495,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31927,
+    6.60016,
+    29.31927,
+    6.60016
+],
+  "geometry": {"coordinates":[29.31927,6.60016],"type":"Point"}
+}

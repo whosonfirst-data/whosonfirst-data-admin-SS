@@ -1,0 +1,67 @@
+{
+  "id": 1343676893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.39901,6.92074,30.39901,6.92074",
+    "geom:latitude":6.92074,
+    "geom:longitude":30.39901,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Majak Rual",
+    "gn:country_code":"SS",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7431071,
+    "gn:latitude":6.92074,
+    "gn:longitude":30.39901,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Majak Rual",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7431071
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"93404e6582581d3336ebf29ec7f8585f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1343676893,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1343676893,
+    "wof:lastmodified":1536932013,
+    "wof:name":"Majak Rual",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.39901,
+    6.92074,
+    30.39901,
+    6.92074
+],
+  "geometry": {"coordinates":[30.39901,6.92074],"type":"Point"}
+}

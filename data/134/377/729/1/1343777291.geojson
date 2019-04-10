@@ -1,0 +1,71 @@
+{
+  "id": 1343777291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.71595,8.65741,33.71595,8.65741",
+    "geom:latitude":8.65741,
+    "geom:longitude":33.71595,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nyabiong",
+    "gn:country_code":"SS",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369020,
+    "gn:latitude":8.65741,
+    "gn:longitude":33.71595,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Nyabiong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyaboing",
+        "Nyabiong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369020
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9a3c2397cbd1d58161e42990e954192f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914895,
+            "locality_id":1343777291,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1343777291,
+    "wof:lastmodified":1537701391,
+    "wof:name":"Nyabiong",
+    "wof:parent_id":1091914895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.71595,
+    8.65741,
+    33.71595,
+    8.65741
+],
+  "geometry": {"coordinates":[33.71595,8.65741],"type":"Point"}
+}

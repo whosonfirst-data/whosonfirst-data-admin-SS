@@ -1,0 +1,64 @@
+{
+  "id": 1209534457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71691,6.81058,30.71691,6.81058",
+    "geom:latitude":6.81058,
+    "geom:longitude":30.71691,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aiyem",
+    "gn:country_code":"SS",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382065,
+    "gn:latitude":6.81058,
+    "gn:longitude":30.71691,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Aiyem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382065
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"08910323143b048126aed5f0850ecedd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209534457
+        }
+    ],
+    "wof:id":1209534457,
+    "wof:lastmodified":1537701416,
+    "wof:name":"Aiyem",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71691,
+    6.81058,
+    30.71691,
+    6.81058
+],
+  "geometry": {"coordinates":[30.71691,6.81058],"type":"Point"}
+}

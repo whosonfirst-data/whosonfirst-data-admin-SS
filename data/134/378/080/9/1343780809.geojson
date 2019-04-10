@@ -1,0 +1,73 @@
+{
+  "id": 1343780809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75426,5.33497,31.75426,5.33497",
+    "geom:latitude":5.33497,
+    "geom:longitude":31.75426,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Keiro",
+    "gn:country_code":"SS",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372647,
+    "gn:latitude":5.33497,
+    "gn:longitude":31.75426,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Keiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simsima",
+        "Kiro",
+        "Keiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372647,
+        "wk:page":"Kiro"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"45034372ef418ac24e366c07a9d253aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1343780809,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1343780809,
+    "wof:lastmodified":1537701398,
+    "wof:name":"Keiro",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75426,
+    5.33497,
+    31.75426,
+    5.33497
+],
+  "geometry": {"coordinates":[31.75426,5.33497],"type":"Point"}
+}

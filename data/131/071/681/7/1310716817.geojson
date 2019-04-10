@@ -1,0 +1,67 @@
+{
+  "id": 1310716817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.44444,5.38,29.44444,5.38",
+    "geom:latitude":5.38,
+    "geom:longitude":29.44444,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bimba",
+    "gn:country_code":"SS",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382212,
+    "gn:latitude":5.38,
+    "gn:longitude":29.44444,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Bimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382212
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8f5b7908ff709a11eb1b6b797bdd5097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":1310716817,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1310716817,
+    "wof:lastmodified":1536609333,
+    "wof:name":"Bimba",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.44444,
+    5.38,
+    29.44444,
+    5.38
+],
+  "geometry": {"coordinates":[29.44444,5.38],"type":"Point"}
+}

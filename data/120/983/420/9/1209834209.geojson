@@ -1,0 +1,71 @@
+{
+  "id": 1209834209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6878,11.0919,32.6878,11.0919",
+    "geom:latitude":11.0919,
+    "geom:longitude":32.6878,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Al Lagheir",
+    "gn:country_code":"SS",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7031429,
+    "gn:latitude":11.0919,
+    "gn:longitude":32.6878,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Al Lagheir",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sharq",
+        "Al Lagheir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7031429
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"692f12d4e15ebef2e83b29b3d99970f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1209834209,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1209834209,
+    "wof:lastmodified":1537701418,
+    "wof:name":"Al Lagheir",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6878,
+    11.0919,
+    32.6878,
+    11.0919
+],
+  "geometry": {"coordinates":[32.6878,11.0919],"type":"Point"}
+}

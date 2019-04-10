@@ -1,0 +1,71 @@
+{
+  "id": 1193152039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8964,8.60843,32.8964,8.60843",
+    "geom:latitude":8.60843,
+    "geom:longitude":32.8964,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Torbar",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365748,
+    "gn:latitude":8.60843,
+    "gn:longitude":32.8964,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Torbar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawbai",
+        "Torbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365748
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5f7597005af6dcca066dd92611ef3db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1193152039,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1193152039,
+    "wof:lastmodified":1537701384,
+    "wof:name":"Torbar",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8964,
+    8.60843,
+    32.8964,
+    8.60843
+],
+  "geometry": {"coordinates":[32.8964,8.60843],"type":"Point"}
+}

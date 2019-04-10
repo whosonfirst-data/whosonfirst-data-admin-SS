@@ -1,0 +1,71 @@
+{
+  "id": 1243182823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78931,7.16691,33.78931,7.16691",
+    "geom:latitude":7.16691,
+    "geom:longitude":33.78931,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Daiong",
+    "gn:country_code":"SS",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376847,
+    "gn:latitude":7.16691,
+    "gn:longitude":33.78931,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Daiong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dailongo",
+        "Daiong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376847
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cb501d276dbcc1a8e0dcc6d760a1e52e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915101,
+            "locality_id":1243182823,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1243182823,
+    "wof:lastmodified":1537701406,
+    "wof:name":"Daiong",
+    "wof:parent_id":1091915101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78931,
+    7.16691,
+    33.78931,
+    7.16691
+],
+  "geometry": {"coordinates":[33.78931,7.16691],"type":"Point"}
+}

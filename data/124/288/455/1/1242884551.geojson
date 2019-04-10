@@ -1,0 +1,67 @@
+{
+  "id": 1242884551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.20701,7.72564,26.20701,7.72564",
+    "geom:latitude":7.72564,
+    "geom:longitude":26.20701,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Guma Sadai",
+    "gn:country_code":"SS",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7415770,
+    "gn:latitude":7.72564,
+    "gn:longitude":26.20701,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Guma Sadai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7415770
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ed521a4bd10949599fc178126e9015f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1242884551,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1242884551,
+    "wof:lastmodified":1536619321,
+    "wof:name":"Guma Sadai",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.20701,
+    7.72564,
+    26.20701,
+    7.72564
+],
+  "geometry": {"coordinates":[26.20701,7.72564],"type":"Point"}
+}

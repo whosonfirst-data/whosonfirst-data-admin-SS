@@ -1,0 +1,67 @@
+{
+  "id": 1259898619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.48548,8.06742,29.48548,8.06742",
+    "geom:latitude":8.06742,
+    "geom:longitude":29.48548,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Labwod",
+    "gn:country_code":"SS",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371636,
+    "gn:latitude":8.06742,
+    "gn:longitude":29.48548,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Labwod",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091914139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371636
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"1f4983abfc05094bfeae75f646169d1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914139,
+            "locality_id":1259898619,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1259898619,
+    "wof:lastmodified":1536757440,
+    "wof:name":"Labwod",
+    "wof:parent_id":1091914139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.48548,
+    8.06742,
+    29.48548,
+    8.06742
+],
+  "geometry": {"coordinates":[29.48548,8.06742],"type":"Point"}
+}

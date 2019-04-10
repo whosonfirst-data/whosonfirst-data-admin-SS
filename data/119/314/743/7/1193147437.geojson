@@ -1,0 +1,67 @@
+{
+  "id": 1193147437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86346,9.36703,31.86346,9.36703",
+    "geom:latitude":9.36703,
+    "geom:longitude":31.86346,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nagdiar",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369492,
+    "gn:latitude":9.36703,
+    "gn:longitude":31.86346,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Nagdiar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369492
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ff9b4ed6424021e2740fc00466842890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914001,
+            "locality_id":1193147437,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1193147437,
+    "wof:lastmodified":1536381868,
+    "wof:name":"Nagdiar",
+    "wof:parent_id":1091914001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.86346,
+    9.36703,
+    31.86346,
+    9.36703
+],
+  "geometry": {"coordinates":[31.86346,9.36703],"type":"Point"}
+}

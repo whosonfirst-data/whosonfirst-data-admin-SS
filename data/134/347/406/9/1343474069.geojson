@@ -1,0 +1,67 @@
+{
+  "id": 1343474069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21101,8.04446,32.21101,8.04446",
+    "geom:latitude":8.04446,
+    "geom:longitude":32.21101,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dwal Dong",
+    "gn:country_code":"SS",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376047,
+    "gn:latitude":8.04446,
+    "gn:longitude":32.21101,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Dwal Dong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091916167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376047
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7093920bf4c19d80c14f9a36d719282c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916167,
+            "locality_id":1343474069,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1343474069,
+    "wof:lastmodified":1536726791,
+    "wof:name":"Dwal Dong",
+    "wof:parent_id":1091916167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21100999999999,
+    8.04446,
+    32.21100999999999,
+    8.04446
+],
+  "geometry": {"coordinates":[32.21100999999999,8.04446],"type":"Point"}
+}

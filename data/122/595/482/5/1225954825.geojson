@@ -1,0 +1,67 @@
+{
+  "id": 1225954825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.67491,4.91286,32.67491,4.91286",
+    "geom:latitude":4.91286,
+    "geom:longitude":32.67491,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Lomorotok",
+    "gn:country_code":"SS",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371212,
+    "gn:latitude":4.91286,
+    "gn:longitude":32.67491,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Lomorotok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091915633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371212
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e6420ff85065b547b0eb6dcda67e5b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915633,
+            "locality_id":1225954825,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1225954825,
+    "wof:lastmodified":1536854932,
+    "wof:name":"Lomorotok",
+    "wof:parent_id":1091915633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.67491,
+    4.91286,
+    32.67491,
+    4.91286
+],
+  "geometry": {"coordinates":[32.67491,4.91286],"type":"Point"}
+}

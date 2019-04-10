@@ -1,0 +1,67 @@
+{
+  "id": 1343280685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15735,9.48853,32.15735,9.48853",
+    "geom:latitude":9.48853,
+    "geom:longitude":32.15735,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wabuit",
+    "gn:country_code":"SS",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":364340,
+    "gn:latitude":9.48853,
+    "gn:longitude":32.15735,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Wabuit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":364340
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"cf334b174211c90484489abb64256102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915503,
+            "locality_id":1343280685,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1343280685,
+    "wof:lastmodified":1537004976,
+    "wof:name":"Wabuit",
+    "wof:parent_id":1091915503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15735,
+    9.48853,
+    32.15735,
+    9.48853
+],
+  "geometry": {"coordinates":[32.15735,9.48853],"type":"Point"}
+}

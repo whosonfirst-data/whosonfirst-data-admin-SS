@@ -1,0 +1,67 @@
+{
+  "id": 1259401313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71861,8.64907,32.71861,8.64907",
+    "geom:latitude":8.64907,
+    "geom:longitude":32.71861,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Chomguk",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374761,
+    "gn:latitude":8.64907,
+    "gn:longitude":32.71861,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Chomguk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374761
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"36138efd58516b2fe25536ab1eb39535",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914409,
+            "locality_id":1259401313,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1259401313,
+    "wof:lastmodified":1536976190,
+    "wof:name":"Chomguk",
+    "wof:parent_id":1091914409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71861,
+    8.64907,
+    32.71861,
+    8.64907
+],
+  "geometry": {"coordinates":[32.71861,8.64907],"type":"Point"}
+}

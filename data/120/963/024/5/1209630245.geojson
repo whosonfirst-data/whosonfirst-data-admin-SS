@@ -1,0 +1,61 @@
+{
+  "id": 1209630245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38208,9.04035,32.38208,9.04035",
+    "geom:latitude":9.04035,
+    "geom:longitude":32.38208,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kormayom",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372141,
+    "gn:latitude":9.04035,
+    "gn:longitude":32.38208,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Kormayom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372141
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"eb25efada15553f607c8f006be94a0a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209630245
+        }
+    ],
+    "wof:id":1209630245,
+    "wof:lastmodified":1536281212,
+    "wof:name":"Kormayom",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38208,
+    9.04035,
+    32.38208,
+    9.04035
+],
+  "geometry": {"coordinates":[32.38208,9.04035],"type":"Point"}
+}

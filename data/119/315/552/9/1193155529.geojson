@@ -1,0 +1,67 @@
+{
+  "id": 1193155529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.47104,4.3364,30.47104,4.3364",
+    "geom:latitude":4.3364,
+    "geom:longitude":30.47104,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Odio",
+    "gn:country_code":"SS",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8034161,
+    "gn:latitude":4.3364,
+    "gn:longitude":30.47104,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Odio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8034161
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ab0c7d6dde51d1eb5c4f9c5ba19d2494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914579,
+            "locality_id":1193155529,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1193155529,
+    "wof:lastmodified":1536373646,
+    "wof:name":"Odio",
+    "wof:parent_id":1091914579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.47104,
+    4.3364,
+    30.47104,
+    4.3364
+],
+  "geometry": {"coordinates":[30.47104,4.3364],"type":"Point"}
+}

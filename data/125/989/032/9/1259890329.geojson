@@ -1,0 +1,67 @@
+{
+  "id": 1259890329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43663,3.80168,33.43663,3.80168",
+    "geom:latitude":3.80168,
+    "geom:longitude":33.43663,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Laposs",
+    "gn:country_code":"SS",
+    "gn:dem":991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371537,
+    "gn:latitude":3.80168,
+    "gn:longitude":33.43663,
+    "gn:modification_date":"2014-02-10",
+    "gn:name":"Laposs",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371537
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7369869878753e04ea5fbe3cc09a9d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914753,
+            "locality_id":1259890329,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1259890329,
+    "wof:lastmodified":1536769675,
+    "wof:name":"Laposs",
+    "wof:parent_id":1091914753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43663,
+    3.80168,
+    33.43663,
+    3.80168
+],
+  "geometry": {"coordinates":[33.43663,3.80168],"type":"Point"}
+}

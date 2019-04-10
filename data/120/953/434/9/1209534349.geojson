@@ -1,0 +1,61 @@
+{
+  "id": 1209534349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.55673,9.20786,29.55673,9.20786",
+    "geom:latitude":9.20786,
+    "geom:longitude":29.55673,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Diam",
+    "gn:country_code":"SS",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376503,
+    "gn:latitude":9.20786,
+    "gn:longitude":29.55673,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Diam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376503
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7877ca7cce6e6260807fa37a5076600a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209534349
+        }
+    ],
+    "wof:id":1209534349,
+    "wof:lastmodified":1536284185,
+    "wof:name":"Diam",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.55673,
+    9.20786,
+    29.55673,
+    9.20786
+],
+  "geometry": {"coordinates":[29.55673,9.20786],"type":"Point"}
+}

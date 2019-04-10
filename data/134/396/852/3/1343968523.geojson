@@ -1,0 +1,70 @@
+{
+  "id": 1343968523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9671,6.84459,30.9671,6.84459",
+    "geom:latitude":6.84459,
+    "geom:longitude":30.9671,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bei",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382057,
+    "gn:latitude":6.84459,
+    "gn:longitude":30.9671,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382057
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a2f0915d00273ef67ba3ec6f485a1815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1343968523,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1343968523,
+    "wof:lastmodified":1537701416,
+    "wof:name":"Bei",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9671,
+    6.84459,
+    30.9671,
+    6.84459
+],
+  "geometry": {"coordinates":[30.9671,6.84459],"type":"Point"}
+}

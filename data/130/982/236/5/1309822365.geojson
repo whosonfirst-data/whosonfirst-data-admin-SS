@@ -1,0 +1,71 @@
+{
+  "id": 1309822365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04083,9.89838,30.04083,9.89838",
+    "geom:latitude":9.89838,
+    "geom:longitude":30.04083,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Deng Akol",
+    "gn:country_code":"SS",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376557,
+    "gn:latitude":9.89838,
+    "gn:longitude":30.04083,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Deng Akol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Den Akol",
+        "Deng Akol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376557
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"db09a31ee5c94fbbf0f2df42895298f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915021,
+            "locality_id":1309822365,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1309822365,
+    "wof:lastmodified":1537701405,
+    "wof:name":"Deng Akol",
+    "wof:parent_id":1091915021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04083,
+    9.89838,
+    30.04083,
+    9.89838
+],
+  "geometry": {"coordinates":[30.04083,9.89838],"type":"Point"}
+}

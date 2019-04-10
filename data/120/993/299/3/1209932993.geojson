@@ -1,0 +1,67 @@
+{
+  "id": 1209932993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46917,5.69951,30.46917,5.69951",
+    "geom:latitude":5.69951,
+    "geom:longitude":30.46917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Nimalli",
+    "gn:country_code":"SS",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369161,
+    "gn:latitude":5.69951,
+    "gn:longitude":30.46917,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Nimalli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369161
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"59d84ec11a3360b90ec7cb13bf98eb2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915905,
+            "locality_id":1209932993,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1209932993,
+    "wof:lastmodified":1536391895,
+    "wof:name":"Nimalli",
+    "wof:parent_id":1091915905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46917,
+    5.69951,
+    30.46917,
+    5.69951
+],
+  "geometry": {"coordinates":[30.46917,5.69951],"type":"Point"}
+}

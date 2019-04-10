@@ -1,0 +1,67 @@
+{
+  "id": 1310320417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10461,8.4422,28.10461,8.4422",
+    "geom:latitude":8.4422,
+    "geom:longitude":28.10461,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lol Tau",
+    "gn:country_code":"SS",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8060879,
+    "gn:latitude":8.4422,
+    "gn:longitude":28.10461,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Lol Tau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8060879
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f0f468829d183b7b82a6c54dd027ca80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1310320417,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1310320417,
+    "wof:lastmodified":1536686347,
+    "wof:name":"Lol Tau",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10461,
+    8.4422,
+    28.10461,
+    8.4422
+],
+  "geometry": {"coordinates":[28.10461,8.4422],"type":"Point"}
+}

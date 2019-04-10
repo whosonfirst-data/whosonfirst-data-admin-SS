@@ -1,0 +1,61 @@
+{
+  "id": 1209233435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3505,7.39217,31.3505,7.39217",
+    "geom:latitude":7.39217,
+    "geom:longitude":31.3505,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Loweng",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8169059,
+    "gn:latitude":7.39217,
+    "gn:longitude":31.3505,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Loweng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8169059
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"9014d48290e6e503c571592769076f92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209233435
+        }
+    ],
+    "wof:id":1209233435,
+    "wof:lastmodified":1536293564,
+    "wof:name":"Loweng",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3505,
+    7.39217,
+    31.3505,
+    7.39217
+],
+  "geometry": {"coordinates":[31.3505,7.39217],"type":"Point"}
+}

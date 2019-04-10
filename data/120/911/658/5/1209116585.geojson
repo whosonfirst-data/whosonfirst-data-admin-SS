@@ -1,0 +1,61 @@
+{
+  "id": 1209116585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.90605,8.41401,29.90605,8.41401",
+    "geom:latitude":8.41401,
+    "geom:longitude":29.90605,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gab",
+    "gn:country_code":"SS",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8059359,
+    "gn:latitude":8.41401,
+    "gn:longitude":29.90605,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Gab",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8059359
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0d27f0a425f2330353e2e024d86692a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209116585
+        }
+    ],
+    "wof:id":1209116585,
+    "wof:lastmodified":1536297233,
+    "wof:name":"Gab",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.90605,
+    8.414010000000001,
+    29.90605,
+    8.414010000000001
+],
+  "geometry": {"coordinates":[29.90605,8.41401],"type":"Point"}
+}

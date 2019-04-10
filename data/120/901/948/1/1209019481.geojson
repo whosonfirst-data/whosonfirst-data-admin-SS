@@ -1,0 +1,61 @@
+{
+  "id": 1209019481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65222,7.0706,28.65222,7.0706",
+    "geom:latitude":7.0706,
+    "geom:longitude":28.65222,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Fatina",
+    "gn:country_code":"SS",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":375438,
+    "gn:latitude":7.0706,
+    "gn:longitude":28.65222,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Fatina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":375438
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ad67952575893d1e77894c3b3b1c4793",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209019481
+        }
+    ],
+    "wof:id":1209019481,
+    "wof:lastmodified":1536300189,
+    "wof:name":"Fatina",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65222,
+    7.0706,
+    28.65222,
+    7.0706
+],
+  "geometry": {"coordinates":[28.65222,7.0706],"type":"Point"}
+}

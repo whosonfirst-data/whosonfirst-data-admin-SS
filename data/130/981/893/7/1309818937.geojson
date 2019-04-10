@@ -1,0 +1,67 @@
+{
+  "id": 1309818937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61141,3.81114,30.61141,3.81114",
+    "geom:latitude":3.81114,
+    "geom:longitude":30.61141,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Oloko",
+    "gn:country_code":"SS",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368779,
+    "gn:latitude":3.81114,
+    "gn:longitude":30.61141,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Oloko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091914975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368779
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8314a15550822a794a4d2285e3a71153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914975,
+            "locality_id":1309818937,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1309818937,
+    "wof:lastmodified":1536912447,
+    "wof:name":"Oloko",
+    "wof:parent_id":1091914975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61141,
+    3.81114,
+    30.61141,
+    3.81114
+],
+  "geometry": {"coordinates":[30.61141,3.81114],"type":"Point"}
+}

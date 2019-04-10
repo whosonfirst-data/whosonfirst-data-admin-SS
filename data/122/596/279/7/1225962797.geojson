@@ -1,0 +1,67 @@
+{
+  "id": 1225962797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.10696,8.68723,26.10696,8.68723",
+    "geom:latitude":8.68723,
+    "geom:longitude":26.10696,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abarau",
+    "gn:country_code":"SS",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381194,
+    "gn:latitude":8.68723,
+    "gn:longitude":26.10696,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Abarau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381194
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c06d8072001cfa1155c7e2fdacbc6d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1225962797,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1225962797,
+    "wof:lastmodified":1536843635,
+    "wof:name":"Abarau",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.10696,
+    8.68723,
+    26.10696,
+    8.68723
+],
+  "geometry": {"coordinates":[26.10696,8.68723],"type":"Point"}
+}

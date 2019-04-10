@@ -1,0 +1,61 @@
+{
+  "id": 1209630287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73048,9.01948,31.73048,9.01948",
+    "geom:latitude":9.01948,
+    "geom:longitude":31.73048,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mulgak",
+    "gn:country_code":"SS",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369733,
+    "gn:latitude":9.01948,
+    "gn:longitude":31.73048,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Mulgak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369733
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"58780360fbbb7424ec85f9be391c3e63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209630287
+        }
+    ],
+    "wof:id":1209630287,
+    "wof:lastmodified":1536281211,
+    "wof:name":"Mulgak",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73048,
+    9.01948,
+    31.73048,
+    9.01948
+],
+  "geometry": {"coordinates":[31.73048,9.01948],"type":"Point"}
+}

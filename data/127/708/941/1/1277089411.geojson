@@ -1,0 +1,71 @@
+{
+  "id": 1277089411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71938,4.9475,30.71938,4.9475",
+    "geom:latitude":4.9475,
+    "geom:longitude":30.71938,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sheikh Mulai",
+    "gn:country_code":"SS",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367156,
+    "gn:latitude":4.9475,
+    "gn:longitude":30.71938,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sheikh Mulai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shaykh Mawl\u0101\u2019\u012b",
+        "Shaykh Mulai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091915905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367156
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"43fb30ac1037dddd07049f255fcd48cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915905,
+            "locality_id":1277089411,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1277089411,
+    "wof:lastmodified":1537701387,
+    "wof:name":"Sheikh Mulai",
+    "wof:parent_id":1091915905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71938,
+    4.9475,
+    30.71938,
+    4.9475
+],
+  "geometry": {"coordinates":[30.71938,4.9475],"type":"Point"}
+}

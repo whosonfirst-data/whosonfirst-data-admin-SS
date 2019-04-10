@@ -1,0 +1,67 @@
+{
+  "id": 1277089467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72444,9.13722,31.72444,9.13722",
+    "geom:latitude":9.13722,
+    "geom:longitude":31.72444,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wunanyak",
+    "gn:country_code":"SS",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363734,
+    "gn:latitude":9.13722,
+    "gn:longitude":31.72444,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Wunanyak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363734
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"87c7f6c0251aa3ba9b5f9fba993a4968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913821,
+            "locality_id":1277089467,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1277089467,
+    "wof:lastmodified":1536757979,
+    "wof:name":"Wunanyak",
+    "wof:parent_id":1091913821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72444,
+    9.13722,
+    31.72444,
+    9.13722
+],
+  "geometry": {"coordinates":[31.72444,9.13722],"type":"Point"}
+}

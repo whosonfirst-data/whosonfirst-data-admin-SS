@@ -1,0 +1,67 @@
+{
+  "id": 1209730649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90862,8.24522,26.90862,8.24522",
+    "geom:latitude":8.24522,
+    "geom:longitude":26.90862,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Alangari",
+    "gn:country_code":"SS",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379706,
+    "gn:latitude":8.24522,
+    "gn:longitude":26.90862,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Alangari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091913401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379706
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"c40939489e68b1113efa60168c17f9bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913401,
+            "locality_id":1209730649,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1209730649,
+    "wof:lastmodified":1536379002,
+    "wof:name":"Alangari",
+    "wof:parent_id":1091913401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90862000000001,
+    8.24522,
+    26.90862000000001,
+    8.24522
+],
+  "geometry": {"coordinates":[26.90862000000001,8.24522],"type":"Point"}
+}

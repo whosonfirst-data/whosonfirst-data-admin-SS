@@ -1,0 +1,67 @@
+{
+  "id": 1243279147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00322,6.84255,31.00322,6.84255",
+    "geom:latitude":6.84255,
+    "geom:longitude":31.00322,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kwech",
+    "gn:country_code":"SS",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382109,
+    "gn:latitude":6.84255,
+    "gn:longitude":31.00322,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kwech",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382109
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e0c0753d0eaa1ffb696579478d504085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914583,
+            "locality_id":1243279147,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1243279147,
+    "wof:lastmodified":1537044752,
+    "wof:name":"Kwech",
+    "wof:parent_id":1091914583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00322,
+    6.84255,
+    31.00322,
+    6.84255
+],
+  "geometry": {"coordinates":[31.00322,6.84255],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343272493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63133,8.34008,32.63133,8.34008",
+    "geom:latitude":8.34008,
+    "geom:longitude":32.63133,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Buoi",
+    "gn:country_code":"SS",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8374658,
+    "gn:latitude":8.34008,
+    "gn:longitude":32.63133,
+    "gn:modification_date":"2012-08-06",
+    "gn:name":"Buoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091913861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8374658
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"535b93e748561c9be6df2201140df688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913861,
+            "locality_id":1343272493,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1343272493,
+    "wof:lastmodified":1537701421,
+    "wof:name":"Buoi",
+    "wof:parent_id":1091913861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63133,
+    8.34008,
+    32.63133,
+    8.34008
+],
+  "geometry": {"coordinates":[32.63133,8.34008],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243191079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.29889,9.07395,27.29889,9.07395",
+    "geom:latitude":9.07395,
+    "geom:longitude":27.29889,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Dugdug",
+    "gn:country_code":"SS",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7416379,
+    "gn:latitude":9.07395,
+    "gn:longitude":27.29889,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Dugdug",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091914653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7416379
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"bdaa30650ac879b2a7d2b6ac628fd3cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914653,
+            "locality_id":1243191079,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1243191079,
+    "wof:lastmodified":1536676699,
+    "wof:name":"Dugdug",
+    "wof:parent_id":1091914653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.29889,
+    9.07395,
+    27.29889,
+    9.07395
+],
+  "geometry": {"coordinates":[27.29889,9.07395],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293311287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.78394,4.15133,32.78394,4.15133",
+    "geom:latitude":4.15133,
+    "geom:longitude":32.78394,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ingyelire",
+    "gn:country_code":"SS",
+    "gn:dem":1688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382476,
+    "gn:latitude":4.15133,
+    "gn:longitude":32.78394,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Ingyelire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingelire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382476
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"4ee949bc61c02109403fdbf0c366c3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1293311287,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1293311287,
+    "wof:lastmodified":1537701417,
+    "wof:name":"Ingyelire",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.78394,
+    4.15133,
+    32.78394,
+    4.15133
+],
+  "geometry": {"coordinates":[32.78394,4.15133],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242688435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35519,7.15533,31.35519,7.15533",
+    "geom:latitude":7.15533,
+    "geom:longitude":31.35519,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kongor",
+    "gn:country_code":"SS",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372195,
+    "gn:latitude":7.15533,
+    "gn:longitude":31.35519,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kongor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konqor",
+        "Kongor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372195,
+        "wk:page":"Kongor"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f0c097d0c65072b68421e55d425fb9de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914319,
+            "locality_id":1242688435,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1242688435,
+    "wof:lastmodified":1537701397,
+    "wof:name":"Kongor",
+    "wof:parent_id":1091914319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35519,
+    7.15533,
+    31.35519,
+    7.15533
+],
+  "geometry": {"coordinates":[31.35519,7.15533],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209625725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3,4.51667,30.3,4.51667",
+    "geom:latitude":4.51667,
+    "geom:longitude":30.3,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rizq Allah",
+    "gn:country_code":"SS",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368043,
+    "gn:latitude":4.51667,
+    "gn:longitude":30.3,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Rizq All\u0101h",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rizqullah",
+        "Rizq All\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368043
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6cfdeceb3bdeae0383edb492d0206c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209625725
+        }
+    ],
+    "wof:id":1209625725,
+    "wof:lastmodified":1537701388,
+    "wof:name":"Rizq Allah",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3,
+    4.51667,
+    30.3,
+    4.51667
+],
+  "geometry": {"coordinates":[30.3,4.51667],"type":"Point"}
+}

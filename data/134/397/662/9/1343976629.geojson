@@ -1,0 +1,67 @@
+{
+  "id": 1343976629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.2087,10.30752,25.2087,10.30752",
+    "geom:latitude":10.30752,
+    "geom:longitude":25.2087,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ma'adat ed Doleiba",
+    "gn:country_code":"SS",
+    "gn:dem":467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8047323,
+    "gn:latitude":10.30752,
+    "gn:longitude":25.2087,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Ma\u2019adat ed Doleiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8047323
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"fadf98912631aa798b800af98545bd40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1343976629,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1343976629,
+    "wof:lastmodified":1536995881,
+    "wof:name":"Ma'adat ed Doleiba",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.2087,
+    10.30752,
+    25.2087,
+    10.30752
+],
+  "geometry": {"coordinates":[25.2087,10.30752],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310619833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96528,4.10806,30.96528,4.10806",
+    "geom:latitude":4.10806,
+    "geom:longitude":30.96528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marani",
+    "gn:country_code":"SS",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370487,
+    "gn:latitude":4.10806,
+    "gn:longitude":30.96528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Marani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marini",
+        "Marani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091913733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370487
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"38bf34dc507f535f345a1a98b0f8c231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913733,
+            "locality_id":1310619833,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1310619833,
+    "wof:lastmodified":1537701394,
+    "wof:name":"Marani",
+    "wof:parent_id":1091913733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96528,
+    4.10806,
+    30.96528,
+    4.10806
+],
+  "geometry": {"coordinates":[30.96528,4.10806],"type":"Point"}
+}

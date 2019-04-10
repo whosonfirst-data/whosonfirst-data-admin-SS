@@ -1,0 +1,61 @@
+{
+  "id": 1209429973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.68956,7.74657,31.68956,7.74657",
+    "geom:latitude":7.74657,
+    "geom:longitude":31.68956,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bongwil",
+    "gn:country_code":"SS",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377247,
+    "gn:latitude":7.74657,
+    "gn:longitude":31.68956,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Bongwil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377247
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"426daaa1b9fb9eee3b61cbb4dababf9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209429973
+        }
+    ],
+    "wof:id":1209429973,
+    "wof:lastmodified":1536287264,
+    "wof:name":"Bongwil",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.68956,
+    7.746569999999998,
+    31.68956,
+    7.746569999999998
+],
+  "geometry": {"coordinates":[31.68956,7.74657],"type":"Point"}
+}

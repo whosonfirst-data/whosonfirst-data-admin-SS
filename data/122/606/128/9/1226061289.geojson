@@ -1,0 +1,71 @@
+{
+  "id": 1226061289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.52041,6.0595,30.52041,6.0595",
+    "geom:latitude":6.0595,
+    "geom:longitude":30.52041,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Reien",
+    "gn:country_code":"SS",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":368107,
+    "gn:latitude":6.0595,
+    "gn:longitude":30.52041,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Reien",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rein",
+        "Reien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091916075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":368107
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"7be75bab439a59fdb668d6bd48a2346b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916075,
+            "locality_id":1226061289,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1226061289,
+    "wof:lastmodified":1537701388,
+    "wof:name":"Reien",
+    "wof:parent_id":1091916075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.52041,
+    6.0595,
+    30.52041,
+    6.0595
+],
+  "geometry": {"coordinates":[30.52041,6.0595],"type":"Point"}
+}

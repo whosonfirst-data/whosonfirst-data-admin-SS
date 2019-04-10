@@ -1,0 +1,67 @@
+{
+  "id": 1243569641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.04378,8.90144,28.04378,8.90144",
+    "geom:latitude":8.90144,
+    "geom:longitude":28.04378,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Tundor",
+    "gn:country_code":"SS",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430803,
+    "gn:latitude":8.90144,
+    "gn:longitude":28.04378,
+    "gn:modification_date":"2011-11-06",
+    "gn:name":"Tundor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430803
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b172a9ed3160a8052ba87aae27b62b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1243569641,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1243569641,
+    "wof:lastmodified":1536626084,
+    "wof:name":"Tundor",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04378,
+    8.90144,
+    28.04378,
+    8.90144
+],
+  "geometry": {"coordinates":[28.04378,8.90144],"type":"Point"}
+}

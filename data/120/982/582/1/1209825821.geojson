@@ -1,0 +1,67 @@
+{
+  "id": 1209825821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.60731,9.2092,29.60731,9.2092",
+    "geom:latitude":9.2092,
+    "geom:longitude":29.60731,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Miu",
+    "gn:country_code":"SS",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428815,
+    "gn:latitude":9.2092,
+    "gn:longitude":29.60731,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Miu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428815
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d360bef7c285790c1fce8ef04703d227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915999,
+            "locality_id":1209825821,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1209825821,
+    "wof:lastmodified":1536373809,
+    "wof:name":"Miu",
+    "wof:parent_id":1091915999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.60731,
+    9.2092,
+    29.60731,
+    9.2092
+],
+  "geometry": {"coordinates":[29.60731,9.2092],"type":"Point"}
+}

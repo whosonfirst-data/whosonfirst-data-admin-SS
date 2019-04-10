@@ -1,0 +1,71 @@
+{
+  "id": 1209933067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44546,9.36184,31.44546,9.36184",
+    "geom:latitude":9.36184,
+    "geom:longitude":31.44546,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ajaugo",
+    "gn:country_code":"SS",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379880,
+    "gn:latitude":9.36184,
+    "gn:longitude":31.44546,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ajaugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adwojo",
+        "Ajaugo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379880
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"dd8896212aa40a9cb67aedf652329a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914001,
+            "locality_id":1209933067,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1209933067,
+    "wof:lastmodified":1537701410,
+    "wof:name":"Ajaugo",
+    "wof:parent_id":1091914001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44546,
+    9.36184,
+    31.44546,
+    9.36184
+],
+  "geometry": {"coordinates":[31.44546,9.36184],"type":"Point"}
+}

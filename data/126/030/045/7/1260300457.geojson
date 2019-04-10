@@ -1,0 +1,67 @@
+{
+  "id": 1260300457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16385,6.76487,33.16385,6.76487",
+    "geom:latitude":6.76487,
+    "geom:longitude":33.16385,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nabaka",
+    "gn:country_code":"SS",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8060641,
+    "gn:latitude":6.76487,
+    "gn:longitude":33.16385,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Nabaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8060641
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f502111be4af578a68b7e6531ff8b71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915059,
+            "locality_id":1260300457,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1260300457,
+    "wof:lastmodified":1536689117,
+    "wof:name":"Nabaka",
+    "wof:parent_id":1091915059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16385,
+    6.76487,
+    33.16385,
+    6.76487
+],
+  "geometry": {"coordinates":[33.16385,6.76487],"type":"Point"}
+}

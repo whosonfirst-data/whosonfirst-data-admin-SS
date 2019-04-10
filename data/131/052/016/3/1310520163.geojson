@@ -1,0 +1,67 @@
+{
+  "id": 1310520163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14551,9.93765,32.14551,9.93765",
+    "geom:latitude":9.93765,
+    "geom:longitude":32.14551,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pareth",
+    "gn:country_code":"SS",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8058832,
+    "gn:latitude":9.93765,
+    "gn:longitude":32.14551,
+    "gn:modification_date":"2011-11-07",
+    "gn:name":"Pareth",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8058832
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"5e3ebad2d535a7003b98fe3bf43fe86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913653,
+            "locality_id":1310520163,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1310520163,
+    "wof:lastmodified":1536895537,
+    "wof:name":"Pareth",
+    "wof:parent_id":1091913653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14550999999999,
+    9.93765,
+    32.14550999999999,
+    9.93765
+],
+  "geometry": {"coordinates":[32.14550999999999,9.93765],"type":"Point"}
+}

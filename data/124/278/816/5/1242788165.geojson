@@ -1,0 +1,67 @@
+{
+  "id": 1242788165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.89761,9.0146,26.89761,9.0146",
+    "geom:latitude":9.0146,
+    "geom:longitude":26.89761,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Akwongdau",
+    "gn:country_code":"SS",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":379764,
+    "gn:latitude":9.0146,
+    "gn:longitude":26.89761,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Akwongdau",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379764
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d6e8110b7cb3d1fcbf3e36d0456da0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1242788165,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1242788165,
+    "wof:lastmodified":1536760463,
+    "wof:name":"Akwongdau",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.89761,
+    9.0146,
+    26.89761,
+    9.0146
+],
+  "geometry": {"coordinates":[26.89761,9.0146],"type":"Point"}
+}

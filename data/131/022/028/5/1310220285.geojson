@@ -1,0 +1,67 @@
+{
+  "id": 1310220285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.04035,8.08665,28.04035,8.08665",
+    "geom:latitude":8.08665,
+    "geom:longitude":28.04035,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Wun Tit",
+    "gn:country_code":"SS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363691,
+    "gn:latitude":8.08665,
+    "gn:longitude":28.04035,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Wun Tit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676965,
+        1091915551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363691
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"839d0539346de6c3275caff3c8a84be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915551,
+            "locality_id":1310220285,
+            "region_id":85676965
+        }
+    ],
+    "wof:id":1310220285,
+    "wof:lastmodified":1536829873,
+    "wof:name":"Wun Tit",
+    "wof:parent_id":1091915551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04035,
+    8.08665,
+    28.04035,
+    8.08665
+],
+  "geometry": {"coordinates":[28.04035,8.08665],"type":"Point"}
+}

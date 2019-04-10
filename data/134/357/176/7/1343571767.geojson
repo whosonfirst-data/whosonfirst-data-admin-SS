@@ -1,0 +1,67 @@
+{
+  "id": 1343571767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.46667,9.28333,24.46667,9.28333",
+    "geom:latitude":9.28333,
+    "geom:longitude":24.46667,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sarandil",
+    "gn:country_code":"SS",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":367613,
+    "gn:latitude":9.28333,
+    "gn:longitude":24.46667,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Sarandil",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676971,
+        1091915153
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":367613
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"f7935bdfec9c2c4d22e56b60dcda0e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915153,
+            "locality_id":1343571767,
+            "region_id":85676971
+        }
+    ],
+    "wof:id":1343571767,
+    "wof:lastmodified":1537079904,
+    "wof:name":"Sarandil",
+    "wof:parent_id":1091915153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.46667,
+    9.28333,
+    24.46667,
+    9.28333
+],
+  "geometry": {"coordinates":[24.46667,9.28333],"type":"Point"}
+}

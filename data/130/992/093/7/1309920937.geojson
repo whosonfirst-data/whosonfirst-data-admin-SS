@@ -1,0 +1,67 @@
+{
+  "id": 1309920937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.40091,4.81818,29.40091,4.81818",
+    "geom:latitude":4.81818,
+    "geom:longitude":29.40091,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Mboroko",
+    "gn:country_code":"SS",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8520911,
+    "gn:latitude":4.81818,
+    "gn:longitude":29.40091,
+    "gn:modification_date":"2013-04-10",
+    "gn:name":"Mboroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8520911
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"71d04ba2ef287ea0eb05dbbcc103abc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914455,
+            "locality_id":1309920937,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1309920937,
+    "wof:lastmodified":1536765399,
+    "wof:name":"Mboroko",
+    "wof:parent_id":1091914455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40091,
+    4.81818,
+    29.40091,
+    4.81818
+],
+  "geometry": {"coordinates":[29.40091,4.81818],"type":"Point"}
+}

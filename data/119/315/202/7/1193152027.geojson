@@ -1,0 +1,70 @@
+{
+  "id": 1193152027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68596,9.19673,30.68596,9.19673",
+    "geom:latitude":9.19673,
+    "geom:longitude":30.68596,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Thiangdediar",
+    "gn:country_code":"SS",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381695,
+    "gn:latitude":9.19673,
+    "gn:longitude":30.68596,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Thiangdediar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiangdediar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091915463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381695
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"6d489e4ddfdc51c5b52793875b54ef33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915463,
+            "locality_id":1193152027,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1193152027,
+    "wof:lastmodified":1537701414,
+    "wof:name":"Thiangdediar",
+    "wof:parent_id":1091915463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68596,
+    9.19673,
+    30.68596,
+    9.19673
+],
+  "geometry": {"coordinates":[30.68596,9.19673],"type":"Point"}
+}

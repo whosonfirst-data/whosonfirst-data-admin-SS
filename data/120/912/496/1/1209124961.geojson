@@ -1,0 +1,61 @@
+{
+  "id": 1209124961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58053,4.0222,31.58053,4.0222",
+    "geom:latitude":4.0222,
+    "geom:longitude":31.58053,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kanchu",
+    "gn:country_code":"SS",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372925,
+    "gn:latitude":4.0222,
+    "gn:longitude":31.58053,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Kanchu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372925
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"e34cfe1c174038a061c3d7b1324e32bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209124961
+        }
+    ],
+    "wof:id":1209124961,
+    "wof:lastmodified":1536296982,
+    "wof:name":"Kanchu",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58053,
+    4.0222,
+    31.58053,
+    4.0222
+],
+  "geometry": {"coordinates":[31.58053,4.0222],"type":"Point"}
+}

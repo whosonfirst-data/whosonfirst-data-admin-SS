@@ -1,0 +1,70 @@
+{
+  "id": 1243278995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.69618,4.42256,33.69618,4.42256",
+    "geom:latitude":4.42256,
+    "geom:longitude":33.69618,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Naberigolong",
+    "gn:country_code":"SS",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382659,
+    "gn:latitude":4.42256,
+    "gn:longitude":33.69618,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Naberigolong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naberigalong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091913493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382659
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0417da1215e53f215b9b3b0236e63a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913493,
+            "locality_id":1243278995,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1243278995,
+    "wof:lastmodified":1537701418,
+    "wof:name":"Naberigolong",
+    "wof:parent_id":1091913493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.69618,
+    4.42256,
+    33.69618,
+    4.42256
+],
+  "geometry": {"coordinates":[33.69618,4.42256],"type":"Point"}
+}

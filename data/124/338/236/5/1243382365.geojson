@@ -1,0 +1,70 @@
+{
+  "id": 1243382365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.40459,6.98148,29.40459,6.98148",
+    "geom:latitude":6.98148,
+    "geom:longitude":29.40459,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Marial",
+    "gn:country_code":"SS",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":370416,
+    "gn:latitude":6.98148,
+    "gn:longitude":29.40459,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Marial",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Marwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676939,
+        1091914089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":370416
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ffa82d8aaccdcc3b26228821485693be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914089,
+            "locality_id":1243382365,
+            "region_id":85676939
+        }
+    ],
+    "wof:id":1243382365,
+    "wof:lastmodified":1537701393,
+    "wof:name":"Marial",
+    "wof:parent_id":1091914089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40459,
+    6.98148,
+    29.40459,
+    6.98148
+],
+  "geometry": {"coordinates":[29.40459,6.98148],"type":"Point"}
+}

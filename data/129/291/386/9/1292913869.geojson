@@ -1,0 +1,71 @@
+{
+  "id": 1292913869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32703,7.78281,32.32703,7.78281",
+    "geom:latitude":7.78281,
+    "geom:longitude":32.32703,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Thiep Shawor",
+    "gn:country_code":"SS",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366094,
+    "gn:latitude":7.78281,
+    "gn:longitude":32.32703,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Thiep Shawor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiep Shawor",
+        "Thiep Shawor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091916167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366094
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"349d93416f629036db07d19c5c9d613e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091916167,
+            "locality_id":1292913869,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1292913869,
+    "wof:lastmodified":1537701385,
+    "wof:name":"Thiep Shawor",
+    "wof:parent_id":1091916167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32703,
+    7.78281,
+    32.32703,
+    7.78281
+],
+  "geometry": {"coordinates":[32.32703,7.78281],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259698999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2214,8.92828,27.2214,8.92828",
+    "geom:latitude":8.92828,
+    "geom:longitude":27.2214,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Unriette",
+    "gn:country_code":"SS",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7430638,
+    "gn:latitude":8.92828,
+    "gn:longitude":27.2214,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Unriette",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091915329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7430638
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ff40d03fe215b6754e31937c151a0017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915329,
+            "locality_id":1259698999,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1259698999,
+    "wof:lastmodified":1537042816,
+    "wof:name":"Unriette",
+    "wof:parent_id":1091915329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2214,
+    8.92828,
+    27.2214,
+    8.92828
+],
+  "geometry": {"coordinates":[27.2214,8.92828],"type":"Point"}
+}

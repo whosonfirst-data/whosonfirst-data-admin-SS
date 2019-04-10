@@ -1,0 +1,67 @@
+{
+  "id": 1276778609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0311,12.0375,33.0311,12.0375",
+    "geom:latitude":12.0375,
+    "geom:longitude":33.0311,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dukduk",
+    "gn:country_code":"SS",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7029563,
+    "gn:latitude":12.0375,
+    "gn:longitude":33.0311,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Dukduk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091915195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7029563
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d9a8cba9a480a94baf8b921395018099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915195,
+            "locality_id":1276778609,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1276778609,
+    "wof:lastmodified":1536679159,
+    "wof:name":"Dukduk",
+    "wof:parent_id":1091915195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0311,
+    12.0375,
+    33.0311,
+    12.0375
+],
+  "geometry": {"coordinates":[33.0311,12.0375],"type":"Point"}
+}

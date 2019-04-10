@@ -1,0 +1,61 @@
+{
+  "id": 1209233309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56205,8.85179,32.56205,8.85179",
+    "geom:latitude":8.85179,
+    "geom:longitude":32.56205,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Buolboin",
+    "gn:country_code":"SS",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":377118,
+    "gn:latitude":8.85179,
+    "gn:longitude":32.56205,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Buolboin",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":377118
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"0a0ac9fcfbba9940b253561aaa46141a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209233309
+        }
+    ],
+    "wof:id":1209233309,
+    "wof:lastmodified":1536293568,
+    "wof:name":"Buolboin",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56205,
+    8.85179,
+    32.56205,
+    8.85179
+],
+  "geometry": {"coordinates":[32.56205,8.85179],"type":"Point"}
+}

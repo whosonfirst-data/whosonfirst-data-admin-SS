@@ -1,0 +1,67 @@
+{
+  "id": 1293604369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.03333,9.16667,27.03333,9.16667",
+    "geom:latitude":9.16667,
+    "geom:longitude":27.03333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Niyamj",
+    "gn:country_code":"SS",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369140,
+    "gn:latitude":9.16667,
+    "gn:longitude":27.03333,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Niyamj",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091914653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369140
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"531132eb08b1632ba1272aaebfe2ea87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914653,
+            "locality_id":1293604369,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1293604369,
+    "wof:lastmodified":1536616274,
+    "wof:name":"Niyamj",
+    "wof:parent_id":1091914653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.03333,
+    9.16667,
+    27.03333,
+    9.16667
+],
+  "geometry": {"coordinates":[27.03333,9.16667],"type":"Point"}
+}

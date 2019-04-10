@@ -1,0 +1,67 @@
+{
+  "id": 1276892545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65771,6.33338,31.65771,6.33338",
+    "geom:latitude":6.33338,
+    "geom:longitude":31.65771,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Koich",
+    "gn:country_code":"SS",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":372288,
+    "gn:latitude":6.33338,
+    "gn:longitude":31.65771,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Koich",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676957,
+        1091914581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":372288
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a277e81f689d069cf9877f5d95db6bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914581,
+            "locality_id":1276892545,
+            "region_id":85676957
+        }
+    ],
+    "wof:id":1276892545,
+    "wof:lastmodified":1537023143,
+    "wof:name":"Koich",
+    "wof:parent_id":1091914581,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65771,
+    6.33338,
+    31.65771,
+    6.33338
+],
+  "geometry": {"coordinates":[31.65771,6.33338],"type":"Point"}
+}

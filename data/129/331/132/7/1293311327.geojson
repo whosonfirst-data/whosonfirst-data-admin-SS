@@ -1,0 +1,67 @@
+{
+  "id": 1293311327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.762,8.82955,33.762,8.82955",
+    "geom:latitude":8.82955,
+    "geom:longitude":33.762,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Darwan",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376689,
+    "gn:latitude":8.82955,
+    "gn:longitude":33.762,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Darwan",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091914895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376689
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"8e8be1f2ec6f5e3ef016aef393eace06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914895,
+            "locality_id":1293311327,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1293311327,
+    "wof:lastmodified":1537039326,
+    "wof:name":"Darwan",
+    "wof:parent_id":1091914895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.762,
+    8.82955,
+    33.762,
+    8.82955
+],
+  "geometry": {"coordinates":[33.762,8.82955],"type":"Point"}
+}

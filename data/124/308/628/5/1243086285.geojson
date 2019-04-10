@@ -1,0 +1,70 @@
+{
+  "id": 1243086285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21841,7.18125,30.21841,7.18125",
+    "geom:latitude":7.18125,
+    "geom:longitude":30.21841,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Gai",
+    "gn:country_code":"SS",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":381912,
+    "gn:latitude":7.18125,
+    "gn:longitude":30.21841,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Gai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":381912
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a3fbee9d033425a719ccba0e89a7a3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913959,
+            "locality_id":1243086285,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1243086285,
+    "wof:lastmodified":1537701415,
+    "wof:name":"Gai",
+    "wof:parent_id":1091913959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21841,
+    7.18125,
+    30.21841,
+    7.18125
+],
+  "geometry": {"coordinates":[30.21841,7.18125],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276558235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.30729,8.46798,30.30729,8.46798",
+    "geom:latitude":8.46798,
+    "geom:longitude":30.30729,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Thar Jath",
+    "gn:country_code":"SS",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":366106,
+    "gn:latitude":8.46798,
+    "gn:longitude":30.30729,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Thar Jath",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":366106,
+        "wk:page":"Thar_Jath"
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"d8f1cddb477672591f3bc5a67a350f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913913,
+            "locality_id":1276558235,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1276558235,
+    "wof:lastmodified":1537573761,
+    "wof:name":"Thar Jath",
+    "wof:parent_id":1091913913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.30729,
+    8.46798,
+    30.30729,
+    8.46798
+],
+  "geometry": {"coordinates":[30.30729,8.46798],"type":"Point"}
+}

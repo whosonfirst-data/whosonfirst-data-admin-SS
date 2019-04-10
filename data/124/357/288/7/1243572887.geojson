@@ -1,0 +1,72 @@
+{
+  "id": 1243572887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.56667,6.76667,34.56667,6.76667",
+    "geom:latitude":6.76667,
+    "geom:longitude":34.56667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ukwaa",
+    "gn:country_code":"SS",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":365438,
+    "gn:latitude":6.76667,
+    "gn:longitude":34.56667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ukwaa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ukwar",
+        "Ucua",
+        "Ukwaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632257,
+        85671133,
+        890450041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":365438
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"df9c133c8afe9815efe426a97f0030b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":890450041,
+            "locality_id":1243572887,
+            "region_id":85671133
+        }
+    ],
+    "wof:id":1243572887,
+    "wof:lastmodified":1537701383,
+    "wof:name":"Ukwaa",
+    "wof:parent_id":890450041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.56667,
+    6.76667,
+    34.56667,
+    6.76667
+],
+  "geometry": {"coordinates":[34.56667,6.76667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1292922159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4856,9.30008,29.4856,9.30008",
+    "geom:latitude":9.30008,
+    "geom:longitude":29.4856,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kokek",
+    "gn:country_code":"SS",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7428805,
+    "gn:latitude":9.30008,
+    "gn:longitude":29.4856,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Kokek",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091915999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7428805
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"dfdc7f23dcea11293a28f2afecf69096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915999,
+            "locality_id":1292922159,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1292922159,
+    "wof:lastmodified":1536604930,
+    "wof:name":"Kokek",
+    "wof:parent_id":1091915999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4856,
+    9.30008,
+    29.4856,
+    9.30008
+],
+  "geometry": {"coordinates":[29.4856,9.30008],"type":"Point"}
+}

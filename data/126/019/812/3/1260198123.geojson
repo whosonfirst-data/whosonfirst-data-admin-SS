@@ -1,0 +1,67 @@
+{
+  "id": 1260198123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03915,8.59048,30.03915,8.59048",
+    "geom:latitude":8.59048,
+    "geom:longitude":30.03915,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Naintut",
+    "gn:country_code":"SS",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369462,
+    "gn:latitude":8.59048,
+    "gn:longitude":30.03915,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Naintut",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676963,
+        1091913585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369462
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"85ce65d759a367c80862a19f6c1e2c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913585,
+            "locality_id":1260198123,
+            "region_id":85676963
+        }
+    ],
+    "wof:id":1260198123,
+    "wof:lastmodified":1536826805,
+    "wof:name":"Naintut",
+    "wof:parent_id":1091913585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03915,
+    8.59048,
+    30.03915,
+    8.59048
+],
+  "geometry": {"coordinates":[30.03915,8.59048],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259794241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91724,4.48787,32.91724,4.48787",
+    "geom:latitude":4.48787,
+    "geom:longitude":32.91724,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Chalamni",
+    "gn:country_code":"SS",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":376977,
+    "gn:latitude":4.48787,
+    "gn:longitude":32.91724,
+    "gn:modification_date":"2013-12-13",
+    "gn:name":"Chalamni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676975,
+        1091914269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":376977
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ce08122270f089ccdca5dac41f6e4825",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914269,
+            "locality_id":1259794241,
+            "region_id":85676975
+        }
+    ],
+    "wof:id":1259794241,
+    "wof:lastmodified":1536907857,
+    "wof:name":"Chalamni",
+    "wof:parent_id":1091914269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91724,
+    4.48787,
+    32.91724,
+    4.48787
+],
+  "geometry": {"coordinates":[32.91724,4.48787],"type":"Point"}
+}

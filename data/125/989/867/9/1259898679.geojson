@@ -1,0 +1,67 @@
+{
+  "id": 1259898679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60513,3.83431,31.60513,3.83431",
+    "geom:latitude":3.83431,
+    "geom:longitude":31.60513,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Logu",
+    "gn:country_code":"SS",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":371300,
+    "gn:latitude":3.83431,
+    "gn:longitude":31.60513,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Logu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676947,
+        1091915715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":371300
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"ef1cd96dc9facf51c938925da307d975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091915715,
+            "locality_id":1259898679,
+            "region_id":85676947
+        }
+    ],
+    "wof:id":1259898679,
+    "wof:lastmodified":1536757349,
+    "wof:name":"Logu",
+    "wof:parent_id":1091915715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60513,
+    3.83431,
+    31.60513,
+    3.83431
+],
+  "geometry": {"coordinates":[31.60513,3.83431],"type":"Point"}
+}

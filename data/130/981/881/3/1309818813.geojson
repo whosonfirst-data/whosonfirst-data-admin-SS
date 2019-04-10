@@ -1,0 +1,67 @@
+{
+  "id": 1309818813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.17472,5.06222,29.17472,5.06222",
+    "geom:latitude":5.06222,
+    "geom:longitude":29.17472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Baimbi",
+    "gn:country_code":"SS",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382232,
+    "gn:latitude":5.06222,
+    "gn:longitude":29.17472,
+    "gn:modification_date":"2011-10-02",
+    "gn:name":"Baimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676945,
+        1091914701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382232
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"a8e24b38677bcb33ea47793a9a8c12b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914701,
+            "locality_id":1309818813,
+            "region_id":85676945
+        }
+    ],
+    "wof:id":1309818813,
+    "wof:lastmodified":1536912632,
+    "wof:name":"Baimbi",
+    "wof:parent_id":1091914701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.17472,
+    5.06222,
+    29.17472,
+    5.06222
+],
+  "geometry": {"coordinates":[29.17472,5.06222],"type":"Point"}
+}

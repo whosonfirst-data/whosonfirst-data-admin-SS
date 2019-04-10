@@ -1,0 +1,61 @@
+{
+  "id": 1209433403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64632,5.0414,31.64632,5.0414",
+    "geom:latitude":5.0414,
+    "geom:longitude":31.64632,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nija",
+    "gn:country_code":"SS",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":369169,
+    "gn:latitude":5.0414,
+    "gn:longitude":31.64632,
+    "gn:modification_date":"2011-10-12",
+    "gn:name":"Nija",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369169
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"b980973e7d6465fee0dc16de4e7e5e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85632657,
+            "locality_id":1209433403
+        }
+    ],
+    "wof:id":1209433403,
+    "wof:lastmodified":1536287171,
+    "wof:name":"Nija",
+    "wof:parent_id":85632657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.646320000000006,
+    5.0414,
+    31.646320000000006,
+    5.0414
+],
+  "geometry": {"coordinates":[31.64632000000001,5.0414],"type":"Point"}
+}

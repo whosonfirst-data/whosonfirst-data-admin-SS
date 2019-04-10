@@ -1,0 +1,67 @@
+{
+  "id": 1326449067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.86071,9.14732,26.86071,9.14732",
+    "geom:latitude":9.14732,
+    "geom:longitude":26.86071,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nyor",
+    "gn:country_code":"SS",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8149276,
+    "gn:latitude":9.14732,
+    "gn:longitude":26.86071,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Nyor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676935,
+        1091914653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8149276
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"3f84354a63a01504480b2e95e34c22c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091914653,
+            "locality_id":1326449067,
+            "region_id":85676935
+        }
+    ],
+    "wof:id":1326449067,
+    "wof:lastmodified":1536603829,
+    "wof:name":"Nyor",
+    "wof:parent_id":1091914653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.86071,
+    9.14732,
+    26.86071,
+    9.14732
+],
+  "geometry": {"coordinates":[26.86071,9.14732],"type":"Point"}
+}

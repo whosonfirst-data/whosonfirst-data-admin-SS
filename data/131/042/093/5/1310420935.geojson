@@ -1,0 +1,67 @@
+{
+  "id": 1310420935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55693,10.60788,32.55693,10.60788",
+    "geom:latitude":10.60788,
+    "geom:longitude":32.55693,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Wunyat",
+    "gn:country_code":"SS",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":363686,
+    "gn:latitude":10.60788,
+    "gn:longitude":32.55693,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"Wunyat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Juba",
+    "iso:country":"SS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632657,
+        85676953,
+        1091913689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":363686
+    },
+    "wof:country":"SS",
+    "wof:geomhash":"73c7163a414013a1a5580329fee98efe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632657,
+            "county_id":1091913689,
+            "locality_id":1310420935,
+            "region_id":85676953
+        }
+    ],
+    "wof:id":1310420935,
+    "wof:lastmodified":1537037309,
+    "wof:name":"Wunyat",
+    "wof:parent_id":1091913689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ss",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55693,
+    10.60788,
+    32.55693,
+    10.60788
+],
+  "geometry": {"coordinates":[32.55693,10.60788],"type":"Point"}
+}
