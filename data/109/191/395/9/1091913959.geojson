@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438376,
-    "geom:area_square_m":5373866977.09963,
+    "geom:area_square_m":5373866977.099915,
     "geom:bbox":"29.9665062022,7.068425749,30.7048256415,7.99071596746",
     "geom:latitude":7.525307,
     "geom:longitude":30.335129,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Panyijiar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.517746,
     "lbl:longitude":30.30528,
     "meso:admin_1":"Unity",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091913959,
-    "wof:lastmodified":1505431296,
+    "wof:lastmodified":1553717980,
     "wof:name":"Panyijiar",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

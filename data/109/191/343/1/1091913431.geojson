@@ -10,6 +10,12 @@
     "geom:latitude":7.590763,
     "geom:longitude":28.025386,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Jur River County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.151193,
     "lbl:longitude":28.231003,
     "meso:admin_1":"Western Bahr el Ghazal",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091913431,
-    "wof:lastmodified":1536615020,
+    "wof:lastmodified":1553717981,
     "wof:name":"Jur River",
     "wof:parent_id":85676971,
     "wof:placetype":"county",

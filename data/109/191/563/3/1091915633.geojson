@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.325822,
-    "geom:area_square_m":16324890575.123268,
+    "geom:area_square_m":16324890575.123352,
     "geom:bbox":"32.0963942596,4.4637205937,33.3109399807,5.85939868956",
     "geom:latitude":5.251815,
     "geom:longitude":32.671197,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Lafon County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":5.370336,
     "lbl:longitude":32.682767,
     "meso:admin_1":"Eastern Equatoria",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091915633,
-    "wof:lastmodified":1505431299,
+    "wof:lastmodified":1553717985,
     "wof:name":"Lafon",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

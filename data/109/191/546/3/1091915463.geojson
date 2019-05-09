@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.638279,
-    "geom:area_square_m":7793669693.136458,
+    "geom:area_square_m":7793669693.136494,
     "geom:bbox":"30.209439405,8.57070552422,31.1777126732,9.51608225431",
     "geom:latitude":9.071109,
     "geom:longitude":30.687025,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Fangak County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.090968,
     "lbl:longitude":30.735404,
     "meso:admin_1":"Jonglei",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091915463,
-    "wof:lastmodified":1505431299,
+    "wof:lastmodified":1553717984,
     "wof:name":"Fangak",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

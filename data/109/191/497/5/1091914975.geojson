@@ -10,6 +10,12 @@
     "geom:latitude":3.740053,
     "geom:longitude":30.833774,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Morobo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":3.816145,
     "lbl:longitude":30.947153,
     "meso:admin_1":"Central Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914975,
-    "wof:lastmodified":1536615023,
+    "wof:lastmodified":1553717983,
     "wof:name":"Morobo",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

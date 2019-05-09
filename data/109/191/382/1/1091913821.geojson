@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36582,
-    "geom:area_square_m":4466682887.842752,
+    "geom:area_square_m":4466682887.842873,
     "geom:bbox":"31.0776363885,8.7699827094,31.8314971498,9.42308985795",
     "geom:latitude":9.08388,
     "geom:longitude":31.441586,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Canal/Pigi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.066318,
     "lbl:longitude":31.441596,
     "meso:admin_1":"Jonglei",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091913821,
-    "wof:lastmodified":1505431296,
+    "wof:lastmodified":1553717980,
     "wof:name":"Canal/Pigi",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

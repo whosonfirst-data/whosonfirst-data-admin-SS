@@ -10,6 +10,12 @@
     "geom:latitude":9.656777,
     "geom:longitude":31.644925,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Malakal County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.646464,
     "lbl:longitude":31.669438,
     "meso:admin_1":"Upper Nile",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091915845,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717984,
     "wof:name":"Malakal",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.617652,
     "geom:longitude":31.185652,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Duk County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.567972,
     "lbl:longitude":31.111239,
     "meso:admin_1":"Jonglei",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091915449,
-    "wof:lastmodified":1536615024,
+    "wof:lastmodified":1553717984,
     "wof:name":"Duk",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

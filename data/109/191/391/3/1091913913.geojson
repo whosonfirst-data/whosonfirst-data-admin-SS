@@ -10,6 +10,12 @@
     "geom:latitude":8.123161,
     "geom:longitude":29.920528,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Mayendit County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":8.139538,
     "lbl:longitude":29.886325,
     "meso:admin_1":"Unity",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913913,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717980,
     "wof:name":"Mayendit",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

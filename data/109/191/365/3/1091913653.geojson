@@ -10,6 +10,12 @@
     "geom:latitude":9.979452,
     "geom:longitude":31.845625,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Fashoda County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.983688,
     "lbl:longitude":31.839112,
     "meso:admin_1":"Upper Nile",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913653,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717980,
     "wof:name":"Fashoda",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

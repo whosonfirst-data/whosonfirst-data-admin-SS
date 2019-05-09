@@ -10,6 +10,12 @@
     "geom:latitude":4.277625,
     "geom:longitude":30.854972,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Lainya County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":4.314057,
     "lbl:longitude":30.891657,
     "meso:admin_1":"Central Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913733,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717980,
     "wof:name":"Lainya",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

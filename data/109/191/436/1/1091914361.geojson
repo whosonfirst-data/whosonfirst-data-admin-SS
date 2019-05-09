@@ -10,6 +10,12 @@
     "geom:latitude":9.136581,
     "geom:longitude":28.391097,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Twic County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.11576,
     "lbl:longitude":28.399399,
     "meso:admin_1":"Warrap",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914361,
-    "wof:lastmodified":1536615022,
+    "wof:lastmodified":1553717981,
     "wof:name":"Twic",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

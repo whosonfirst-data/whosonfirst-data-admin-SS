@@ -10,6 +10,12 @@
     "geom:latitude":9.255755,
     "geom:longitude":33.526279,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Longochuk County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.184574,
     "lbl:longitude":33.484842,
     "meso:admin_1":"Upper Nile",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091915801,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717985,
     "wof:name":"Longochuk",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

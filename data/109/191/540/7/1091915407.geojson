@@ -10,6 +10,12 @@
     "geom:latitude":4.564939,
     "geom:longitude":33.680312,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Kapoeta South County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":4.700013,
     "lbl:longitude":33.585201,
     "meso:admin_1":"Eastern Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091915407,
-    "wof:lastmodified":1536615024,
+    "wof:lastmodified":1553717983,
     "wof:name":"Kapoeta South",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

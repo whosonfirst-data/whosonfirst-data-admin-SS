@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205267,
-    "geom:area_square_m":2532305648.976557,
+    "geom:area_square_m":2532305648.97666,
     "geom:bbox":"31.0986364283,3.652984,31.804303,4.13109361998",
     "geom:latitude":3.896791,
     "geom:longitude":31.460811,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Kajo-keji County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":3.909344,
     "lbl:longitude":31.467577,
     "meso:admin_1":"Central Equatoria",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1091915715,
-    "wof:lastmodified":1505431299,
+    "wof:lastmodified":1553717985,
     "wof:name":"Kajo-keji",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

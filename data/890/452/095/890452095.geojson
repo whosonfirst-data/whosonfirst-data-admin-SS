@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":169830,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Magwi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":3.901758,
     "lbl:longitude":32.164522,
     "meso:admin_1":"Eastern Equatoria",
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890452095,
-    "wof:lastmodified":1536617386,
+    "wof:lastmodified":1553717605,
     "wof:name":"Magwi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

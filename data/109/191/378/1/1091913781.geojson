@@ -10,6 +10,12 @@
     "geom:latitude":5.213131,
     "geom:longitude":30.208026,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Mundri West County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":5.332861,
     "lbl:longitude":30.168596,
     "meso:admin_1":"Western Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913781,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717979,
     "wof:name":"Mundri West",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

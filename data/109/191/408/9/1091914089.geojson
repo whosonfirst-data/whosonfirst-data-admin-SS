@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.394752,
-    "geom:area_square_m":4843929454.714375,
+    "geom:area_square_m":4843929454.714397,
     "geom:bbox":"28.8672042627,6.68211090143,29.5969148702,7.5123846794",
     "geom:latitude":7.080746,
     "geom:longitude":29.226963,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Cueibet County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.063583,
     "lbl:longitude":29.197456,
     "meso:admin_1":"Lakes",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091914089,
-    "wof:lastmodified":1505431296,
+    "wof:lastmodified":1553717981,
     "wof:name":"Cueibet",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

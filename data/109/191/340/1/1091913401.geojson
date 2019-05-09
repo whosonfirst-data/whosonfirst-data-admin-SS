@@ -10,6 +10,12 @@
     "geom:latitude":8.418688,
     "geom:longitude":26.893256,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Aweil Centre County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":8.390256,
     "lbl:longitude":26.814397,
     "meso:admin_1":"Northern Bahr el Ghazal",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913401,
-    "wof:lastmodified":1536615020,
+    "wof:lastmodified":1553717979,
     "wof:name":"Aweil Centre",
     "wof:parent_id":85676935,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.28668,
     "geom:longitude":27.296926,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Wau County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.303674,
     "lbl:longitude":27.312577,
     "meso:admin_1":"Western Bahr el Ghazal",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091916187,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717986,
     "wof:name":"Wau",
     "wof:parent_id":85676971,
     "wof:placetype":"county",

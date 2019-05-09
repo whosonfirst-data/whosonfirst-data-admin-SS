@@ -10,6 +10,12 @@
     "geom:latitude":8.583729,
     "geom:longitude":32.118945,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Nyirol County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":8.553453,
     "lbl:longitude":32.118803,
     "meso:admin_1":"Jonglei",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913861,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717980,
     "wof:name":"Nyirol",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

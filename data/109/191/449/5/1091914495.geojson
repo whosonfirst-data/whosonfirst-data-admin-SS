@@ -10,6 +10,12 @@
     "geom:latitude":6.201579,
     "geom:longitude":29.208137,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Wulu County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":6.194477,
     "lbl:longitude":29.27079,
     "meso:admin_1":"Lakes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914495,
-    "wof:lastmodified":1536615022,
+    "wof:lastmodified":1553717981,
     "wof:name":"Wulu",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

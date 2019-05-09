@@ -10,6 +10,12 @@
     "geom:latitude":4.358514,
     "geom:longitude":33.448426,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Budi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":4.385729,
     "lbl:longitude":33.44125,
     "meso:admin_1":"Eastern Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913493,
-    "wof:lastmodified":1536615020,
+    "wof:lastmodified":1553717979,
     "wof:name":"Budi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

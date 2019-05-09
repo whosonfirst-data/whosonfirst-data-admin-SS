@@ -10,6 +10,12 @@
     "geom:latitude":7.081402,
     "geom:longitude":28.737449,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Tonj South County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.273252,
     "lbl:longitude":28.737427,
     "meso:admin_1":"Warrap",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914221,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717980,
     "wof:name":"Tonj South",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

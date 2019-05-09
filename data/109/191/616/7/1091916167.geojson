@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.996902,
-    "geom:area_square_m":12217677480.630936,
+    "geom:area_square_m":12217677480.630981,
     "geom:bbox":"31.5270555225,7.0205371497,32.7713893613,8.36557751885",
     "geom:latitude":7.625028,
     "geom:longitude":32.111592,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Uror County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.553543,
     "lbl:longitude":32.123458,
     "meso:admin_1":"Jonglei",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091916167,
-    "wof:lastmodified":1505431299,
+    "wof:lastmodified":1553717986,
     "wof:name":"Uror",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

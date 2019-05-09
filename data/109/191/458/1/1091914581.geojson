@@ -10,6 +10,12 @@
     "geom:latitude":6.464956,
     "geom:longitude":32.005054,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Bor South County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":6.484742,
     "lbl:longitude":31.926602,
     "meso:admin_1":"Jonglei",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091914581,
-    "wof:lastmodified":1536615022,
+    "wof:lastmodified":1553717982,
     "wof:name":"Bor South",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

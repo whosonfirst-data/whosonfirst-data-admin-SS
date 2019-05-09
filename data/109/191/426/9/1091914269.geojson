@@ -10,6 +10,12 @@
     "geom:latitude":4.373575,
     "geom:longitude":32.566402,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Torit County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":4.316833,
     "lbl:longitude":32.558501,
     "meso:admin_1":"Eastern Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914269,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717981,
     "wof:name":"Torit",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

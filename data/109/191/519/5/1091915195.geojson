@@ -10,6 +10,12 @@
     "geom:latitude":11.359003,
     "geom:longitude":32.959236,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Renk County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":11.302002,
     "lbl:longitude":32.922807,
     "meso:admin_1":"Upper Nile",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091915195,
-    "wof:lastmodified":1536615024,
+    "wof:lastmodified":1553717983,
     "wof:name":"Renk",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

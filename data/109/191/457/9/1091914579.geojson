@@ -10,6 +10,12 @@
     "geom:latitude":4.249008,
     "geom:longitude":30.345504,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Yei County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":4.368056,
     "lbl:longitude":30.242546,
     "meso:admin_1":"Central Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914579,
-    "wof:lastmodified":1536615022,
+    "wof:lastmodified":1553717983,
     "wof:name":"Yei",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

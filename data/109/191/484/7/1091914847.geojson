@@ -10,6 +10,12 @@
     "geom:latitude":10.027952,
     "geom:longitude":33.459733,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Maban County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":10.012046,
     "lbl:longitude":33.449775,
     "meso:admin_1":"Upper Nile",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914847,
-    "wof:lastmodified":1536615023,
+    "wof:lastmodified":1553717982,
     "wof:name":"Maban",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

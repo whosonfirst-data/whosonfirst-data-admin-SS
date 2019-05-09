@@ -10,6 +10,12 @@
     "geom:latitude":9.24362,
     "geom:longitude":27.613388,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Aweil East County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.270057,
     "lbl:longitude":27.647912,
     "meso:admin_1":"Northern Bahr el Ghazal",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913403,
-    "wof:lastmodified":1536615020,
+    "wof:lastmodified":1553717979,
     "wof:name":"Aweil East",
     "wof:parent_id":85676935,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":9.444131,
     "geom:longitude":31.450719,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Panyikang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.586858,
     "lbl:longitude":31.350497,
     "meso:admin_1":"Upper Nile",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914001,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717980,
     "wof:name":"Panyikang",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

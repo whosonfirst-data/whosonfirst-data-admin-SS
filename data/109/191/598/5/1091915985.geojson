@@ -10,6 +10,12 @@
     "geom:latitude":6.472376,
     "geom:longitude":27.737834,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Nagero County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":6.423048,
     "lbl:longitude":27.594376,
     "meso:admin_1":"Western Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091915985,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717985,
     "wof:name":"Nagero",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":7.100532,
     "geom:longitude":31.322258,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Twic East County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":7.087211,
     "lbl:longitude":31.414567,
     "meso:admin_1":"Jonglei",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091914319,
-    "wof:lastmodified":1536615022,
+    "wof:lastmodified":1553717980,
     "wof:name":"Twic East",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

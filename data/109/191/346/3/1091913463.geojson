@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363956,
-    "geom:area_square_m":4449755772.012194,
+    "geom:area_square_m":4449755772.012072,
     "geom:bbox":"28.1521607185,7.99506513697,29.1687814621,9.0392555159",
     "geom:latitude":8.597745,
     "geom:longitude":28.589754,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Gogrial East County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":8.353944,
     "lbl:longitude":28.412618,
     "meso:admin_1":"Warrap",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1091913463,
-    "wof:lastmodified":1505431295,
+    "wof:lastmodified":1553717979,
     "wof:name":"Gogrial East",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

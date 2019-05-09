@@ -10,6 +10,12 @@
     "geom:latitude":8.567798,
     "geom:longitude":28.11035,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Gogrial West County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":8.627043,
     "lbl:longitude":28.164613,
     "meso:admin_1":"Warrap",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091915551,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717984,
     "wof:name":"Gogrial West",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

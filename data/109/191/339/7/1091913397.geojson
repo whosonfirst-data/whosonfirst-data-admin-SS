@@ -10,6 +10,12 @@
     "geom:latitude":9.551165,
     "geom:longitude":29.129865,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Abiemnhom County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":9.570883,
     "lbl:longitude":29.124013,
     "meso:admin_1":"Unity",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091913397,
-    "wof:lastmodified":1536615020,
+    "wof:lastmodified":1553717979,
     "wof:name":"Abiemnhom",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

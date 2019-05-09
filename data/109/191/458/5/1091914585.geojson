@@ -10,6 +10,12 @@
     "geom:latitude":6.394939,
     "geom:longitude":30.487358,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Yirol West County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":6.344049,
     "lbl:longitude":30.391256,
     "meso:admin_1":"Lakes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914585,
-    "wof:lastmodified":1536615022,
+    "wof:lastmodified":1553717981,
     "wof:name":"Yirol West",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

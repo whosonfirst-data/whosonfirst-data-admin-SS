@@ -10,6 +10,12 @@
     "geom:latitude":5.91856,
     "geom:longitude":30.031262,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Mvolo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":5.887143,
     "lbl:longitude":29.996438,
     "meso:admin_1":"Western Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091915945,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717985,
     "wof:name":"Mvolo",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

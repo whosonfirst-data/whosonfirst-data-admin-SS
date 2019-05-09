@@ -10,6 +10,12 @@
     "geom:latitude":5.661652,
     "geom:longitude":31.326758,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Terekeka County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":5.578295,
     "lbl:longitude":31.388235,
     "meso:admin_1":"Central Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091916075,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717986,
     "wof:name":"Terekeka",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

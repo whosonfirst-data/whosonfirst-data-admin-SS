@@ -10,6 +10,12 @@
     "geom:latitude":6.793572,
     "geom:longitude":30.801343,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Yirol East County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":6.923944,
     "lbl:longitude":30.705289,
     "meso:admin_1":"Lakes",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914583,
-    "wof:lastmodified":1536615022,
+    "wof:lastmodified":1553717981,
     "wof:name":"Yirol East",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

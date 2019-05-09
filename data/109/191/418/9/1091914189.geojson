@@ -10,6 +10,12 @@
     "geom:latitude":5.458708,
     "geom:longitude":27.89227,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Ezo County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":5.154896,
     "lbl:longitude":27.830543,
     "meso:admin_1":"Western Equatoria",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1091914189,
-    "wof:lastmodified":1536615021,
+    "wof:lastmodified":1553717980,
     "wof:name":"Ezo",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

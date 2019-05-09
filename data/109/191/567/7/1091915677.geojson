@@ -10,6 +10,12 @@
     "geom:latitude":4.717428,
     "geom:longitude":31.482631,
     "iso:country":"SS",
+    "label:eng_x_preferred_longname":[
+        "Juba County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":4.661899,
     "lbl:longitude":31.549605,
     "meso:admin_1":"Central Equatoria",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1091915677,
-    "wof:lastmodified":1536615025,
+    "wof:lastmodified":1553717985,
     "wof:name":"Juba",
     "wof:parent_id":85676947,
     "wof:placetype":"county",
