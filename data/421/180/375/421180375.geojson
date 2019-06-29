@@ -16,9 +16,6 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u062c"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0578\u0576\u057b"
-    ],
     "name:ben_x_preferred":[
         "\u099f\u099e\u09cd\u099c"
     ],
@@ -28,14 +25,11 @@
     "name:ceb_x_preferred":[
         "Tonj"
     ],
-    "name:chi_x_preferred":[
-        "\u901a\u5b63"
-    ],
     "name:dan_x_preferred":[
         "Tonj"
     ],
-    "name:dut_x_preferred":[
-        "Tonj"
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03bd\u03b6"
     ],
     "name:eng_x_preferred":[
         "Tonj"
@@ -46,17 +40,14 @@
     "name:fra_x_preferred":[
         "Tonj"
     ],
-    "name:fre_x_preferred":[
-        "Tonj"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03bf\u03bd\u03b6"
-    ],
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0a82\u0a9c"
     ],
     "name:hin_x_preferred":[
         "\u0924\u094b\u0902\u091c"
+    ],
+    "name:hye_x_preferred":[
+        "\u0539\u0578\u0576\u057b"
     ],
     "name:ind_x_preferred":[
         "Tonj"
@@ -82,7 +73,10 @@
     "name:mar_x_preferred":[
         "\u091f\u094b\u0902\u091c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Tonj"
+    ],
+    "name:nld_x_preferred":[
         "Tonj"
     ],
     "name:nob_x_preferred":[
@@ -95,9 +89,6 @@
         "Tonj"
     ],
     "name:ron_x_preferred":[
-        "Tonj"
-    ],
-    "name:rum_x_preferred":[
         "Tonj"
     ],
     "name:rus_x_preferred":[
@@ -190,7 +181,7 @@
         }
     ],
     "wof:id":421180375,
-    "wof:lastmodified":1527716243,
+    "wof:lastmodified":1561844809,
     "wof:name":"Tonj",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

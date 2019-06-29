@@ -29,9 +29,6 @@
     "name:ceb_x_preferred":[
         "Rumbek"
     ],
-    "name:chi_x_preferred":[
-        "\u502b\u8c9d\u514b"
-    ],
     "name:dan_x_preferred":[
         "Rumbek"
     ],
@@ -41,8 +38,8 @@
     "name:deu_x_variant":[
         "Rumbik"
     ],
-    "name:dut_x_preferred":[
-        "Rumbek"
+    "name:ell_x_preferred":[
+        "\u03a1\u03bf\u03cd\u03bc\u03c0\u03b5\u03ba"
     ],
     "name:eng_x_preferred":[
         "Rumbek"
@@ -55,18 +52,6 @@
     ],
     "name:fra_x_preferred":[
         "Rumbek"
-    ],
-    "name:fre_x_preferred":[
-        "Rumbek"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e0\u10e3\u10db\u10d1\u10d4\u10d9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Rumbek"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a1\u03bf\u03cd\u03bc\u03c0\u03b5\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0ab0\u0aae\u0acd\u0aac\u0ac7\u0a95"
@@ -107,7 +92,7 @@
     "name:mar_x_preferred":[
         "\u0930\u0941\u092e\u092c\u093f\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Rumbek"
     ],
     "name:nld_x_preferred":[
@@ -129,9 +114,6 @@
         "Rumbek"
     ],
     "name:ron_x_preferred":[
-        "Rumbek"
-    ],
-    "name:rum_x_preferred":[
         "Rumbek"
     ],
     "name:rus_x_preferred":[
@@ -319,7 +301,7 @@
         }
     ],
     "wof:id":421168713,
-    "wof:lastmodified":1527716094,
+    "wof:lastmodified":1561844809,
     "wof:name":"Rumbek",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

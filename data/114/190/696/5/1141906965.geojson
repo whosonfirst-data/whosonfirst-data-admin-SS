@@ -20,26 +20,23 @@
     "name:cat_x_preferred":[
         "Nasir"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u5915\u723e"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Nasir"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Nasir"
     ],
     "name:eng_x_preferred":[
         "Nasir"
     ],
-    "name:fre_x_preferred":[
-        "Nasir"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Nasir"
     ],
     "name:jpn_x_preferred":[
         "\u30ca\u30b7\u30eb"
+    ],
+    "name:nld_x_preferred":[
+        "Nasir"
     ],
     "name:pol_x_preferred":[
         "Nasir"
@@ -49,6 +46,9 @@
     ],
     "name:srp_x_preferred":[
         "\u041d\u0430\u0441\u0438\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5915\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Sudan",
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":1141906965,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561844814,
     "wof:name":"Nasir",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Yambio"
     ],
-    "name:chi_x_preferred":[
-        "\u5ef6\u6bd4\u5967"
-    ],
     "name:dan_x_preferred":[
         "Yambio"
     ],
     "name:deu_x_preferred":[
         "Yambio"
     ],
-    "name:dut_x_preferred":[
-        "Yambio"
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03ac\u03bc\u03c0\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Yambio"
@@ -49,18 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Yambio"
-    ],
-    "name:fre_x_preferred":[
-        "Yambio"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d8\u10d0\u10db\u10d1\u10d8\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Yambio"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03b9\u03ac\u03bc\u03c0\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0aae\u0acd\u0aac\u0abf\u0aaf\u0acb"
@@ -98,7 +83,7 @@
     "name:mar_x_preferred":[
         "\u092f\u092e\u092c\u093f\u0913"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Yambio"
     ],
     "name:nld_x_preferred":[
@@ -117,9 +102,6 @@
         "Yambio"
     ],
     "name:ron_x_preferred":[
-        "Yambio"
-    ],
-    "name:rum_x_preferred":[
         "Yambio"
     ],
     "name:rus_x_preferred":[
@@ -307,7 +289,7 @@
         }
     ],
     "wof:id":421200265,
-    "wof:lastmodified":1527716428,
+    "wof:lastmodified":1561844809,
     "wof:name":"Yambio",
     "wof:parent_id":1091916233,
     "wof:placetype":"locality",
