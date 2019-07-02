@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Bor"
     ],
-    "name:chi_x_preferred":[
-        "\u6ce2\u723e"
-    ],
     "name:dan_x_preferred":[
         "Bor"
     ],
     "name:deu_x_preferred":[
         "Bor"
     ],
-    "name:dut_x_preferred":[
-        "Bor"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c1"
     ],
     "name:eng_x_preferred":[
         "Bor"
@@ -46,18 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Bor"
-    ],
-    "name:fre_x_preferred":[
-        "Bor"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bor"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0ab0"
@@ -95,7 +80,7 @@
     "name:mar_x_preferred":[
         "\u092c\u094b\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Bor"
     ],
     "name:nld_x_preferred":[
@@ -117,9 +102,6 @@
         "Bor"
     ],
     "name:ron_x_preferred":[
-        "Bor"
-    ],
-    "name:rum_x_preferred":[
         "Bor"
     ],
     "name:rus_x_preferred":[
@@ -307,7 +289,7 @@
         }
     ],
     "wof:id":421171247,
-    "wof:lastmodified":1553816362,
+    "wof:lastmodified":1561844809,
     "wof:name":"Bor",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

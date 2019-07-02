@@ -23,25 +23,13 @@
     "name:ceb_x_preferred":[
         "Kapoeta"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u6ce2\u57c3\u5854"
-    ],
     "name:deu_x_preferred":[
         "Kapoeta"
-    ],
-    "name:dut_x_preferred":[
-        "Kapoita"
     ],
     "name:eng_x_preferred":[
         "Kapoeta"
     ],
     "name:fra_x_preferred":[
-        "Kapoeta"
-    ],
-    "name:fre_x_preferred":[
-        "Kapoeta"
-    ],
-    "name:ger_x_preferred":[
         "Kapoeta"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +54,6 @@
         "Kapoeta"
     ],
     "name:ron_x_preferred":[
-        "Kapoeta"
-    ],
-    "name:rum_x_preferred":[
         "Kapoeta"
     ],
     "name:rus_x_preferred":[
@@ -226,7 +211,7 @@
         }
     ],
     "wof:id":421174517,
-    "wof:lastmodified":1527716227,
+    "wof:lastmodified":1561844809,
     "wof:name":"Kapoeta",
     "wof:parent_id":1091915407,
     "wof:placetype":"locality",

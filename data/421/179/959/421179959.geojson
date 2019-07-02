@@ -32,20 +32,14 @@
     "name:ces_x_preferred":[
         "Malak\u00e1l"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u62c9\u5361\u723e"
-    ],
-    "name:cze_x_preferred":[
-        "Malak\u00e1l"
-    ],
     "name:dan_x_preferred":[
         "Malakal"
     ],
     "name:deu_x_preferred":[
         "Malakal"
     ],
-    "name:dut_x_preferred":[
-        "Malakal"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bb\u03b1\u03ba\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Malakal"
@@ -61,18 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Malakal"
-    ],
-    "name:fre_x_preferred":[
-        "Malakal"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10da\u10d0\u10d9\u10d0\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Malakal"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bb\u03b1\u03ba\u03ac\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab2\u0abe\u0a95\u0abe\u0ab2"
@@ -116,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0932\u093e\u0915\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Malakal"
     ],
     "name:nld_x_preferred":[
@@ -141,9 +123,6 @@
         "Malakal"
     ],
     "name:ron_x_preferred":[
-        "Malakal"
-    ],
-    "name:rum_x_preferred":[
         "Malakal"
     ],
     "name:rus_x_preferred":[
@@ -333,7 +312,7 @@
         }
     ],
     "wof:id":421179959,
-    "wof:lastmodified":1527717708,
+    "wof:lastmodified":1561844809,
     "wof:name":"Malakal",
     "wof:parent_id":1091915845,
     "wof:placetype":"locality",

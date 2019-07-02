@@ -42,14 +42,14 @@
     "name:cat_x_preferred":[
         "Jonglei"
     ],
-    "name:chi_x_preferred":[
-        "\u743c\u83b1\u7701"
-    ],
     "name:dan_x_preferred":[
         "Jonglei"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Jonglei"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03bf\u03bd\u03b3\u03ba\u03bb\u03ad\u03b9"
     ],
     "name:eng_x_preferred":[
         "Jonglei"
@@ -58,23 +58,14 @@
         "Jonglei State",
         "Jungoli"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u0646\u0642\u0644\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Jonglei"
     ],
     "name:fra_x_preferred":[
         "Jonglei"
-    ],
-    "name:fre_x_preferred":[
-        "Jonglei"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ef\u10dd\u10dc\u10d2\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Jonglei"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03bf\u03bd\u03b3\u03ba\u03bb\u03ad\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0acb\u0a82\u0a97\u0ab2\u0ac7\u0a87"
@@ -97,6 +88,9 @@
     "name:kan_x_preferred":[
         "\u0c9c\u0ccb\u0c82\u0c97\u0ccd\u0cb2\u0cc0"
     ],
+    "name:kat_x_preferred":[
+        "\u10ef\u10dd\u10dc\u10d2\u10da\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc885\uae00\ub808\uc774 \uc8fc"
     ],
@@ -106,13 +100,16 @@
     "name:lit_x_preferred":[
         "D\u017eongl\u0117jus"
     ],
-    "name:mac_x_preferred":[
-        "\u040f\u043e\u043d\u0433\u043b\u0435\u0458"
-    ],
     "name:mar_x_preferred":[
         "\u091c\u094b\u0902\u0917\u0932\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u040f\u043e\u043d\u0433\u043b\u0435\u0458"
+    ],
+    "name:msa_x_preferred":[
+        "Jonglei"
+    ],
+    "name:nld_x_preferred":[
         "Jonglei"
     ],
     "name:nob_x_preferred":[
@@ -120,9 +117,6 @@
     ],
     "name:oci_x_preferred":[
         "Jonglei"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u0648\u0646\u0642\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u062c\u0648\u0646\u06af\u0644\u0626\u06cc"
@@ -133,7 +127,7 @@
     "name:por_x_preferred":[
         "Junc\u00e1li"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Statul Jonglei"
     ],
     "name:rus_x_preferred":[
@@ -186,6 +180,9 @@
     ],
     "name:war_x_preferred":[
         "Jonglei"
+    ],
+    "name:zho_x_preferred":[
+        "\u743c\u83b1\u7701"
     ],
     "ne:abbrev":"Jung.",
     "ne:adm0_a3":"SDS",
@@ -312,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550578,
+    "wof:lastmodified":1561844797,
     "wof:name":"Jungoli",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

@@ -32,9 +32,6 @@
     "name:ara_x_variant":[
         "Bahr al Jabal"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u0576\u057f\u0580\u0578\u0576\u0561\u056f\u0561\u0576 \u0537\u056f\u057e\u0561\u057f\u0578\u0580\u056b\u0561"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09a8\u09bf\u09b0\u0995\u09cd\u09b7\u09c0\u09af\u09bc\u09a4\u09be"
     ],
@@ -47,16 +44,10 @@
     "name:ceb_x_preferred":[
         "Central Equatoria State"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u8d64\u9053\u7701"
-    ],
     "name:dan_x_preferred":[
         "Central Equatoria"
     ],
     "name:deu_x_preferred":[
-        "Central Equatoria"
-    ],
-    "name:dut_x_preferred":[
         "Central Equatoria"
     ],
     "name:ell_x_preferred":[
@@ -76,18 +67,6 @@
     ],
     "name:fra_x_preferred":[
         "\u00c9quatoria-Central"
-    ],
-    "name:fre_x_preferred":[
-        "\u00c9quatoria-Central"
-    ],
-    "name:geo_x_preferred":[
-        "\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0\u10d8 \u10d4\u10d9\u10d5\u10d0\u10e2\u10dd\u10e0\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Central Equatoria"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae \u0395\u03ba\u03bf\u03c5\u03b1\u03c4\u03cc\u03c1\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a87\u0a95\u0acd\u0ab5\u0ac7\u0a9f\u0acb\u0ab0\u0abf\u0aaf\u0abe"
@@ -125,17 +104,14 @@
     "name:lit_x_preferred":[
         "Centrin\u0117 Ekvatorija"
     ],
-    "name:mac_x_preferred":[
-        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f\u094d\u0930\u0932 \u0907\u0915\u094d\u0935\u0947\u091f\u094b\u0930\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Central Equatoria"
-    ],
     "name:mkd_x_preferred":[
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0438\u0458\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Central Equatoria"
     ],
     "name:nld_x_preferred":[
         "Central Equatoria"
@@ -145,9 +121,6 @@
     ],
     "name:oci_x_preferred":[
         "Equat\u00f2ria Centrala"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc\u0647 \u0648\u0633\u0637\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0634\u06a9\u0627\u0631\u0644\u0627 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc"
@@ -159,9 +132,6 @@
         "Equat\u00f3ria Central"
     ],
     "name:ron_x_preferred":[
-        "Statul Ecuatoria Central\u0103"
-    ],
-    "name:rum_x_preferred":[
         "Statul Ecuatoria Central\u0103"
     ],
     "name:rus_x_preferred":[
@@ -214,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u8d64\u9053\u5dde"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u8d64\u9053\u7701"
     ],
     "ne:abbrev":"C. Eq.",
     "ne:adm0_a3":"SDS",
@@ -341,7 +314,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550525,
+    "wof:lastmodified":1561844799,
     "wof:name":"Central Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

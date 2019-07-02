@@ -21,14 +21,14 @@
     "name:ben_x_preferred":[
         "\u09b2\u09c0\u09b0"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Leer"
     ],
     "name:dan_x_preferred":[
         "Leer"
     ],
-    "name:dut_x_preferred":[
-        "Leer"
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03c1"
     ],
     "name:eng_x_preferred":[
         "Leer"
@@ -36,11 +36,8 @@
     "name:fin_x_preferred":[
         "Leer"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Leer"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03b9\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0ab0"
@@ -72,7 +69,10 @@
     "name:mar_x_preferred":[
         "\u0932\u0940\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Leer"
+    ],
+    "name:nld_x_preferred":[
         "Leer"
     ],
     "name:nob_x_preferred":[
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":890441679,
-    "wof:lastmodified":1553816399,
+    "wof:lastmodified":1561844809,
     "wof:name":"Ler",
     "wof:parent_id":1091915755,
     "wof:placetype":"locality",
