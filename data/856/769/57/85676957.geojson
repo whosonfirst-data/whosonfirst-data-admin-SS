@@ -42,11 +42,17 @@
     "name:cat_x_preferred":[
         "Jonglei"
     ],
+    "name:ceb_x_preferred":[
+        "Jonglei"
+    ],
     "name:dan_x_preferred":[
         "Jonglei"
     ],
     "name:deu_x_preferred":[
         "Jonglei"
+    ],
+    "name:din_x_preferred":[
+        "Jo\u014blei Pawut"
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03bd\u03b3\u03ba\u03bb\u03ad\u03b9"
@@ -309,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844797,
+    "wof:lastmodified":1563290507,
     "wof:name":"Jungoli",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

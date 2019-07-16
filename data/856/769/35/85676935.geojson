@@ -64,6 +64,9 @@
     "name:fin_x_preferred":[
         "Pohjoinen Bahr el-Ghazal"
     ],
+    "name:fin_x_variant":[
+        "Northern Bahr el-Ghazal"
+    ],
     "name:fra_x_preferred":[
         "Bahr el Ghazal du Nord"
     ],
@@ -109,6 +112,9 @@
     "name:mkd_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0411\u0430\u0445\u0440 \u0435\u043b \u0413\u0430\u0437\u0430\u043b"
     ],
+    "name:mkd_x_variant":[
+        "\u0421\u0435\u0432\u0435\u0440\u0435\u043d \u0411\u0430\u0445\u0440 \u0435\u043b-\u0413\u0430\u0437\u0430\u043b"
+    ],
     "name:msa_x_preferred":[
         "Bahrul Ghazal Utara"
     ],
@@ -138,6 +144,9 @@
     ],
     "name:spa_x_preferred":[
         "Bar el Gazal del Norte"
+    ],
+    "name:spa_x_variant":[
+        "Bahr al-Gazal del Norte"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043d\u0438 \u0411\u0430\u0445\u0440 \u0435\u043b \u0413\u0430\u0437\u0430\u043b"
@@ -308,7 +317,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844797,
+    "wof:lastmodified":1563290508,
     "wof:name":"North Bahr-al-Ghazal",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

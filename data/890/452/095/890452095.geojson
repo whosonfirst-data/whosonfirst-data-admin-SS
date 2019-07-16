@@ -34,11 +34,26 @@
     "mps:longitude":32.164522,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Magwi County"
+    ],
     "name:eng_x_preferred":[
         "Magwi"
     ],
     "name:eng_x_variant":[
+        "Magwi County"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b0\u30a6\u30a3\u90e1"
+    ],
+    "name:pol_x_preferred":[
         "Magwi"
+    ],
+    "name:por_x_preferred":[
+        "Magwi"
+    ],
+    "name:swe_x_preferred":[
+        "Magwi County"
     ],
     "qs:name":"Magwi County",
     "qs:photos_9r":0,
@@ -86,7 +101,7 @@
         }
     ],
     "wof:id":890452095,
-    "wof:lastmodified":1553717605,
+    "wof:lastmodified":1563290997,
     "wof:name":"Magwi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

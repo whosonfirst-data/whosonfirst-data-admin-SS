@@ -43,6 +43,9 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0433\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Raga"
+    ],
     "name:srp_x_preferred":[
         "\u0420\u0430\u0433\u0430"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421183531,
-    "wof:lastmodified":1561844809,
+    "wof:lastmodified":1563290992,
     "wof:name":"Raga",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

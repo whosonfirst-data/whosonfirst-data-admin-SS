@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0635\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09b8\u09bf\u09b0"
+    ],
     "name:cat_x_preferred":[
         "Nasir"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1141906965,
-    "wof:lastmodified":1561844814,
+    "wof:lastmodified":1563291246,
     "wof:name":"Nasir",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

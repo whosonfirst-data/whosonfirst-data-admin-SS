@@ -35,6 +35,9 @@
     "name:ava_x_preferred":[
         "\u0414\u0436\u0443\u0431\u0430"
     ],
+    "name:azb_x_preferred":[
+        "\u062c\u0648\u0628\u0627"
+    ],
     "name:aze_x_preferred":[
         "Cuba"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u0436\u0443\u0431\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0414\u0436\u0443\u0431\u0430"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09ac\u09be"
@@ -146,6 +152,9 @@
     "name:hrv_x_preferred":[
         "Juba"
     ],
+    "name:hsb_x_preferred":[
+        "Juba"
+    ],
     "name:hun_x_preferred":[
         "Juba"
     ],
@@ -200,6 +209,9 @@
     "name:lav_x_preferred":[
         "D\u017e\u016bba"
     ],
+    "name:lij_x_preferred":[
+        "Juba"
+    ],
     "name:lit_x_preferred":[
         "D\u017euba"
     ],
@@ -214,6 +226,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u040f\u0443\u0431\u0430"
+    ],
+    "name:mlt_x_preferred":[
+        "\u0120uba"
     ],
     "name:mon_x_preferred":[
         "\u0416\u0443\u0431\u0430"
@@ -262,6 +277,9 @@
     ],
     "name:por_x_preferred":[
         "Juba"
+    ],
+    "name:pus_x_preferred":[
+        "\u062c\u0648\u0628\u0627"
     ],
     "name:ron_x_preferred":[
         "Juba"
@@ -513,7 +531,7 @@
         }
     ],
     "wof:id":421179961,
-    "wof:lastmodified":1561844809,
+    "wof:lastmodified":1563290994,
     "wof:name":"Juba",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

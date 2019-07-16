@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "Bahr al Jabal"
     ],
+    "name:bel_x_preferred":[
+        "\u0426\u044d\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u042d\u043a\u0432\u0430\u0442\u0430\u0440\u044b\u044f\u043b\u044c\u043d\u0430\u044f \u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09be\u09b2 \u09a8\u09bf\u09b0\u0995\u09cd\u09b7\u09c0\u09af\u09bc\u09a4\u09be"
     ],
@@ -59,11 +62,17 @@
     "name:eng_x_variant":[
         "Central Equatoria State"
     ],
+    "name:epo_x_preferred":[
+        "Centra Ekvatorio"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0648\u0627\u0626\u06cc\u0647 \u0648\u0633\u0637\u06cc"
     ],
     "name:fin_x_preferred":[
         "Keski-Ekvatoria"
+    ],
+    "name:fin_x_variant":[
+        "Central Equatoria"
     ],
     "name:fra_x_preferred":[
         "\u00c9quatoria-Central"
@@ -121,6 +130,9 @@
     ],
     "name:oci_x_preferred":[
         "Equat\u00f2ria Centrala"
+    ],
+    "name:oci_x_variant":[
+        "Equatoria Centrala"
     ],
     "name:pnb_x_preferred":[
         "\u0648\u0634\u06a9\u0627\u0631\u0644\u0627 \u0627\u0633\u062a\u0648\u0627\u0626\u06cc"
@@ -314,7 +326,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844799,
+    "wof:lastmodified":1563290516,
     "wof:name":"Central Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

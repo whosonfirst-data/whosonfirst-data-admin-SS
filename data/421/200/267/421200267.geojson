@@ -101,6 +101,9 @@
     "name:oci_x_preferred":[
         "Aveil"
     ],
+    "name:oci_x_variant":[
+        "Aweil"
+    ],
     "name:pol_x_preferred":[
         "Aweil"
     ],
@@ -145,6 +148,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u06cc\u0644\u060c \u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0648\u06cc\u0644"
     ],
     "name:vie_x_preferred":[
         "Aweil"
@@ -297,7 +303,7 @@
         }
     ],
     "wof:id":421200267,
-    "wof:lastmodified":1561844809,
+    "wof:lastmodified":1563290991,
     "wof:name":"Uwayl",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",
