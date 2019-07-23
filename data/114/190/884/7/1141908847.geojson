@@ -17,8 +17,14 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u0645\u0648\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0646\u0645\u0648\u0644\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09ae\u09c1\u09b2"
+    ],
+    "name:ceb_x_preferred":[
+        "Nimule"
     ],
     "name:dan_x_preferred":[
         "Nimule"
@@ -250,7 +256,7 @@
         }
     ],
     "wof:id":1141908847,
-    "wof:lastmodified":1561844814,
+    "wof:lastmodified":1563291245,
     "wof:name":"Nimule",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

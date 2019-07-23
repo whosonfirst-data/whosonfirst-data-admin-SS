@@ -16,6 +16,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u062c"
     ],
+    "name:azb_x_preferred":[
+        "\u062a\u0648\u0646\u062c"
+    ],
     "name:ben_x_preferred":[
         "\u099f\u099e\u09cd\u099c"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:eng_x_preferred":[
         "Tonj"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0646\u062c"
     ],
     "name:fin_x_preferred":[
         "Tonj"
@@ -181,7 +187,7 @@
         }
     ],
     "wof:id":421180375,
-    "wof:lastmodified":1561844809,
+    "wof:lastmodified":1563290990,
     "wof:name":"Tonj",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

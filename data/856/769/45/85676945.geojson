@@ -64,8 +64,14 @@
         "Equatoria",
         "West Equatoria"
     ],
+    "name:epo_x_preferred":[
+        "Okcidenta Ekvatorio"
+    ],
     "name:fin_x_preferred":[
         "L\u00e4nsi-Ekvatoria"
+    ],
+    "name:fin_x_variant":[
+        "Western Equatoria"
     ],
     "name:fra_x_preferred":[
         "\u00c9quatoria-Occidental"
@@ -310,7 +316,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844797,
+    "wof:lastmodified":1563290509,
     "wof:name":"West Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

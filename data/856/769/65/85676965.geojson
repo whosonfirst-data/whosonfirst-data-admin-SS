@@ -43,6 +43,9 @@
     "name:cat_x_preferred":[
         "Warrap"
     ],
+    "name:ceb_x_preferred":[
+        "Warrap State"
+    ],
     "name:dan_x_preferred":[
         "Warrap"
     ],
@@ -59,6 +62,9 @@
         "Warab State",
         "Warrap State",
         "Warap"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0627\u0631\u0627\u0628"
     ],
     "name:fin_x_preferred":[
         "Warrap"
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844798,
+    "wof:lastmodified":1563290511,
     "wof:name":"Warap",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
