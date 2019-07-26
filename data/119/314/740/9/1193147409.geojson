@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0644\u0648"
+    ],
+    "name:ces_x_preferred":[
+        "Gilo"
+    ],
+    "name:deu_x_preferred":[
+        "Gilo"
+    ],
+    "name:fra_x_preferred":[
+        "Gilo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05dc\u05d4"
+    ],
+    "name:jav_x_preferred":[
+        "Gilo"
+    ],
+    "name:pol_x_preferred":[
+        "Gillo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043b\u043e"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d2\u05d9\u05dc\u05d4"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1193147409,
-    "wof:lastmodified":1536381895,
+    "wof:lastmodified":1564150285,
     "wof:name":"Gilo",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

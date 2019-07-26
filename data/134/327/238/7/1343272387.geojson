@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09ac\u09c0\u09b2"
+    ],
+    "name:deu_x_preferred":[
+        "Nabil"
+    ],
+    "name:fra_x_preferred":[
+        "Nabil"
+    ],
+    "name:ita_x_preferred":[
+        "Nabil"
+    ],
+    "name:swe_x_preferred":[
+        "Nabil"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1343272387,
-    "wof:lastmodified":1537016880,
+    "wof:lastmodified":1564149936,
     "wof:name":"Nabil",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Aliab"
     ],
+    "name:pol_x_preferred":[
+        "Awerial"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091915369,
-    "wof:lastmodified":1553717984,
+    "wof:lastmodified":1564150465,
     "wof:name":"Awerial",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

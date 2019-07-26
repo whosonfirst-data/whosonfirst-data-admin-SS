@@ -25,6 +25,81 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u064a\u064a"
+    ],
+    "name:cat_x_preferred":[
+        "Abyei"
+    ],
+    "name:ces_x_preferred":[
+        "Oblast Abyei"
+    ],
+    "name:dan_x_preferred":[
+        "Abyei"
+    ],
+    "name:deu_x_preferred":[
+        "Abyei"
+    ],
+    "name:din_x_preferred":[
+        "Abi\u025bi"
+    ],
+    "name:est_x_preferred":[
+        "Abyei"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u06cc\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Abyei"
+    ],
+    "name:fra_x_preferred":[
+        "Abiy\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Abyei"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30d3\u30a8\u30a4"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d1\u10d8\u10d4\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ube44\uc5d0\uc774"
+    ],
+    "name:nld_x_preferred":[
+        "Abyei"
+    ],
+    "name:nor_x_preferred":[
+        "Abyei"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0627\u0628\u06cc\u0626\u06cc"
+    ],
+    "name:por_x_preferred":[
+        "Abyei"
+    ],
+    "name:ron_x_preferred":[
+        "Abyei"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u044c\u0435\u0439"
+    ],
+    "name:spa_x_preferred":[
+        "Abyei"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0431\u0458\u0435\u0458"
+    ],
+    "name:swe_x_preferred":[
+        "Abyei"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0431'\u0454\u0439"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u535c\u8036\u4f0a\u5730\u533a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +123,7 @@
         }
     ],
     "wof:id":1260300337,
-    "wof:lastmodified":1536689291,
+    "wof:lastmodified":1564150314,
     "wof:name":"Abyei",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

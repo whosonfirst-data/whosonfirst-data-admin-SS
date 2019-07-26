@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "K\u00fck\u00fc"
+    ],
+    "name:ceb_x_preferred":[
+        "Kuku"
+    ],
+    "name:deu_x_preferred":[
+        "Kuku"
+    ],
+    "name:eus_x_preferred":[
+        "Kuku"
+    ],
+    "name:fra_x_preferred":[
+        "Kuku"
+    ],
+    "name:pol_x_preferred":[
+        "Kuku"
+    ],
+    "name:sco_x_preferred":[
+        "Kuku"
+    ],
+    "name:swa_x_preferred":[
+        "Mto Kuku"
+    ],
+    "name:swe_x_preferred":[
+        "Kuku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1293697209,
-    "wof:lastmodified":1536981242,
+    "wof:lastmodified":1564150014,
     "wof:name":"Kuku",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

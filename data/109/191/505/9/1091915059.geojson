@@ -31,11 +31,35 @@
     "mps:longitude":33.176168,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0628\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Pibor"
+    ],
+    "name:deu_x_preferred":[
+        "Pibor"
+    ],
     "name:eng_x_preferred":[
         "Pibor"
     ],
     "name:eng_x_variant":[
         "Pibor"
+    ],
+    "name:fra_x_preferred":[
+        "Pibor"
+    ],
+    "name:ita_x_preferred":[
+        "Pibor"
+    ],
+    "name:pol_x_preferred":[
+        "Pibor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0431\u043e\u0440"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u535a\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1091915059,
-    "wof:lastmodified":1553717984,
+    "wof:lastmodified":1564150454,
     "wof:name":"Pibor",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

@@ -31,11 +31,17 @@
     "mps:longitude":33.811742,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Maiwut"
+    ],
     "name:eng_x_preferred":[
         "Maiwut"
     ],
     "name:eng_x_variant":[
         "Mayot"
+    ],
+    "name:swe_x_preferred":[
+        "Maiwut"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091914895,
-    "wof:lastmodified":1553717983,
+    "wof:lastmodified":1564150468,
     "wof:name":"Maiwut",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

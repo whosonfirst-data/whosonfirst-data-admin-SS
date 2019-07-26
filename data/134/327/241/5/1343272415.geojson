@@ -25,6 +25,66 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bih_x_preferred":[
+        "\u092a\u093e\u0915\u0941\u0921\u093c"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09aa\u09be\u0995\u09c1\u09b0"
+    ],
+    "name:ceb_x_preferred":[
+        "P\u0101kaur"
+    ],
+    "name:fra_x_preferred":[
+        "Pakur"
+    ],
+    "name:hif_x_preferred":[
+        "Pakaur"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093e\u0915\u0941\u0921\u093c"
+    ],
+    "name:ita_x_preferred":[
+        "Pakur"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u093e\u0915\u0941\u0930"
+    ],
+    "name:mlg_x_preferred":[
+        "Pakur"
+    ],
+    "name:msa_x_preferred":[
+        "Pakaur"
+    ],
+    "name:nep_x_preferred":[
+        "\u092a\u093e\u0915\u0941\u0921\u093c"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2a\u0b15\u0b4c\u0b30"
+    ],
+    "name:pnb_x_preferred":[
+        "\u067e\u0627\u06a9\u0648\u0691"
+    ],
+    "name:por_x_preferred":[
+        "Pakaur"
+    ],
+    "name:san_x_preferred":[
+        "\u092a\u093e\u0915\u0941\u0921"
+    ],
+    "name:spa_x_preferred":[
+        "Pakur"
+    ],
+    "name:swe_x_preferred":[
+        "Pakaur"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u06a9\u0691"
+    ],
+    "name:vie_x_preferred":[
+        "Pakaur"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e15\u8003\u5c14"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +108,7 @@
         }
     ],
     "wof:id":1343272415,
-    "wof:lastmodified":1537016839,
+    "wof:lastmodified":1564149934,
     "wof:name":"Pakur",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

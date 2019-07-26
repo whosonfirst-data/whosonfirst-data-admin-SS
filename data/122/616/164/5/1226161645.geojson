@@ -28,14 +28,47 @@
     "name:ara_x_preferred":[
         "\u0648\u0627\u0631\u0627\u0628"
     ],
+    "name:bul_x_preferred":[
+        "\u0423\u0430\u0440\u0430\u0431"
+    ],
     "name:deu_x_preferred":[
         "Warab"
+    ],
+    "name:deu_x_variant":[
+        "Warrap"
     ],
     "name:eng_x_preferred":[
         "Warab"
     ],
+    "name:fra_x_preferred":[
+        "Warab"
+    ],
     "name:ind_x_preferred":[
         "Warab"
+    ],
+    "name:ita_x_preferred":[
+        "Warrap"
+    ],
+    "name:nld_x_preferred":[
+        "Warrap"
+    ],
+    "name:pol_x_preferred":[
+        "Warrap"
+    ],
+    "name:ron_x_preferred":[
+        "Warab"
+    ],
+    "name:spa_x_preferred":[
+        "Warab"
+    ],
+    "name:srp_x_preferred":[
+        "\u0412\u0430\u0440\u0430\u0431"
+    ],
+    "name:swe_x_preferred":[
+        "Warrap"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u62c9\u666e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":1226161645,
-    "wof:lastmodified":1537701418,
+    "wof:lastmodified":1564150727,
     "wof:name":"Warab",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

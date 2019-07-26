@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ado"
+    ],
+    "name:ceb_x_preferred":[
+        "Ado"
+    ],
+    "name:dan_x_preferred":[
+        "Ado"
+    ],
+    "name:deu_x_preferred":[
+        "Ado"
+    ],
+    "name:fra_x_preferred":[
+        "Ado"
+    ],
+    "name:hun_x_preferred":[
+        "Ado"
+    ],
+    "name:por_x_preferred":[
+        "Ado"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u043e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1326948887,
-    "wof:lastmodified":1536880094,
+    "wof:lastmodified":1564149756,
     "wof:name":"Ado",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

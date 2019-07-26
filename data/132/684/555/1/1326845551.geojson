@@ -25,6 +25,39 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0647\u062c\u0644\u064a\u062c"
+    ],
+    "name:deu_x_preferred":[
+        "Heglig"
+    ],
+    "name:din_x_preferred":[
+        "Panthou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u062c\u0644\u06cc\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Heglig"
+    ],
+    "name:ita_x_preferred":[
+        "Heglig"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d8\u30b0\u30ea\u30b0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5e4\uae00\ub9ac\uadf8"
+    ],
+    "name:por_x_preferred":[
+        "Heglig"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0435\u0433\u043b\u0438\u0433"
+    ],
+    "name:swe_x_preferred":[
+        "Heglig"
+    ],
     "name:und_x_variant":[
         "Tau",
         "Heglig",
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1326845551,
-    "wof:lastmodified":1537701401,
+    "wof:lastmodified":1564149807,
     "wof:name":"Heglig",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

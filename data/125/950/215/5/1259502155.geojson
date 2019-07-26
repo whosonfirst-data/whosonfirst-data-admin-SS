@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Arado"
+    ],
+    "name:deu_x_preferred":[
+        "Arado"
+    ],
+    "name:ita_x_preferred":[
+        "Arado"
+    ],
+    "name:por_x_preferred":[
+        "Arado"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0456\u044f:\u041b\u0456\u0442\u0430\u043a\u0438 Arado"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1259502155,
-    "wof:lastmodified":1536830965,
+    "wof:lastmodified":1564150668,
     "wof:name":"Arado",
     "wof:parent_id":1091915715,
     "wof:placetype":"locality",

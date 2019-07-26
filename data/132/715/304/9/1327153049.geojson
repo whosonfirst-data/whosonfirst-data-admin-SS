@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mambara"
+    ],
+    "name:swe_x_preferred":[
+        "Mambara"
+    ],
+    "name:vie_x_preferred":[
+        "Mambara"
+    ],
+    "name:war_x_preferred":[
+        "Mambara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1327153049,
-    "wof:lastmodified":1537081000,
+    "wof:lastmodified":1564149772,
     "wof:name":"Mambara",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

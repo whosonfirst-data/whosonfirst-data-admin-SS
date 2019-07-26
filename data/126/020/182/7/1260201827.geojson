@@ -25,9 +25,30 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lokaier"
+    ],
+    "name:fin_x_preferred":[
+        "Lokainhevonen"
+    ],
+    "name:fra_x_preferred":[
+        "Loka\u00ef"
+    ],
+    "name:pol_x_preferred":[
+        "Ko\u0144 lokajski"
+    ],
+    "name:swe_x_preferred":[
+        "Lokai"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0430\u043a\u0430\u0439 \u0430\u0442\u044b"
+    ],
     "name:und_x_variant":[
         "Moa",
         "Lokai"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u1ef1a Lokai"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +73,7 @@
         }
     ],
     "wof:id":1260201827,
-    "wof:lastmodified":1537701395,
+    "wof:lastmodified":1564150318,
     "wof:name":"Lokai",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Domat"
+    ],
+    "name:fra_x_preferred":[
+        "Domat"
+    ],
+    "name:ita_x_preferred":[
+        "Domat"
+    ],
     "name:und_x_variant":[
         "Domaia Ez Zeif",
         "Domat"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1343579777,
-    "wof:lastmodified":1537701405,
+    "wof:lastmodified":1564149900,
     "wof:name":"Domat",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

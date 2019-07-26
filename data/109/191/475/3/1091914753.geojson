@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Amatonge"
     ],
+    "name:fra_x_preferred":[
+        "Ikotos"
+    ],
+    "name:por_x_preferred":[
+        "Ikotos"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091914753,
-    "wof:lastmodified":1553717981,
+    "wof:lastmodified":1564150466,
     "wof:name":"Ikotos",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

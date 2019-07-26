@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Kot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310712207,
-    "wof:lastmodified":1536616311,
+    "wof:lastmodified":1564150348,
     "wof:name":"Kot",
     "wof:parent_id":1091913913,
     "wof:placetype":"locality",

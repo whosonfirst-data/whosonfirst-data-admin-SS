@@ -31,11 +31,17 @@
     "mps:longitude":32.682767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Lafon"
+    ],
     "name:eng_x_preferred":[
         "Lopa/Lafon"
     ],
     "name:eng_x_variant":[
         "Amatonge"
+    ],
+    "name:fra_x_preferred":[
+        "Lafon"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1091915633,
-    "wof:lastmodified":1553717985,
+    "wof:lastmodified":1564150464,
     "wof:name":"Lafon",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

@@ -25,6 +25,36 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Dena"
+    ],
+    "name:ces_x_preferred":[
+        "Dena"
+    ],
+    "name:ckb_x_preferred":[
+        "\u062f\u06ce\u0646\u06d5"
+    ],
+    "name:deu_x_preferred":[
+        "Dena"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Dena"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062f\u0646\u0627"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062f\u0646\u0627"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0430\u043f\u043e\u0432\u0435\u0434\u043d\u0438\u043a \u0414\u0435\u043d\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Monte Dena"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +78,7 @@
         }
     ],
     "wof:id":1243282627,
-    "wof:lastmodified":1537039993,
+    "wof:lastmodified":1564150621,
     "wof:name":"Dena",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Harbi"
+    ],
     "name:und_x_variant":[
         "Ban Dunna",
         "Harbi"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310320299,
-    "wof:lastmodified":1537701400,
+    "wof:lastmodified":1564150390,
     "wof:name":"Harbi",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

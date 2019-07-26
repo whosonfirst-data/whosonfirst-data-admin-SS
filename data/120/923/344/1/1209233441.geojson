@@ -25,6 +25,36 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Deng"
+    ],
+    "name:ces_x_preferred":[
+        "Deng"
+    ],
+    "name:deu_x_preferred":[
+        "Deng"
+    ],
+    "name:fra_x_preferred":[
+        "Deng"
+    ],
+    "name:kur_x_preferred":[
+        "Deng"
+    ],
+    "name:pol_x_preferred":[
+        "Deng"
+    ],
+    "name:por_x_preferred":[
+        "Deng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u043d\u0433"
+    ],
+    "name:spa_x_preferred":[
+        "Deng"
+    ],
+    "name:swe_x_preferred":[
+        "Deng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +64,7 @@
         "gn:id":376558
     },
     "wof:country":"SS",
-    "wof:geomhash":"78e89dbf43b2f72f6a7952472b5730a1",
+    "wof:geomhash":"bf4c6eae8453b4b71e8266a01f756ddb",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +72,7 @@
         }
     ],
     "wof:id":1209233441,
-    "wof:lastmodified":1536293564,
+    "wof:lastmodified":1564150211,
     "wof:name":"Deng",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +83,9 @@
 },
   "bbox": [
     31.32961,
-    7.7888600000000014,
+    7.78886,
     31.32961,
-    7.7888600000000014
+    7.78886
 ],
   "geometry": {"coordinates":[31.32961,7.78886],"type":"Point"}
 }

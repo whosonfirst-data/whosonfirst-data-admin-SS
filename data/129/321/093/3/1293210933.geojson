@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Yo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293210933,
-    "wof:lastmodified":1536688740,
+    "wof:lastmodified":1564150059,
     "wof:name":"Yo",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

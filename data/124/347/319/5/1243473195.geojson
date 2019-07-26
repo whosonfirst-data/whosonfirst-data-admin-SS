@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Turalei"
+    ],
+    "name:fra_x_preferred":[
+        "Turalei"
+    ],
+    "name:pol_x_preferred":[
+        "Turalei"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1243473195,
-    "wof:lastmodified":1537573767,
+    "wof:lastmodified":1564150572,
     "wof:name":"Turalei",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

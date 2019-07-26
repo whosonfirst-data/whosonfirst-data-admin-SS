@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jarra"
+    ],
+    "name:spa_x_preferred":[
+        "Jarra"
+    ],
+    "name:swe_x_preferred":[
+        "Jarra"
+    ],
     "name:und_x_variant":[
         "Jarrah"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259401385,
-    "wof:lastmodified":1537701400,
+    "wof:lastmodified":1564150655,
     "wof:name":"Jarra",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

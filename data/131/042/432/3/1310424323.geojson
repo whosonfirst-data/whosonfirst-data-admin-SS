@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yango"
+    ],
+    "name:deu_x_preferred":[
+        "Yango"
+    ],
+    "name:fra_x_preferred":[
+        "Yango"
+    ],
+    "name:swe_x_preferred":[
+        "Yango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310424323,
-    "wof:lastmodified":1537032661,
+    "wof:lastmodified":1564150376,
     "wof:name":"Yango",
     "wof:parent_id":1091914701,
     "wof:placetype":"locality",

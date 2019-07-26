@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nyamlell"
+    ],
+    "name:fra_x_preferred":[
+        "Nymlal"
+    ],
+    "name:pol_x_preferred":[
+        "Nyamlell"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -43,7 +52,7 @@
         }
     ],
     "wof:id":1209333263,
-    "wof:lastmodified":1537573762,
+    "wof:lastmodified":1564150242,
     "wof:name":"Nyamlell",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

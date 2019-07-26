@@ -25,6 +25,39 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kibo"
+    ],
+    "name:dan_x_preferred":[
+        "Kibo"
+    ],
+    "name:deu_x_preferred":[
+        "Kibo"
+    ],
+    "name:epo_x_preferred":[
+        "Kibo"
+    ],
+    "name:fin_x_preferred":[
+        "Kibo"
+    ],
+    "name:fra_x_preferred":[
+        "Kib\u014d"
+    ],
+    "name:hun_x_preferred":[
+        "Kibo"
+    ],
+    "name:lav_x_preferred":[
+        "Kibo"
+    ],
+    "name:pol_x_preferred":[
+        "Kibo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0431\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Kibo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1310016391,
-    "wof:lastmodified":1536625627,
+    "wof:lastmodified":1564150367,
     "wof:name":"Kibo",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

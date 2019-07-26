@@ -25,13 +25,37 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0628\u0648\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "Pibor"
+    ],
+    "name:deu_x_preferred":[
+        "Pibor"
+    ],
     "name:eng_x_preferred":[
         "Pibor"
+    ],
+    "name:fra_x_preferred":[
+        "Pibor"
+    ],
+    "name:ita_x_preferred":[
+        "Pibor"
+    ],
+    "name:pol_x_preferred":[
+        "Pibor"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0438\u0431\u043e\u0440"
     ],
     "name:und_x_variant":[
         "Fort Bruce",
         "Pibor Post",
         "Pibor"
+    ],
+    "name:zho_x_preferred":[
+        "\u76ae\u535a\u723e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1293034641,
-    "wof:lastmodified":1537701389,
+    "wof:lastmodified":1564150011,
     "wof:name":"Pibor",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

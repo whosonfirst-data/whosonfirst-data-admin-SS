@@ -25,6 +25,54 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lodi"
+    ],
+    "name:ceb_x_preferred":[
+        "Lodi"
+    ],
+    "name:deu_x_preferred":[
+        "Lodi"
+    ],
+    "name:est_x_preferred":[
+        "Lodi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062f\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Lodi"
+    ],
+    "name:fra_x_preferred":[
+        "Lodi"
+    ],
+    "name:ita_x_preferred":[
+        "Lodi"
+    ],
+    "name:nld_x_preferred":[
+        "Lodi"
+    ],
+    "name:pms_x_preferred":[
+        "Lodi"
+    ],
+    "name:pol_x_preferred":[
+        "Lodi"
+    ],
+    "name:por_x_preferred":[
+        "Lodi"
+    ],
+    "name:spa_x_preferred":[
+        "Lodi"
+    ],
+    "name:swe_x_preferred":[
+        "Lodi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u043e\u0434\u0456"
+    ],
+    "name:vol_x_preferred":[
+        "Lodi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +82,7 @@
         "gn:id":382363
     },
     "wof:country":"SS",
-    "wof:geomhash":"90e3363b2902082fd3df23fe2bf0db82",
+    "wof:geomhash":"40cd3f7edf712f6c35b91fcec691665f",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +90,7 @@
         }
     ],
     "wof:id":1209014931,
-    "wof:lastmodified":1536300326,
+    "wof:lastmodified":1564150184,
     "wof:name":"Lodi",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +101,9 @@
 },
   "bbox": [
     33.21222,
-    4.1817400000000005,
+    4.18174,
     33.21222,
-    4.1817400000000005
+    4.18174
 ],
   "geometry": {"coordinates":[33.21222,4.18174],"type":"Point"}
 }

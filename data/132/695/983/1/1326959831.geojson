@@ -25,7 +25,40 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0646\u0643"
+    ],
+    "name:ceb_x_preferred":[
+        "Renk"
+    ],
+    "name:ces_x_preferred":[
+        "Renk"
+    ],
     "name:eng_x_preferred":[
+        "Renk"
+    ],
+    "name:epo_x_preferred":[
+        "Renko"
+    ],
+    "name:fra_x_preferred":[
+        "Renk"
+    ],
+    "name:ita_x_preferred":[
+        "Renk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30f3\u30af"
+    ],
+    "name:pol_x_preferred":[
+        "Renk"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440-\u0420\u0435\u043d\u043a"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0435\u043d\u043a"
+    ],
+    "name:swe_x_preferred":[
         "Renk"
     ],
     "name:und_x_variant":[
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1326959831,
-    "wof:lastmodified":1537701409,
+    "wof:lastmodified":1564149762,
     "wof:name":"Renk",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

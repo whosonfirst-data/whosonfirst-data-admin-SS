@@ -37,6 +37,18 @@
     "name:eng_x_variant":[
         "Tombura"
     ],
+    "name:hun_x_preferred":[
+        "Ez\u00f3k"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8766\u5937\u5730"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\uc870\uce58"
+    ],
+    "name:zho_x_preferred":[
+        "\u8766\u5937\u5730"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +84,7 @@
         }
     ],
     "wof:id":1091914189,
-    "wof:lastmodified":1553717980,
+    "wof:lastmodified":1564150467,
     "wof:name":"Ezo",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

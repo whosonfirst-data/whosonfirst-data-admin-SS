@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Qo\u015f"
+    ],
+    "name:ceb_x_preferred":[
+        "Kosh"
+    ],
+    "name:est_x_preferred":[
+        "Kosh"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0577"
+    ],
+    "name:swe_x_preferred":[
+        "Kosh"
+    ],
     "name:und_x_variant":[
         "Kozi",
         "Kosh"
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1326640285,
-    "wof:lastmodified":1537701397,
+    "wof:lastmodified":1564149819,
     "wof:name":"Kosh",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jala"
+    ],
+    "name:fra_x_preferred":[
+        "Jala"
+    ],
+    "name:hrv_x_preferred":[
+        "Jala"
+    ],
+    "name:srp_x_preferred":[
+        "Jala"
+    ],
+    "name:swe_x_preferred":[
+        "Jala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1209929421,
-    "wof:lastmodified":1536393398,
+    "wof:lastmodified":1564150227,
     "wof:name":"Jala",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

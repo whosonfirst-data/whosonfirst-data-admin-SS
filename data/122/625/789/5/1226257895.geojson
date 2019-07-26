@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Burum"
+    ],
+    "name:deu_x_preferred":[
+        "Burum"
+    ],
+    "name:swe_x_preferred":[
+        "Burum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226257895,
-    "wof:lastmodified":1536916557,
+    "wof:lastmodified":1564150760,
     "wof:name":"Burum",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

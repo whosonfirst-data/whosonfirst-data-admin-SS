@@ -31,11 +31,116 @@
     "mps:longitude":31.669438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0644\u0643\u0627\u0644"
+    ],
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "Malakal"
+    ],
+    "name:ceb_x_preferred":[
+        "Malakal"
+    ],
+    "name:ces_x_preferred":[
+        "Malak\u00e1l"
+    ],
+    "name:dan_x_preferred":[
+        "Malakal"
+    ],
+    "name:deu_x_preferred":[
+        "Malakal"
+    ],
     "name:eng_x_preferred":[
         "Malakal"
     ],
     "name:eng_x_variant":[
         "Tonga"
+    ],
+    "name:epo_x_preferred":[
+        "Malakal"
+    ],
+    "name:est_x_preferred":[
+        "Malakal"
+    ],
+    "name:fin_x_preferred":[
+        "Malakal"
+    ],
+    "name:fra_x_preferred":[
+        "Malakal"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05e7\u05d0\u05dc"
+    ],
+    "name:hrv_x_preferred":[
+        "Malakal"
+    ],
+    "name:ita_x_preferred":[
+        "Malakal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e9\u30ab\u30eb"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10da\u10d0\u10d9\u10d0\u10da\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9d0\ub77c\uce7c"
+    ],
+    "name:lit_x_preferred":[
+        "Malakalis"
+    ],
+    "name:nld_x_preferred":[
+        "Malakal"
+    ],
+    "name:nor_x_preferred":[
+        "Malakal"
+    ],
+    "name:oci_x_preferred":[
+        "Malakal"
+    ],
+    "name:pam_x_preferred":[
+        "Malakal"
+    ],
+    "name:pol_x_preferred":[
+        "Malakal"
+    ],
+    "name:por_x_preferred":[
+        "Malakal"
+    ],
+    "name:ron_x_preferred":[
+        "Malakal"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Malakal"
+    ],
+    "name:spa_x_preferred":[
+        "Malakal"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430\u043b"
+    ],
+    "name:swe_x_preferred":[
+        "Malakal"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u043a\u0430\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0644\u06a9\u0627\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Malakal"
+    ],
+    "name:war_x_preferred":[
+        "Malakal"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u62c9\u5361\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +177,7 @@
         }
     ],
     "wof:id":1091915845,
-    "wof:lastmodified":1553717984,
+    "wof:lastmodified":1564150472,
     "wof:name":"Malakal",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

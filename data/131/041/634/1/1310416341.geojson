@@ -25,6 +25,39 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mimi"
+    ],
+    "name:deu_x_preferred":[
+        "Mimi"
+    ],
+    "name:fra_x_preferred":[
+        "Mimi"
+    ],
+    "name:ita_x_preferred":[
+        "Mimi"
+    ],
+    "name:jpn_x_preferred":[
+        "Mimi"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u093f\u092e\u0940"
+    ],
+    "name:pol_x_preferred":[
+        "Mimi"
+    ],
+    "name:por_x_preferred":[
+        "Mimi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043c\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mimi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043c\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1310416341,
-    "wof:lastmodified":1537043760,
+    "wof:lastmodified":1564150337,
     "wof:name":"Mimi",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

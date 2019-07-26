@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gab"
+    ],
+    "name:swe_x_preferred":[
+        "Gab"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +40,7 @@
         "gn:id":8059359
     },
     "wof:country":"SS",
-    "wof:geomhash":"0d27f0a425f2330353e2e024d86692a7",
+    "wof:geomhash":"80d9da17725c7adf17dbd30cba95f1b7",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +48,7 @@
         }
     ],
     "wof:id":1209116585,
-    "wof:lastmodified":1536297233,
+    "wof:lastmodified":1564150243,
     "wof:name":"Gab",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +59,9 @@
 },
   "bbox": [
     29.90605,
-    8.414010000000001,
+    8.41401,
     29.90605,
-    8.414010000000001
+    8.41401
 ],
   "geometry": {"coordinates":[29.90605,8.41401],"type":"Point"}
 }

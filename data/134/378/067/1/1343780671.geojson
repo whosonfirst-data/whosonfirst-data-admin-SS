@@ -25,11 +25,29 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nila"
+    ],
+    "name:deu_x_preferred":[
+        "Nila"
+    ],
     "name:eng_x_preferred":[
+        "Nila"
+    ],
+    "name:ind_x_preferred":[
+        "Nila"
+    ],
+    "name:jav_x_preferred":[
         "Nila"
     ],
     "name:rus_x_preferred":[
         "\u041d\u0438\u043b\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Nila"
+    ],
+    "name:swe_x_preferred":[
+        "Nila"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343780671,
-    "wof:lastmodified":1537701421,
+    "wof:lastmodified":1564149893,
     "wof:name":"Nila",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

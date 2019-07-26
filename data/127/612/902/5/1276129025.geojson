@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Riaba"
+    ],
+    "name:deu_x_preferred":[
+        "Riaba"
+    ],
+    "name:eus_x_preferred":[
+        "Riaba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u0627\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Riaba"
+    ],
+    "name:ita_x_preferred":[
+        "Riaba"
+    ],
+    "name:pol_x_preferred":[
+        "Riaba"
+    ],
+    "name:spa_x_preferred":[
+        "Riaba"
+    ],
+    "name:tur_x_preferred":[
+        "Riaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1276129025,
-    "wof:lastmodified":1537050178,
+    "wof:lastmodified":1564150142,
     "wof:name":"Riaba",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

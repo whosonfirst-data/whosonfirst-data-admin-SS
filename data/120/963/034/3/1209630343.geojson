@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sir\u016br"
+    ],
     "name:und_x_variant":[
         "Sur\u016br"
     ],
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209630343,
-    "wof:lastmodified":1537701386,
+    "wof:lastmodified":1564150190,
     "wof:name":"Sirur",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

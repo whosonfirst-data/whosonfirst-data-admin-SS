@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sabun"
+    ],
+    "name:deu_x_preferred":[
+        "Sabun"
+    ],
+    "name:swe_x_preferred":[
+        "Sabun"
+    ],
     "name:und_x_variant":[
         "\u015e\u0101b\u016bn"
     ],
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209325125,
-    "wof:lastmodified":1537701387,
+    "wof:lastmodified":1564150234,
     "wof:name":"Sabun",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Going"
+    ],
+    "name:ita_x_preferred":[
+        "Going"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b4\u30fc\u30a4\u30f3\u30b0"
+    ],
+    "name:pol_x_preferred":[
+        "Going"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +46,7 @@
         "gn:id":8374518
     },
     "wof:country":"SS",
-    "wof:geomhash":"4fab842e11a7239eb24b626be2608a8f",
+    "wof:geomhash":"73d354ef2c2f697938a531ebdebe1f1f",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209019517,
-    "wof:lastmodified":1536300188,
+    "wof:lastmodified":1564150183,
     "wof:name":"Going",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +65,9 @@
 },
   "bbox": [
     32.69899,
-    8.752189999999999,
+    8.75219,
     32.69899,
-    8.752189999999999
+    8.75219
 ],
   "geometry": {"coordinates":[32.69899,8.75219],"type":"Point"}
 }

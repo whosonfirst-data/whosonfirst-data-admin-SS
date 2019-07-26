@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:gla_x_preferred":[
+        "Caorann"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310512061,
-    "wof:lastmodified":1536907630,
+    "wof:lastmodified":1564150414,
     "wof:name":"Rowan",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

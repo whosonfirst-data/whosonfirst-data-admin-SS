@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kwoinlo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226057789,
-    "wof:lastmodified":1537573763,
+    "wof:lastmodified":1564150731,
     "wof:name":"Kwoinlo",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

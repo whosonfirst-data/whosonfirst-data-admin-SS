@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Boi"
+    ],
+    "name:deu_x_preferred":[
+        "Boi"
+    ],
+    "name:fin_x_preferred":[
+        "Boi"
+    ],
+    "name:glg_x_preferred":[
+        "Boi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d9"
+    ],
+    "name:ind_x_preferred":[
+        "Boi"
+    ],
+    "name:por_x_preferred":[
+        "Boi"
+    ],
+    "name:ron_x_preferred":[
+        "Boi"
+    ],
+    "name:swe_x_preferred":[
+        "Boi"
+    ],
     "name:und_x_variant":[
         "Lii"
     ],
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1276462571,
-    "wof:lastmodified":1537701420,
+    "wof:lastmodified":1564150144,
     "wof:name":"Boi",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

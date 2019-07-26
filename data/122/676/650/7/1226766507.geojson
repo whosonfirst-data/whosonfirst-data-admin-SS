@@ -25,6 +25,27 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ganda"
+    ],
+    "name:deu_x_preferred":[
+        "Ganda"
+    ],
+    "name:fin_x_preferred":[
+        "Ganda"
+    ],
+    "name:fra_x_preferred":[
+        "Ganda"
+    ],
+    "name:ita_x_preferred":[
+        "Ganda"
+    ],
+    "name:srp_x_preferred":[
+        "Ganda"
+    ],
+    "name:swe_x_preferred":[
+        "Ganda"
+    ],
     "name:und_x_variant":[
         "Old Deimldris"
     ],
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1226766507,
-    "wof:lastmodified":1537701402,
+    "wof:lastmodified":1564150763,
     "wof:name":"Ganda",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

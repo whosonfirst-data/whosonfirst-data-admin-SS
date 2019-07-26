@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Alak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326740917,
-    "wof:lastmodified":1536683062,
+    "wof:lastmodified":1564149744,
     "wof:name":"Alak",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

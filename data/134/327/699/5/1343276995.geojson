@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Alek"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1343276995,
-    "wof:lastmodified":1537010286,
+    "wof:lastmodified":1564149935,
     "wof:name":"Alek",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Kai\u0107"
+    ],
     "name:und_x_variant":[
         "Kaych"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310611657,
-    "wof:lastmodified":1537701415,
+    "wof:lastmodified":1564150400,
     "wof:name":"Kaich",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

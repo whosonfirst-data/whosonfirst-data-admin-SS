@@ -25,6 +25,30 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lear"
+    ],
+    "name:fra_x_preferred":[
+        "Lear"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e8"
+    ],
+    "name:ita_x_preferred":[
+        "Lear"
+    ],
+    "name:por_x_preferred":[
+        "Lear"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Lear"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u0440"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +72,7 @@
         }
     ],
     "wof:id":1276567239,
-    "wof:lastmodified":1536962631,
+    "wof:lastmodified":1564150099,
     "wof:name":"Lear",
     "wof:parent_id":1091915755,
     "wof:placetype":"locality",
