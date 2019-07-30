@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Agai"
+    ],
+    "name:swe_x_preferred":[
+        "Agai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1242592759,
-    "wof:lastmodified":1537040018,
+    "wof:lastmodified":1564150543,
     "wof:name":"Agai",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

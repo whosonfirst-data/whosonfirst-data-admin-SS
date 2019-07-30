@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Waar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0636\u0631\u0628\u0647"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a3e\u0a30"
+    ],
+    "name:spa_x_preferred":[
+        "Waar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u0627\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1344267673,
-    "wof:lastmodified":1537070579,
+    "wof:lastmodified":1564149915,
     "wof:name":"Waar",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

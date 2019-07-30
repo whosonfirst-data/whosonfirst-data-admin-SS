@@ -25,6 +25,120 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0644\u0648"
+    ],
+    "name:bar_x_preferred":[
+        "Burolo"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u043b\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u043b\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Burolo"
+    ],
+    "name:deu_x_preferred":[
+        "Burolo"
+    ],
+    "name:epo_x_preferred":[
+        "Burolo"
+    ],
+    "name:est_x_preferred":[
+        "Burolo"
+    ],
+    "name:eus_x_preferred":[
+        "Burolo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631\u0648\u0644\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Burolo"
+    ],
+    "name:hun_x_preferred":[
+        "Burolo"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0580\u0578\u056c\u0578"
+    ],
+    "name:ind_x_preferred":[
+        "Burolo"
+    ],
+    "name:ita_x_preferred":[
+        "Burolo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ed\u30fc\u30ed"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u043b\u043e"
+    ],
+    "name:lat_x_preferred":[
+        "Buriolum"
+    ],
+    "name:lmo_x_preferred":[
+        "Burolo"
+    ],
+    "name:msa_x_preferred":[
+        "Burolo"
+    ],
+    "name:nap_x_preferred":[
+        "Burolo"
+    ],
+    "name:nld_x_preferred":[
+        "Burolo"
+    ],
+    "name:pms_x_preferred":[
+        "Bureul"
+    ],
+    "name:pol_x_preferred":[
+        "Burolo"
+    ],
+    "name:por_x_preferred":[
+        "Burolo"
+    ],
+    "name:ron_x_preferred":[
+        "Burolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u043b\u043e"
+    ],
+    "name:scn_x_preferred":[
+        "Burolo"
+    ],
+    "name:spa_x_preferred":[
+        "Burolo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u043b\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Burolo"
+    ],
+    "name:tgl_x_preferred":[
+        "Burolo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0440\u043e\u043b\u043e"
+    ],
+    "name:uzb_x_preferred":[
+        "Burolo"
+    ],
+    "name:vie_x_preferred":[
+        "Burolo"
+    ],
+    "name:vol_x_preferred":[
+        "Burolo"
+    ],
+    "name:war_x_preferred":[
+        "Burolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u7f57\u6d1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +162,7 @@
         }
     ],
     "wof:id":1293011195,
-    "wof:lastmodified":1536976026,
+    "wof:lastmodified":1564149964,
     "wof:name":"Burolo",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

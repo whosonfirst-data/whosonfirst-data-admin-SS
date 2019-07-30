@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gumba"
+    ],
+    "name:deu_x_preferred":[
+        "Gumba"
+    ],
+    "name:fra_x_preferred":[
+        "Gumba"
+    ],
+    "name:pol_x_preferred":[
+        "Gumba"
+    ],
+    "name:swe_x_preferred":[
+        "Gumba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293303101,
-    "wof:lastmodified":1537050608,
+    "wof:lastmodified":1564149959,
     "wof:name":"Gumba",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

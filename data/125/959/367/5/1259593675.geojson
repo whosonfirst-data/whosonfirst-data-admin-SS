@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Anyer"
+    ],
+    "name:fra_x_preferred":[
+        "Anyer"
+    ],
+    "name:fry_x_preferred":[
+        "Anjer"
+    ],
+    "name:ind_x_preferred":[
+        "Anyar"
+    ],
+    "name:jav_x_preferred":[
+        "Anyar"
+    ],
+    "name:msa_x_preferred":[
+        "Anyar"
+    ],
+    "name:nld_x_preferred":[
+        "Anyer"
+    ],
+    "name:por_x_preferred":[
+        "Anyer"
+    ],
+    "name:sun_x_preferred":[
+        "Anyar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1259593675,
-    "wof:lastmodified":1536700291,
+    "wof:lastmodified":1564150674,
     "wof:name":"Anyer",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

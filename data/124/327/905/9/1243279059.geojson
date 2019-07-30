@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Maren"
+    ],
+    "name:isl_x_preferred":[
+        "Maren"
+    ],
+    "name:nds_x_preferred":[
+        "Maren"
+    ],
+    "name:por_x_preferred":[
+        "Maren"
+    ],
+    "name:swe_x_preferred":[
+        "Maren"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1243279059,
-    "wof:lastmodified":1537044875,
+    "wof:lastmodified":1564150616,
     "wof:name":"Maren",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

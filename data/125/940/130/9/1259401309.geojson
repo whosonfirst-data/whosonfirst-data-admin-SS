@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Barbaloin"
+    ],
+    "name:deu_x_preferred":[
+        "Aloin"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb\u03bf\u0390\u03bd\u03b7"
+    ],
+    "name:fra_x_preferred":[
+        "Alo\u00efne"
+    ],
+    "name:ita_x_preferred":[
+        "Aloina"
+    ],
+    "name:por_x_preferred":[
+        "Alo\u00edna"
+    ],
+    "name:spa_x_preferred":[
+        "Alo\u00edna"
+    ],
+    "name:srp_x_preferred":[
+        "Alojin"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e30\u0e42\u0e25\u0e2d\u0e34\u0e19"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1259401309,
-    "wof:lastmodified":1536976194,
+    "wof:lastmodified":1564150655,
     "wof:name":"Aloin",
     "wof:parent_id":1091915879,
     "wof:placetype":"locality",

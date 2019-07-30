@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u0997\u09a1\u09bc\u09bf\u09af\u09bc\u09be"
+    ],
     "name:und_x_variant":[
         "Agara"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276677031,
-    "wof:lastmodified":1537701419,
+    "wof:lastmodified":1564150107,
     "wof:name":"Garia",
     "wof:parent_id":1091913397,
     "wof:placetype":"locality",

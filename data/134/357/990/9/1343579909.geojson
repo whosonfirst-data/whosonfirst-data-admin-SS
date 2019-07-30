@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "K\u014dsh\u014d"
+    ],
+    "name:hrv_x_preferred":[
+        "Kosho"
+    ],
+    "name:ita_x_preferred":[
+        "Kosho"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1343579909,
-    "wof:lastmodified":1537068392,
+    "wof:lastmodified":1564149897,
     "wof:name":"Kosho",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Twango"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1276134223,
-    "wof:lastmodified":1537043562,
+    "wof:lastmodified":1564150120,
     "wof:name":"Twango",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

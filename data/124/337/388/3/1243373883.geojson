@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e4"
+    ],
+    "name:lav_x_preferred":[
+        "Bops"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243373883,
-    "wof:lastmodified":1536910471,
+    "wof:lastmodified":1564150517,
     "wof:name":"Bop",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

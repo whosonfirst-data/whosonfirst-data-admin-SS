@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Terkaka"
     ],
+    "name:nld_x_preferred":[
+        "Terekeka"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091916075,
-    "wof:lastmodified":1553717986,
+    "wof:lastmodified":1564150470,
     "wof:name":"Terekeka",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

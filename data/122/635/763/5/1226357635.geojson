@@ -25,6 +25,48 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pakol"
+    ],
+    "name:epo_x_preferred":[
+        "Pakol"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06a9\u0648\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Pakul"
+    ],
+    "name:fra_x_preferred":[
+        "Pakol"
+    ],
+    "name:ita_x_preferred":[
+        "Pakol"
+    ],
+    "name:lat_x_preferred":[
+        "Pakol"
+    ],
+    "name:lit_x_preferred":[
+        "Pakolis"
+    ],
+    "name:pol_x_preferred":[
+        "Pakol"
+    ],
+    "name:pus_x_preferred":[
+        "\u067e\u06a9\u0648\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:spa_x_preferred":[
+        "Pakul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043a\u043e\u043b\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06a9\u0648\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +90,7 @@
         }
     ],
     "wof:id":1226357635,
-    "wof:lastmodified":1536772917,
+    "wof:lastmodified":1564150735,
     "wof:name":"Pakol",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

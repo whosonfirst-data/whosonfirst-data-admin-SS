@@ -25,6 +25,24 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Turkul"
+    ],
+    "name:deu_x_preferred":[
+        "Turkul"
+    ],
+    "name:pol_x_preferred":[
+        "Turku\u0142"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u0443\u043b"
+    ],
+    "name:slk_x_preferred":[
+        "Turkul"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0440\u043a\u0443\u043b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1343868647,
-    "wof:lastmodified":1536654706,
+    "wof:lastmodified":1564149947,
     "wof:name":"Turkul",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

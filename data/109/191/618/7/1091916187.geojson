@@ -31,10 +31,31 @@
     "mps:longitude":27.312577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Wau"
+    ],
+    "name:deu_x_preferred":[
+        "Wau"
+    ],
     "name:eng_x_preferred":[
         "Wau"
     ],
     "name:eng_x_variant":[
+        "Wau"
+    ],
+    "name:fin_x_preferred":[
+        "Wau"
+    ],
+    "name:fra_x_preferred":[
+        "Wau"
+    ],
+    "name:nld_x_preferred":[
+        "Wau"
+    ],
+    "name:pol_x_preferred":[
+        "Wau"
+    ],
+    "name:swe_x_preferred":[
         "Wau"
     ],
     "src:geom":"meso",
@@ -72,7 +93,7 @@
         }
     ],
     "wof:id":1091916187,
-    "wof:lastmodified":1553717986,
+    "wof:lastmodified":1564150456,
     "wof:name":"Wau",
     "wof:parent_id":85676971,
     "wof:placetype":"county",

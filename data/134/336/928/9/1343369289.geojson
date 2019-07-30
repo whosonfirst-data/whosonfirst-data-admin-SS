@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nzara"
+    ],
+    "name:pol_x_preferred":[
+        "Nzara"
+    ],
+    "name:ron_x_preferred":[
+        "Nzara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0437\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1343369289,
-    "wof:lastmodified":1537573762,
+    "wof:lastmodified":1564149845,
     "wof:name":"Nzara",
     "wof:parent_id":1091914537,
     "wof:placetype":"locality",

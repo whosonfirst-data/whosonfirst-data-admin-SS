@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Doleib Hill"
+    ],
     "name:und_x_variant":[
         "Tatuga",
         "Doleib Hill",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1309814015,
-    "wof:lastmodified":1537701404,
+    "wof:lastmodified":1564150492,
     "wof:name":"Doleib Hill",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

@@ -37,6 +37,15 @@
     "name:eng_x_variant":[
         "Malut"
     ],
+    "name:pol_x_preferred":[
+        "Melut"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u043b\u0443\u0442"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fc8\u5362\u7279"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1091913689,
-    "wof:lastmodified":1553717981,
+    "wof:lastmodified":1564150463,
     "wof:name":"Melut",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

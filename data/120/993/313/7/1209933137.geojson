@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:als_x_preferred":[
+        "Ueli"
+    ],
+    "name:deu_x_preferred":[
+        "Ueli"
+    ],
+    "name:nor_x_preferred":[
+        "Ueli"
+    ],
     "name:und_x_variant":[
         "Woli",
         "Ueli"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1209933137,
-    "wof:lastmodified":1537701383,
+    "wof:lastmodified":1564150235,
     "wof:name":"Ueli",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

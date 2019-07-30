@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Terekeka"
     ],
+    "name:nld_x_preferred":[
+        "Terekeka"
+    ],
     "name:und_x_variant":[
         "Tarakaka",
         "Terrakekka",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226278615,
-    "wof:lastmodified":1537701385,
+    "wof:lastmodified":1564150725,
     "wof:name":"Terekeka",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

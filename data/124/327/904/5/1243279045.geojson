@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mugi"
+    ],
+    "name:ind_x_preferred":[
+        "Mugi"
+    ],
+    "name:swe_x_preferred":[
+        "Mugi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243279045,
-    "wof:lastmodified":1537044896,
+    "wof:lastmodified":1564150616,
     "wof:name":"Mugi",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

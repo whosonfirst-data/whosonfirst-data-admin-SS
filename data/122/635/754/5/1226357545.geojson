@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Rubkona"
+    ],
+    "name:por_x_preferred":[
+        "Rubkona"
+    ],
+    "name:spa_x_preferred":[
+        "Rukbona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226357545,
-    "wof:lastmodified":1536773054,
+    "wof:lastmodified":1564150736,
     "wof:name":"Rubkona",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

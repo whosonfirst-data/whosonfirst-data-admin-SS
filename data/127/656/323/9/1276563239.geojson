@@ -25,6 +25,27 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kareng"
+    ],
+    "name:ita_x_preferred":[
+        "Kareng"
+    ],
+    "name:mlg_x_preferred":[
+        "Kareng"
+    ],
+    "name:nld_x_preferred":[
+        "Kareng"
+    ],
+    "name:pol_x_preferred":[
+        "Kareng"
+    ],
+    "name:swa_x_preferred":[
+        "Kareng"
+    ],
+    "name:swe_x_preferred":[
+        "Kareng"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276563239,
-    "wof:lastmodified":1536967708,
+    "wof:lastmodified":1564150098,
     "wof:name":"Kareng",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

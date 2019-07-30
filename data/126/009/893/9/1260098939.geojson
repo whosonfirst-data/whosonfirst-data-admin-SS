@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dimo"
+    ],
+    "name:deu_x_preferred":[
+        "Dimo"
+    ],
+    "name:fra_x_preferred":[
+        "Dimo"
+    ],
+    "name:ita_x_preferred":[
+        "Dimo"
+    ],
+    "name:swe_x_preferred":[
+        "Dimo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1260098939,
-    "wof:lastmodified":1537573764,
+    "wof:lastmodified":1564150301,
     "wof:name":"Dimo",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

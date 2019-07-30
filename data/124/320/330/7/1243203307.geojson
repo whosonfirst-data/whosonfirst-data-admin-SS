@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ayod"
+    ],
+    "name:por_x_preferred":[
+        "Ayod"
+    ],
     "name:und_x_variant":[
         "Duk Ayod",
         "Duk Yod",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243203307,
-    "wof:lastmodified":1537701408,
+    "wof:lastmodified":1564150606,
     "wof:name":"Ayod",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

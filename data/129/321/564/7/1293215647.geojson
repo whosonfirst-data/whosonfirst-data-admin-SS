@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gair"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293215647,
-    "wof:lastmodified":1536681804,
+    "wof:lastmodified":1564150058,
     "wof:name":"Gair",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

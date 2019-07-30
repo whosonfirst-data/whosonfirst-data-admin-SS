@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Niewypa\u0142"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243279105,
-    "wof:lastmodified":1537044810,
+    "wof:lastmodified":1564150619,
     "wof:name":"Dud",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

@@ -25,6 +25,174 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Omdoerman"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062f\u0631\u0645\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645 \u062f\u0631\u0645\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Omdurm\u00e1n"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0645 \u062f\u0631\u0645\u0627\u0646"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u043c\u0434\u0443\u0440\u043c\u0430\u043d"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u043c\u0434\u0443\u0440\u043c\u0430\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Omdurman"
+    ],
+    "name:ceb_x_preferred":[
+        "Omdurman"
+    ],
+    "name:ces_x_preferred":[
+        "Omdurm\u00e1n"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u043c\u0434\u0443\u0440\u043c\u0430\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Omdurman"
+    ],
+    "name:deu_x_preferred":[
+        "Omdurman"
+    ],
+    "name:epo_x_preferred":[
+        "Omdurman"
+    ],
+    "name:est_x_preferred":[
+        "Umm Durm\u0101n"
+    ],
+    "name:eus_x_preferred":[
+        "Omdurman"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u062f\u0631\u0645\u0627\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Omdurman"
+    ],
+    "name:fra_x_preferred":[
+        "Omdourman"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05de\u05d3\u05d5\u05e8\u05de\u05d0\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Omdurman"
+    ],
+    "name:hun_x_preferred":[
+        "Omdurm\u00e1n"
+    ],
+    "name:ile_x_preferred":[
+        "Omdurman"
+    ],
+    "name:ind_x_preferred":[
+        "Omdurman"
+    ],
+    "name:ita_x_preferred":[
+        "Omdurman"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30e0\u30c9\u30a5\u30eb\u30de\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dd\u10db\u10d3\u10e3\u10e0\u10db\u10d0\u10dc\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041e\u043c\u0434\u0443\u0440\u043c\u0430\u043d \u049b\u0430\u043b\u0430\u0441\u044b"
+    ],
+    "name:kir_x_preferred":[
+        "\u041e\u043c\u0434\u0443\u0440\u043c\u0430\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uc634\ub450\ub974\ub9cc"
+    ],
+    "name:lav_x_preferred":[
+        "Omdurm\u0101na"
+    ],
+    "name:lit_x_preferred":[
+        "Omdurmanas"
+    ],
+    "name:lmo_x_preferred":[
+        "Omdurman"
+    ],
+    "name:nld_x_preferred":[
+        "Omdurman"
+    ],
+    "name:nor_x_preferred":[
+        "Omdurman"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a05\u0a2e \u0a26\u0a30\u0a2e\u0a3e\u0a28"
+    ],
+    "name:pms_x_preferred":[
+        "Omdurman"
+    ],
+    "name:pol_x_preferred":[
+        "Omdurman"
+    ],
+    "name:por_x_preferred":[
+        "Ondurm\u00e3"
+    ],
+    "name:ron_x_preferred":[
+        "Omdurman"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u0434\u0443\u0440\u043c\u0430\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Omdurman"
+    ],
+    "name:slk_x_preferred":[
+        "Umm Durm\u00e1n"
+    ],
+    "name:som_x_preferred":[
+        "Omdurman"
+    ],
+    "name:spa_x_preferred":[
+        "Omdurm\u00e1n"
+    ],
+    "name:srp_x_preferred":[
+        "\u041e\u043c\u0434\u0443\u0440\u043c\u0430\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Omdurman"
+    ],
+    "name:swe_x_preferred":[
+        "Omdurman"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e2d\u0e21\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e21\u0e32\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Omdurman"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043c\u0434\u0443\u0440\u043c\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645 \u062f\u0631\u0645\u0627\u0646"
+    ],
+    "name:uzb_x_preferred":[
+        "Omdurman"
+    ],
+    "name:vie_x_preferred":[
+        "Omdurman"
+    ],
+    "name:war_x_preferred":[
+        "Omdurman"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u56fe\u66fc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +216,7 @@
         }
     ],
     "wof:id":1226258135,
-    "wof:lastmodified":1536916194,
+    "wof:lastmodified":1564150758,
     "wof:name":"Omdurman",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

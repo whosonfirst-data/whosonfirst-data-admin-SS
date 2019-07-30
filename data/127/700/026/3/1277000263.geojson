@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lafon"
+    ],
+    "name:por_x_preferred":[
+        "Lafon"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0641\u0648\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1277000263,
-    "wof:lastmodified":1537573763,
+    "wof:lastmodified":1564150073,
     "wof:name":"Lafon",
     "wof:parent_id":1091915633,
     "wof:placetype":"locality",

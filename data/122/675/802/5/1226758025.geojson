@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mun"
+    ],
+    "name:deu_x_preferred":[
+        "Mun"
+    ],
+    "name:fra_x_preferred":[
+        "Mun"
+    ],
+    "name:nld_x_preferred":[
+        "Mun"
+    ],
+    "name:pol_x_preferred":[
+        "Mun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u043d"
+    ],
+    "name:srn_x_preferred":[
+        "Mun"
+    ],
+    "name:tpi_x_preferred":[
+        "Mun"
+    ],
+    "name:vol_x_preferred":[
+        "Mun"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1226758025,
-    "wof:lastmodified":1536698027,
+    "wof:lastmodified":1564150714,
     "wof:name":"Mun",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

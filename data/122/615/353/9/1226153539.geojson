@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05d9\u05e8"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1226153539,
-    "wof:lastmodified":1537063550,
+    "wof:lastmodified":1564150767,
     "wof:name":"Adir",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

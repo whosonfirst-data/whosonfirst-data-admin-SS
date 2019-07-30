@@ -31,11 +31,44 @@
     "mps:longitude":29.771967,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u064a\u062f\u064a"
+    ],
+    "name:ceb_x_preferred":[
+        "Mar\u012bdi"
+    ],
+    "name:deu_x_preferred":[
+        "Maridi"
+    ],
     "name:eng_x_preferred":[
         "Maridi"
     ],
     "name:eng_x_variant":[
         "Meridi"
+    ],
+    "name:fra_x_preferred":[
+        "Maridi"
+    ],
+    "name:ita_x_preferred":[
+        "Maridi"
+    ],
+    "name:pol_x_preferred":[
+        "Maridi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0434\u0438"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0434\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Mar\u012bdi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0438\u0434\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u91cc\u8fea"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +105,7 @@
         }
     ],
     "wof:id":1091914455,
-    "wof:lastmodified":1553717982,
+    "wof:lastmodified":1564150468,
     "wof:name":"Maridi",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

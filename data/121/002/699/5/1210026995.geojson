@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nong"
+    ],
+    "name:swe_x_preferred":[
+        "Nong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1210026995,
-    "wof:lastmodified":1536390276,
+    "wof:lastmodified":1564150275,
     "wof:name":"Nong",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

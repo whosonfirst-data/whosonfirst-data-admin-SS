@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Paru"
+    ],
+    "name:fra_x_preferred":[
+        "Paru"
+    ],
+    "name:scn_x_preferred":[
+        "Paru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1276243651,
-    "wof:lastmodified":1536898744,
+    "wof:lastmodified":1564150133,
     "wof:name":"Paru",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

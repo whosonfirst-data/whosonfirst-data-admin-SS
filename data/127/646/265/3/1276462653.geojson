@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Ime"
+    ],
+    "name:nor_x_preferred":[
+        "Ime"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1276462653,
-    "wof:lastmodified":1536602337,
+    "wof:lastmodified":1564150147,
     "wof:name":"Ime",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

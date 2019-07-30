@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Biem"
+    ],
+    "name:fra_x_preferred":[
+        "Biem"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1310424413,
-    "wof:lastmodified":1537573764,
+    "wof:lastmodified":1564150369,
     "wof:name":"Biem",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

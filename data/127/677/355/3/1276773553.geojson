@@ -25,6 +25,39 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Auweyida"
+    ],
+    "name:deu_x_preferred":[
+        "Auweyida"
+    ],
+    "name:est_x_preferred":[
+        "Auweyida"
+    ],
+    "name:fra_x_preferred":[
+        "Auweyida"
+    ],
+    "name:glg_x_preferred":[
+        "Aweida"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d5\u10d4\u10d8\u10d3\u10d0"
+    ],
+    "name:nld_x_preferred":[
+        "Auweyida"
+    ],
+    "name:nor_x_preferred":[
+        "Auweyida"
+    ],
+    "name:pol_x_preferred":[
+        "Aweida"
+    ],
+    "name:por_x_preferred":[
+        "Aweida"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e23\u0e30\u0e40\u0e08\u0e49\u0e32\u0e42\u0e2d\u0e40\u0e27\u0e2d\u0e35\u0e14\u0e32\u0e41\u0e2b\u0e48\u0e07\u0e19\u0e32\u0e2d\u0e39\u0e23\u0e39"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +81,7 @@
         }
     ],
     "wof:id":1276773553,
-    "wof:lastmodified":1536685873,
+    "wof:lastmodified":1564150148,
     "wof:name":"Aweida",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

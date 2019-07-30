@@ -25,6 +25,33 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Kariba"
+    ],
+    "name:ceb_x_preferred":[
+        "Kariba"
+    ],
+    "name:eus_x_preferred":[
+        "Kariba"
+    ],
+    "name:ita_x_preferred":[
+        "Kariba"
+    ],
+    "name:nor_x_preferred":[
+        "Kariba"
+    ],
+    "name:pol_x_preferred":[
+        "Kariba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0438\u0431\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Kariba"
+    ],
+    "name:tur_x_preferred":[
+        "Kariba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1210035089,
-    "wof:lastmodified":1536386846,
+    "wof:lastmodified":1564150270,
     "wof:name":"Kariba",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

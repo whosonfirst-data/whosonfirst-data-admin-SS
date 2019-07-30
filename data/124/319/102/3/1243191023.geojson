@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Both"
+    ],
+    "name:fra_x_preferred":[
+        "Both"
+    ],
+    "name:nld_x_preferred":[
+        "Both"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1243191023,
-    "wof:lastmodified":1536676782,
+    "wof:lastmodified":1564150622,
     "wof:name":"Both",
     "wof:parent_id":1091913653,
     "wof:placetype":"locality",

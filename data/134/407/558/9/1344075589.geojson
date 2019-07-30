@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1344075589,
-    "wof:lastmodified":1536852652,
+    "wof:lastmodified":1564149867,
     "wof:name":"Wira",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

@@ -25,6 +25,21 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lair"
+    ],
+    "name:deu_x_preferred":[
+        "Lair"
+    ],
+    "name:fin_x_preferred":[
+        "Lair"
+    ],
+    "name:fra_x_preferred":[
+        "Lair"
+    ],
+    "name:swe_x_preferred":[
+        "Lair"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +63,7 @@
         }
     ],
     "wof:id":1293506003,
-    "wof:lastmodified":1536760549,
+    "wof:lastmodified":1564150011,
     "wof:name":"Lair",
     "wof:parent_id":1091915101,
     "wof:placetype":"locality",

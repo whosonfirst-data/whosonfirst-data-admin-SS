@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toi"
+    ],
+    "name:fra_x_preferred":[
+        "Toi"
+    ],
+    "name:nld_x_preferred":[
+        "Toi"
+    ],
+    "name:swe_x_preferred":[
+        "Toi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1310611677,
-    "wof:lastmodified":1536764026,
+    "wof:lastmodified":1564150393,
     "wof:name":"Toi",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

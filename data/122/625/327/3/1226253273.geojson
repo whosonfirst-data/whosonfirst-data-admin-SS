@@ -25,6 +25,24 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0627\u062f\u0627\u062f\u0648"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0434\u0430\u0434\u043e"
+    ],
+    "name:som_x_preferred":[
+        "Cadaado"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0434\u0430\u0434\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u062f\u0627\u062f\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8fbe\u591a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1226253273,
-    "wof:lastmodified":1536923391,
+    "wof:lastmodified":1564150759,
     "wof:name":"Adado",
     "wof:parent_id":1091915845,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Madal"
+    ],
+    "name:nep_x_preferred":[
+        "\u092e\u093e\u0926\u0932"
+    ],
+    "name:spa_x_preferred":[
+        "Madal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1309727185,
-    "wof:lastmodified":1537042587,
+    "wof:lastmodified":1564150501,
     "wof:name":"Madal",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

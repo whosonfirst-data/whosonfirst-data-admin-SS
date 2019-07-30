@@ -25,6 +25,51 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bak_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Molau"
+    ],
+    "name:deu_x_preferred":[
+        "Molau"
+    ],
+    "name:epo_x_preferred":[
+        "Molau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0644\u0627\u0648"
+    ],
+    "name:ita_x_preferred":[
+        "Molau"
+    ],
+    "name:kaz_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0443"
+    ],
+    "name:kir_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0443"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Molau"
+    ],
+    "name:ron_x_preferred":[
+        "Molau"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u043b\u0430\u0443"
+    ],
+    "name:uzb_x_preferred":[
+        "Molau"
+    ],
+    "name:vie_x_preferred":[
+        "Molau"
+    ],
+    "name:vol_x_preferred":[
+        "Molau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +93,7 @@
         }
     ],
     "wof:id":1209932905,
-    "wof:lastmodified":1536391933,
+    "wof:lastmodified":1564150237,
     "wof:name":"Molau",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

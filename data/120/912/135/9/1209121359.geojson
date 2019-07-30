@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a4\u30b0"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uadf8"
+    ],
+    "name:pol_x_preferred":[
+        "Yig"
+    ],
+    "name:swe_x_preferred":[
+        "Yig"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +46,7 @@
         "gn:id":8374760
     },
     "wof:country":"SS",
-    "wof:geomhash":"4f4befc0f742428ed27e6564c610316f",
+    "wof:geomhash":"ddeb098700590ee7f5789e72fe3ee9ef",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209121359,
-    "wof:lastmodified":1536297087,
+    "wof:lastmodified":1564150203,
     "wof:name":"Yig",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -52,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.636540000000004,
+    32.63654,
     8.31728,
-    32.636540000000004,
+    32.63654,
     8.31728
 ],
   "geometry": {"coordinates":[32.63654,8.31728],"type":"Point"}

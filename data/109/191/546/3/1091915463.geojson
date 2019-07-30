@@ -38,6 +38,12 @@
         "Fam Al Zaraf",
         "Fam al Zaraf"
     ],
+    "name:fra_x_preferred":[
+        "Fangak"
+    ],
+    "name:pol_x_preferred":[
+        "Fangak"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1091915463,
-    "wof:lastmodified":1553717984,
+    "wof:lastmodified":1564150472,
     "wof:name":"Fangak",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

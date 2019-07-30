@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ying"
+    ],
+    "name:fra_x_preferred":[
+        "Ying"
+    ],
+    "name:nor_x_preferred":[
+        "Ying"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1226661143,
-    "wof:lastmodified":1536836149,
+    "wof:lastmodified":1564150746,
     "wof:name":"Ying",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

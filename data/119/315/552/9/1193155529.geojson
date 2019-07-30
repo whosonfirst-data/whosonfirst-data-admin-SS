@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Odio"
+    ],
+    "name:ita_x_preferred":[
+        "Odio"
+    ],
+    "name:scn_x_preferred":[
+        "Odio"
+    ],
+    "name:spa_x_preferred":[
+        "Odio"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1193155529,
-    "wof:lastmodified":1536373646,
+    "wof:lastmodified":1564150280,
     "wof:name":"Odio",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

@@ -25,6 +25,108 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u067e\u06cc"
+    ],
+    "name:bcl_x_preferred":[
+        "Ripi"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0438\u043f\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Ripi"
+    ],
+    "name:deu_x_preferred":[
+        "Ripi"
+    ],
+    "name:epo_x_preferred":[
+        "Ripi"
+    ],
+    "name:eus_x_preferred":[
+        "Ripi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u06cc\u067e\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Ripi"
+    ],
+    "name:hun_x_preferred":[
+        "Ripi"
+    ],
+    "name:hye_x_preferred":[
+        "\u054c\u056b\u0583\u056b"
+    ],
+    "name:ina_x_preferred":[
+        "Ripi"
+    ],
+    "name:ita_x_preferred":[
+        "Ripi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30fc\u30d4"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0420\u0438\u043f\u0438"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ud53c"
+    ],
+    "name:lat_x_preferred":[
+        "Castrum Ripae"
+    ],
+    "name:lmo_x_preferred":[
+        "Ripi"
+    ],
+    "name:msa_x_preferred":[
+        "Ripi"
+    ],
+    "name:nap_x_preferred":[
+        "Ripi"
+    ],
+    "name:nld_x_preferred":[
+        "Ripi"
+    ],
+    "name:pms_x_preferred":[
+        "Ripi"
+    ],
+    "name:pol_x_preferred":[
+        "Ripi"
+    ],
+    "name:por_x_preferred":[
+        "Ripi"
+    ],
+    "name:ron_x_preferred":[
+        "Ripi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0438\u043f\u0438"
+    ],
+    "name:scn_x_preferred":[
+        "Ripi"
+    ],
+    "name:spa_x_preferred":[
+        "Ripi"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0438\u043f\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0438\u043f\u0456"
+    ],
+    "name:uzb_x_preferred":[
+        "Ripi"
+    ],
+    "name:vie_x_preferred":[
+        "Ripi"
+    ],
+    "name:vol_x_preferred":[
+        "Ripi"
+    ],
+    "name:war_x_preferred":[
+        "Ripi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +150,7 @@
         }
     ],
     "wof:id":1310416471,
-    "wof:lastmodified":1537043574,
+    "wof:lastmodified":1564150338,
     "wof:name":"Ripi",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

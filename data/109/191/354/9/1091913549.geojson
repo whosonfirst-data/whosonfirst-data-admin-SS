@@ -37,6 +37,12 @@
     "name:eng_x_variant":[
         "Ayod"
     ],
+    "name:fra_x_preferred":[
+        "Ayod"
+    ],
+    "name:por_x_preferred":[
+        "Ayod"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091913549,
-    "wof:lastmodified":1553717980,
+    "wof:lastmodified":1564150453,
     "wof:name":"Ayod",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

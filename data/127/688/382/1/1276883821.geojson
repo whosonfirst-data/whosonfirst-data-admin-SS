@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gow"
+    ],
+    "name:fra_x_preferred":[
+        "Gow"
+    ],
+    "name:swe_x_preferred":[
+        "Gow"
+    ],
+    "name:tur_x_preferred":[
+        "Gow"
+    ],
     "name:und_x_variant":[
         "Gaw",
         "Gow"
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1276883821,
-    "wof:lastmodified":1537701401,
+    "wof:lastmodified":1564150076,
     "wof:name":"Gow",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

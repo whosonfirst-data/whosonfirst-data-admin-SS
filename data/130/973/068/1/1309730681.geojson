@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Tiiran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1309730681,
-    "wof:lastmodified":1537037750,
+    "wof:lastmodified":1564150490,
     "wof:name":"Thiran",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

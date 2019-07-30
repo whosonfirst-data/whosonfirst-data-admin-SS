@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:diq_x_preferred":[
+        "Tembur"
+    ],
+    "name:tur_x_preferred":[
+        "Tambur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1259401539,
-    "wof:lastmodified":1536975874,
+    "wof:lastmodified":1564150654,
     "wof:name":"Tambur",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

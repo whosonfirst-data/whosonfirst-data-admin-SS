@@ -31,11 +31,17 @@
     "mps:longitude":32.577377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Manyo"
+    ],
     "name:eng_x_preferred":[
         "Manyo"
     ],
     "name:eng_x_variant":[
         "Fashooda"
+    ],
+    "name:swe_x_preferred":[
+        "Manyo"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1091914927,
-    "wof:lastmodified":1553717982,
+    "wof:lastmodified":1564150470,
     "wof:name":"Manyo",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

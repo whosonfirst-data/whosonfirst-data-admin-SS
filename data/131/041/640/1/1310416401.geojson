@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Willa"
+    ],
+    "name:ita_x_preferred":[
+        "Willa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1310416401,
-    "wof:lastmodified":1537043672,
+    "wof:lastmodified":1564150338,
     "wof:name":"Willa",
     "wof:parent_id":1091915879,
     "wof:placetype":"locality",

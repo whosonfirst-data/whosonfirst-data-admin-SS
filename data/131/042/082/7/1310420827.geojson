@@ -25,6 +25,9 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Lekki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1310420827,
-    "wof:lastmodified":1537037456,
+    "wof:lastmodified":1564150369,
     "wof:name":"Lekki",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

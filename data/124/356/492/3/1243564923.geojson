@@ -25,6 +25,12 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Atara"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1243564923,
-    "wof:lastmodified":1536633315,
+    "wof:lastmodified":1564150580,
     "wof:name":"Atara",
     "wof:parent_id":1091913653,
     "wof:placetype":"locality",

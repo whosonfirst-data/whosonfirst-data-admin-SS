@@ -25,6 +25,18 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matong"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u062a\u0648\u0646\u06af"
+    ],
+    "name:fra_x_preferred":[
+        "Matong"
+    ],
+    "name:swe_x_preferred":[
+        "Matong"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209430007,
-    "wof:lastmodified":1536287263,
+    "wof:lastmodified":1564150257,
     "wof:name":"Matong",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

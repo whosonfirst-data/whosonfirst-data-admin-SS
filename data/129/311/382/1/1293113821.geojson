@@ -25,6 +25,15 @@
     "iso:country":"SS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Lado"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u0434\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0688\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1293113821,
-    "wof:lastmodified":1537573763,
+    "wof:lastmodified":1564150036,
     "wof:name":"Lado",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",
