@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WE"
+    ],
     "lbl:latitude":5.338016,
     "lbl:longitude":28.282783,
     "mps:latitude":5.550982,
@@ -307,16 +310,13 @@
         }
     ],
     "wof:id":85676945,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563290509,
+    "wof:lastmodified":1565736723,
     "wof:name":"West Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

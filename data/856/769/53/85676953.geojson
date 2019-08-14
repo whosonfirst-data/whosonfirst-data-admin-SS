@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UN"
+    ],
     "lbl:latitude":9.90197,
     "lbl:longitude":32.829602,
     "mps:latitude":9.863579,
@@ -308,16 +311,13 @@
         }
     ],
     "wof:id":85676953,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563290512,
+    "wof:lastmodified":1565736724,
     "wof:name":"Upper Nile",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

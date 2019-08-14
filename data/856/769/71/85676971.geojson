@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WB"
+    ],
     "lbl:latitude":8.963018,
     "lbl:longitude":25.284285,
     "mps:latitude":8.765153,
@@ -315,16 +318,13 @@
         }
     ],
     "wof:id":85676971,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563290515,
+    "wof:lastmodified":1565736724,
     "wof:name":"West Bahr-al-Ghazal",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

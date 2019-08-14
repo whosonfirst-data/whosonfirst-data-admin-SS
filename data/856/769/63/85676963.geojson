@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WH"
+    ],
     "lbl:latitude":9.166428,
     "lbl:longitude":29.694156,
     "mps:latitude":9.201996,
@@ -311,16 +314,13 @@
         }
     ],
     "wof:id":85676963,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563290514,
+    "wof:lastmodified":1565736724,
     "wof:name":"Unity",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

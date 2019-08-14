@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JG"
+    ],
     "lbl:latitude":6.999575,
     "lbl:longitude":32.332747,
     "mps:latitude":7.124331,
@@ -306,16 +309,13 @@
         }
     ],
     "wof:id":85676957,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563290507,
+    "wof:lastmodified":1565736722,
     "wof:name":"Jungoli",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

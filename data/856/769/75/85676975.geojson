@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "EE"
+    ],
     "lbl:latitude":4.906416,
     "lbl:longitude":33.204593,
     "mps:latitude":4.977788,
@@ -317,16 +320,13 @@
         }
     ],
     "wof:id":85676975,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563290510,
+    "wof:lastmodified":1565736723,
     "wof:name":"East Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
