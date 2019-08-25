@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.99503,10.04711,30.03503,10.08711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u0101mil"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243473019,
-    "wof:lastmodified":1537701398,
+    "wof:lastmodified":1566650468,
     "wof:name":"Kamel",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

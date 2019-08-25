@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.37821,6.93901,30.41821,6.97901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327442043,
-    "wof:lastmodified":1536666826,
+    "wof:lastmodified":1566649970,
     "wof:name":"Pul Gor",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

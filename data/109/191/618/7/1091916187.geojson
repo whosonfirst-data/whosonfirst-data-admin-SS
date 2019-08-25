@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.303674,
     "lbl:longitude":27.312577,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Bahr el Ghazal",
     "meso:diss_me":"WauWestern Bahr el Ghazal",
     "meso:gadm_admin":"Wau",
@@ -31,6 +33,7 @@
     "mps:longitude":27.312577,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Wau"
     ],
@@ -59,9 +62,9 @@
         "Wau"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -93,7 +96,7 @@
         }
     ],
     "wof:id":1091916187,
-    "wof:lastmodified":1564150456,
+    "wof:lastmodified":1566650394,
     "wof:name":"Wau",
     "wof:parent_id":85676971,
     "wof:placetype":"county",

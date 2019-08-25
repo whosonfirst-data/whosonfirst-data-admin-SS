@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.274436,
     "lbl:longitude":30.994171,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jonglei",
     "meso:diss_me":"AyodJonglei",
     "meso:gadm_admin":"Ayod",
@@ -31,6 +33,7 @@
     "mps:longitude":30.994171,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ayod"
     ],
@@ -44,9 +47,9 @@
         "Ayod"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1091913549,
-    "wof:lastmodified":1564150453,
+    "wof:lastmodified":1566650390,
     "wof:name":"Ayod",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

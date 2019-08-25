@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"25.0542,10.20074,25.0942,10.24074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28ujayrat al Kha\u1e11r\u0101\u2019"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243187449,
-    "wof:lastmodified":1537701400,
+    "wof:lastmodified":1566650496,
     "wof:name":"Hugeirat el Khadra",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

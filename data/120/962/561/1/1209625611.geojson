@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.26089,9.09984,28.30089,9.13984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":372108
     },
     "wof:country":"SS",
-    "wof:geomhash":"bf96f494e3216d172c9cdf3c6676ded5",
+    "wof:geomhash":"a950f971a7726d7eb7ae9f9c7efad150",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209625611,
-    "wof:lastmodified":1536281364,
+    "wof:lastmodified":1566650207,
     "wof:name":"Korum",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.280890000000007,
+    28.28089000000001,
     9.11984,
-    28.280890000000007,
+    28.28089000000001,
     9.11984
 ],
   "geometry": {"coordinates":[28.28089000000001,9.11984],"type":"Point"}

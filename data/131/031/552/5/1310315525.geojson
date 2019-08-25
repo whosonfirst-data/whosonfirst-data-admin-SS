@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.33858,5.19465,30.37858,5.23465",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Bari"
     ],
@@ -354,7 +358,7 @@
         }
     ],
     "wof:id":1310315525,
-    "wof:lastmodified":1564150360,
+    "wof:lastmodified":1566650327,
     "wof:name":"Bari",
     "wof:parent_id":1091913781,
     "wof:placetype":"locality",

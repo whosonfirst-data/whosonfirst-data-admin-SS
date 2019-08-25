@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.64857,5.33928,29.68857,5.37928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1326640271,
-    "wof:lastmodified":1536827179,
+    "wof:lastmodified":1566649961,
     "wof:name":"Vuya",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

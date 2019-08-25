@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.56317,5.24667,30.60317,5.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0434\u0438"
     ],
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":1260098831,
-    "wof:lastmodified":1564150304,
+    "wof:lastmodified":1566650291,
     "wof:name":"Mudi",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

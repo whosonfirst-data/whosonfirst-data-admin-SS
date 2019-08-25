@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":7.170803,
     "lbl:longitude":30.109512,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.170803,
     "mps:longitude":30.109512,
     "mz:hierarchy_label":1,
@@ -721,7 +723,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "statoids:dial":"211",
     "statoids:ds":"",
@@ -757,7 +759,7 @@
         "marc:id":"sd",
         "mzb:id":"south-sudan",
         "ne:adm0_a3":"SDS",
-        "qs:id":744530,
+        "qs_pg:id":744530,
         "wd:id":"Q958",
         "wk:page":"South Sudan"
     },
@@ -777,7 +779,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736725,
+    "wof:lastmodified":1566650058,
     "wof:name":"South Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

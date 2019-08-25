@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"26.82837,9.08242,26.86837,9.12242",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Maryal Bay",
         "Maryal Bai"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343473819,
-    "wof:lastmodified":1537701393,
+    "wof:lastmodified":1566650010,
     "wof:name":"Maryal Bai",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

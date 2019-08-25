@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.01789,8.58595,30.05789,8.62595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gair"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293215647,
-    "wof:lastmodified":1564150058,
+    "wof:lastmodified":1566650131,
     "wof:name":"Gair",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

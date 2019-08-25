@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.2425,7.77138,28.2825,7.81138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Moyen"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1276458809,
-    "wof:lastmodified":1564150081,
+    "wof:lastmodified":1566650146,
     "wof:name":"Moyen",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

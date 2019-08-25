@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.03937,8.53178,30.07937,8.57178",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u043e\u043b"
     ],
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":1210031377,
-    "wof:lastmodified":1564150272,
+    "wof:lastmodified":1566650270,
     "wof:name":"Bol",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":5.578295,
     "lbl:longitude":31.388235,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Central Equatoria",
     "meso:diss_me":"TerekekaCentral Equatoria",
     "meso:gadm_admin":"Terkaka",
@@ -31,6 +33,7 @@
     "mps:longitude":31.388235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Terekeka"
     ],
@@ -41,9 +44,9 @@
         "Terekeka"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1091916075,
-    "wof:lastmodified":1564150470,
+    "wof:lastmodified":1566650407,
     "wof:name":"Terekeka",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

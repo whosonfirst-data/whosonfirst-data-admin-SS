@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.64617,7.78499,28.68617,7.82499",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":372286
     },
     "wof:country":"SS",
-    "wof:geomhash":"5661eeb59871811c899ca4be83e91b31",
+    "wof:geomhash":"fbd997a07b24852df39f547198479687",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209530849,
-    "wof:lastmodified":1536284284,
+    "wof:lastmodified":1566650203,
     "wof:name":"Koieteng",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     28.66617,
-    7.804989999999999,
+    7.80499,
     28.66617,
-    7.804989999999999
+    7.80499
 ],
   "geometry": {"coordinates":[28.66617,7.80499],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.56144,4.92541,31.60144,4.96541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310520229,
-    "wof:lastmodified":1536895434,
+    "wof:lastmodified":1566650330,
     "wof:name":"Ilibari",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

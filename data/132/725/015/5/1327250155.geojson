@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.91949,7.726,27.95949,7.766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shaykh D\u016bd Malang"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327250155,
-    "wof:lastmodified":1537701387,
+    "wof:lastmodified":1566649918,
     "wof:name":"Sheikh Dud Malang",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

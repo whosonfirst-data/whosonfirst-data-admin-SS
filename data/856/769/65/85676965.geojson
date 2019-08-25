@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":8.365993,
     "lbl:longitude":28.719751,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.301144,
     "mps:longitude":28.743444,
     "mz:hierarchy_label":1,
@@ -171,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u0440\u0430\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wil\u0101yat W\u0101r\u0101b"
     ],
     "name:urd_x_preferred":[
@@ -263,9 +264,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"31,027",
     "statoids:area_mi":"11,980",
     "statoids:as_of_date":"2008-04-22",
@@ -290,7 +291,7 @@
         "gp:id":20069898,
         "hasc:id":"SS.WR",
         "iso:id":"SS-WR",
-        "qs:id":1186582,
+        "qs_pg:id":1186582,
         "unlc:id":"SS-WR",
         "wd:id":"Q491138",
         "wk:page":"Warrap (state)"
@@ -311,11 +312,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736723,
+    "wof:lastmodified":1566650055,
     "wof:name":"Warap",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":972928,
     "wof:population_rank":11,

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.55139,4.16889,30.59139,4.20889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Baranga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226664803,
-    "wof:lastmodified":1564150744,
+    "wof:lastmodified":1566650586,
     "wof:name":"Baranga",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

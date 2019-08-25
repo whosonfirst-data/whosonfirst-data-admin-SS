@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":6.888075,
     "lbl:longitude":29.645566,
+    "lbl:min_zoom":8.0,
     "mps:latitude":6.942648,
     "mps:longitude":29.719973,
     "mz:hierarchy_label":1,
@@ -171,9 +172,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u0437\u0435\u0440\u043d\u0438\u0439"
     ],
-    "name:unk_x_variant":[
-        "El Buhayrat"
-    ],
     "name:urd_x_preferred":[
         "\u062c\u06be\u06cc\u0644\u06cc\u06ba"
     ],
@@ -263,9 +261,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"40,235",
     "statoids:area_mi":"15,535",
     "statoids:as_of_date":"2008-04-22",
@@ -290,7 +288,7 @@
         "gp:id":20069896,
         "hasc:id":"SS.EB",
         "iso:id":"SS-LK",
-        "qs:id":1085606,
+        "qs_pg:id":1085606,
         "unlc:id":"SS-LK",
         "wd:id":"Q491096",
         "wk:page":"Lakes (state)"
@@ -311,11 +309,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736724,
+    "wof:lastmodified":1566650056,
     "wof:name":"Lakes",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":695730,
     "wof:population_rank":11,

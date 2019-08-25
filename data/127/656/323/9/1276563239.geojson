@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.17874,7.11285,30.21874,7.15285",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kareng"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276563239,
-    "wof:lastmodified":1564150098,
+    "wof:lastmodified":1566650158,
     "wof:name":"Kareng",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

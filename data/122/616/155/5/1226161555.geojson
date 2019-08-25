@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.25715,8.73279,28.29715,8.77279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226161555,
-    "wof:lastmodified":1537052673,
+    "wof:lastmodified":1566650575,
     "wof:name":"Angwel",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

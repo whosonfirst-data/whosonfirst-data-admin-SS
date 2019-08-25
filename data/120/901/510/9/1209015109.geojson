@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.09094,3.99115,32.13094,4.03115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Fakala"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1209015109,
-    "wof:lastmodified":1564150179,
+    "wof:lastmodified":1566650210,
     "wof:name":"Fakala",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

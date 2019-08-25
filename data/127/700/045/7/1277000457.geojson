@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.51772,3.93352,32.55772,3.97352",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1277000457,
-    "wof:lastmodified":1536878733,
+    "wof:lastmodified":1566650140,
     "wof:name":"Farajok",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

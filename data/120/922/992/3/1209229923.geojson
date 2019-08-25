@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.39852,8.67987,27.43852,8.71987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":371650
     },
     "wof:country":"SS",
-    "wof:geomhash":"d7ba479d58ee64ffc1ada956470b3b48",
+    "wof:geomhash":"e7da942ac511e9a037ea48c5b7f9107f",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209229923,
-    "wof:lastmodified":1536293669,
+    "wof:lastmodified":1566650233,
     "wof:name":"Kyom",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     27.41852,
-    8.699869999999999,
+    8.69987,
     27.41852,
-    8.699869999999999
+    8.69987
 ],
   "geometry": {"coordinates":[27.41852,8.69987],"type":"Point"}
 }

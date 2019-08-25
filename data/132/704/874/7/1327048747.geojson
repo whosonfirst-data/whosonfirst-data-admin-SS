@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.2976,6.85779,30.3376,6.89779",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327048747,
-    "wof:lastmodified":1536736850,
+    "wof:lastmodified":1566649942,
     "wof:name":"Dor Muong",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

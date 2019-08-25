@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.338016,
     "lbl:longitude":28.282783,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.550982,
     "mps:longitude":28.119756,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
         "Western Equatoria"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1    \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0b86"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0b86"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c08\u0c15\u0c4d\u0c35\u0c46\u0c1f\u0c4b\u0c30\u0c3f\u0c2f\u0c3e"
@@ -174,9 +175,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0417\u0430\u0445\u0456\u0434\u043d\u0430 \u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0456\u044f"
-    ],
-    "name:unk_x_variant":[
-        "Equatoria"
     ],
     "name:urd_x_preferred":[
         "\u0645\u063a\u0631\u0628\u06cc \u0627\u0633\u062a\u0648\u0627\u0626\u06cc"
@@ -267,9 +265,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"79,319",
     "statoids:area_mi":"30,625",
     "statoids:as_of_date":"2008-04-22",
@@ -295,7 +293,7 @@
         "gp:id":20069900,
         "hasc:id":"SS.WE",
         "iso:id":"SS-EW",
-        "qs:id":1180243,
+        "qs_pg:id":1180243,
         "unlc:id":"SS-EW",
         "wd:id":"Q319979",
         "wk:page":"Western Equatoria"
@@ -316,11 +314,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736723,
+    "wof:lastmodified":1566650054,
     "wof:name":"West Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":619029,
     "wof:population_rank":11,

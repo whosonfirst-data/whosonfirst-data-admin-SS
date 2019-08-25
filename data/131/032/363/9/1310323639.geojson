@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.38966,8.11125,31.42966,8.15125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310323639,
-    "wof:lastmodified":1536681763,
+    "wof:lastmodified":1566650344,
     "wof:name":"Rual",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.1713,9.14995,28.2113,9.18995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nong"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1210026995,
-    "wof:lastmodified":1564150275,
+    "wof:lastmodified":1566650273,
     "wof:name":"Nong",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.45178,7.13856,29.49178,7.17856",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1292922291,
-    "wof:lastmodified":1536604732,
+    "wof:lastmodified":1566650077,
     "wof:name":"Pankao",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

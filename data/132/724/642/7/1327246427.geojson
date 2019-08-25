@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.8287,5.12365,30.8687,5.16365",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327246427,
-    "wof:lastmodified":1536949482,
+    "wof:lastmodified":1566649929,
     "wof:name":"Verikoka",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

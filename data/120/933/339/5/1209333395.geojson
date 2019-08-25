@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.81068,8.16141,28.85068,8.20141",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":8058900
     },
     "wof:country":"SS",
-    "wof:geomhash":"9f1aa6f1593646eb6246feb45f405af5",
+    "wof:geomhash":"fb73f3cbbba287441024bb3d939d2b11",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209333395,
-    "wof:lastmodified":1536290300,
+    "wof:lastmodified":1566650249,
     "wof:name":"Malwal Tiam",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     28.83068,
-    8.181410000000001,
+    8.18141,
     28.83068,
-    8.181410000000001
+    8.18141
 ],
   "geometry": {"coordinates":[28.83068,8.18141],"type":"Point"}
 }

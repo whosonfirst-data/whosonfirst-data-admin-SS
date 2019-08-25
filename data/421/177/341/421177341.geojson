@@ -10,8 +10,12 @@
     "geom:latitude":6.55097,
     "geom:longitude":30.49758,
     "iso:country":"SS",
+    "lbl:bbox":"30.47758,6.53097,30.51758,6.57097",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u064a\u064a\u0631\u0648\u0644"
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":363594,
         "gp:id":1437611,
-        "qs:id":1175246,
+        "qs_pg:id":1175246,
         "wd:id":"Q3132425",
         "wk:page":"Yirol"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421177341,
-    "wof:lastmodified":1561844809,
+    "wof:lastmodified":1566650430,
     "wof:name":"Yirol",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

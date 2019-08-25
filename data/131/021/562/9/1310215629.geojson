@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.46371,3.93479,30.50371,3.97479",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310215629,
-    "wof:lastmodified":1536836486,
+    "wof:lastmodified":1566650342,
     "wof:name":"Kobwa",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

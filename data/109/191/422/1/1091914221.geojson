@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":7.273252,
     "lbl:longitude":28.737427,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Warrap",
     "meso:diss_me":"Tonj SouthWarrap",
     "meso:gadm_admin":"Tonj",
@@ -31,6 +33,7 @@
     "mps:longitude":28.737427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tonj South"
     ],
@@ -38,9 +41,9 @@
         "Tonj"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091914221,
-    "wof:lastmodified":1553717980,
+    "wof:lastmodified":1566650392,
     "wof:name":"Tonj South",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

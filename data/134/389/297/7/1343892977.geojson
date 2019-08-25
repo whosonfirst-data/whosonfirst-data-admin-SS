@@ -23,8 +23,12 @@
     "gn:population":300000,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.55081,8.99222,27.59081,9.03222",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:und_x_variant":[
         "Wanyjok"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343892977,
-    "wof:lastmodified":1537701382,
+    "wof:lastmodified":1566650044,
     "wof:name":"Winejok",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.77276,3.7493,30.81276,3.7893",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kanga"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1209015083,
-    "wof:lastmodified":1564150180,
+    "wof:lastmodified":1566650211,
     "wof:name":"Kanga",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

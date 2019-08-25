@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.761,9.67103,30.801,9.71103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209014833,
-    "wof:lastmodified":1536300329,
+    "wof:lastmodified":1566650210,
     "wof:name":"Wunkur",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

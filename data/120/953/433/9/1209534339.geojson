@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.09454,9.18412,27.13454,9.22412",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u041c\u0430\u0440\u043e\u043b\u044c-\u0414\u0435\u043d\u0433-\u0413\u0430\u043d\u0433",
         "Marol\u2019 Deng Gang"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209534339,
-    "wof:lastmodified":1537701422,
+    "wof:lastmodified":1566650206,
     "wof:name":"Marol Deng Gang",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

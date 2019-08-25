@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.02201,8.28969,28.06201,8.32969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aka_x_preferred":[
         "Kong"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1276567449,
-    "wof:lastmodified":1564150101,
+    "wof:lastmodified":1566650160,
     "wof:name":"Kong",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

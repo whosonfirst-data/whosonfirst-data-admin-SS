@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.74533,8.15558,28.78533,8.19558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Rin"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1210031503,
-    "wof:lastmodified":1564150268,
+    "wof:lastmodified":1566650268,
     "wof:name":"Rin",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

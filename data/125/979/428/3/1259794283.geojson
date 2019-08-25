@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.27595,10.73617,32.31595,10.77617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kwa al Mango"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259794283,
-    "wof:lastmodified":1537701397,
+    "wof:lastmodified":1566650524,
     "wof:name":"Kwa el Mango",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

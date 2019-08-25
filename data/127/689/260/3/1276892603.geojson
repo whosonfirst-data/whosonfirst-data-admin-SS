@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.06333,3.89667,32.10333,3.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276892603,
-    "wof:lastmodified":1537023066,
+    "wof:lastmodified":1566650152,
     "wof:name":"Tekakomi",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

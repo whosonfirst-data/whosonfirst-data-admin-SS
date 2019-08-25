@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.43971,8.26071,28.47971,8.30071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226656595,
-    "wof:lastmodified":1536842659,
+    "wof:lastmodified":1566650618,
     "wof:name":"Anyen",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

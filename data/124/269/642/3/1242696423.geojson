@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.54985,4.77853,33.58985,4.81853",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242696423,
-    "wof:lastmodified":1536892300,
+    "wof:lastmodified":1566650461,
     "wof:name":"Idong",
     "wof:parent_id":1091913517,
     "wof:placetype":"locality",

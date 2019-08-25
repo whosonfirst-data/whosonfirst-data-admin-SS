@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.48691,8.92463,31.52691,8.96463",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gwong Tut",
         "Gwong Tur",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310223751,
-    "wof:lastmodified":1537701401,
+    "wof:lastmodified":1566650320,
     "wof:name":"Gwung Tur",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

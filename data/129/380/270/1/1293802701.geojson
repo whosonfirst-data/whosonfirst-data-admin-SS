@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.01627,10.03714,30.05627,10.07714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293802701,
-    "wof:lastmodified":1536828780,
+    "wof:lastmodified":1566650125,
     "wof:name":"Gong Kok",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

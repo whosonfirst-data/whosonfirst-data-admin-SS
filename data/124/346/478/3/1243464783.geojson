@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"25.8393,9.95466,25.8793,9.99466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243464783,
-    "wof:lastmodified":1536779518,
+    "wof:lastmodified":1566650466,
     "wof:name":"Lebissi",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.66757,8.80892,30.70757,8.84892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kuan"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209530741,
-    "wof:lastmodified":1564150171,
+    "wof:lastmodified":1566650205,
     "wof:name":"Kuan",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

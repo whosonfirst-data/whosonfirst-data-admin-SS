@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.73754,10.04631,33.77754,10.08631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tuyo Quffah"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242884729,
-    "wof:lastmodified":1537701384,
+    "wof:lastmodified":1566650449,
     "wof:name":"Tuyo Quffa",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.44942,7.92742,28.48942,7.96742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Achiyech"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260304573,
-    "wof:lastmodified":1537701413,
+    "wof:lastmodified":1566650299,
     "wof:name":"Achiech",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

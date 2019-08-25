@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.20529,10.54373,33.24529,10.58373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kaddah",
         "Maban"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326740825,
-    "wof:lastmodified":1537701399,
+    "wof:lastmodified":1566649905,
     "wof:name":"Kudda",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

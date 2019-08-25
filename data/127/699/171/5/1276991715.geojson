@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.67619,7.74461,27.71619,7.78461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Limbo"
     ],
@@ -128,8 +132,7 @@
         "\u041b\u0456\u043c\u0431"
     ],
     "name:und_x_variant":[
-        "Lunbo",
-        "Limbo"
+        "Lunbo"
     ],
     "name:vie_x_preferred":[
         "L\u00e2m b\u00f4"
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":1276991715,
-    "wof:lastmodified":1564150167,
+    "wof:lastmodified":1566650202,
     "wof:name":"Limbo",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.14497,6.72461,33.18497,6.76461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259699015,
-    "wof:lastmodified":1537042795,
+    "wof:lastmodified":1566650543,
     "wof:name":"Belichinanu",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

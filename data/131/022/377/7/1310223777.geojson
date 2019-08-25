@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.67868,9.29685,31.71868,9.33685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abu Jop"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310223777,
-    "wof:lastmodified":1537701412,
+    "wof:lastmodified":1566650317,
     "wof:name":"Abujop",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

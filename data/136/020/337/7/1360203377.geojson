@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.21044,8.2841,29.25044,8.3241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1360203377,
-    "wof:lastmodified":1536775650,
+    "wof:lastmodified":1566650375,
     "wof:name":"Wun Kwel",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

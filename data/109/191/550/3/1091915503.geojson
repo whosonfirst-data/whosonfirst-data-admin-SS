@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.484195,
     "lbl:longitude":32.402292,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Upper Nile",
     "meso:diss_me":"BalietUpper Nile",
     "meso:gadm_admin":"Baleit",
@@ -31,6 +33,7 @@
     "mps:longitude":32.402292,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Baliet"
     ],
@@ -38,9 +41,9 @@
         "Baleit"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091915503,
-    "wof:lastmodified":1553717984,
+    "wof:lastmodified":1566650391,
     "wof:name":"Baliet",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

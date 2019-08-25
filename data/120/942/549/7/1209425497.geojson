@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.83581,9.64043,30.87581,9.68043",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al \u2018Ar\u0101\u2019ish"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209425497,
-    "wof:lastmodified":1537701409,
+    "wof:lastmodified":1566650260,
     "wof:name":"El Araish",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

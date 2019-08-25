@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.07406,7.88866,29.11406,7.92866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259694273,
-    "wof:lastmodified":1537049302,
+    "wof:lastmodified":1566650546,
     "wof:name":"Foweng",
     "wof:parent_id":1091914139,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.07145,6.69019,33.11145,6.73019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310220401,
-    "wof:lastmodified":1536829704,
+    "wof:lastmodified":1566650317,
     "wof:name":"Manbitshei",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

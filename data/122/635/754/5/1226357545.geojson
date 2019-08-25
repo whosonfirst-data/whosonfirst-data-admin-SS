@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.7692,9.27349,29.8092,9.31349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Rubkona"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226357545,
-    "wof:lastmodified":1564150736,
+    "wof:lastmodified":1566650581,
     "wof:name":"Rubkona",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

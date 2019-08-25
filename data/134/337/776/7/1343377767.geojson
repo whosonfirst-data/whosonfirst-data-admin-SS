@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.27272,4.49362,31.31272,4.53362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyarjowa",
         "Nerjowa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343377767,
-    "wof:lastmodified":1537701392,
+    "wof:lastmodified":1566649985,
     "wof:name":"Nerjowa",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

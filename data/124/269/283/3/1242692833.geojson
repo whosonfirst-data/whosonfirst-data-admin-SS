@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.09097,9.43736,31.13097,9.47736",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242692833,
-    "wof:lastmodified":1536897630,
+    "wof:lastmodified":1566650462,
     "wof:name":"Dok Alal",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

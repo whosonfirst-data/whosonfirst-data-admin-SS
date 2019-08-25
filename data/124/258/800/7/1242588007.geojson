@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.14379,4.44046,32.18379,4.48046",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242588007,
-    "wof:lastmodified":1537046602,
+    "wof:lastmodified":1566650460,
     "wof:name":"Kojopi",
     "wof:parent_id":1091914269,
     "wof:placetype":"locality",
