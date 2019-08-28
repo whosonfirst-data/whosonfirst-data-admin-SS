@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.1353,8.17714,32.1753,8.21714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327040447,
-    "wof:lastmodified":1536748548,
+    "wof:lastmodified":1566649948,
     "wof:name":"Panyiem",
     "wof:parent_id":1091913861,
     "wof:placetype":"locality",

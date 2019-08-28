@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":9.090968,
     "lbl:longitude":30.735404,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Jonglei",
     "meso:diss_me":"FangakJonglei",
     "meso:gadm_admin":"Fam al Zaraf",
@@ -31,6 +33,7 @@
     "mps:longitude":30.735404,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Old Fangak"
     ],
@@ -45,9 +48,9 @@
         "Fangak"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1091915463,
-    "wof:lastmodified":1564150472,
+    "wof:lastmodified":1566650408,
     "wof:name":"Fangak",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

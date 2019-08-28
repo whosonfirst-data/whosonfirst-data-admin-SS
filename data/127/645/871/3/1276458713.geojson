@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.01656,9.15633,28.05656,9.19633",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09c7\u09a4"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1276458713,
-    "wof:lastmodified":1564150087,
+    "wof:lastmodified":1566650151,
     "wof:name":"Amet",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

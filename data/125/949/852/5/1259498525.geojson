@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"25.40714,9.03443,25.44714,9.07443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Boeda"
     ],
@@ -180,7 +184,7 @@
         }
     ],
     "wof:id":1259498525,
-    "wof:lastmodified":1564150664,
+    "wof:lastmodified":1566650533,
     "wof:name":"Buda",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

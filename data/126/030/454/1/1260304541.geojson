@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.87879,7.11373,27.91879,7.15373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1260304541,
-    "wof:lastmodified":1536683624,
+    "wof:lastmodified":1566650296,
     "wof:name":"Bazia",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

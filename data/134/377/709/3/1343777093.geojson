@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.48123,6.20453,30.52123,6.24453",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343777093,
-    "wof:lastmodified":1536787344,
+    "wof:lastmodified":1566650001,
     "wof:name":"Egak",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

@@ -10,6 +10,9 @@
     "geom:latitude":4.91584,
     "geom:longitude":29.47415,
     "iso:country":"SS",
+    "lbl:bbox":"29.45415,4.89584,29.49415,4.93584",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -56,7 +59,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0438\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merridi"
     ],
     "name:zho_x_preferred":[
@@ -185,7 +188,7 @@
     "wof:concordances":{
         "gn:id":370457,
         "gp:id":1434602,
-        "qs:id":124408,
+        "qs_pg:id":124408,
         "wd:id":"Q3132444",
         "wk:page":"Maridi"
     },
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":421167093,
-    "wof:lastmodified":1563290987,
+    "wof:lastmodified":1566650429,
     "wof:name":"Maridi",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

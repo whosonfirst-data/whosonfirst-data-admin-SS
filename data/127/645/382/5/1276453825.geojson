@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.59257,3.78791,30.63257,3.82791",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1276453825,
-    "wof:lastmodified":1536614766,
+    "wof:lastmodified":1566650149,
     "wof:name":"Odulubo",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.33162,8.89401,27.37162,8.93401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":374513
     },
     "wof:country":"SS",
-    "wof:geomhash":"a74d25382230f095d181f2361297be89",
+    "wof:geomhash":"1eff041b6c3f1e8c648e59b622fb3a95",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209525827,
-    "wof:lastmodified":1536284434,
+    "wof:lastmodified":1566650219,
     "wof:name":"Gwem",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     27.35162,
-    8.914010000000003,
+    8.91401,
     27.35162,
-    8.914010000000003
+    8.91401
 ],
   "geometry": {"coordinates":[27.35162,8.91401],"type":"Point"}
 }

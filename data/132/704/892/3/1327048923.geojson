@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.52804,5.11301,30.56804,5.15301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327048923,
-    "wof:lastmodified":1536736612,
+    "wof:lastmodified":1566649944,
     "wof:name":"Mirsala",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

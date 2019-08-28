@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.82376,4.01806,32.86376,4.05806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0644\u0648"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1193147409,
-    "wof:lastmodified":1564150285,
+    "wof:lastmodified":1566650280,
     "wof:name":"Gilo",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

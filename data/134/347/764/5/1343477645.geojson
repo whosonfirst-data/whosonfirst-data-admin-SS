@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.93085,3.76033,30.97085,3.80033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Panyumae"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343477645,
-    "wof:lastmodified":1537701422,
+    "wof:lastmodified":1566650005,
     "wof:name":"Panyume",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

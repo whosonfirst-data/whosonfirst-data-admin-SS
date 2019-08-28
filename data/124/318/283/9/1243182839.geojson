@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.14266,7.49415,28.18266,7.53415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shaykh Aliu"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243182839,
-    "wof:lastmodified":1537701387,
+    "wof:lastmodified":1566650495,
     "wof:name":"Sheikh Aliu",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

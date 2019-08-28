@@ -10,6 +10,9 @@
     "geom:latitude":6.802,
     "geom:longitude":29.69123,
     "iso:country":"SS",
+    "lbl:bbox":"29.67123,6.782,29.71123,6.822",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -284,7 +287,7 @@
     "wof:concordances":{
         "gn:id":367927,
         "gp:id":1435789,
-        "qs:id":492877,
+        "qs_pg:id":492877,
         "wd:id":"Q607336",
         "wk:page":"Rumbek"
     },
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421168713,
-    "wof:lastmodified":1561844809,
+    "wof:lastmodified":1566650428,
     "wof:name":"Rumbek",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

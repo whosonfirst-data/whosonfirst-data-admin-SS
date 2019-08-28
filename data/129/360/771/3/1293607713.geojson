@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.57406,4.7362,33.61406,4.7762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Korea"
     ],
@@ -366,7 +370,7 @@
         }
     ],
     "wof:id":1293607713,
-    "wof:lastmodified":1564150022,
+    "wof:lastmodified":1566650109,
     "wof:name":"Korea",
     "wof:parent_id":1091915407,
     "wof:placetype":"locality",

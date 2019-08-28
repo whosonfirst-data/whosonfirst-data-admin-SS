@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.700013,
     "lbl:longitude":33.585201,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Equatoria",
     "meso:diss_me":"Kapoeta SouthEastern Equatoria",
     "meso:gadm_admin":"Shokodom",
@@ -31,6 +33,7 @@
     "mps:longitude":33.585201,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Kapoeta South"
     ],
@@ -38,9 +41,9 @@
         "Shokodom"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091915407,
-    "wof:lastmodified":1553717983,
+    "wof:lastmodified":1566650408,
     "wof:name":"Kapoeta South",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

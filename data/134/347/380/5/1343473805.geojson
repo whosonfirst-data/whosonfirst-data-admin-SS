@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.12056,5.43861,29.16056,5.47861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343473805,
-    "wof:lastmodified":1536727162,
+    "wof:lastmodified":1566650009,
     "wof:name":"Bandima",
     "wof:parent_id":1091914701,
     "wof:placetype":"locality",

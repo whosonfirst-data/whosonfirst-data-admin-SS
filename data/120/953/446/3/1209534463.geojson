@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.82762,6.91615,29.86762,6.95615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":7429924
     },
     "wof:country":"SS",
-    "wof:geomhash":"978489172a0e627edaeb7e4689b8ead5",
+    "wof:geomhash":"98bcfa9af2b88ad134ad99586e62b85e",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209534463,
-    "wof:lastmodified":1536284182,
+    "wof:lastmodified":1566650204,
     "wof:name":"Lualadol",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.847620000000006,
+    29.84762000000001,
     6.93615,
-    29.847620000000006,
+    29.84762000000001,
     6.93615
 ],
   "geometry": {"coordinates":[29.84762000000001,6.93615],"type":"Point"}

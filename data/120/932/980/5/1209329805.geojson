@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.67435,7.00311,29.71435,7.04311",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":380785
     },
     "wof:country":"SS",
-    "wof:geomhash":"0b61a7b49c9b4709f5cd5bed81570466",
+    "wof:geomhash":"af9a0f1e5832bb3bf2485f67bf8e2fbf",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209329805,
-    "wof:lastmodified":1536290408,
+    "wof:lastmodified":1566650245,
     "wof:name":"Abui",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     29.69435,
-    7.023110000000001,
+    7.02311,
     29.69435,
-    7.023110000000001
+    7.02311
 ],
   "geometry": {"coordinates":[29.69435,7.02311],"type":"Point"}
 }

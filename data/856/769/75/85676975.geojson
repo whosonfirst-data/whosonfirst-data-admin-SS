@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":4.906416,
     "lbl:longitude":33.204593,
+    "lbl:min_zoom":8.0,
     "mps:latitude":4.977788,
     "mps:longitude":33.516024,
     "mz:hierarchy_label":1,
@@ -169,7 +170,7 @@
         "Eastern Equatoria"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1   \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0baf"
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0baf"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c08\u0c15\u0c4d\u0c35\u0c1f\u0c4b\u0c30\u0c3f\u0c2f\u0c3e"
@@ -183,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0445\u0456\u0434\u043d\u0430 \u0415\u043a\u0432\u0430\u0442\u043e\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sharq al Istiw\u0101\u02bc\u012byah"
     ],
     "name:urd_x_preferred":[
@@ -277,9 +278,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"82,542",
     "statoids:area_mi":"31,870",
     "statoids:as_of_date":"2008-04-22",
@@ -305,7 +306,7 @@
         "gp:id":20069901,
         "hasc:id":"SS.EE",
         "iso:id":"SS-EE",
-        "qs:id":221376,
+        "qs_pg:id":221376,
         "unlc:id":"SS-EE",
         "wd:id":"Q488519",
         "wk:page":"Eastern Equatoria"
@@ -326,11 +327,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736723,
+    "wof:lastmodified":1566650054,
     "wof:name":"East Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":906126,
     "wof:population_rank":11,

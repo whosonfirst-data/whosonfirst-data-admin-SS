@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.59843,5.35753,29.63843,5.39753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qo\u015f"
     ],
@@ -41,8 +45,7 @@
         "Kosh"
     ],
     "name:und_x_variant":[
-        "Kozi",
-        "Kosh"
+        "Kozi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1326640285,
-    "wof:lastmodified":1564149819,
+    "wof:lastmodified":1566649962,
     "wof:name":"Kosh",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

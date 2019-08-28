@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.5389,6.6154,30.5789,6.6554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1226053191,
-    "wof:lastmodified":1536714649,
+    "wof:lastmodified":1566650579,
     "wof:name":"Kantok",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

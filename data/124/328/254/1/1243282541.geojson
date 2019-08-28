@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.10731,8.68165,33.14731,8.72165",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243282541,
-    "wof:lastmodified":1537040113,
+    "wof:lastmodified":1566650502,
     "wof:name":"Dhegdheg",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

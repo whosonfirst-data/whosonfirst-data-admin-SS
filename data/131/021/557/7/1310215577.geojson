@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.7646,3.7807,30.8046,3.8207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Cambo"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1310215577,
-    "wof:lastmodified":1564150382,
+    "wof:lastmodified":1566650341,
     "wof:name":"Jumbo",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

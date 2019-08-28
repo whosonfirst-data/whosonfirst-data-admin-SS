@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.95417,4.00139,30.99417,4.04139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bareia"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259401513,
-    "wof:lastmodified":1564150652,
+    "wof:lastmodified":1566650526,
     "wof:name":"Bareia",
     "wof:parent_id":1091913733,
     "wof:placetype":"locality",

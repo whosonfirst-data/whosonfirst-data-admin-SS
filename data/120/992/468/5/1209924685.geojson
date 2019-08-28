@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.47872,4.71199,29.51872,4.75199",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jebel Afi"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209924685,
-    "wof:lastmodified":1537701420,
+    "wof:lastmodified":1566650240,
     "wof:name":"Jabal Afi",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

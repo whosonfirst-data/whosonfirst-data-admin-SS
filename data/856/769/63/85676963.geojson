@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":9.166428,
     "lbl:longitude":29.694156,
+    "lbl:min_zoom":8.0,
     "mps:latitude":9.201996,
     "mps:longitude":29.674504,
     "mz:hierarchy_label":1,
@@ -179,7 +180,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0412\u0430\u0445\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Wahda"
     ],
     "name:urd_x_preferred":[
@@ -271,9 +272,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"35,956",
     "statoids:area_mi":"13,883",
     "statoids:as_of_date":"2008-04-22",
@@ -299,7 +300,7 @@
         "gp:id":20069907,
         "hasc:id":"SS.WH",
         "iso:id":"SS-UY",
-        "qs:id":959144,
+        "qs_pg:id":959144,
         "unlc:id":"SS-UY",
         "wd:id":"Q319965",
         "wk:page":"Unity State"
@@ -320,11 +321,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565736724,
+    "wof:lastmodified":1566650056,
     "wof:name":"Unity",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":585801,
     "wof:population_rank":11,

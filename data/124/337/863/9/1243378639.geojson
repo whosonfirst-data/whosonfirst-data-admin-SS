@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"25.87748,10.3817,25.91748,10.4217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1243378639,
-    "wof:lastmodified":1536903446,
+    "wof:lastmodified":1566650441,
     "wof:name":"El Kilab",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

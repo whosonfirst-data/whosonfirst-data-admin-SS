@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"33.19031,4.04244,33.23031,4.08244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1310511799,
-    "wof:lastmodified":1536908010,
+    "wof:lastmodified":1566650363,
     "wof:name":"Larua",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

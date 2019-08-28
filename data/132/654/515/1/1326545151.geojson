@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.74548,7.61086,27.78548,7.65086",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Abduilah Kyango",
         "\u2018Abd All\u0101h Kyango"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326545151,
-    "wof:lastmodified":1537701412,
+    "wof:lastmodified":1566649969,
     "wof:name":"Abdullah Kyango",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

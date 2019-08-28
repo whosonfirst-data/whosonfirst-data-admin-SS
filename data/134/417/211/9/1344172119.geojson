@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"26.14243,8.20103,26.18243,8.24103",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344172119,
-    "wof:lastmodified":1536714707,
+    "wof:lastmodified":1566650029,
     "wof:name":"Farangaiyat",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

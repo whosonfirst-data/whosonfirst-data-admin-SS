@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"29.81716,6.83229,29.85716,6.87229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hrv_x_preferred":[
         "Kai\u0107"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259894967,
-    "wof:lastmodified":1564150696,
+    "wof:lastmodified":1566650554,
     "wof:name":"Kaich",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

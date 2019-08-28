@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.05994,9.74421,30.09994,9.78421",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209433597,
-    "wof:lastmodified":1536287166,
+    "wof:lastmodified":1566650263,
     "wof:name":"Pachuark",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

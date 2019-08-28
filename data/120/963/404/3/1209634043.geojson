@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.76952,4.22773,30.80952,4.26773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":382615
     },
     "wof:country":"SS",
-    "wof:geomhash":"4713ba50308ade944ed7fb9fe19c3c3a",
+    "wof:geomhash":"6c4e023f61393d94a380bf237e4f6ae4",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209634043,
-    "wof:lastmodified":1536281099,
+    "wof:lastmodified":1566650216,
     "wof:name":"Morsak",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     30.78952,
-    4.247730000000002,
+    4.24773,
     30.78952,
-    4.247730000000002
+    4.24773
 ],
   "geometry": {"coordinates":[30.78952,4.24773],"type":"Point"}
 }

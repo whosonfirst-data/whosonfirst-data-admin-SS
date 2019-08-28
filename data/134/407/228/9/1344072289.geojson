@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.34334,9.06874,32.38334,9.10874",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Achel"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344072289,
-    "wof:lastmodified":1537701411,
+    "wof:lastmodified":1566649997,
     "wof:name":"Ashel",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.34106,6.45473,30.38106,6.49473",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Thou"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1360203331,
-    "wof:lastmodified":1564150434,
+    "wof:lastmodified":1566650377,
     "wof:name":"Thou",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

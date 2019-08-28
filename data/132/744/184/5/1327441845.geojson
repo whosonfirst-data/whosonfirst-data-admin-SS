@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.09306,9.63157,30.13306,9.67157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u018fk\u0259r\u0259k"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1327441845,
-    "wof:lastmodified":1564149836,
+    "wof:lastmodified":1566649974,
     "wof:name":"Agarak",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

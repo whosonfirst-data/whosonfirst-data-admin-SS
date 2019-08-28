@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.35237,5.05383,30.39237,5.09383",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293303265,
-    "wof:lastmodified":1537050383,
+    "wof:lastmodified":1566650069,
     "wof:name":"Aburra",
     "wof:parent_id":1091913781,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.018,7.53319,28.058,7.57319",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wad \u2018Ali Kwol",
         "Wad \u2019Ali"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193152049,
-    "wof:lastmodified":1537701383,
+    "wof:lastmodified":1566650275,
     "wof:name":"Wad 'Ali",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

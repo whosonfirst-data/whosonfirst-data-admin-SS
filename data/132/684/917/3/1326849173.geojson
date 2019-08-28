@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"27.5506,8.5685,27.5906,8.6085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wong"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1326849173,
-    "wof:lastmodified":1564149812,
+    "wof:lastmodified":1566649956,
     "wof:name":"Wong",
     "wof:parent_id":1091913405,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"28.26162,8.79752,28.30162,8.83752",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Melek"
     ],
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":1310712193,
-    "wof:lastmodified":1564150349,
+    "wof:lastmodified":1566650322,
     "wof:name":"Melek",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"32.17887,9.04582,32.21887,9.08582",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1344072221,
-    "wof:lastmodified":1536857250,
+    "wof:lastmodified":1566649998,
     "wof:name":"Rultom",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

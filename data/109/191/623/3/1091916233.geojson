@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":4.770446,
     "lbl:longitude":28.605185,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Equatoria",
     "meso:diss_me":"YambioWestern Equatoria",
     "meso:gadm_admin":"Yambio",
@@ -31,6 +33,7 @@
     "mps:longitude":28.605185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0645\u0628\u064a\u0648"
     ],
@@ -110,9 +113,9 @@
         "\u5ef6\u6bd4\u5967"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1091916233,
-    "wof:lastmodified":1564150467,
+    "wof:lastmodified":1566650405,
     "wof:name":"Yambio",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

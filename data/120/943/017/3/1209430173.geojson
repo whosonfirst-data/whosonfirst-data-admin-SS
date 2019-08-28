@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.81666,5.57111,31.85666,5.61111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Faker"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209430173,
-    "wof:lastmodified":1564150260,
+    "wof:lastmodified":1566650264,
     "wof:name":"Faker",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",

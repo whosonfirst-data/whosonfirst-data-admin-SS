@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.29569,6.00535,30.33569,6.04535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1242596229,
-    "wof:lastmodified":1537035262,
+    "wof:lastmodified":1566650457,
     "wof:name":"Ageng",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

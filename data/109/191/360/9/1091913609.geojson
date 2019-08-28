@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":8.828999,
     "lbl:longitude":33.1557,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Upper Nile",
     "meso:diss_me":"Luakpiny/NasirUpper Nile",
     "meso:gadm_admin":"Sobat",
@@ -31,6 +33,7 @@
     "mps:longitude":33.1557,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Luakpiny/Nasir"
     ],
@@ -38,9 +41,9 @@
         "Sobat"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2008-04-22",
+    "src:population_date":"2008-04-22",
     "statoids:area_km":"",
     "statoids:as_of_date":"2008-04-22",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1091913609,
-    "wof:lastmodified":1553717981,
+    "wof:lastmodified":1566650403,
     "wof:name":"Luakpiny/Nasir",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

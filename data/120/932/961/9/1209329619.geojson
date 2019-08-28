@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"31.49759,7.38226,31.53759,7.42226",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632657
@@ -34,7 +38,7 @@
         "gn:id":8174554
     },
     "wof:country":"SS",
-    "wof:geomhash":"7b11b22d7966ebb55a8ccd437d34b302",
+    "wof:geomhash":"863aaee99e4e8d1a9732bbcc8a79a415",
     "wof:hierarchy":[
         {
             "country_id":85632657,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209329619,
-    "wof:lastmodified":1536290414,
+    "wof:lastmodified":1566650243,
     "wof:name":"Duk Gweng",
     "wof:parent_id":85632657,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     31.51759,
-    7.402260000000001,
+    7.40226,
     31.51759,
-    7.402260000000001
+    7.40226
 ],
   "geometry": {"coordinates":[31.51759,7.40226],"type":"Point"}
 }

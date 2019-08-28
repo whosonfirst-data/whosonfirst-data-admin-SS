@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.07334,7.91292,30.11334,7.95292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kardi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242588023,
-    "wof:lastmodified":1564150550,
+    "wof:lastmodified":1566650459,
     "wof:name":"Kardi",
     "wof:parent_id":1091915755,
     "wof:placetype":"locality",

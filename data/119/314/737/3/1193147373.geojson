@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"26.86049,9.32403,26.90049,9.36403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1193147373,
-    "wof:lastmodified":1536381933,
+    "wof:lastmodified":1566650279,
     "wof:name":"Malow",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

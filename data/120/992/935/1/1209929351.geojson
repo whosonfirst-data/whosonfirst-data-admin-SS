@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.11347,6.21913,30.15347,6.25913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0648"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1209929351,
-    "wof:lastmodified":1564150224,
+    "wof:lastmodified":1566650238,
     "wof:name":"Piku",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

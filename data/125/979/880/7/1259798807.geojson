@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Juba",
     "iso:country":"SS",
+    "lbl:bbox":"30.99612,5.85003,31.03612,5.89003",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1259798807,
-    "wof:lastmodified":1536901125,
+    "wof:lastmodified":1566650522,
     "wof:name":"Umbolo",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",
