@@ -94,6 +94,9 @@
     },
     "wof:country":"SS",
     "wof:created":1469052805,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5849a0c23edc0871fe29ae5e02b43722",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890452095,
-    "wof:lastmodified":1566650431,
+    "wof:lastmodified":1582319579,
     "wof:name":"Magwi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

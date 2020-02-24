@@ -294,6 +294,9 @@
         "wk:page":"Lakes (state)"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e8816e7bc031b1111208e01be2bdd065",
     "wof:hierarchy":[
         {
@@ -309,7 +312,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650056,
+    "wof:lastmodified":1582319569,
     "wof:name":"Lakes",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

@@ -298,6 +298,9 @@
         "wk:page":"Jonglei"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e4b40fb8cd59ab3309909e607af723f9",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650052,
+    "wof:lastmodified":1582319567,
     "wof:name":"Jungoli",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

@@ -312,6 +312,9 @@
         "wk:page":"Eastern Equatoria"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"08d0bb371acd1c50b09385126ef02804",
     "wof:hierarchy":[
         {
@@ -327,7 +330,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650054,
+    "wof:lastmodified":1582319568,
     "wof:name":"East Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

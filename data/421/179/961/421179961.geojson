@@ -522,6 +522,9 @@
     },
     "wof:country":"SS",
     "wof:created":1459009239,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7a27390ca20d9ef74ed307074922711c",
     "wof:hierarchy":[
         {
@@ -533,7 +536,7 @@
         }
     ],
     "wof:id":421179961,
-    "wof:lastmodified":1566650430,
+    "wof:lastmodified":1582319579,
     "wof:name":"Juba",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",
