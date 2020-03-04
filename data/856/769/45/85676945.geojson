@@ -299,6 +299,9 @@
         "wk:page":"Western Equatoria"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4f15faa5cdbc5fe291e9a6dd0bcf7ef2",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650054,
+    "wof:lastmodified":1582319567,
     "wof:name":"West Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

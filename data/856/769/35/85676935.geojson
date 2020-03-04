@@ -300,6 +300,9 @@
         "wk:page":"Northern Bahr el Ghazal"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"221850c890e280cfef3653ea1c9e4103",
     "wof:hierarchy":[
         {
@@ -315,7 +318,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650053,
+    "wof:lastmodified":1582319567,
     "wof:name":"North Bahr-al-Ghazal",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

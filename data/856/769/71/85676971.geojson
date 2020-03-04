@@ -310,6 +310,9 @@
         "wk:page":"Western Bahr el Ghazal"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9891a378b064e8773e0b3d39c4ccf796",
     "wof:hierarchy":[
         {
@@ -325,7 +328,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650056,
+    "wof:lastmodified":1582319569,
     "wof:name":"West Bahr-al-Ghazal",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

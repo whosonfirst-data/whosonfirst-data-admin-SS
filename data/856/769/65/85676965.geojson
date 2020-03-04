@@ -297,6 +297,9 @@
         "wk:page":"Warrap (state)"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8df9cb1a4c7eae484c2adf81db0adfac",
     "wof:hierarchy":[
         {
@@ -312,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650055,
+    "wof:lastmodified":1582319568,
     "wof:name":"Warap",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

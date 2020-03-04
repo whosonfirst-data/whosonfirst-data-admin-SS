@@ -303,6 +303,9 @@
         "wk:page":"Upper Nile (state)"
     },
     "wof:country":"SS",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03af51d9e3fb717a93abf260292db33b",
     "wof:hierarchy":[
         {
@@ -318,7 +321,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566650055,
+    "wof:lastmodified":1582319568,
     "wof:name":"Upper Nile",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
