@@ -750,9 +750,7 @@
         421179961
     ],
     "wof:concordances":{
-        "digitalenvoy:country_code":[
-            728
-        ],
+        "digitalenvoy:country_code":728,
         "fips:code":"OD",
         "gn:id":7909807,
         "gp:id":56558055,
@@ -787,7 +785,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529224,
+    "wof:lastmodified":1583797433,
     "wof:name":"South Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
