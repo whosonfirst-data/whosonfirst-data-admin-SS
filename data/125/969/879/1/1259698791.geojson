@@ -217,7 +217,13 @@
         }
     ],
     "wof:id":1259698791,
-    "wof:lastmodified":1566650545,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774206,
     "wof:name":"Agar",
     "wof:parent_id":1091916061,
     "wof:placetype":"locality",

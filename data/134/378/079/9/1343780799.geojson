@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1343780799,
-    "wof:lastmodified":1566650010,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774047,
     "wof:name":"Kowich",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

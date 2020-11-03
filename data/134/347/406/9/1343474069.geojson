@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343474069,
-    "wof:lastmodified":1566650007,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774046,
     "wof:name":"Dwal Dong",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

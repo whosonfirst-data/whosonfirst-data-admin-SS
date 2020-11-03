@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243469609,
-    "wof:lastmodified":1566650467,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774188,
     "wof:name":"Koroshak",
     "wof:parent_id":1091915715,
     "wof:placetype":"locality",

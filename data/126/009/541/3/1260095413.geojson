@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260095413,
-    "wof:lastmodified":1566650294,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774132,
     "wof:name":"Bimachuk",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

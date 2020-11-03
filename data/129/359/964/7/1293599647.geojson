@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293599647,
-    "wof:lastmodified":1566650098,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774075,
     "wof:name":"Ibba",
     "wof:parent_id":1091914701,
     "wof:placetype":"locality",

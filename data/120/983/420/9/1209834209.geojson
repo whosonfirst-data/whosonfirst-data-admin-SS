@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209834209,
-    "wof:lastmodified":1566650221,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774114,
     "wof:name":"Al Lagheir",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

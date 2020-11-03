@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260090661,
-    "wof:lastmodified":1566650292,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774131,
     "wof:name":"Along Jot",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

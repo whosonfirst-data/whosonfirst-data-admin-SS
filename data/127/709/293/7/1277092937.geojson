@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277092937,
-    "wof:lastmodified":1566650138,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774090,
     "wof:name":"Fan Nyal",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1327343963,
-    "wof:lastmodified":1566649932,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774020,
     "wof:name":"Nopotit",
     "wof:parent_id":1091913517,
     "wof:placetype":"locality",

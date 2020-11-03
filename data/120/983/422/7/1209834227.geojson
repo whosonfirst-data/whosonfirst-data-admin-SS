@@ -91,7 +91,13 @@
         }
     ],
     "wof:id":1209834227,
-    "wof:lastmodified":1566650219,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774114,
     "wof:name":"Kaki",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

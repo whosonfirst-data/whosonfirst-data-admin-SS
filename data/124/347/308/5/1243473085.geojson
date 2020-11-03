@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243473085,
-    "wof:lastmodified":1566650468,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774188,
     "wof:name":"Dorcheng Boh",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

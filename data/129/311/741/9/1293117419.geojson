@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293117419,
-    "wof:lastmodified":1566650118,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774083,
     "wof:name":"Wadber",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

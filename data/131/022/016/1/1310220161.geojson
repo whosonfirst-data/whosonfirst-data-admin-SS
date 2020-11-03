@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310220161,
-    "wof:lastmodified":1566650319,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774141,
     "wof:name":"Rupwal",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

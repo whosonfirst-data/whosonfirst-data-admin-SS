@@ -169,7 +169,13 @@
         }
     ],
     "wof:id":1327246509,
-    "wof:lastmodified":1566649931,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774019,
     "wof:name":"Arum",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

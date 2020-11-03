@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343469275,
-    "wof:lastmodified":1566650000,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774043,
     "wof:name":"Zabit",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

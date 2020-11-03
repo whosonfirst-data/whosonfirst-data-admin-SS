@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293215801,
-    "wof:lastmodified":1566650131,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774087,
     "wof:name":"Ryam",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

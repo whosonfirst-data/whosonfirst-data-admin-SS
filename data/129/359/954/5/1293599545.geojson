@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1293599545,
-    "wof:lastmodified":1566650097,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774075,
     "wof:name":"Wen",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

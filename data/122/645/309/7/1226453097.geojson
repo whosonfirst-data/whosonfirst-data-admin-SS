@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1226453097,
-    "wof:lastmodified":1566650567,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774211,
     "wof:name":"Waruga",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

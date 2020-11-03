@@ -118,7 +118,13 @@
         }
     ],
     "wof:id":1193026393,
-    "wof:lastmodified":1566650288,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774129,
     "wof:name":"Mana",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

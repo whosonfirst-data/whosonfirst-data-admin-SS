@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1360195189,
-    "wof:lastmodified":1566650386,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774165,
     "wof:name":"Buingfiort",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

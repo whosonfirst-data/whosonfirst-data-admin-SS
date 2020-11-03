@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226555051,
-    "wof:lastmodified":1566650609,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774221,
     "wof:name":"Malwal",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

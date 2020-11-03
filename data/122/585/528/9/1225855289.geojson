@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225855289,
-    "wof:lastmodified":1566650622,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774224,
     "wof:name":"Fankur",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

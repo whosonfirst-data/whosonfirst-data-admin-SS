@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1277000439,
-    "wof:lastmodified":1566650141,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774091,
     "wof:name":"Makeir",
     "wof:parent_id":1091915369,
     "wof:placetype":"locality",

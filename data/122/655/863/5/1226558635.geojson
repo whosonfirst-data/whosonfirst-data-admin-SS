@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226558635,
-    "wof:lastmodified":1566650615,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774222,
     "wof:name":"Chath Akol",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

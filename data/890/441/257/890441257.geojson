@@ -291,7 +291,13 @@
         }
     ],
     "wof:id":890441257,
-    "wof:lastmodified":1566650431,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774178,
     "wof:name":"Bentiu",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

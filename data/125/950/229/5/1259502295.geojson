@@ -358,7 +358,13 @@
         }
     ],
     "wof:id":1259502295,
-    "wof:lastmodified":1566650533,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774203,
     "wof:name":"Bari",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

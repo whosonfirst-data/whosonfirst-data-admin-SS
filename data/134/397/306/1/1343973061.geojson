@@ -301,7 +301,13 @@
         }
     ],
     "wof:id":1343973061,
-    "wof:lastmodified":1566649988,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774039,
     "wof:name":"Mile",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

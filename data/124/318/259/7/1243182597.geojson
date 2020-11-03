@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243182597,
-    "wof:lastmodified":1566650493,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774193,
     "wof:name":"Juai",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

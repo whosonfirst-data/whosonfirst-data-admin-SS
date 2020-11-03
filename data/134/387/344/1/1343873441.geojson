@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343873441,
-    "wof:lastmodified":1566650048,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774061,
     "wof:name":"Powoi",
     "wof:parent_id":1091915583,
     "wof:placetype":"locality",

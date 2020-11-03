@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360195171,
-    "wof:lastmodified":1566650385,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774164,
     "wof:name":"Buthalor",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

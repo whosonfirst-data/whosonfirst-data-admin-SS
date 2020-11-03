@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310616191,
-    "wof:lastmodified":1566650351,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774152,
     "wof:name":"Gwandir",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

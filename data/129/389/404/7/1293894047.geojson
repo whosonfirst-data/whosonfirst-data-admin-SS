@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293894047,
-    "wof:lastmodified":1566650123,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774085,
     "wof:name":"Lajak",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1327250155,
-    "wof:lastmodified":1566649918,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774014,
     "wof:name":"Sheikh Dud Malang",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

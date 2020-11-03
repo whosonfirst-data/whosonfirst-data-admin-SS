@@ -118,7 +118,13 @@
         }
     ],
     "wof:id":1310124619,
-    "wof:lastmodified":1566650312,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774138,
     "wof:name":"Lieg",
     "wof:parent_id":1091915101,
     "wof:placetype":"locality",

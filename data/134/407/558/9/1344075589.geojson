@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1344075589,
-    "wof:lastmodified":1566649996,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774042,
     "wof:name":"Wira",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

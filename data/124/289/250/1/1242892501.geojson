@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242892501,
-    "wof:lastmodified":1566650445,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774182,
     "wof:name":"Gadul",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

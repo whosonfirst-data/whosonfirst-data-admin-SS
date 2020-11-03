@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310611543,
-    "wof:lastmodified":1566650352,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774153,
     "wof:name":"Lob Lob",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243569509,
-    "wof:lastmodified":1566650474,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774189,
     "wof:name":"Ahmed `Arabi",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

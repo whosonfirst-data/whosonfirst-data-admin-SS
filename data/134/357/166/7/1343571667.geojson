@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343571667,
-    "wof:lastmodified":1566650016,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774049,
     "wof:name":"Tanashuk",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242688379,
-    "wof:lastmodified":1566650453,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774184,
     "wof:name":"Belgo",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

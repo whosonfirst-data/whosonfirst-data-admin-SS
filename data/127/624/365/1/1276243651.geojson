@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1276243651,
-    "wof:lastmodified":1566650183,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774105,
     "wof:name":"Paru",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

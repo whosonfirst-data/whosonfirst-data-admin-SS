@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259794047,
-    "wof:lastmodified":1566650525,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774201,
     "wof:name":"Werkim",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

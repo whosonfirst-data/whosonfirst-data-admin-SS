@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091914579,
-    "wof:lastmodified":1566650407,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774172,
     "wof:name":"Yei",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

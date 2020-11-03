@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1259694417,
-    "wof:lastmodified":1566650544,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774206,
     "wof:name":"Budu",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

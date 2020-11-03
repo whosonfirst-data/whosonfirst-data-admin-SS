@@ -68,7 +68,13 @@
         }
     ],
     "wof:id":1243572881,
-    "wof:lastmodified":1566650472,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774189,
     "wof:name":"Kajo Keji",
     "wof:parent_id":1091915715,
     "wof:placetype":"locality",

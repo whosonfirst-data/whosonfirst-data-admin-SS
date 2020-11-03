@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1091913959,
-    "wof:lastmodified":1566650401,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774170,
     "wof:name":"Panyijiar",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

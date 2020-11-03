@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243469375,
-    "wof:lastmodified":1566650465,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774187,
     "wof:name":"Wang Yagh",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

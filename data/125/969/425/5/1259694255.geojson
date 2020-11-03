@@ -109,7 +109,13 @@
         }
     ],
     "wof:id":1259694255,
-    "wof:lastmodified":1566650543,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774205,
     "wof:name":"Raab",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

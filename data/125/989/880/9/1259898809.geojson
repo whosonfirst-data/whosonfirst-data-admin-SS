@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259898809,
-    "wof:lastmodified":1566650551,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774207,
     "wof:name":"Againg",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

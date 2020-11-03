@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326945305,
-    "wof:lastmodified":1566649914,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774013,
     "wof:name":"Paier",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

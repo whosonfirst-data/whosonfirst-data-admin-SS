@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1226555219,
-    "wof:lastmodified":1566650612,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774221,
     "wof:name":"Why",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

@@ -121,7 +121,13 @@
         }
     ],
     "wof:id":1310619769,
-    "wof:lastmodified":1566650352,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774153,
     "wof:name":"Duma",
     "wof:parent_id":1091915243,
     "wof:placetype":"locality",

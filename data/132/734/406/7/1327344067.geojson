@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327344067,
-    "wof:lastmodified":1566649935,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774020,
     "wof:name":"Kuthai",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

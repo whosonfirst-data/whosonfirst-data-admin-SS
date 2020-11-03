@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259794119,
-    "wof:lastmodified":1566650524,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774201,
     "wof:name":"N'gab Riang",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

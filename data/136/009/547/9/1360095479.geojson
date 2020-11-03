@@ -130,7 +130,13 @@
         }
     ],
     "wof:id":1360095479,
-    "wof:lastmodified":1566650367,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774158,
     "wof:name":"Patay",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

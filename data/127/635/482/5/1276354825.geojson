@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1276354825,
-    "wof:lastmodified":1566650167,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774100,
     "wof:name":"Makir",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

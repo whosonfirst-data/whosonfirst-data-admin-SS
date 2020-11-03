@@ -100,7 +100,13 @@
         }
     ],
     "wof:id":1259898665,
-    "wof:lastmodified":1566650552,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774207,
     "wof:name":"Adept",
     "wof:parent_id":1091913405,
     "wof:placetype":"locality",

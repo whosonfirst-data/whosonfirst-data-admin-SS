@@ -187,7 +187,13 @@
         }
     ],
     "wof:id":1310223657,
-    "wof:lastmodified":1566650316,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774140,
     "wof:name":"Hagar",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

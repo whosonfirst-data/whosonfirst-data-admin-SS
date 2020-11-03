@@ -103,7 +103,13 @@
         }
     ],
     "wof:id":1226762827,
-    "wof:lastmodified":1566650601,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Bol",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

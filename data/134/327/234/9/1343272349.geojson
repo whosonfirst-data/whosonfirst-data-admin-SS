@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343272349,
-    "wof:lastmodified":1566650041,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774058,
     "wof:name":"Giggigamba",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

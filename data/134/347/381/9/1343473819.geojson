@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343473819,
-    "wof:lastmodified":1566650010,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774047,
     "wof:name":"Maryal Bai",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

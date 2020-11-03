@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1276892659,
-    "wof:lastmodified":1566650154,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774095,
     "wof:name":"Sheikh Bade",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

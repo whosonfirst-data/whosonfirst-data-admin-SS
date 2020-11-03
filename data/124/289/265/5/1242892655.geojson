@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242892655,
-    "wof:lastmodified":1566650447,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774182,
     "wof:name":"Buldiah",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091915407,
-    "wof:lastmodified":1566650408,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774172,
     "wof:name":"Kapoeta South",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

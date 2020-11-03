@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327048849,
-    "wof:lastmodified":1566649947,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774025,
     "wof:name":"Senambia",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

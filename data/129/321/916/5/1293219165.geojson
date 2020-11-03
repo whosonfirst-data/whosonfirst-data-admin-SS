@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1293219165,
-    "wof:lastmodified":1566650132,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774088,
     "wof:name":"Alego",
     "wof:parent_id":1091914269,
     "wof:placetype":"locality",

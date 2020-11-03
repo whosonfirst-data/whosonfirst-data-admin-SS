@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1293215645,
-    "wof:lastmodified":1566650131,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774088,
     "wof:name":"Akok",
     "wof:parent_id":1091914319,
     "wof:placetype":"locality",

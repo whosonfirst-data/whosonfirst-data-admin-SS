@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259502177,
-    "wof:lastmodified":1566650535,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774203,
     "wof:name":"Dilkwoi",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1326849173,
-    "wof:lastmodified":1566649956,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774028,
     "wof:name":"Wong",
     "wof:parent_id":1091913405,
     "wof:placetype":"locality",

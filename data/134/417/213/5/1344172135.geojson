@@ -51,7 +51,13 @@
         }
     ],
     "wof:id":1344172135,
-    "wof:lastmodified":1566650032,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774055,
     "wof:name":"Kator",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

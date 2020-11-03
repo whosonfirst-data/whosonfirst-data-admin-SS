@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243473115,
-    "wof:lastmodified":1566650470,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774188,
     "wof:name":"Agal Dit",
     "wof:parent_id":1091913405,
     "wof:placetype":"locality",

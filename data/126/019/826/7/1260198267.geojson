@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260198267,
-    "wof:lastmodified":1566650306,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774136,
     "wof:name":"Kangibun",
     "wof:parent_id":1091913517,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1292913823,
-    "wof:lastmodified":1566650114,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774081,
     "wof:name":"Lokuja",
     "wof:parent_id":1091914791,
     "wof:placetype":"locality",

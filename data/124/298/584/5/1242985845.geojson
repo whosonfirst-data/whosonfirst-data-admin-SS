@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242985845,
-    "wof:lastmodified":1566650492,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774193,
     "wof:name":"Mapeir",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

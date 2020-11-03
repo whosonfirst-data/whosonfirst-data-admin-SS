@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259895113,
-    "wof:lastmodified":1566650554,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774208,
     "wof:name":"Owachi",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

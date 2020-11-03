@@ -115,7 +115,13 @@
         }
     ],
     "wof:id":1310116287,
-    "wof:lastmodified":1566650338,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774148,
     "wof:name":"Kota",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

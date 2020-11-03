@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293701813,
-    "wof:lastmodified":1566650087,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774071,
     "wof:name":"Pankeir",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

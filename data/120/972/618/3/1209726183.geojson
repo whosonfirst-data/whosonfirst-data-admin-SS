@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1209726183,
-    "wof:lastmodified":1566650265,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774120,
     "wof:name":"Adet",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

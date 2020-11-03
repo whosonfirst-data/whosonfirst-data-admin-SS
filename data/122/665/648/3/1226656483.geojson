@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226656483,
-    "wof:lastmodified":1566650618,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774223,
     "wof:name":"Gula Nafi",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343780877,
-    "wof:lastmodified":1566650011,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774047,
     "wof:name":"Akwaj",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

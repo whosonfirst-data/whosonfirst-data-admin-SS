@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326449029,
-    "wof:lastmodified":1566649902,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774007,
     "wof:name":"Paiuel",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

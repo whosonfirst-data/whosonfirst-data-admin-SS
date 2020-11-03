@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1277000423,
-    "wof:lastmodified":1566650140,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774091,
     "wof:name":"Ful Kawhni",
     "wof:parent_id":1091915879,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326740935,
-    "wof:lastmodified":1566649908,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774010,
     "wof:name":"Nyarkweth",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

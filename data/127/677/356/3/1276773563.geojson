@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276773563,
-    "wof:lastmodified":1566650194,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774110,
     "wof:name":"Karimoja",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259998105,
-    "wof:lastmodified":1566650514,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774198,
     "wof:name":"Kunyuru",
     "wof:parent_id":1091915715,
     "wof:placetype":"locality",

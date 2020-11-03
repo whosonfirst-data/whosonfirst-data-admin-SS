@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326548749,
-    "wof:lastmodified":1566649964,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774030,
     "wof:name":"Liet",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

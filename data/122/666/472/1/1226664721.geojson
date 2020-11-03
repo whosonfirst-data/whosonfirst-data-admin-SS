@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226664721,
-    "wof:lastmodified":1566650586,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774215,
     "wof:name":"Adal",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

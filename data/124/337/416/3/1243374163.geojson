@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243374163,
-    "wof:lastmodified":1566650440,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774181,
     "wof:name":"Jorama",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

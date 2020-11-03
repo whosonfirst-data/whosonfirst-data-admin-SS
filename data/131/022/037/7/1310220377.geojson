@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310220377,
-    "wof:lastmodified":1566650317,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774140,
     "wof:name":"Debba",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1292922245,
-    "wof:lastmodified":1566650079,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774069,
     "wof:name":"Dombo",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

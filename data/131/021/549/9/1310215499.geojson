@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310215499,
-    "wof:lastmodified":1566650343,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774149,
     "wof:name":"Myenn",
     "wof:parent_id":1091914139,
     "wof:placetype":"locality",

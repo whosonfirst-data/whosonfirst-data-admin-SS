@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1293117329,
-    "wof:lastmodified":1566650119,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774083,
     "wof:name":"Didi",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

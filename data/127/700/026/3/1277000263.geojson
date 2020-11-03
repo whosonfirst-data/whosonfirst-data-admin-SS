@@ -62,7 +62,13 @@
         }
     ],
     "wof:id":1277000263,
-    "wof:lastmodified":1566650141,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774091,
     "wof:name":"Lafon",
     "wof:parent_id":1091915633,
     "wof:placetype":"locality",

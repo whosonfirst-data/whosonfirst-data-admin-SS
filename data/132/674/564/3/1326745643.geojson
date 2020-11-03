@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1326745643,
-    "wof:lastmodified":1566649906,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774009,
     "wof:name":"Away",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

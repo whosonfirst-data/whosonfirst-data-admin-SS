@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327348681,
-    "wof:lastmodified":1566649935,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774021,
     "wof:name":"Lofusa",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

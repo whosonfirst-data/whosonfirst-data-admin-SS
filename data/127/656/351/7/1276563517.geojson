@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276563517,
-    "wof:lastmodified":1566650160,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774097,
     "wof:name":"Ngutwa",
     "wof:parent_id":1091914701,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343772411,
-    "wof:lastmodified":1566650003,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774044,
     "wof:name":"Debbat Kudit",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

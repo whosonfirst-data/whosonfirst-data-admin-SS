@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276558295,
-    "wof:lastmodified":1566650197,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774111,
     "wof:name":"Ajok",
     "wof:parent_id":1091916061,
     "wof:placetype":"locality",

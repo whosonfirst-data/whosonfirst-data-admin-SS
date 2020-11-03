@@ -99,7 +99,13 @@
         }
     ],
     "wof:id":1091915059,
-    "wof:lastmodified":1566650390,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774166,
     "wof:name":"Pibor",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

@@ -148,7 +148,13 @@
         }
     ],
     "wof:id":1343973191,
-    "wof:lastmodified":1566649992,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774040,
     "wof:name":"Tor",
     "wof:parent_id":1091913861,
     "wof:placetype":"locality",

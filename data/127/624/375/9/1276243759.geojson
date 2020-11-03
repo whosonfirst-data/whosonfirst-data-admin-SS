@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276243759,
-    "wof:lastmodified":1566650186,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774107,
     "wof:name":"Mejiri",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

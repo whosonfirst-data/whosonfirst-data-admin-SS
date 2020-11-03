@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1327441799,
-    "wof:lastmodified":1566649974,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774034,
     "wof:name":"Khor Tombak",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

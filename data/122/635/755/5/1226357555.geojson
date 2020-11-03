@@ -103,7 +103,13 @@
         }
     ],
     "wof:id":1226357555,
-    "wof:lastmodified":1566650580,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774214,
     "wof:name":"Bodo",
     "wof:parent_id":1091916233,
     "wof:placetype":"locality",

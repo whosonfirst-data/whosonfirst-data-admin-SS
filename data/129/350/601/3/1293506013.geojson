@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293506013,
-    "wof:lastmodified":1566650103,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774077,
     "wof:name":"Ajokogi",
     "wof:parent_id":1091915369,
     "wof:placetype":"locality",

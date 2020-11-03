@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242989315,
-    "wof:lastmodified":1566650485,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774191,
     "wof:name":"Opari",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

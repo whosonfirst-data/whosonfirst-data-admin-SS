@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193147549,
-    "wof:lastmodified":1566650279,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774126,
     "wof:name":"Agit",
     "wof:parent_id":1091913401,
     "wof:placetype":"locality",

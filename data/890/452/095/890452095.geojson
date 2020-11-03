@@ -107,7 +107,13 @@
         }
     ],
     "wof:id":890452095,
-    "wof:lastmodified":1582319579,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774178,
     "wof:name":"Magwi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1344067359,
-    "wof:lastmodified":1566649995,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774041,
     "wof:name":"Toich",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

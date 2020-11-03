@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1193147453,
-    "wof:lastmodified":1566650281,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774127,
     "wof:name":"Kanna",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

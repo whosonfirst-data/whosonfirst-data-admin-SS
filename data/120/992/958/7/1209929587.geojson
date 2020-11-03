@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209929587,
-    "wof:lastmodified":1566650238,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774117,
     "wof:name":"Dok",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

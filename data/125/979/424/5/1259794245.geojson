@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259794245,
-    "wof:lastmodified":1566650523,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774200,
     "wof:name":"El Fargir",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

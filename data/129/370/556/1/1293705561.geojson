@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293705561,
-    "wof:lastmodified":1566650084,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774070,
     "wof:name":"Chabarkh",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

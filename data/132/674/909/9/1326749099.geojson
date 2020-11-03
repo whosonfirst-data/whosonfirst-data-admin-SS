@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326749099,
-    "wof:lastmodified":1566649903,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774008,
     "wof:name":"Agoi",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

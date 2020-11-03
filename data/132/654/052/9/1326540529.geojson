@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1326540529,
-    "wof:lastmodified":1566649965,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774031,
     "wof:name":"Mondi",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

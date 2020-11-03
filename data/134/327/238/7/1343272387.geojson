@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1343272387,
-    "wof:lastmodified":1566650043,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774059,
     "wof:name":"Nabil",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1226758119,
-    "wof:lastmodified":1566650563,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774210,
     "wof:name":"Dima",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

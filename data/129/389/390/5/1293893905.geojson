@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293893905,
-    "wof:lastmodified":1566650121,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774084,
     "wof:name":"Dorappi",
     "wof:parent_id":1091914701,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310223761,
-    "wof:lastmodified":1566650318,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774141,
     "wof:name":"Wun Shwei",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

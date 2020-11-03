@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327246513,
-    "wof:lastmodified":1566649930,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774018,
     "wof:name":"Ghannam",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

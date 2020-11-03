@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360195153,
-    "wof:lastmodified":1566650388,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774165,
     "wof:name":"Fargh",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

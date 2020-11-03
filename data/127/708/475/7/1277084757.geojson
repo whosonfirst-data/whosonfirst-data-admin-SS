@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277084757,
-    "wof:lastmodified":1566650136,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774089,
     "wof:name":"Panyireth",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

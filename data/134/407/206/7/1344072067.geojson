@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1344072067,
-    "wof:lastmodified":1566649998,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774043,
     "wof:name":"Loronyo",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

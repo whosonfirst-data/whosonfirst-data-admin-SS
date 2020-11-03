@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360203535,
-    "wof:lastmodified":1566650375,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774161,
     "wof:name":"Kanboi",
     "wof:parent_id":1091915449,
     "wof:placetype":"locality",

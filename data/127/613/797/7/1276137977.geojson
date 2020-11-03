@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276137977,
-    "wof:lastmodified":1566650174,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774102,
     "wof:name":"Liet Adhiau Mith",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

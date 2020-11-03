@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310516737,
-    "wof:lastmodified":1566650360,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774156,
     "wof:name":"Towot",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

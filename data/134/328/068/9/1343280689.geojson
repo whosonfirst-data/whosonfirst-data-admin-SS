@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343280689,
-    "wof:lastmodified":1566650050,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774061,
     "wof:name":"Shalob",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

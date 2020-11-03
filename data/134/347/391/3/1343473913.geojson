@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343473913,
-    "wof:lastmodified":1566650005,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774045,
     "wof:name":"Famat",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

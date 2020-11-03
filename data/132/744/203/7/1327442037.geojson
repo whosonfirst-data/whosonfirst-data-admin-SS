@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327442037,
-    "wof:lastmodified":1566649970,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774033,
     "wof:name":"Tebusaya",
     "wof:parent_id":1091913397,
     "wof:placetype":"locality",

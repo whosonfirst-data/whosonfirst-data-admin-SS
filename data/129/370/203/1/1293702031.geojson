@@ -181,7 +181,13 @@
         }
     ],
     "wof:id":1293702031,
-    "wof:lastmodified":1566650086,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774071,
     "wof:name":"Nun",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

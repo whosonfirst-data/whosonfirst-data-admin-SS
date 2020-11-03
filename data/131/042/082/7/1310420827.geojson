@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310420827,
-    "wof:lastmodified":1566650334,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774146,
     "wof:name":"Lekki",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

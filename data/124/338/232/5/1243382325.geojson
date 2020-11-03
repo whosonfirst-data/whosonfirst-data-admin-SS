@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243382325,
-    "wof:lastmodified":1566650435,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774179,
     "wof:name":"Tete",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1193026589,
-    "wof:lastmodified":1566650287,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774129,
     "wof:name":"Baranga",
     "wof:parent_id":1091913733,
     "wof:placetype":"locality",

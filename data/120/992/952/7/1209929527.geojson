@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209929527,
-    "wof:lastmodified":1566650236,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774116,
     "wof:name":"Wer Ping",
     "wof:parent_id":1091913397,
     "wof:placetype":"locality",

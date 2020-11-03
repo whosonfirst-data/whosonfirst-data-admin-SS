@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1242592645,
-    "wof:lastmodified":1566650458,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774185,
     "wof:name":"Jada",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

@@ -127,7 +127,13 @@
         }
     ],
     "wof:id":1242788095,
-    "wof:lastmodified":1566650484,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774191,
     "wof:name":"Mura",
     "wof:parent_id":1091915633,
     "wof:placetype":"locality",

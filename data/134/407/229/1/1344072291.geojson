@@ -214,7 +214,13 @@
         }
     ],
     "wof:id":1344072291,
-    "wof:lastmodified":1566649996,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774042,
     "wof:name":"Guru",
     "wof:parent_id":1091913401,
     "wof:placetype":"locality",

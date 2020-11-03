@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259990005,
-    "wof:lastmodified":1566650515,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774199,
     "wof:name":"Ginbang",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

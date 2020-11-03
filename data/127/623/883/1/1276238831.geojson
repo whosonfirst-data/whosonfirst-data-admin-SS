@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276238831,
-    "wof:lastmodified":1566650181,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774105,
     "wof:name":"Jok",
     "wof:parent_id":1091915369,
     "wof:placetype":"locality",

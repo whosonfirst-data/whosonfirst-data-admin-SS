@@ -154,7 +154,13 @@
         }
     ],
     "wof:id":1310416471,
-    "wof:lastmodified":1566650315,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774139,
     "wof:name":"Ripi",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

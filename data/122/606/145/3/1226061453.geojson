@@ -118,7 +118,13 @@
         }
     ],
     "wof:id":1226061453,
-    "wof:lastmodified":1566650615,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774222,
     "wof:name":"Dama",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

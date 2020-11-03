@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1309916287,
-    "wof:lastmodified":1566650412,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774173,
     "wof:name":"Jongwa",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

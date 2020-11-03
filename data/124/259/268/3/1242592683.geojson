@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242592683,
-    "wof:lastmodified":1566650455,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774184,
     "wof:name":"Abu Qurun",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

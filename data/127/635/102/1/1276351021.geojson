@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276351021,
-    "wof:lastmodified":1566650166,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774100,
     "wof:name":"Ajijo",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

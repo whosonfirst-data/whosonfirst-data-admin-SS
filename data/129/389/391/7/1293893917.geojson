@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293893917,
-    "wof:lastmodified":1566650120,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774083,
     "wof:name":"Saleh Kulunguru",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

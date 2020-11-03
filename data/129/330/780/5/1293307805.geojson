@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293307805,
-    "wof:lastmodified":1566650069,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774065,
     "wof:name":"Dipur",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

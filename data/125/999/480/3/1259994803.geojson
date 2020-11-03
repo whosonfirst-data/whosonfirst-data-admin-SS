@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259994803,
-    "wof:lastmodified":1566650517,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774199,
     "wof:name":"Bushayr",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

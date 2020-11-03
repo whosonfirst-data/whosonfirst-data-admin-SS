@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310024303,
-    "wof:lastmodified":1566650357,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774155,
     "wof:name":"Kakorodo",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

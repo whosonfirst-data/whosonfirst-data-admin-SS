@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1310320375,
-    "wof:lastmodified":1566650345,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774150,
     "wof:name":"Tidfok",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

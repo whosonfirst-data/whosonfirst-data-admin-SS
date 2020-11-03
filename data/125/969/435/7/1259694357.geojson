@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259694357,
-    "wof:lastmodified":1566650547,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774206,
     "wof:name":"Fundiker",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

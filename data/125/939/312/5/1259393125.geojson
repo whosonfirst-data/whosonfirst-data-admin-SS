@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1259393125,
-    "wof:lastmodified":1566650509,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774197,
     "wof:name":"Ire",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

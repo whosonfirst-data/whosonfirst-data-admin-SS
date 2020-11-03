@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326548765,
-    "wof:lastmodified":1566649968,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774032,
     "wof:name":"Oanagab",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1327250037,
-    "wof:lastmodified":1566649920,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774015,
     "wof:name":"Tige",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310520307,
-    "wof:lastmodified":1566650330,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774145,
     "wof:name":"Bichu",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

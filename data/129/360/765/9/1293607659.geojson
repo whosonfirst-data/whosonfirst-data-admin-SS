@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293607659,
-    "wof:lastmodified":1566650106,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774078,
     "wof:name":"Da",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

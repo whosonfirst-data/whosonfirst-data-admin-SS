@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326740843,
-    "wof:lastmodified":1566649904,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774009,
     "wof:name":"Agujang",
     "wof:parent_id":1091916061,
     "wof:placetype":"locality",

@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1276892671,
-    "wof:lastmodified":1566650152,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774095,
     "wof:name":"Negak",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

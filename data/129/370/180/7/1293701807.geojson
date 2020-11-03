@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1293701807,
-    "wof:lastmodified":1566650086,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774071,
     "wof:name":"Huru",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

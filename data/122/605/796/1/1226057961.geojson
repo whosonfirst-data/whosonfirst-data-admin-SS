@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1226057961,
-    "wof:lastmodified":1566650576,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774213,
     "wof:name":"Kuch",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

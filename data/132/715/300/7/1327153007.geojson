@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327153007,
-    "wof:lastmodified":1566649925,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774017,
     "wof:name":"Manyang",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

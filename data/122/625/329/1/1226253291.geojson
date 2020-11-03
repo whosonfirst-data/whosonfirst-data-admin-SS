@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1226253291,
-    "wof:lastmodified":1566650596,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774218,
     "wof:name":"`Abd er Rasul",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

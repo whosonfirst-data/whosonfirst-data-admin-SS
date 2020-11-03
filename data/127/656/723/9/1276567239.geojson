@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1276567239,
-    "wof:lastmodified":1566650159,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774097,
     "wof:name":"Lear",
     "wof:parent_id":1091915755,
     "wof:placetype":"locality",

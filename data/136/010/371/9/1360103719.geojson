@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360103719,
-    "wof:lastmodified":1566650381,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774163,
     "wof:name":"Nyaithok",
     "wof:parent_id":1091913861,
     "wof:placetype":"locality",

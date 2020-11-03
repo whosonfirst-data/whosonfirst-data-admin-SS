@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1276892817,
-    "wof:lastmodified":1566650152,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774095,
     "wof:name":"Shasha",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

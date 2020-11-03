@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1292913869,
-    "wof:lastmodified":1566650116,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774082,
     "wof:name":"Thiep Shawor",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

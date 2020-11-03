@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1310611657,
-    "wof:lastmodified":1566650353,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774153,
     "wof:name":"Kaich",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

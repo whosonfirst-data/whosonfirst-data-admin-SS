@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310712319,
-    "wof:lastmodified":1566650324,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774143,
     "wof:name":"Ulako",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

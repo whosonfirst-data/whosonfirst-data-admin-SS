@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343477531,
-    "wof:lastmodified":1566650006,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774046,
     "wof:name":"Kurshwat",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

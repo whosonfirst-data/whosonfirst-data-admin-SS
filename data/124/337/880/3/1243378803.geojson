@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243378803,
-    "wof:lastmodified":1566650437,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774180,
     "wof:name":"Shiromba",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

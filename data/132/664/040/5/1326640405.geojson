@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326640405,
-    "wof:lastmodified":1566649958,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774028,
     "wof:name":"Atok",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

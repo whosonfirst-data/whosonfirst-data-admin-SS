@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242592653,
-    "wof:lastmodified":1566650458,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774185,
     "wof:name":"Wuntow",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

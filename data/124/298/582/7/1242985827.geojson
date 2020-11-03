@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1242985827,
-    "wof:lastmodified":1566650491,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774193,
     "wof:name":"Kwan",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

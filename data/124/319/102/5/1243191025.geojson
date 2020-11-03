@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243191025,
-    "wof:lastmodified":1566650503,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774196,
     "wof:name":"Fadebbi",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

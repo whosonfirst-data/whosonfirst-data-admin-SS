@@ -121,7 +121,13 @@
         }
     ],
     "wof:id":1326640411,
-    "wof:lastmodified":1566649957,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774028,
     "wof:name":"Yari",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

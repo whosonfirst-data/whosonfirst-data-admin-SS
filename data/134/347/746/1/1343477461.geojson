@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343477461,
-    "wof:lastmodified":1566650008,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774046,
     "wof:name":"Akwat",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

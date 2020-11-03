@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344167485,
-    "wof:lastmodified":1566650035,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774056,
     "wof:name":"Bundagora",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

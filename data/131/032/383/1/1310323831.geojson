@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310323831,
-    "wof:lastmodified":1566650345,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774150,
     "wof:name":"Kuidko",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

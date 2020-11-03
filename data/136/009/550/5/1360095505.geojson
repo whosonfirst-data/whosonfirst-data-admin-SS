@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360095505,
-    "wof:lastmodified":1566650366,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774158,
     "wof:name":"Wadda",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

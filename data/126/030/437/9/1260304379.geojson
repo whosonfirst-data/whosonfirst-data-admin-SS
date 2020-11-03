@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260304379,
-    "wof:lastmodified":1566650295,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774132,
     "wof:name":"Demtemma",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309727377,
-    "wof:lastmodified":1566650424,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774177,
     "wof:name":"Ayowangen",
     "wof:parent_id":1091915845,
     "wof:placetype":"locality",

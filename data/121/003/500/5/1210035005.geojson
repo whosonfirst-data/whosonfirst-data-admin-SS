@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1210035005,
-    "wof:lastmodified":1566650270,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774122,
     "wof:name":"Gweri",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

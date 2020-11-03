@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293893891,
-    "wof:lastmodified":1566650124,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774085,
     "wof:name":"Lokwanur",
     "wof:parent_id":1091913493,
     "wof:placetype":"locality",

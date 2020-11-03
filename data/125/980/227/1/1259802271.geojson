@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1259802271,
-    "wof:lastmodified":1566650548,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774207,
     "wof:name":"Borgan",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

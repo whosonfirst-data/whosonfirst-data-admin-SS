@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243187449,
-    "wof:lastmodified":1566650496,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774194,
     "wof:name":"Hugeirat el Khadra",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209825859,
-    "wof:lastmodified":1566650230,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774116,
     "wof:name":"Wawali",
     "wof:parent_id":1091915715,
     "wof:placetype":"locality",

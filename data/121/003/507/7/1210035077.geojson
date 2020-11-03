@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1210035077,
-    "wof:lastmodified":1566650270,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774122,
     "wof:name":"Yala",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

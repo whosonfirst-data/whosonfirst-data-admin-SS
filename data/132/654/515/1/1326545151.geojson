@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326545151,
-    "wof:lastmodified":1566649969,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774033,
     "wof:name":"Abdullah Kyango",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

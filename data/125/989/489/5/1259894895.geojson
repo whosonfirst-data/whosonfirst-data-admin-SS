@@ -97,7 +97,13 @@
         }
     ],
     "wof:id":1259894895,
-    "wof:lastmodified":1566650556,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774208,
     "wof:name":"Buko",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

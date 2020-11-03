@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226161553,
-    "wof:lastmodified":1566650575,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774213,
     "wof:name":"Tirro",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

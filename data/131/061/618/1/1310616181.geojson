@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310616181,
-    "wof:lastmodified":1566650351,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774152,
     "wof:name":"Atwelgny",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

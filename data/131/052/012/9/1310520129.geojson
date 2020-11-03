@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310520129,
-    "wof:lastmodified":1566650329,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774145,
     "wof:name":"Gemmeira",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

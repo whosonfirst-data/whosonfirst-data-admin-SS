@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259802435,
-    "wof:lastmodified":1566650549,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774207,
     "wof:name":"Kaibui",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

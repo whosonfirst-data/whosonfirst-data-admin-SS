@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310520163,
-    "wof:lastmodified":1566650330,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774145,
     "wof:name":"Pareth",
     "wof:parent_id":1091913653,
     "wof:placetype":"locality",

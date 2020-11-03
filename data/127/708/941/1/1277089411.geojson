@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1277089411,
-    "wof:lastmodified":1566650135,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774089,
     "wof:name":"Sheikh Mulai",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

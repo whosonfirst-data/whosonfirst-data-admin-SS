@@ -166,7 +166,13 @@
         }
     ],
     "wof:id":1343469169,
-    "wof:lastmodified":1566650000,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774043,
     "wof:name":"Dido",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

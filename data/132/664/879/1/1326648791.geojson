@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1326648791,
-    "wof:lastmodified":1566649960,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774029,
     "wof:name":"Nur",
     "wof:parent_id":1091915583,
     "wof:placetype":"locality",

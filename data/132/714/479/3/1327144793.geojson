@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327144793,
-    "wof:lastmodified":1566649922,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774016,
     "wof:name":"Fanei",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

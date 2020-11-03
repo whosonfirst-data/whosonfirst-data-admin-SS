@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1344172361,
-    "wof:lastmodified":1566650033,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774055,
     "wof:name":"Nagichot",
     "wof:parent_id":1091913493,
     "wof:placetype":"locality",

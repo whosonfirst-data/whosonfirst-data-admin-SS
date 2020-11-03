@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209929351,
-    "wof:lastmodified":1566650238,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774117,
     "wof:name":"Piku",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

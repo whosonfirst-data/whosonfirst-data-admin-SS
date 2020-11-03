@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1292922175,
-    "wof:lastmodified":1566650078,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774069,
     "wof:name":"Mulai",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

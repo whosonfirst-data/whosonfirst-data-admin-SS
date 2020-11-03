@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310116339,
-    "wof:lastmodified":1566650339,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774148,
     "wof:name":"Kurimaulau",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

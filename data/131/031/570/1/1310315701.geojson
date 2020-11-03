@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310315701,
-    "wof:lastmodified":1566650328,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774144,
     "wof:name":"Woinya Wol",
     "wof:parent_id":1091914495,
     "wof:placetype":"locality",

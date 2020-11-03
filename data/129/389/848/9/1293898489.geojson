@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1293898489,
-    "wof:lastmodified":1566650123,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774084,
     "wof:name":"Mogu",
     "wof:parent_id":1091913733,
     "wof:placetype":"locality",

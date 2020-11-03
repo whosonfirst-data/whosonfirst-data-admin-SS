@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293893907,
-    "wof:lastmodified":1566650121,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774083,
     "wof:name":"Jongok",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1226766507,
-    "wof:lastmodified":1566650598,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Ganda",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

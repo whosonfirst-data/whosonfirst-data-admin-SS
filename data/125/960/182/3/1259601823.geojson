@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1259601823,
-    "wof:lastmodified":1566650542,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774205,
     "wof:name":"Jak",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

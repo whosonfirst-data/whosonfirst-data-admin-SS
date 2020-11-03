@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276996479,
-    "wof:lastmodified":1566650201,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774112,
     "wof:name":"Monghar",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

@@ -127,7 +127,13 @@
         }
     ],
     "wof:id":1344167621,
-    "wof:lastmodified":1566650035,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774056,
     "wof:name":"List",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

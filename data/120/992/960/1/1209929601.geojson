@@ -91,7 +91,13 @@
         }
     ],
     "wof:id":1209929601,
-    "wof:lastmodified":1566650239,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774117,
     "wof:name":"Lao",
     "wof:parent_id":1091915715,
     "wof:placetype":"locality",

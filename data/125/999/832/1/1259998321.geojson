@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259998321,
-    "wof:lastmodified":1566650515,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774199,
     "wof:name":"Lim Ketat",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

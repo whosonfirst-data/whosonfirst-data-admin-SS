@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243086229,
-    "wof:lastmodified":1566650443,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774181,
     "wof:name":"Narir",
     "wof:parent_id":1091915583,
     "wof:placetype":"locality",

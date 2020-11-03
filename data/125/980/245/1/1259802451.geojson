@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259802451,
-    "wof:lastmodified":1566650548,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774207,
     "wof:name":"Shiekh Alio Bain",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

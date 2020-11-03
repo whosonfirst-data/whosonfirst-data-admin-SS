@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293607627,
-    "wof:lastmodified":1566650107,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774078,
     "wof:name":"Bundukki",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

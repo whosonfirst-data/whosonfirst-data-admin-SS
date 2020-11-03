@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293893909,
-    "wof:lastmodified":1566650121,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774083,
     "wof:name":"Nial",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

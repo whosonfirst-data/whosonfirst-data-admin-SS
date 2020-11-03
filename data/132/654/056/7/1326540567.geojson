@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326540567,
-    "wof:lastmodified":1566649968,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774032,
     "wof:name":"Afiatt",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

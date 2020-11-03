@@ -81,7 +81,13 @@
         }
     ],
     "wof:id":1091914753,
-    "wof:lastmodified":1566650404,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774171,
     "wof:name":"Ikotos",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

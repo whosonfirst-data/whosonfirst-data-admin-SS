@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309920783,
-    "wof:lastmodified":1566650416,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774175,
     "wof:name":"Lwakchuk",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

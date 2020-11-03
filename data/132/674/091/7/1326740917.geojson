@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326740917,
-    "wof:lastmodified":1566649905,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774009,
     "wof:name":"Alak",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293311281,
-    "wof:lastmodified":1566650062,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774063,
     "wof:name":"Kobor",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

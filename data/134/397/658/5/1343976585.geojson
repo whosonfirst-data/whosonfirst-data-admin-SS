@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343976585,
-    "wof:lastmodified":1566649989,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774039,
     "wof:name":"Nerboar",
     "wof:parent_id":1091913913,
     "wof:placetype":"locality",

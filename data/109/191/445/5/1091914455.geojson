@@ -108,7 +108,13 @@
         }
     ],
     "wof:id":1091914455,
-    "wof:lastmodified":1566650406,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774171,
     "wof:name":"Maridi",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

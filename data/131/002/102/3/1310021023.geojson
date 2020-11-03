@@ -109,7 +109,13 @@
         }
     ],
     "wof:id":1310021023,
-    "wof:lastmodified":1566650356,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774154,
     "wof:name":"Mur",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

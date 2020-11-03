@@ -244,7 +244,13 @@
         }
     ],
     "wof:id":1226656343,
-    "wof:lastmodified":1566650617,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774223,
     "wof:name":"Chur",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

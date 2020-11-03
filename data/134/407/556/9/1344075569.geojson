@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344075569,
-    "wof:lastmodified":1566649995,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774041,
     "wof:name":"Abeir",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

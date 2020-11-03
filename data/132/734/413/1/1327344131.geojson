@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1327344131,
-    "wof:lastmodified":1566649933,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774020,
     "wof:name":"Faiou",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

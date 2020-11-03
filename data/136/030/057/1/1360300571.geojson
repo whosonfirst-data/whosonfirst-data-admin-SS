@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360300571,
-    "wof:lastmodified":1566650373,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774161,
     "wof:name":"Fakanno",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1293705521,
-    "wof:lastmodified":1566650087,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774072,
     "wof:name":"Gau",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

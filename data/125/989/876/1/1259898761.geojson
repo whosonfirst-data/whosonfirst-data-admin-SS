@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259898761,
-    "wof:lastmodified":1566650555,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774208,
     "wof:name":"Bogora",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

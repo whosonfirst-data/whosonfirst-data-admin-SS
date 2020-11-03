@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310516733,
-    "wof:lastmodified":1566650360,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774156,
     "wof:name":"Shom",
     "wof:parent_id":1091914139,
     "wof:placetype":"locality",

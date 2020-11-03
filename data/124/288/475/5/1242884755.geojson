@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242884755,
-    "wof:lastmodified":1566650449,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774183,
     "wof:name":"Warl Ngarl",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

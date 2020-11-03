@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1309920877,
-    "wof:lastmodified":1566650417,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774175,
     "wof:name":"Toruk",
     "wof:parent_id":1091915449,
     "wof:placetype":"locality",

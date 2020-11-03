@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259401403,
-    "wof:lastmodified":1566650528,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774202,
     "wof:name":"Bulugumu",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

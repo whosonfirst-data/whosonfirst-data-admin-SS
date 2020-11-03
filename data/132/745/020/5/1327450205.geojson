@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327450205,
-    "wof:lastmodified":1566649975,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774035,
     "wof:name":"Moiyil",
     "wof:parent_id":1091915583,
     "wof:placetype":"locality",

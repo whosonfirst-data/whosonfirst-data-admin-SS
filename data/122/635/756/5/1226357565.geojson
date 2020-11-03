@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226357565,
-    "wof:lastmodified":1566650582,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774215,
     "wof:name":"Dorchengdwoth",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

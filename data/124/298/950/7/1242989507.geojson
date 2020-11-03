@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242989507,
-    "wof:lastmodified":1566650489,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774192,
     "wof:name":"Kabur",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

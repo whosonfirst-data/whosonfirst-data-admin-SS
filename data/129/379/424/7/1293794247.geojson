@@ -133,7 +133,13 @@
         }
     ],
     "wof:id":1293794247,
-    "wof:lastmodified":1566650081,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774070,
     "wof:name":"Mayen",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

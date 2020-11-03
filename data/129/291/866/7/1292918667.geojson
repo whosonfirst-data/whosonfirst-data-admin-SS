@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1292918667,
-    "wof:lastmodified":1566650113,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774080,
     "wof:name":"Beringi",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

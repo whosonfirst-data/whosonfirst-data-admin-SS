@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193155629,
-    "wof:lastmodified":1566650277,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774125,
     "wof:name":"Nyankennah",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

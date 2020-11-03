@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1293303101,
-    "wof:lastmodified":1566650069,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774065,
     "wof:name":"Gumba",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

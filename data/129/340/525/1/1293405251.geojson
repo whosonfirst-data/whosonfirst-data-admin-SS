@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293405251,
-    "wof:lastmodified":1566650097,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774074,
     "wof:name":"Lolimi",
     "wof:parent_id":1091914791,
     "wof:placetype":"locality",

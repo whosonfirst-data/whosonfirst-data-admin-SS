@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309916219,
-    "wof:lastmodified":1566650412,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774174,
     "wof:name":"Alel",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243373957,
-    "wof:lastmodified":1566650439,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774180,
     "wof:name":"Mafargair",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

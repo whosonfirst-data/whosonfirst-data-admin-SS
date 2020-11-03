@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226558737,
-    "wof:lastmodified":1566650610,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774221,
     "wof:name":"Lujula",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

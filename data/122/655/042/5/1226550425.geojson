@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226550425,
-    "wof:lastmodified":1566650612,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774222,
     "wof:name":"Jamkuach",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293502451,
-    "wof:lastmodified":1566650101,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774076,
     "wof:name":"Palek",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

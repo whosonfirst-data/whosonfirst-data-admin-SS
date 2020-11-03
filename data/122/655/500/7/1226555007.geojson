@@ -103,7 +103,13 @@
         }
     ],
     "wof:id":1226555007,
-    "wof:lastmodified":1566650612,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774221,
     "wof:name":"Hassan",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

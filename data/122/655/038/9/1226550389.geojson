@@ -72,7 +72,13 @@
         }
     ],
     "wof:id":1226550389,
-    "wof:lastmodified":1566650611,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774221,
     "wof:name":"Kangi",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

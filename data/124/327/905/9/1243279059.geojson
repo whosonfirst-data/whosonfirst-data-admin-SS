@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1243279059,
-    "wof:lastmodified":1566650499,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774195,
     "wof:name":"Maren",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

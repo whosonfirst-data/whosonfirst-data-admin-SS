@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242892493,
-    "wof:lastmodified":1566650446,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774182,
     "wof:name":"Dulba",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

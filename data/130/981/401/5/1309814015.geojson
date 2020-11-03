@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1309814015,
-    "wof:lastmodified":1566650422,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774176,
     "wof:name":"Doleib Hill",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

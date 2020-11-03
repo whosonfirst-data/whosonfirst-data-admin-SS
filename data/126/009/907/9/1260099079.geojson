@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260099079,
-    "wof:lastmodified":1566650288,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774130,
     "wof:name":"Nakarichol",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

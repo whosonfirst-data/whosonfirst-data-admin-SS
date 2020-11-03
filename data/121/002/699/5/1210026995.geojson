@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1210026995,
-    "wof:lastmodified":1566650273,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774123,
     "wof:name":"Nong",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

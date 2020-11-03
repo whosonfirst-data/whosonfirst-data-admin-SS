@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1343873607,
-    "wof:lastmodified":1566650047,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774060,
     "wof:name":"Pakam",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

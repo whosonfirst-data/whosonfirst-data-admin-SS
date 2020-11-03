@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1243182757,
-    "wof:lastmodified":1566650493,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774193,
     "wof:name":"Pumi",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

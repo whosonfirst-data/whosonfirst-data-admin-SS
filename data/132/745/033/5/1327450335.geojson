@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327450335,
-    "wof:lastmodified":1566649977,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774035,
     "wof:name":"Oshima",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343873621,
-    "wof:lastmodified":1566650044,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774059,
     "wof:name":"Nyetong",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226253347,
-    "wof:lastmodified":1566650595,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774218,
     "wof:name":"Beili",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

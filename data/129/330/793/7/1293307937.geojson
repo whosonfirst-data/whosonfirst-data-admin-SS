@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1293307937,
-    "wof:lastmodified":1566650066,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774064,
     "wof:name":"Karotho Post",
     "wof:parent_id":1091914791,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293701925,
-    "wof:lastmodified":1566650085,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774071,
     "wof:name":"Gilu",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226457651,
-    "wof:lastmodified":1566650568,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774211,
     "wof:name":"Ugar",
     "wof:parent_id":1091915101,
     "wof:placetype":"locality",

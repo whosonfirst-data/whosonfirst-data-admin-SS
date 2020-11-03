@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326540391,
-    "wof:lastmodified":1566649966,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774031,
     "wof:name":"Nyekan",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

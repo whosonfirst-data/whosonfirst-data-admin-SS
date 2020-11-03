@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193155693,
-    "wof:lastmodified":1566650274,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774124,
     "wof:name":"Gub",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

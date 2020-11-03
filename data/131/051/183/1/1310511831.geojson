@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310511831,
-    "wof:lastmodified":1566650363,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774157,
     "wof:name":"Smarshuntsi",
     "wof:parent_id":1091913397,
     "wof:placetype":"locality",

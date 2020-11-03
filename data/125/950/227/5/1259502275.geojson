@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1259502275,
-    "wof:lastmodified":1566650534,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774203,
     "wof:name":"Dang",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

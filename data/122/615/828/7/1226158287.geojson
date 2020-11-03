@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226158287,
-    "wof:lastmodified":1566650603,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Thworo",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

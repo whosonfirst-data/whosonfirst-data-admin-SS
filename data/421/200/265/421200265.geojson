@@ -301,7 +301,13 @@
         }
     ],
     "wof:id":421200265,
-    "wof:lastmodified":1566650430,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774178,
     "wof:name":"Yambio",
     "wof:parent_id":1091916233,
     "wof:placetype":"locality",

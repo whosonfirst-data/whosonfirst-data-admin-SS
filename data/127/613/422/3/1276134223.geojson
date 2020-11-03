@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276134223,
-    "wof:lastmodified":1566650175,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774103,
     "wof:name":"Twango",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

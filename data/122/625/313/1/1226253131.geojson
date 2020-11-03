@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226253131,
-    "wof:lastmodified":1566650594,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774218,
     "wof:name":"Aiyem",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

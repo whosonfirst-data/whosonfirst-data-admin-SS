@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260295563,
-    "wof:lastmodified":1566650302,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774134,
     "wof:name":"Korjole",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

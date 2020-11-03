@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309916417,
-    "wof:lastmodified":1566650413,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774174,
     "wof:name":"Akwongdair",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

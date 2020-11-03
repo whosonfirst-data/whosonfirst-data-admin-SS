@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1091915715,
-    "wof:lastmodified":1566650408,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774172,
     "wof:name":"Kajo-keji",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

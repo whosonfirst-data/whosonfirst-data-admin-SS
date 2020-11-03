@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326845617,
-    "wof:lastmodified":1566649950,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774026,
     "wof:name":"Longba",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

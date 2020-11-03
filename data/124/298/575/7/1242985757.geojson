@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242985757,
-    "wof:lastmodified":1566650487,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774192,
     "wof:name":"Lomer",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

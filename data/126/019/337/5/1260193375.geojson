@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260193375,
-    "wof:lastmodified":1566650305,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774135,
     "wof:name":"Avokaia",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

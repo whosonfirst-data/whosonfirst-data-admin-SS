@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276247577,
-    "wof:lastmodified":1566650185,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774107,
     "wof:name":"Keribala",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

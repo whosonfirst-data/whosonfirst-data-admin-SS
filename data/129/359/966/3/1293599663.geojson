@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293599663,
-    "wof:lastmodified":1566650099,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774075,
     "wof:name":"Malau",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

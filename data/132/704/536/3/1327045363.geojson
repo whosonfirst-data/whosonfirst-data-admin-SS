@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327045363,
-    "wof:lastmodified":1566649946,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774025,
     "wof:name":"Wuntit",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

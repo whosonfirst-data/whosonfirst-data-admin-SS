@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242696551,
-    "wof:lastmodified":1566650463,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774187,
     "wof:name":"Unarol",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

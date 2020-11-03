@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1260304369,
-    "wof:lastmodified":1566650295,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774132,
     "wof:name":"Mabolo",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

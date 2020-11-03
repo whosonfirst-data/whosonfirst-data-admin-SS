@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276345925,
-    "wof:lastmodified":1566650155,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774096,
     "wof:name":"Jerweng",
     "wof:parent_id":1091915369,
     "wof:placetype":"locality",

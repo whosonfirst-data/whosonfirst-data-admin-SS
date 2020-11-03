@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343571681,
-    "wof:lastmodified":1566650016,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774049,
     "wof:name":"Nianthon",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

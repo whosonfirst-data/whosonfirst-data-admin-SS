@@ -98,7 +98,13 @@
         }
     ],
     "wof:id":1226161645,
-    "wof:lastmodified":1566650574,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774213,
     "wof:name":"Warab",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

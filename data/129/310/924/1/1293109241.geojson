@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293109241,
-    "wof:lastmodified":1566650127,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774086,
     "wof:name":"Aiyon",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

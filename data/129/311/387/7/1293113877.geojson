@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1293113877,
-    "wof:lastmodified":1566650120,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774083,
     "wof:name":"El Amin",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

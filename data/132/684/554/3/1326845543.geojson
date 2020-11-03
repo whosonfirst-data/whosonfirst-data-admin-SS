@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326845543,
-    "wof:lastmodified":1566649953,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774027,
     "wof:name":"Moing Jang",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

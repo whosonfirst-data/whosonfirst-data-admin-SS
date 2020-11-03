@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243078091,
-    "wof:lastmodified":1566650434,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774179,
     "wof:name":"Fallel",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

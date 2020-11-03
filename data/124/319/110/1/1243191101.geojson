@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243191101,
-    "wof:lastmodified":1566650505,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774196,
     "wof:name":"Nangolet",
     "wof:parent_id":1091914791,
     "wof:placetype":"locality",

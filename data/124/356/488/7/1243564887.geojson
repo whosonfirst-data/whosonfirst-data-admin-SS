@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243564887,
-    "wof:lastmodified":1566650475,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774189,
     "wof:name":"Paloich",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

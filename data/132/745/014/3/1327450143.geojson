@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327450143,
-    "wof:lastmodified":1566649975,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774035,
     "wof:name":"Agok",
     "wof:parent_id":1091913405,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343477585,
-    "wof:lastmodified":1566650008,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774046,
     "wof:name":"Angok",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

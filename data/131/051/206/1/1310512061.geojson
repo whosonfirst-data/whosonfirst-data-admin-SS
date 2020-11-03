@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310512061,
-    "wof:lastmodified":1566650362,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774157,
     "wof:name":"Rowan",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

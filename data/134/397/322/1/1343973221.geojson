@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343973221,
-    "wof:lastmodified":1566649990,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774040,
     "wof:name":"Irende",
     "wof:parent_id":1091915633,
     "wof:placetype":"locality",

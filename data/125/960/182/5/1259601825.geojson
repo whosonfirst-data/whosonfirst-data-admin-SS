@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259601825,
-    "wof:lastmodified":1566650542,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774205,
     "wof:name":"Permalwal",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

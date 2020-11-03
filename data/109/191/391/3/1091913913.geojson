@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091913913,
-    "wof:lastmodified":1566650389,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774166,
     "wof:name":"Mayendit",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

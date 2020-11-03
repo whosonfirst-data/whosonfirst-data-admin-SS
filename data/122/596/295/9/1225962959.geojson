@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225962959,
-    "wof:lastmodified":1566650592,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774217,
     "wof:name":"Dulyat",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293799007,
-    "wof:lastmodified":1566650080,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774069,
     "wof:name":"Agork",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

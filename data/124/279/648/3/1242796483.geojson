@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242796483,
-    "wof:lastmodified":1566650479,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774190,
     "wof:name":"Nyu Fan Num Ti",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

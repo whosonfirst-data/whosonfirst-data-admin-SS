@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1309727335,
-    "wof:lastmodified":1566650426,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774177,
     "wof:name":"Pagai",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

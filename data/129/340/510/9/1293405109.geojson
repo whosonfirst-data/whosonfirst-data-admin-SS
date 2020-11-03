@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293405109,
-    "wof:lastmodified":1566650094,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774074,
     "wof:name":"Akakarut",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1242989345,
-    "wof:lastmodified":1566650490,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774193,
     "wof:name":"Minyori",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

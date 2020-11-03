@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193151963,
-    "wof:lastmodified":1566650276,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774125,
     "wof:name":"Lakima",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

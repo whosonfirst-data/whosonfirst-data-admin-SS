@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327348749,
-    "wof:lastmodified":1566649933,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774020,
     "wof:name":"Abiyai",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

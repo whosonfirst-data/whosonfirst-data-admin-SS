@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226762903,
-    "wof:lastmodified":1566650602,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Burawa",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

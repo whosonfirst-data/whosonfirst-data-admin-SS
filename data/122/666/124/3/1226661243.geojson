@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226661243,
-    "wof:lastmodified":1566650586,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774216,
     "wof:name":"Mejikki",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

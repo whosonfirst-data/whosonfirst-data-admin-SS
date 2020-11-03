@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243274497,
-    "wof:lastmodified":1566650497,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774194,
     "wof:name":"Mainaguro",
     "wof:parent_id":1091913781,
     "wof:placetype":"locality",

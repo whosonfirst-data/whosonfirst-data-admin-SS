@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293798949,
-    "wof:lastmodified":1566650082,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774070,
     "wof:name":"Gunor",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

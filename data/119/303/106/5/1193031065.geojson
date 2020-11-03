@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1193031065,
-    "wof:lastmodified":1566650284,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774128,
     "wof:name":"Bang",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

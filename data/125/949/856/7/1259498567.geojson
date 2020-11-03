@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1259498567,
-    "wof:lastmodified":1566650529,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774202,
     "wof:name":"Murgan `Ali",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

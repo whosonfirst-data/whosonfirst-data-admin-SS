@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310611641,
-    "wof:lastmodified":1566650353,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774153,
     "wof:name":"Ful Lual",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

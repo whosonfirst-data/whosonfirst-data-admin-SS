@@ -127,7 +127,13 @@
         }
     ],
     "wof:id":1360300667,
-    "wof:lastmodified":1566650373,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774160,
     "wof:name":"Ador",
     "wof:parent_id":1091914139,
     "wof:placetype":"locality",

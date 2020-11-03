@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326640271,
-    "wof:lastmodified":1566649961,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774029,
     "wof:name":"Vuya",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

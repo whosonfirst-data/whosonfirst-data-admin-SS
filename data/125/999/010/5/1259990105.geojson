@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259990105,
-    "wof:lastmodified":1566650517,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774199,
     "wof:name":"Basakumbo",
     "wof:parent_id":1091914701,
     "wof:placetype":"locality",

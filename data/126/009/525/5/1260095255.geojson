@@ -139,7 +139,13 @@
         }
     ],
     "wof:id":1260095255,
-    "wof:lastmodified":1566650294,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774132,
     "wof:name":"Morgan",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

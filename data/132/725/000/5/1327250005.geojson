@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327250005,
-    "wof:lastmodified":1566649919,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774014,
     "wof:name":"Miyan",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

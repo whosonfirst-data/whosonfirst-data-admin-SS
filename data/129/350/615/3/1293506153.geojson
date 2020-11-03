@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293506153,
-    "wof:lastmodified":1566650102,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774076,
     "wof:name":"Nyantim",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1292922219,
-    "wof:lastmodified":1566650078,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774068,
     "wof:name":"Weng Dim",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

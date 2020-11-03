@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1210026911,
-    "wof:lastmodified":1566650273,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774124,
     "wof:name":"Dute",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

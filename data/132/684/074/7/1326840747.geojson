@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326840747,
-    "wof:lastmodified":1566649954,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774027,
     "wof:name":"Jakari",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

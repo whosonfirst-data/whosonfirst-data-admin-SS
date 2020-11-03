@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1310320283,
-    "wof:lastmodified":1566650347,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774151,
     "wof:name":"Ajak",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

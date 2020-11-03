@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343576405,
-    "wof:lastmodified":1566650019,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774050,
     "wof:name":"Riang",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

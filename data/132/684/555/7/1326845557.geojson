@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326845557,
-    "wof:lastmodified":1566649952,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774027,
     "wof:name":"Tokot",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

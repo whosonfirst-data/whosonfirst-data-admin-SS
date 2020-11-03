@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1226457463,
-    "wof:lastmodified":1566650569,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774212,
     "wof:name":"Ndago",
     "wof:parent_id":1091913401,
     "wof:placetype":"locality",

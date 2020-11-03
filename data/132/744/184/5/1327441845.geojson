@@ -94,7 +94,13 @@
         }
     ],
     "wof:id":1327441845,
-    "wof:lastmodified":1566649974,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774034,
     "wof:name":"Agarak",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

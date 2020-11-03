@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1360095423,
-    "wof:lastmodified":1566650367,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774158,
     "wof:name":"Kalambo",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

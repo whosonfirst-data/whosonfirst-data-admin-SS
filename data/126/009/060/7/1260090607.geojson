@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1260090607,
-    "wof:lastmodified":1566650294,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774132,
     "wof:name":"Wuntau",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

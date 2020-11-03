@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091915985,
-    "wof:lastmodified":1566650404,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774170,
     "wof:name":"Nagero",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

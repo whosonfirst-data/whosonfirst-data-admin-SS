@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1327446591,
-    "wof:lastmodified":1566649970,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774033,
     "wof:name":"Kadi",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

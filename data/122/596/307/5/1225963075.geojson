@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1225963075,
-    "wof:lastmodified":1566650590,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774217,
     "wof:name":"Medi",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

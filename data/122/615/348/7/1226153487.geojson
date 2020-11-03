@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226153487,
-    "wof:lastmodified":1566650604,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774220,
     "wof:name":"Kurkur",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

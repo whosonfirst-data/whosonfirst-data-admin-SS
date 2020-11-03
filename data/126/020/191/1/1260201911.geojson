@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1260201911,
-    "wof:lastmodified":1566650300,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774134,
     "wof:name":"Mer",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

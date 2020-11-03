@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243378811,
-    "wof:lastmodified":1566650438,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774180,
     "wof:name":"Oriny",
     "wof:parent_id":1091913653,
     "wof:placetype":"locality",

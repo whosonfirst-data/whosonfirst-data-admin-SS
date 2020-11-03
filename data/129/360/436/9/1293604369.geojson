@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293604369,
-    "wof:lastmodified":1566650108,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774078,
     "wof:name":"Niyamj",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

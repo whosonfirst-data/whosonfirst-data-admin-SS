@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276668215,
-    "wof:lastmodified":1566650172,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774102,
     "wof:name":"Adhoiny",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

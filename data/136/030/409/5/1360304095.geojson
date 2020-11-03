@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1360304095,
-    "wof:lastmodified":1566650370,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774160,
     "wof:name":"Kunjila",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

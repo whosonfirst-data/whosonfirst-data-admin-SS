@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326741087,
-    "wof:lastmodified":1566649907,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774010,
     "wof:name":"Lomongole",
     "wof:parent_id":1091914791,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276883749,
-    "wof:lastmodified":1566650144,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774092,
     "wof:name":"Tengler",
     "wof:parent_id":1091913913,
     "wof:placetype":"locality",

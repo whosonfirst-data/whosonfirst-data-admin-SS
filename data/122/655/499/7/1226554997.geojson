@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226554997,
-    "wof:lastmodified":1566650611,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774221,
     "wof:name":"Abujop",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

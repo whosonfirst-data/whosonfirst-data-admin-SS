@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310516789,
-    "wof:lastmodified":1566650361,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774156,
     "wof:name":"Nurakur",
     "wof:parent_id":1091913397,
     "wof:placetype":"locality",

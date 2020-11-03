@@ -115,7 +115,13 @@
         }
     ],
     "wof:id":1242981337,
-    "wof:lastmodified":1566650486,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774192,
     "wof:name":"Gore",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

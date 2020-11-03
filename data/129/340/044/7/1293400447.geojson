@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293400447,
-    "wof:lastmodified":1566650096,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774074,
     "wof:name":"Madil",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

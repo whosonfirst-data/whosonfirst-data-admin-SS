@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326840697,
-    "wof:lastmodified":1566649954,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774027,
     "wof:name":"Alwel Weng",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

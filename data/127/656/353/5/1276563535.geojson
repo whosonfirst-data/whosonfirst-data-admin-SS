@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276563535,
-    "wof:lastmodified":1566650157,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774096,
     "wof:name":"Tinechor",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

@@ -268,7 +268,13 @@
         }
     ],
     "wof:id":1310716915,
-    "wof:lastmodified":1566650324,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774143,
     "wof:name":"Babur",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

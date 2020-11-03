@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091914583,
-    "wof:lastmodified":1566650406,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774171,
     "wof:name":"Yirol East",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

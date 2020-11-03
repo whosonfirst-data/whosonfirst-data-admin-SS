@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259498411,
-    "wof:lastmodified":1566650531,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774203,
     "wof:name":"Kegh",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

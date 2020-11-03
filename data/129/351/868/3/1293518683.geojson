@@ -122,7 +122,13 @@
         }
     ],
     "wof:id":1293518683,
-    "wof:lastmodified":1566650106,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774078,
     "wof:name":"Kuacjok",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

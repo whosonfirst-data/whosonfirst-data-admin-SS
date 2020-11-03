@@ -536,7 +536,13 @@
         }
     ],
     "wof:id":421179961,
-    "wof:lastmodified":1582319579,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774178,
     "wof:name":"Juba",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

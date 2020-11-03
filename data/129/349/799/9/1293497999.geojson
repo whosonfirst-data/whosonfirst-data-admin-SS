@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293497999,
-    "wof:lastmodified":1566650090,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774072,
     "wof:name":"Kanza",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

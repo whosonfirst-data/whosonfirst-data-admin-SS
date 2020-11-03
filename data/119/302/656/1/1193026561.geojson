@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193026561,
-    "wof:lastmodified":1566650287,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774129,
     "wof:name":"Amar Nyung",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

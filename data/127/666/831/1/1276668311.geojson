@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276668311,
-    "wof:lastmodified":1566650173,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774102,
     "wof:name":"Narful",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

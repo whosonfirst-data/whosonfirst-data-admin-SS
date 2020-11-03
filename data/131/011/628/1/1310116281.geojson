@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310116281,
-    "wof:lastmodified":1566650338,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774148,
     "wof:name":"Richot",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

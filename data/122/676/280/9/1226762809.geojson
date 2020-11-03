@@ -196,7 +196,13 @@
         }
     ],
     "wof:id":1226762809,
-    "wof:lastmodified":1566650597,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774218,
     "wof:name":"Bar",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276991507,
-    "wof:lastmodified":1566650199,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774111,
     "wof:name":"Abur Owul",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

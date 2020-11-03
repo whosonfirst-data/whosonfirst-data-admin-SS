@@ -298,7 +298,13 @@
         }
     ],
     "wof:id":421171247,
-    "wof:lastmodified":1566650430,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774178,
     "wof:name":"Bor",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

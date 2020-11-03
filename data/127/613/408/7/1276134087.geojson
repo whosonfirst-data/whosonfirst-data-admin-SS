@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276134087,
-    "wof:lastmodified":1566650176,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774103,
     "wof:name":"Masri",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

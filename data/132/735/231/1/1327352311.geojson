@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1327352311,
-    "wof:lastmodified":1566649941,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774023,
     "wof:name":"Singi",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

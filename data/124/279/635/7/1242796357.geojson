@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242796357,
-    "wof:lastmodified":1566650478,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774190,
     "wof:name":"Bundit",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

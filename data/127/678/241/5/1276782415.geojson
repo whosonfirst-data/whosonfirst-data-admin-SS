@@ -118,7 +118,13 @@
         }
     ],
     "wof:id":1276782415,
-    "wof:lastmodified":1566650178,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774104,
     "wof:name":"Dali",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

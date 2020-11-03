@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344267669,
-    "wof:lastmodified":1566650027,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774053,
     "wof:name":"Bir Di",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

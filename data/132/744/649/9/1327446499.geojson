@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327446499,
-    "wof:lastmodified":1566649971,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774033,
     "wof:name":"Peper",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360199767,
-    "wof:lastmodified":1566650386,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774165,
     "wof:name":"Gutetian",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

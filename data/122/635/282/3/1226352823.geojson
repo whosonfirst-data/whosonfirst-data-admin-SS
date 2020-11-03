@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226352823,
-    "wof:lastmodified":1566650583,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774215,
     "wof:name":"Bulriah",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

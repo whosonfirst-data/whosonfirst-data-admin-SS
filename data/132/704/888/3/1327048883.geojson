@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327048883,
-    "wof:lastmodified":1566649943,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774024,
     "wof:name":"Lauru",
     "wof:parent_id":1091913493,
     "wof:placetype":"locality",

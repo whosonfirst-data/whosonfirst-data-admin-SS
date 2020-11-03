@@ -53,7 +53,13 @@
         }
     ],
     "wof:id":1259397845,
-    "wof:lastmodified":1566650510,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774197,
     "wof:name":"Lobira",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

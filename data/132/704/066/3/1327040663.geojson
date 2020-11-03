@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327040663,
-    "wof:lastmodified":1566649948,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774025,
     "wof:name":"Langkokai",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

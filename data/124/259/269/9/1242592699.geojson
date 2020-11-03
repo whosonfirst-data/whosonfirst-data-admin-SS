@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242592699,
-    "wof:lastmodified":1566650456,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774185,
     "wof:name":"Barajah",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

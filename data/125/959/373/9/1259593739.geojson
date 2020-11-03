@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259593739,
-    "wof:lastmodified":1566650540,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774205,
     "wof:name":"Wun Tong",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

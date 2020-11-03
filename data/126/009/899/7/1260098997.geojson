@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1260098997,
-    "wof:lastmodified":1566650293,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774132,
     "wof:name":"Neyar",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293303273,
-    "wof:lastmodified":1566650067,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774064,
     "wof:name":"Dimma",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

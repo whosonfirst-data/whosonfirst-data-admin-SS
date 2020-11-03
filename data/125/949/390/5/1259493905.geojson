@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259493905,
-    "wof:lastmodified":1566650529,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774202,
     "wof:name":"Durbuoni",
     "wof:parent_id":1091913913,
     "wof:placetype":"locality",

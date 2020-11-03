@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225954825,
-    "wof:lastmodified":1566650558,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774209,
     "wof:name":"Lomorotok",
     "wof:parent_id":1091915633,
     "wof:placetype":"locality",

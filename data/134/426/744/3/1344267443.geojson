@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344267443,
-    "wof:lastmodified":1566650028,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774053,
     "wof:name":"Ghorich",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343780777,
-    "wof:lastmodified":1566650010,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774047,
     "wof:name":"Vegu",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

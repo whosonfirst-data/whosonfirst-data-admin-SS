@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293405177,
-    "wof:lastmodified":1566650094,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774074,
     "wof:name":"Anialbong",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

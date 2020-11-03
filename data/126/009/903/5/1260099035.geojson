@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260099035,
-    "wof:lastmodified":1566650291,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774131,
     "wof:name":"Nguenak",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

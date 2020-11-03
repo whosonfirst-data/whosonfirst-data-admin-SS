@@ -205,7 +205,13 @@
         }
     ],
     "wof:id":1309730843,
-    "wof:lastmodified":1566650419,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774175,
     "wof:name":"Atum",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

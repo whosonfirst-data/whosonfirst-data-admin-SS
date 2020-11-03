@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1343677055,
-    "wof:lastmodified":1566650024,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774052,
     "wof:name":"Amet",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

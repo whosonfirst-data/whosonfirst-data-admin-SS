@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310619707,
-    "wof:lastmodified":1566650352,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774153,
     "wof:name":"Kafindibei",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

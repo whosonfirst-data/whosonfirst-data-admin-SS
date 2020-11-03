@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243191077,
-    "wof:lastmodified":1566650506,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774197,
     "wof:name":"Fadiat",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343976629,
-    "wof:lastmodified":1566649991,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774040,
     "wof:name":"Ma'adat ed Doleiba",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

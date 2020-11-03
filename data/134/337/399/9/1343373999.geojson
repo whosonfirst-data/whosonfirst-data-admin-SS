@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343373999,
-    "wof:lastmodified":1566649983,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774037,
     "wof:name":"Liamyok",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

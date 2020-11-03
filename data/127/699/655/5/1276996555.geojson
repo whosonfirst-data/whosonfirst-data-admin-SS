@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276996555,
-    "wof:lastmodified":1566650202,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774112,
     "wof:name":"Rouweng",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

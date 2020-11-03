@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259593737,
-    "wof:lastmodified":1566650540,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774205,
     "wof:name":"Okopayi",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

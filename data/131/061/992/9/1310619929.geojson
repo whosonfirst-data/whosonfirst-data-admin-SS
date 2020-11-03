@@ -490,7 +490,13 @@
         }
     ],
     "wof:id":1310619929,
-    "wof:lastmodified":1566650353,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774153,
     "wof:name":"Tin",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

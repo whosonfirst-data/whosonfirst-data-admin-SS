@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1259895115,
-    "wof:lastmodified":1566650555,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774208,
     "wof:name":"Machar",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

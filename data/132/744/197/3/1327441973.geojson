@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1327441973,
-    "wof:lastmodified":1566649971,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774033,
     "wof:name":"Malek",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

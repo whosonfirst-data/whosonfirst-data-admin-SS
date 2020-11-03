@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1276778675,
-    "wof:lastmodified":1566650193,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774109,
     "wof:name":"Nian",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

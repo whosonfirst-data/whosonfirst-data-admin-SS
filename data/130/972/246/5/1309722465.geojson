@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309722465,
-    "wof:lastmodified":1566650426,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774177,
     "wof:name":"Manyel",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

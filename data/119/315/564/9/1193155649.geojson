@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1193155649,
-    "wof:lastmodified":1566650277,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774125,
     "wof:name":"Kor",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

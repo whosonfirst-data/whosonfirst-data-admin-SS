@@ -175,7 +175,13 @@
         }
     ],
     "wof:id":1276129157,
-    "wof:lastmodified":1566650187,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774107,
     "wof:name":"Maar",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

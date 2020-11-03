@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327241981,
-    "wof:lastmodified":1566649931,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774019,
     "wof:name":"Fan Arem",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

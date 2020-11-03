@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1260295521,
-    "wof:lastmodified":1566650303,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774135,
     "wof:name":"Saqi`a Akon",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

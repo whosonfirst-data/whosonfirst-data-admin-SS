@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276243701,
-    "wof:lastmodified":1566650183,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774106,
     "wof:name":"Mayom",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

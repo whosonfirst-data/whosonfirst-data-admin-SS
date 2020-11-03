@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259702353,
-    "wof:lastmodified":1566650521,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774200,
     "wof:name":"Agit Arial",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

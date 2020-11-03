@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226061421,
-    "wof:lastmodified":1566650615,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774222,
     "wof:name":"Kway",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

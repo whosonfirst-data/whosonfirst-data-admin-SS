@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309822365,
-    "wof:lastmodified":1566650415,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774174,
     "wof:name":"Deng Akol",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

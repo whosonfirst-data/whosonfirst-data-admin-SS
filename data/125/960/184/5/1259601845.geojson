@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259601845,
-    "wof:lastmodified":1566650541,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774205,
     "wof:name":"Bon Bek",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

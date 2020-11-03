@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242588125,
-    "wof:lastmodified":1566650460,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774186,
     "wof:name":"Nyangora",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

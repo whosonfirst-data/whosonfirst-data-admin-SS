@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226661167,
-    "wof:lastmodified":1566650584,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774215,
     "wof:name":"Losua",
     "wof:parent_id":1091914753,
     "wof:placetype":"locality",

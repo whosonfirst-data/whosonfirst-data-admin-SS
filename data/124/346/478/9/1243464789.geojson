@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1243464789,
-    "wof:lastmodified":1566650466,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774187,
     "wof:name":"Gatanga",
     "wof:parent_id":1091915243,
     "wof:placetype":"locality",

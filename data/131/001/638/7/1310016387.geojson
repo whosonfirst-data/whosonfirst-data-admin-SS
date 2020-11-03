@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1310016387,
-    "wof:lastmodified":1566650333,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774146,
     "wof:name":"Abang",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

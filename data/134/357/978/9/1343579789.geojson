@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343579789,
-    "wof:lastmodified":1566650017,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774050,
     "wof:name":"Paliau",
     "wof:parent_id":1091914319,
     "wof:placetype":"locality",

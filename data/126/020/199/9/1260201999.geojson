@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1260201999,
-    "wof:lastmodified":1566650301,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774134,
     "wof:name":"Kigille",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

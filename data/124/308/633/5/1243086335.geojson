@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1243086335,
-    "wof:lastmodified":1566650442,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774181,
     "wof:name":"Bufi",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

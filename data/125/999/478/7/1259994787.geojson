@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259994787,
-    "wof:lastmodified":1566650513,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774198,
     "wof:name":"Bahr Moyon Dit",
     "wof:parent_id":1091913401,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343680685,
-    "wof:lastmodified":1566650015,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774049,
     "wof:name":"Wunak",
     "wof:parent_id":1091915583,
     "wof:placetype":"locality",

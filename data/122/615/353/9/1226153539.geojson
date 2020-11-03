@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226153539,
-    "wof:lastmodified":1566650602,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Adir",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

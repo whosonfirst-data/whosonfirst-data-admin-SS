@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327352241,
-    "wof:lastmodified":1566649941,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774023,
     "wof:name":"Hoyuni",
     "wof:parent_id":1091914269,
     "wof:placetype":"locality",

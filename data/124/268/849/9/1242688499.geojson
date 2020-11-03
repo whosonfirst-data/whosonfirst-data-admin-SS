@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1242688499,
-    "wof:lastmodified":1566650452,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774184,
     "wof:name":"Atar",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

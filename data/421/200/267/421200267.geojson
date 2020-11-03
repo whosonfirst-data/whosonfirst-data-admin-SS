@@ -306,7 +306,13 @@
         }
     ],
     "wof:id":421200267,
-    "wof:lastmodified":1566650429,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774178,
     "wof:name":"Uwayl",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

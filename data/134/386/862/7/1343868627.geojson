@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343868627,
-    "wof:lastmodified":1566650052,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774062,
     "wof:name":"Ajwir",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309920923,
-    "wof:lastmodified":1566650418,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774175,
     "wof:name":"Gunba",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1343968661,
-    "wof:lastmodified":1566649980,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774036,
     "wof:name":"Maiyen",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

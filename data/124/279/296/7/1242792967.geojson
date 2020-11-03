@@ -199,7 +199,13 @@
         }
     ],
     "wof:id":1242792967,
-    "wof:lastmodified":1566650479,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774190,
     "wof:name":"Fur",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

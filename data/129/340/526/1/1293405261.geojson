@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293405261,
-    "wof:lastmodified":1566650095,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774074,
     "wof:name":"Gulumbi",
     "wof:parent_id":1091914975,
     "wof:placetype":"locality",

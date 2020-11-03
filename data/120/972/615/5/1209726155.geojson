@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209726155,
-    "wof:lastmodified":1566650266,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774121,
     "wof:name":"Junea",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

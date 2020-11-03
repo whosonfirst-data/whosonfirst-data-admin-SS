@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276991717,
-    "wof:lastmodified":1566650202,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774113,
     "wof:name":"Marakok",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

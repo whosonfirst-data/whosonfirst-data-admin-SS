@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1276129041,
-    "wof:lastmodified":1566650188,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774107,
     "wof:name":"Biem",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1360203331,
-    "wof:lastmodified":1566650377,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774162,
     "wof:name":"Thou",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

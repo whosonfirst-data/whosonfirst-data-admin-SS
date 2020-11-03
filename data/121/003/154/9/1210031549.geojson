@@ -103,7 +103,13 @@
         }
     ],
     "wof:id":1210031549,
-    "wof:lastmodified":1566650269,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774122,
     "wof:name":"Bongo",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

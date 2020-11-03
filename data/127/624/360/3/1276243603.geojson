@@ -97,7 +97,13 @@
         }
     ],
     "wof:id":1276243603,
-    "wof:lastmodified":1566650185,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774106,
     "wof:name":"Akai",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

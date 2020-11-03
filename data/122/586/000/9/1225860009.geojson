@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225860009,
-    "wof:lastmodified":1566650588,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774216,
     "wof:name":"Ful Luini",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

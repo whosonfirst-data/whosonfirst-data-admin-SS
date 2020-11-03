@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1309722505,
-    "wof:lastmodified":1566650425,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774177,
     "wof:name":"Mimnum",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

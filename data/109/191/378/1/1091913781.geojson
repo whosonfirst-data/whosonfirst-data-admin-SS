@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091913781,
-    "wof:lastmodified":1566650401,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774169,
     "wof:name":"Mundri West",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

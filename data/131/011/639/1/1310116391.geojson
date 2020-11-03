@@ -103,7 +103,13 @@
         }
     ],
     "wof:id":1310116391,
-    "wof:lastmodified":1566650340,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774149,
     "wof:name":"Bali",
     "wof:parent_id":1091913781,
     "wof:placetype":"locality",

@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091913733,
-    "wof:lastmodified":1566650408,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774172,
     "wof:name":"Lainya",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

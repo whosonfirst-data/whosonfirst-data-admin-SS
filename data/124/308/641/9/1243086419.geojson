@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243086419,
-    "wof:lastmodified":1566650443,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774181,
     "wof:name":"Wun Liyu",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

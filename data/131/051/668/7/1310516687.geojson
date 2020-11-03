@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310516687,
-    "wof:lastmodified":1566650361,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774156,
     "wof:name":"Wonapoi",
     "wof:parent_id":1091915369,
     "wof:placetype":"locality",

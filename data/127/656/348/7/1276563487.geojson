@@ -151,7 +151,13 @@
         }
     ],
     "wof:id":1276563487,
-    "wof:lastmodified":1566650158,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774097,
     "wof:name":"Fet",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

@@ -85,7 +85,13 @@
         }
     ],
     "wof:id":1259890291,
-    "wof:lastmodified":1566650555,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774208,
     "wof:name":"Baro",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

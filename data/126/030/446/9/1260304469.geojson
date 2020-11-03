@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260304469,
-    "wof:lastmodified":1566650295,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774132,
     "wof:name":"Iboni",
     "wof:parent_id":1091915633,
     "wof:placetype":"locality",

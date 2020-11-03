@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293802669,
-    "wof:lastmodified":1566650125,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774085,
     "wof:name":"Pwol",
     "wof:parent_id":1091913585,
     "wof:placetype":"locality",

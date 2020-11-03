@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193031173,
-    "wof:lastmodified":1566650283,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774128,
     "wof:name":"Twilong",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

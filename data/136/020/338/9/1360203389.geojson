@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1360203389,
-    "wof:lastmodified":1566650374,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774161,
     "wof:name":"Tali Post",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",

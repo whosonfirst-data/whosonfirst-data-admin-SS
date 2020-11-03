@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276883713,
-    "wof:lastmodified":1566650143,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774092,
     "wof:name":"Parial",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1276883821,
-    "wof:lastmodified":1566650143,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774092,
     "wof:name":"Gow",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

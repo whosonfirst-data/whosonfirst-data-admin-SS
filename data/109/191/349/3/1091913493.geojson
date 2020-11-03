@@ -84,7 +84,13 @@
         }
     ],
     "wof:id":1091913493,
-    "wof:lastmodified":1566650399,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774169,
     "wof:name":"Budi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

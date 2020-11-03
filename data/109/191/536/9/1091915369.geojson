@@ -78,7 +78,13 @@
         }
     ],
     "wof:id":1091915369,
-    "wof:lastmodified":1566650403,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774170,
     "wof:name":"Awerial",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

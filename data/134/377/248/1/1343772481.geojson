@@ -106,7 +106,13 @@
         }
     ],
     "wof:id":1343772481,
-    "wof:lastmodified":1566650003,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774044,
     "wof:name":"Monok",
     "wof:parent_id":1091913405,
     "wof:placetype":"locality",

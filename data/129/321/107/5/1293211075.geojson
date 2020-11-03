@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293211075,
-    "wof:lastmodified":1566650132,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774088,
     "wof:name":"Badodi",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

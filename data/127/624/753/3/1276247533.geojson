@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1276247533,
-    "wof:lastmodified":1566650183,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774106,
     "wof:name":"Payel Jang",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

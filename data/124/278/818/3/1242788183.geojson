@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1242788183,
-    "wof:lastmodified":1566650480,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774191,
     "wof:name":"Nurichoar",
     "wof:parent_id":1091915879,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277000339,
-    "wof:lastmodified":1566650141,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774091,
     "wof:name":"Liad Num",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226053153,
-    "wof:lastmodified":1566650577,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774213,
     "wof:name":"Yih",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

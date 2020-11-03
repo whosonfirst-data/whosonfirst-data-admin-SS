@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1343576243,
-    "wof:lastmodified":1566650019,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774050,
     "wof:name":"Uku",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

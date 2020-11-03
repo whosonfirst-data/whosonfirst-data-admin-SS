@@ -70,7 +70,13 @@
         }
     ],
     "wof:id":1326640285,
-    "wof:lastmodified":1566649962,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774030,
     "wof:name":"Kosh",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226053093,
-    "wof:lastmodified":1566650576,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774213,
     "wof:name":"Thorniok",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

@@ -100,7 +100,13 @@
         }
     ],
     "wof:id":1293506065,
-    "wof:lastmodified":1566650103,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774077,
     "wof:name":"Manang",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

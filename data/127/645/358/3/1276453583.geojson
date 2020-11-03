@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276453583,
-    "wof:lastmodified":1566650150,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774094,
     "wof:name":"Timsah Id",
     "wof:parent_id":1091913861,
     "wof:placetype":"locality",

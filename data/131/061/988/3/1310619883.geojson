@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310619883,
-    "wof:lastmodified":1566650355,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774154,
     "wof:name":"Makeyr",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

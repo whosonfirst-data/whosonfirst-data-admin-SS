@@ -74,7 +74,13 @@
         }
     ],
     "wof:id":1091913821,
-    "wof:lastmodified":1566650399,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774169,
     "wof:name":"Canal/Pigi",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

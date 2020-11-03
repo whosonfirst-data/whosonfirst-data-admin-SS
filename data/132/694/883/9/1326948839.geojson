@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326948839,
-    "wof:lastmodified":1566649915,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774013,
     "wof:name":"Powang",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

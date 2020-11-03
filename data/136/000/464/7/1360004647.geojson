@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360004647,
-    "wof:lastmodified":1566650364,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774157,
     "wof:name":"Makwoit",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

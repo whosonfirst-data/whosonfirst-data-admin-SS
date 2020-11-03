@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226457497,
-    "wof:lastmodified":1566650569,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774212,
     "wof:name":"Kimposo",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

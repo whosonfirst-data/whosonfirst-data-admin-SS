@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243473265,
-    "wof:lastmodified":1566650471,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774188,
     "wof:name":"Yarkwaich",
     "wof:parent_id":1091913861,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243382369,
-    "wof:lastmodified":1566650436,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774179,
     "wof:name":"Roradwei",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

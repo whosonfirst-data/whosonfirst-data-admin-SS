@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1327348605,
-    "wof:lastmodified":1566649936,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774021,
     "wof:name":"Deng Shol",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293701837,
-    "wof:lastmodified":1566650089,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774072,
     "wof:name":"Kwat",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

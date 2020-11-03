@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344072055,
-    "wof:lastmodified":1566649997,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774042,
     "wof:name":"Thwong",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

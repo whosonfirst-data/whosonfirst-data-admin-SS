@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259401541,
-    "wof:lastmodified":1566650527,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774202,
     "wof:name":"Waiyowal",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

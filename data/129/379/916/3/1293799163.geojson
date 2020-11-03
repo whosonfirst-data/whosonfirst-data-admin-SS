@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293799163,
-    "wof:lastmodified":1566650083,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774070,
     "wof:name":"Bunagok",
     "wof:parent_id":1091915369,
     "wof:placetype":"locality",

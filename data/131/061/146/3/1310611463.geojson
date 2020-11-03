@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1310611463,
-    "wof:lastmodified":1566650355,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774154,
     "wof:name":"Okura",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

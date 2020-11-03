@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1277089351,
-    "wof:lastmodified":1566650136,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774089,
     "wof:name":"Bool",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

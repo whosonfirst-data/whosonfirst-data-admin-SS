@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1310416415,
-    "wof:lastmodified":1566650315,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774139,
     "wof:name":"Yaro",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

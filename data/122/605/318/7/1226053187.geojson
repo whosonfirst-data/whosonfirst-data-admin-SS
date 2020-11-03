@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226053187,
-    "wof:lastmodified":1566650579,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774214,
     "wof:name":"Nafi",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

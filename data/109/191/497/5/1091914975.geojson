@@ -75,7 +75,13 @@
         }
     ],
     "wof:id":1091914975,
-    "wof:lastmodified":1566650394,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774168,
     "wof:name":"Morobo",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344172379,
-    "wof:lastmodified":1566650033,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774055,
     "wof:name":"Debbat Fami",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

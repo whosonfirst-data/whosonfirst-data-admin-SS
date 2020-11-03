@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310323639,
-    "wof:lastmodified":1566650344,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774150,
     "wof:name":"Rual",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

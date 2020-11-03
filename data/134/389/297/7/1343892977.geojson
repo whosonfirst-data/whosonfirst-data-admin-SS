@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1343892977,
-    "wof:lastmodified":1566650044,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774059,
     "wof:name":"Winejok",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243464877,
-    "wof:lastmodified":1566650467,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774188,
     "wof:name":"Turial",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

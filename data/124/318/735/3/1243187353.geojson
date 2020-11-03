@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243187353,
-    "wof:lastmodified":1566650494,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774194,
     "wof:name":"Leho",
     "wof:parent_id":1091915101,
     "wof:placetype":"locality",

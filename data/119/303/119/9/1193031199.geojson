@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1193031199,
-    "wof:lastmodified":1566650283,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774128,
     "wof:name":"Chut",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

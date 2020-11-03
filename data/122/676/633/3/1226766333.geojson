@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226766333,
-    "wof:lastmodified":1566650598,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Gagwang",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

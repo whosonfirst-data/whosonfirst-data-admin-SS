@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226153483,
-    "wof:lastmodified":1566650604,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774220,
     "wof:name":"Ajoich",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1277089539,
-    "wof:lastmodified":1566650134,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774088,
     "wof:name":"Kwarageri",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

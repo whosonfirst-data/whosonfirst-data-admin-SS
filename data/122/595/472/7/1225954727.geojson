@@ -151,7 +151,13 @@
         }
     ],
     "wof:id":1225954727,
-    "wof:lastmodified":1566650560,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774210,
     "wof:name":"Rom",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

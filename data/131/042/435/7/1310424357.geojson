@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310424357,
-    "wof:lastmodified":1566650337,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774147,
     "wof:name":"Jellab",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

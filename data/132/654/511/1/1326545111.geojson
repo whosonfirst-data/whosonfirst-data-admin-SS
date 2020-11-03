@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326545111,
-    "wof:lastmodified":1566649966,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774032,
     "wof:name":"Wun",
     "wof:parent_id":1091914139,
     "wof:placetype":"locality",

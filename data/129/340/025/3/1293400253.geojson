@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293400253,
-    "wof:lastmodified":1566650093,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774073,
     "wof:name":"Agum",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

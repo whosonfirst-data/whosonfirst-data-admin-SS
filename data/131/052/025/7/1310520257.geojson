@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1310520257,
-    "wof:lastmodified":1566650330,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774145,
     "wof:name":"Arjarak",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

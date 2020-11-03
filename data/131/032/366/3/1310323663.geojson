@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310323663,
-    "wof:lastmodified":1566650346,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774151,
     "wof:name":"Fertait",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

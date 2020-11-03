@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327344169,
-    "wof:lastmodified":1566649938,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774022,
     "wof:name":"Aliab",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

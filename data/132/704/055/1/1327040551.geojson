@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327040551,
-    "wof:lastmodified":1566649944,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774024,
     "wof:name":"Duk Gweni",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

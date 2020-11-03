@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1310716817,
-    "wof:lastmodified":1566650321,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774142,
     "wof:name":"Bimba",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

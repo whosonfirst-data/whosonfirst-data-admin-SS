@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226057965,
-    "wof:lastmodified":1566650577,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774213,
     "wof:name":"Lual Anjok",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

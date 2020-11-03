@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1326745651,
-    "wof:lastmodified":1566649907,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774010,
     "wof:name":"Kilu Arba`a",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

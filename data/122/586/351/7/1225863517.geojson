@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225863517,
-    "wof:lastmodified":1566650589,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774216,
     "wof:name":"Dogoba",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

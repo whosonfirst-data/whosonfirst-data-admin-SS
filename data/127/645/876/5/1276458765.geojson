@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276458765,
-    "wof:lastmodified":1566650151,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774094,
     "wof:name":"Waralail",
     "wof:parent_id":1091914653,
     "wof:placetype":"locality",

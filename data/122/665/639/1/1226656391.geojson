@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226656391,
-    "wof:lastmodified":1566650619,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774223,
     "wof:name":"Chiulbong",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

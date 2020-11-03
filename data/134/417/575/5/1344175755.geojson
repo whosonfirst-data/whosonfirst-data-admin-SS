@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344175755,
-    "wof:lastmodified":1566650031,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774054,
     "wof:name":"Panjeiyi",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

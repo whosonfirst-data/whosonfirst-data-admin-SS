@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310512009,
-    "wof:lastmodified":1566650362,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774156,
     "wof:name":"Dirdimma",
     "wof:parent_id":1091914847,
     "wof:placetype":"locality",

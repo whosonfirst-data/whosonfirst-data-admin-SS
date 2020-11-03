@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242884751,
-    "wof:lastmodified":1566650449,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774183,
     "wof:name":"Lashang",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

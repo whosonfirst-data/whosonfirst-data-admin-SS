@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243464861,
-    "wof:lastmodified":1566650467,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774188,
     "wof:name":"Jokau",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

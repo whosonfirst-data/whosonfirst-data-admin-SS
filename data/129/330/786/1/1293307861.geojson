@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293307861,
-    "wof:lastmodified":1566650068,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774065,
     "wof:name":"Duniaka",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

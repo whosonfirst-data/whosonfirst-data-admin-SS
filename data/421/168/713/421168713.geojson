@@ -304,7 +304,13 @@
         }
     ],
     "wof:id":421168713,
-    "wof:lastmodified":1566650428,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774177,
     "wof:name":"Rumbek",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

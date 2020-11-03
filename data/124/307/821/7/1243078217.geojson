@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1243078217,
-    "wof:lastmodified":1566650433,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774179,
     "wof:name":"Yirwa",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

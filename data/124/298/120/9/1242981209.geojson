@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242981209,
-    "wof:lastmodified":1566650488,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774192,
     "wof:name":"Lunyjok",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

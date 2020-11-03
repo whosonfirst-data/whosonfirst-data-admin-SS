@@ -137,7 +137,13 @@
         }
     ],
     "wof:id":421202345,
-    "wof:lastmodified":1566650429,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774178,
     "wof:name":"Torit",
     "wof:parent_id":1091914269,
     "wof:placetype":"locality",

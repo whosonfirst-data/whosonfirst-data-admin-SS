@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293311307,
-    "wof:lastmodified":1566650063,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774063,
     "wof:name":"Mankwauka",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

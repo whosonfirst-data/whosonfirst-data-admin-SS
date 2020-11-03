@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276773787,
-    "wof:lastmodified":1566650193,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774109,
     "wof:name":"Akwaich",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

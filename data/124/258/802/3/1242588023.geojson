@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1242588023,
-    "wof:lastmodified":1566650459,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774186,
     "wof:name":"Kardi",
     "wof:parent_id":1091915755,
     "wof:placetype":"locality",

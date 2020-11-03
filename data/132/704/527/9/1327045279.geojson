@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1327045279,
-    "wof:lastmodified":1566649945,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774024,
     "wof:name":"Dial",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

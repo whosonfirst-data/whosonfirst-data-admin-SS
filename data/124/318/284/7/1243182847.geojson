@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243182847,
-    "wof:lastmodified":1566650494,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774194,
     "wof:name":"Gikakur",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

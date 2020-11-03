@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243274595,
-    "wof:lastmodified":1566650499,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774195,
     "wof:name":"Dunafet",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

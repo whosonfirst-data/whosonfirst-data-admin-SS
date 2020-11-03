@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1326845579,
-    "wof:lastmodified":1566649951,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774026,
     "wof:name":"Alor",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

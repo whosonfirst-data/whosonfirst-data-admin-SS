@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310712375,
-    "wof:lastmodified":1566650325,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774143,
     "wof:name":"Odwoigo",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

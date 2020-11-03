@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1326840945,
-    "wof:lastmodified":1566649955,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774028,
     "wof:name":"Dulayb",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

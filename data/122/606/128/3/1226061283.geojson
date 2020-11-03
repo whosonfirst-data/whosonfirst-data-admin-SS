@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226061283,
-    "wof:lastmodified":1566650616,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774222,
     "wof:name":"Lodomei",
     "wof:parent_id":1091913517,
     "wof:placetype":"locality",

@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1276888907,
-    "wof:lastmodified":1566650144,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774092,
     "wof:name":"Tol",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

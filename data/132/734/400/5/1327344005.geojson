@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1327344005,
-    "wof:lastmodified":1566649937,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774021,
     "wof:name":"Fan Ashir",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

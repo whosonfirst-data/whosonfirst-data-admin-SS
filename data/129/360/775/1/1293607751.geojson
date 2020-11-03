@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293607751,
-    "wof:lastmodified":1566650110,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774079,
     "wof:name":"Tidakul",
     "wof:parent_id":1091914495,
     "wof:placetype":"locality",

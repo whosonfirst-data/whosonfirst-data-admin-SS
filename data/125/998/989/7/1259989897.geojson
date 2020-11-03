@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259989897,
-    "wof:lastmodified":1566650507,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774197,
     "wof:name":"War-a-War",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

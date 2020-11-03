@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1209929421,
-    "wof:lastmodified":1566650240,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774118,
     "wof:name":"Jala",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

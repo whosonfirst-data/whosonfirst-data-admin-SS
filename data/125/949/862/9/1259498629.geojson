@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1259498629,
-    "wof:lastmodified":1566650532,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774203,
     "wof:name":"Wun Kwel",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

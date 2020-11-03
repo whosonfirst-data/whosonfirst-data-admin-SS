@@ -86,7 +86,13 @@
         }
     ],
     "wof:id":1276354911,
-    "wof:lastmodified":1566650169,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774101,
     "wof:name":"Gondokoro",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

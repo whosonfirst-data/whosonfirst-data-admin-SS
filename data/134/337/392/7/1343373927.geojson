@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343373927,
-    "wof:lastmodified":1566649985,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774038,
     "wof:name":"Thiam",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

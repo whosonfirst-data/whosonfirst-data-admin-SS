@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310124631,
-    "wof:lastmodified":1566650310,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774137,
     "wof:name":"Lukudu",
     "wof:parent_id":1091913781,
     "wof:placetype":"locality",

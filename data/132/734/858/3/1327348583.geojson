@@ -127,7 +127,13 @@
         }
     ],
     "wof:id":1327348583,
-    "wof:lastmodified":1566649937,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774021,
     "wof:name":"Abyei",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

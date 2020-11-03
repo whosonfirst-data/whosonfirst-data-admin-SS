@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1242788217,
-    "wof:lastmodified":1566650481,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774191,
     "wof:name":"Dorr",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259794109,
-    "wof:lastmodified":1566650524,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774201,
     "wof:name":"Debbat Lalob",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

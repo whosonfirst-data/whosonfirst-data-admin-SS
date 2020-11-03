@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242788343,
-    "wof:lastmodified":1566650482,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774191,
     "wof:name":"Madreggi",
     "wof:parent_id":1091914455,
     "wof:placetype":"locality",

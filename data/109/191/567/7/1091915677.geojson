@@ -385,7 +385,13 @@
         }
     ],
     "wof:id":1091915677,
-    "wof:lastmodified":1566650389,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774165,
     "wof:name":"Juba",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

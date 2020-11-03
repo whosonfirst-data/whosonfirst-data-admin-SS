@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260295311,
-    "wof:lastmodified":1566650303,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774135,
     "wof:name":"Duk Ayat",
     "wof:parent_id":1091915449,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293898451,
-    "wof:lastmodified":1566650121,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774084,
     "wof:name":"Derissi",
     "wof:parent_id":1091915905,
     "wof:placetype":"locality",

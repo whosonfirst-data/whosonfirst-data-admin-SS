@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1226261395,
-    "wof:lastmodified":1566650566,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774211,
     "wof:name":"Adundit",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

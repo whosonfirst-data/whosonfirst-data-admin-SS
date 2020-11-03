@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343469309,
-    "wof:lastmodified":1566649999,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774043,
     "wof:name":"Imtidad Jada",
     "wof:parent_id":1091915195,
     "wof:placetype":"locality",

@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1293215745,
-    "wof:lastmodified":1566650131,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774087,
     "wof:name":"Ngong",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

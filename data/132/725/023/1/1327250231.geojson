@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1327250231,
-    "wof:lastmodified":1566649918,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774014,
     "wof:name":"Kheirullah",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

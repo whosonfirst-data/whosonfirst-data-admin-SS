@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226352727,
-    "wof:lastmodified":1566650581,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774214,
     "wof:name":"Menyinganaat",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276773629,
-    "wof:lastmodified":1566650191,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774108,
     "wof:name":"Batarus",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

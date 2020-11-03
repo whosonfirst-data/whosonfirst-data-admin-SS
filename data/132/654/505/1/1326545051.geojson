@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326545051,
-    "wof:lastmodified":1566649963,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774030,
     "wof:name":"Talung",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

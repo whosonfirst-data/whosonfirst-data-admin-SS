@@ -88,7 +88,13 @@
         }
     ],
     "wof:id":1277084905,
-    "wof:lastmodified":1566650135,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774089,
     "wof:name":"Roja",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243187319,
-    "wof:lastmodified":1566650493,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774193,
     "wof:name":"Loping",
     "wof:parent_id":1091914269,
     "wof:placetype":"locality",

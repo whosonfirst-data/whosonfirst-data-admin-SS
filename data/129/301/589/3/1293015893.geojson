@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293015893,
-    "wof:lastmodified":1566650072,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774066,
     "wof:name":"Thuro Adawdo",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

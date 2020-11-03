@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276773811,
-    "wof:lastmodified":1566650197,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774111,
     "wof:name":"Lual Aru",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

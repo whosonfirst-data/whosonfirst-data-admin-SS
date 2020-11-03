@@ -65,7 +65,13 @@
         }
     ],
     "wof:id":1343680519,
-    "wof:lastmodified":1566650015,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774049,
     "wof:name":"Rejaf",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

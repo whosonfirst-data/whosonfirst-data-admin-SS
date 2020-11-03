@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343571731,
-    "wof:lastmodified":1566650017,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774050,
     "wof:name":"Dwal Bor",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

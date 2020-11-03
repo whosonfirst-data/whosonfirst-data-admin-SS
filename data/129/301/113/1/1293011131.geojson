@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293011131,
-    "wof:lastmodified":1566650075,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774067,
     "wof:name":"Nyum Nyum",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

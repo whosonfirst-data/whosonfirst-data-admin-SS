@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293113863,
-    "wof:lastmodified":1566650120,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774083,
     "wof:name":"Tuddi",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

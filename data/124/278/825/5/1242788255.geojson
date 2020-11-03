@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242788255,
-    "wof:lastmodified":1566650483,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774191,
     "wof:name":"Khogali",
     "wof:parent_id":1091915985,
     "wof:placetype":"locality",

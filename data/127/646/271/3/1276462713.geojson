@@ -73,7 +73,13 @@
         }
     ],
     "wof:id":1276462713,
-    "wof:lastmodified":1566650191,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774108,
     "wof:name":"Billing",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

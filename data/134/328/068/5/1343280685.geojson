@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343280685,
-    "wof:lastmodified":1566650050,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774061,
     "wof:name":"Wabuit",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

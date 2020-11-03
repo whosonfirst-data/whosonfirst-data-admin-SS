@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1209933067,
-    "wof:lastmodified":1566650245,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774118,
     "wof:name":"Ajaugo",
     "wof:parent_id":1091914001,
     "wof:placetype":"locality",

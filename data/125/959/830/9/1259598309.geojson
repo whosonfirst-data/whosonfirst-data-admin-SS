@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259598309,
-    "wof:lastmodified":1566650539,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774205,
     "wof:name":"Minamba",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

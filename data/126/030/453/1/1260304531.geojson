@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1260304531,
-    "wof:lastmodified":1566650296,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774133,
     "wof:name":"Alet",
     "wof:parent_id":1091916123,
     "wof:placetype":"locality",

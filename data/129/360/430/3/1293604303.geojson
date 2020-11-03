@@ -274,7 +274,13 @@
         }
     ],
     "wof:id":1293604303,
-    "wof:lastmodified":1566650108,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774078,
     "wof:name":"Thor",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

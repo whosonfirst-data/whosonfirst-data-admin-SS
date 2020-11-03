@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1276677039,
-    "wof:lastmodified":1566650165,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774099,
     "wof:name":"Maga",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

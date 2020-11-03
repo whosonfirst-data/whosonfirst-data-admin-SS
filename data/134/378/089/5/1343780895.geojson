@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1343780895,
-    "wof:lastmodified":1566650011,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774047,
     "wof:name":"Goin",
     "wof:parent_id":1091913401,
     "wof:placetype":"locality",

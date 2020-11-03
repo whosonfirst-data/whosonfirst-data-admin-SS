@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309813907,
-    "wof:lastmodified":1566650422,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774176,
     "wof:name":"Agokadol",
     "wof:parent_id":1091914089,
     "wof:placetype":"locality",

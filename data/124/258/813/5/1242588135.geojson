@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242588135,
-    "wof:lastmodified":1566650460,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774186,
     "wof:name":"Kuriju",
     "wof:parent_id":1091915715,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276673241,
-    "wof:lastmodified":1566650164,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774099,
     "wof:name":"Akait",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

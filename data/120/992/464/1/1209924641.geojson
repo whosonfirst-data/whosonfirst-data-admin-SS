@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209924641,
-    "wof:lastmodified":1566650237,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774116,
     "wof:name":"Kwot",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",

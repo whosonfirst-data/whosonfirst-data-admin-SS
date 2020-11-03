@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259989919,
-    "wof:lastmodified":1566650507,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774197,
     "wof:name":"Dwoinran",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

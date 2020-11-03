@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1344167579,
-    "wof:lastmodified":1566650035,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774056,
     "wof:name":"Talanga",
     "wof:parent_id":1091914269,
     "wof:placetype":"locality",

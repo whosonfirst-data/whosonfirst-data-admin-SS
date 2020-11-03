@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1259794283,
-    "wof:lastmodified":1566650524,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774201,
     "wof:name":"Kwa el Mango",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

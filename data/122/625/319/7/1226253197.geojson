@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226253197,
-    "wof:lastmodified":1566650597,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774218,
     "wof:name":"Yaiwal",
     "wof:parent_id":1091915801,
     "wof:placetype":"locality",

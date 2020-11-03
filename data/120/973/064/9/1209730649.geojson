@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209730649,
-    "wof:lastmodified":1566650256,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774120,
     "wof:name":"Alangari",
     "wof:parent_id":1091913401,
     "wof:placetype":"locality",

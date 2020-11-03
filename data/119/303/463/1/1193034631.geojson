@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1193034631,
-    "wof:lastmodified":1566650282,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774128,
     "wof:name":"Wun Chuei",
     "wof:parent_id":1091914585,
     "wof:placetype":"locality",

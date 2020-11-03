@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343976603,
-    "wof:lastmodified":1566649989,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774039,
     "wof:name":"Bura Kwoich",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

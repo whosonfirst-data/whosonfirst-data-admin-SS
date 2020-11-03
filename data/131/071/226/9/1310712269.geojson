@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310712269,
-    "wof:lastmodified":1566650321,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774142,
     "wof:name":"Akwairmam",
     "wof:parent_id":1091913401,
     "wof:placetype":"locality",

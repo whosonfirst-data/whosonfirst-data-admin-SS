@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1226061413,
-    "wof:lastmodified":1566650616,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774223,
     "wof:name":"Jap",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344067453,
-    "wof:lastmodified":1566649995,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774041,
     "wof:name":"Fan Arak",
     "wof:parent_id":1091915329,
     "wof:placetype":"locality",

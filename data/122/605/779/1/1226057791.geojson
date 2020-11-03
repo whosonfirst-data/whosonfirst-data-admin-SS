@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1226057791,
-    "wof:lastmodified":1566650578,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774214,
     "wof:name":"Fawel",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

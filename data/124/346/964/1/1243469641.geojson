@@ -91,7 +91,13 @@
         }
     ],
     "wof:id":1243469641,
-    "wof:lastmodified":1566650465,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774187,
     "wof:name":"Loa",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

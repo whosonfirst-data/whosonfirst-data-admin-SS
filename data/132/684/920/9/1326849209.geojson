@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326849209,
-    "wof:lastmodified":1566649955,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774028,
     "wof:name":"Fatugu",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

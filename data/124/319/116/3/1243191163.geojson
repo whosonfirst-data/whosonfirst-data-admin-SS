@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1243191163,
-    "wof:lastmodified":1566650505,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774196,
     "wof:name":"Gair",
     "wof:parent_id":1091913403,
     "wof:placetype":"locality",

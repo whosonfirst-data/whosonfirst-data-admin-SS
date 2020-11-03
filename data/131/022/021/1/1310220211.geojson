@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1310220211,
-    "wof:lastmodified":1566650320,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774141,
     "wof:name":"Aribo",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1326648695,
-    "wof:lastmodified":1566649958,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774029,
     "wof:name":"Loga",
     "wof:parent_id":1091915677,
     "wof:placetype":"locality",

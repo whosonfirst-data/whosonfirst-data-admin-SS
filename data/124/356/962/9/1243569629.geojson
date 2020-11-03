@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243569629,
-    "wof:lastmodified":1566650473,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774189,
     "wof:name":"Fan Rian",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

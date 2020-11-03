@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1243282541,
-    "wof:lastmodified":1566650502,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774196,
     "wof:name":"Dhegdheg",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

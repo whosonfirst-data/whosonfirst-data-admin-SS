@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226550311,
-    "wof:lastmodified":1566650611,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774221,
     "wof:name":"Runchol",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326840703,
-    "wof:lastmodified":1566649951,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774026,
     "wof:name":"Moyat",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

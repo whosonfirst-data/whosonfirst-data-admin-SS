@@ -139,7 +139,13 @@
         }
     ],
     "wof:id":1226766415,
-    "wof:lastmodified":1566650601,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Lindi",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

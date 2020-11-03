@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309924437,
-    "wof:lastmodified":1566650417,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774175,
     "wof:name":"Wunkir",
     "wof:parent_id":1091914895,
     "wof:placetype":"locality",

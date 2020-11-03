@@ -61,7 +61,13 @@
         }
     ],
     "wof:id":1243191053,
-    "wof:lastmodified":1566650503,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774196,
     "wof:name":"Mangong",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

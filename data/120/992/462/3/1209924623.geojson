@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1209924623,
-    "wof:lastmodified":1566650238,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774116,
     "wof:name":"Majak",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

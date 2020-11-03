@@ -57,7 +57,13 @@
         }
     ],
     "wof:id":1276883885,
-    "wof:lastmodified":1566650145,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774092,
     "wof:name":"Laboni",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

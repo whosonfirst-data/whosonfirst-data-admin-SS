@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225855303,
-    "wof:lastmodified":1566650623,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774224,
     "wof:name":"`Abdullah",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

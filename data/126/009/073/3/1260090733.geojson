@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260090733,
-    "wof:lastmodified":1566650291,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774131,
     "wof:name":"Morugurn",
     "wof:parent_id":1091915407,
     "wof:placetype":"locality",

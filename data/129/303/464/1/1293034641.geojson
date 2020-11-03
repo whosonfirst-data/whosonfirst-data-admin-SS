@@ -84,7 +84,13 @@
         }
     ],
     "wof:id":1293034641,
-    "wof:lastmodified":1566650104,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774077,
     "wof:name":"Pibor",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

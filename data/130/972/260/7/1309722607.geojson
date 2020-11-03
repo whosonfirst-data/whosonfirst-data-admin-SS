@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1309722607,
-    "wof:lastmodified":1566650425,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774177,
     "wof:name":"Ngab",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

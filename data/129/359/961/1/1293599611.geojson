@@ -79,7 +79,13 @@
         }
     ],
     "wof:id":1293599611,
-    "wof:lastmodified":1566650099,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774075,
     "wof:name":"Moli",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1193152157,
-    "wof:lastmodified":1566650277,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774125,
     "wof:name":"Paki",
     "wof:parent_id":1091915021,
     "wof:placetype":"locality",

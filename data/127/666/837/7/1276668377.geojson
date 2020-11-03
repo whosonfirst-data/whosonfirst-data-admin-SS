@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276668377,
-    "wof:lastmodified":1566650174,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774102,
     "wof:name":"Akol",
     "wof:parent_id":1091914361,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310121267,
-    "wof:lastmodified":1566650310,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774138,
     "wof:name":"Akasu",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

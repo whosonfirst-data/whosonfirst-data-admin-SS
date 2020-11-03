@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1242981197,
-    "wof:lastmodified":1566650489,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774192,
     "wof:name":"Lual",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

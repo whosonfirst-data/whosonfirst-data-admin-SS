@@ -76,7 +76,13 @@
         }
     ],
     "wof:id":1343374141,
-    "wof:lastmodified":1566649984,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774037,
     "wof:name":"Amul",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

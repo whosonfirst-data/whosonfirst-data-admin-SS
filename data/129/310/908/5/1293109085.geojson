@@ -142,7 +142,13 @@
         }
     ],
     "wof:id":1293109085,
-    "wof:lastmodified":1566650126,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774086,
     "wof:name":"Libra",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1209929547,
-    "wof:lastmodified":1566650235,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774116,
     "wof:name":"Achigor",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

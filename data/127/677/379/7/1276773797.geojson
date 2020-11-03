@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276773797,
-    "wof:lastmodified":1566650193,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774109,
     "wof:name":"Kondoagoi",
     "wof:parent_id":1091915945,
     "wof:placetype":"locality",

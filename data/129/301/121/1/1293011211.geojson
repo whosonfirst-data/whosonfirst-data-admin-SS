@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1293011211,
-    "wof:lastmodified":1566650071,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774066,
     "wof:name":"Tingya",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

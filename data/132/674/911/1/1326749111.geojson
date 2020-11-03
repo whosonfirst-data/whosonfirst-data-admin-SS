@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326749111,
-    "wof:lastmodified":1566649908,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774011,
     "wof:name":"Wad Gwat",
     "wof:parent_id":1091915879,
     "wof:placetype":"locality",

@@ -643,7 +643,13 @@
         }
     ],
     "wof:id":1242892671,
-    "wof:lastmodified":1566650445,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774182,
     "wof:name":"Oman",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1344167455,
-    "wof:lastmodified":1566650036,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774056,
     "wof:name":"Bazu",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

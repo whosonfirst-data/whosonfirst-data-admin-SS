@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1242592759,
-    "wof:lastmodified":1566650454,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774184,
     "wof:name":"Agai",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

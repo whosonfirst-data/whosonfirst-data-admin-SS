@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259593653,
-    "wof:lastmodified":1566650537,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774204,
     "wof:name":"Onkjer",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

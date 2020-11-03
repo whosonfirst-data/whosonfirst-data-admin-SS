@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310223867,
-    "wof:lastmodified":1566650320,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774142,
     "wof:name":"Kwe",
     "wof:parent_id":1091915503,
     "wof:placetype":"locality",

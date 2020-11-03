@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259802201,
-    "wof:lastmodified":1566650548,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774207,
     "wof:name":"Bokko",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

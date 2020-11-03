@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1225962797,
-    "wof:lastmodified":1566650593,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774217,
     "wof:name":"Abarau",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

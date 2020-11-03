@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310420767,
-    "wof:lastmodified":1566650334,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774146,
     "wof:name":"Acho",
     "wof:parent_id":1091915551,
     "wof:placetype":"locality",

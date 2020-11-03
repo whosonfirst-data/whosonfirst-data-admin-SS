@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1343672269,
-    "wof:lastmodified":1566650022,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774052,
     "wof:name":"Rum Aboich",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

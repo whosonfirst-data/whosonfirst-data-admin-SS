@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276134229,
-    "wof:lastmodified":1566650175,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774103,
     "wof:name":"Jongar",
     "wof:parent_id":1091914045,
     "wof:placetype":"locality",

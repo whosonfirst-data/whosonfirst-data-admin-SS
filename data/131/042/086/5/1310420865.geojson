@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1310420865,
-    "wof:lastmodified":1566650336,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774147,
     "wof:name":"Gogo",
     "wof:parent_id":1091916167,
     "wof:placetype":"locality",

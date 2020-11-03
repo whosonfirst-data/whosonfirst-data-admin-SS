@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1259397793,
-    "wof:lastmodified":1566650510,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774198,
     "wof:name":"Wunamet",
     "wof:parent_id":1091914583,
     "wof:placetype":"locality",

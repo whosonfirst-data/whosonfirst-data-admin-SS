@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1326948881,
-    "wof:lastmodified":1566649913,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774012,
     "wof:name":"Kerial",
     "wof:parent_id":1091915463,
     "wof:placetype":"locality",

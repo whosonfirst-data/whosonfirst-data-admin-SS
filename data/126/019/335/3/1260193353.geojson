@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260193353,
-    "wof:lastmodified":1566650307,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774136,
     "wof:name":"Angi",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

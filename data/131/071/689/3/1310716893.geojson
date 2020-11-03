@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1310716893,
-    "wof:lastmodified":1566650322,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774142,
     "wof:name":"Khayr Allah",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

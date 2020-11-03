@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1226766225,
-    "wof:lastmodified":1566650599,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774219,
     "wof:name":"Yumusu",
     "wof:parent_id":1091914579,
     "wof:placetype":"locality",

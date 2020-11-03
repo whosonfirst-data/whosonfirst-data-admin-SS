@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1343469187,
-    "wof:lastmodified":1566650000,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774044,
     "wof:name":"Palabek",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

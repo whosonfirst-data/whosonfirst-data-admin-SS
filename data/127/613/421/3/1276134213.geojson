@@ -250,7 +250,13 @@
         }
     ],
     "wof:id":1276134213,
-    "wof:lastmodified":1566650176,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774103,
     "wof:name":"Akon",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

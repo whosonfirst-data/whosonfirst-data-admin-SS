@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1276677031,
-    "wof:lastmodified":1566650165,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774099,
     "wof:name":"Garia",
     "wof:parent_id":1091913397,
     "wof:placetype":"locality",

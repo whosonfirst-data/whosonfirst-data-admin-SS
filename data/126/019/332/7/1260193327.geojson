@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260193327,
-    "wof:lastmodified":1566650307,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774136,
     "wof:name":"Wunajok",
     "wof:parent_id":1091913821,
     "wof:placetype":"locality",

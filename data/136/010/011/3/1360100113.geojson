@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360100113,
-    "wof:lastmodified":1566650383,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774164,
     "wof:name":"Makay",
     "wof:parent_id":1091913405,
     "wof:placetype":"locality",

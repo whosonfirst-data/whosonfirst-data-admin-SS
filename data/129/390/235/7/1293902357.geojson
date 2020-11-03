@@ -64,7 +64,13 @@
         }
     ],
     "wof:id":1293902357,
-    "wof:lastmodified":1566650076,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774068,
     "wof:name":"Lil",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

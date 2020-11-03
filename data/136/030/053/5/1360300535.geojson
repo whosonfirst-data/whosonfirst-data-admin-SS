@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1360300535,
-    "wof:lastmodified":1566650370,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774159,
     "wof:name":"Kayana",
     "wof:parent_id":1091915285,
     "wof:placetype":"locality",

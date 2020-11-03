@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1260095333,
-    "wof:lastmodified":1566650288,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774130,
     "wof:name":"Lul",
     "wof:parent_id":1091913653,
     "wof:placetype":"locality",

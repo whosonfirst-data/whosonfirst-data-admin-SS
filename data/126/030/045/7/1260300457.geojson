@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260300457,
-    "wof:lastmodified":1566650297,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774133,
     "wof:name":"Nabaka",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

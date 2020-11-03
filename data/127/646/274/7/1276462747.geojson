@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1276462747,
-    "wof:lastmodified":1566650189,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774108,
     "wof:name":"Mattok",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

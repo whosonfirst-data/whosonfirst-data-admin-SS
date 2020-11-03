@@ -55,7 +55,13 @@
         }
     ],
     "wof:id":1210034969,
-    "wof:lastmodified":1566650269,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774122,
     "wof:name":"Allah Gabo",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

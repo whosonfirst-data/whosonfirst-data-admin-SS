@@ -190,7 +190,13 @@
         }
     ],
     "wof:id":1243382207,
-    "wof:lastmodified":1566650435,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774179,
     "wof:name":"Akola",
     "wof:parent_id":1091914409,
     "wof:placetype":"locality",

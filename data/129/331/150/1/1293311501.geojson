@@ -67,7 +67,13 @@
         }
     ],
     "wof:id":1293311501,
-    "wof:lastmodified":1566650062,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774063,
     "wof:name":"Liwan",
     "wof:parent_id":1091914791,
     "wof:placetype":"locality",

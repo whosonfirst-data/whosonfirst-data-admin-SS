@@ -56,7 +56,13 @@
         }
     ],
     "wof:id":1225959591,
-    "wof:lastmodified":1566650560,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774209,
     "wof:name":"Ukadi",
     "wof:parent_id":1091915101,
     "wof:placetype":"locality",

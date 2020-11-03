@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1260295383,
-    "wof:lastmodified":1566650303,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774135,
     "wof:name":"Fagur",
     "wof:parent_id":1091913861,
     "wof:placetype":"locality",

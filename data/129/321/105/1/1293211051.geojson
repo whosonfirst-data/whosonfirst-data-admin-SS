@@ -52,7 +52,13 @@
         }
     ],
     "wof:id":1293211051,
-    "wof:lastmodified":1566650129,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774087,
     "wof:name":"Paraken",
     "wof:parent_id":1091913959,
     "wof:placetype":"locality",

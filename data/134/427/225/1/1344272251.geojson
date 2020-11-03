@@ -58,7 +58,13 @@
         }
     ],
     "wof:id":1344272251,
-    "wof:lastmodified":1566650038,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774057,
     "wof:name":"Kianga",
     "wof:parent_id":1091913781,
     "wof:placetype":"locality",

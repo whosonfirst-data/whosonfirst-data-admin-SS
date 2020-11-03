@@ -82,7 +82,13 @@
         }
     ],
     "wof:id":1243374127,
-    "wof:lastmodified":1566650438,
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1603774180,
     "wof:name":"Bilal",
     "wof:parent_id":1091913431,
     "wof:placetype":"locality",
