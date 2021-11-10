@@ -29,6 +29,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0645\u0644\u0648\u062a"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05d5\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Melut"
+    ],
     "name:pol_x_preferred":[
         "Melut"
     ],
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1327450039,
-    "wof:lastmodified":1566649977,
+    "wof:lastmodified":1636496010,
     "wof:name":"Melut",
     "wof:parent_id":1091913689,
     "wof:placetype":"locality",

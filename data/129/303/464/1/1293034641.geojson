@@ -32,19 +32,49 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0628\u0648\u0631"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09bf\u09ac\u09cb\u09b0"
+    ],
     "name:ceb_x_preferred":[
         "Pibor"
     ],
     "name:deu_x_preferred":[
         "Pibor"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b9\u03bc\u03c0\u03cc\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Pibor"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0628\u0648\u0631"
     ],
     "name:fra_x_preferred":[
         "Pibor"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05d1\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u093f\u092c\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Pibor"
+    ],
+    "name:ind_x_preferred":[
+        "Pibor"
+    ],
     "name:ita_x_preferred":[
+        "Pibor"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d4\u30dc\u30fc\u30eb\u5ddd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud53c\ubcf4\ub974"
+    ],
+    "name:nld_x_preferred":[
         "Pibor"
     ],
     "name:pol_x_preferred":[
@@ -53,9 +83,21 @@
     "name:srp_x_preferred":[
         "\u041f\u0438\u0431\u043e\u0440"
     ],
+    "name:tur_x_preferred":[
+        "Pibor"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0431\u043e\u0440"
+    ],
     "name:und_x_variant":[
         "Fort Bruce",
         "Pibor Post"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u0626\u06cc\u0628\u0648\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Pibor"
     ],
     "name:zho_x_preferred":[
         "\u76ae\u535a\u723e"
@@ -84,7 +126,7 @@
         }
     ],
     "wof:id":1293034641,
-    "wof:lastmodified":1566650104,
+    "wof:lastmodified":1636496012,
     "wof:name":"Pibor",
     "wof:parent_id":1091915059,
     "wof:placetype":"locality",

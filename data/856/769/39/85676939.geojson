@@ -70,6 +70,9 @@
     "name:est_x_preferred":[
         "Lakes"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0631\u06cc\u0627\u0686\u0647 \u0647\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lakes"
     ],
@@ -84,6 +87,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0932\u0947\u0915\u094d\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Tavak"
     ],
     "name:ind_x_preferred":[
         "Lakes"
@@ -312,7 +318,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895996,
+    "wof:lastmodified":1636496011,
     "wof:name":"Lakes",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

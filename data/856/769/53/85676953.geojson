@@ -93,6 +93,9 @@
     "name:hin_x_preferred":[
         "\u090a\u092a\u0930\u0940 \u0928\u0940\u0932"
     ],
+    "name:hun_x_preferred":[
+        "Fels\u0151-N\u00edlus"
+    ],
     "name:ind_x_preferred":[
         "Nil Hulu"
     ],
@@ -321,7 +324,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895996,
+    "wof:lastmodified":1636496011,
     "wof:name":"Upper Nile",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

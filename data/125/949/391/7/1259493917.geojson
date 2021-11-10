@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u062c\u0627\u064a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a8\u09be\u0997\u09bf\u09df\u09be"
+    ],
     "name:cat_x_preferred":[
         "Mangaia"
     ],
@@ -39,6 +45,12 @@
         "Mangaia"
     ],
     "name:deu_x_preferred":[
+        "Mangaia"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03b3\u03ba\u03ac\u03b9\u03b1"
+    ],
+    "name:eng_x_preferred":[
         "Mangaia"
     ],
     "name:epo_x_preferred":[
@@ -53,11 +65,26 @@
     "name:fra_x_preferred":[
         "Mangaia"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e0\u05d2\u05d0\u05e0\u05d5\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0902\u0917\u093e\u092f\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mangaia"
+    ],
+    "name:ind_x_preferred":[
+        "Mangaia"
+    ],
     "name:ita_x_preferred":[
         "Mangaia"
     ],
     "name:jpn_x_preferred":[
         "\u30de\u30f3\u30ac\u30a4\u30a2\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9dd\uac00\uc774\uc544"
     ],
     "name:lit_x_preferred":[
         "Mangaja"
@@ -80,8 +107,27 @@
     "name:spa_x_preferred":[
         "Mangaia"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
         "Mangaia"
+    ],
+    "name:tur_x_preferred":[
+        "Mangaia"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043d\u0433\u0430\u0439\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u06af\u0627\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Mangaia"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u66fc\u52a0\u4f0a\u4e9a\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u66fc\u84cb\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -106,7 +152,7 @@
         }
     ],
     "wof:id":1259493917,
-    "wof:lastmodified":1566650528,
+    "wof:lastmodified":1636496024,
     "wof:name":"Mangaia",
     "wof:parent_id":1091915153,
     "wof:placetype":"locality",

@@ -40,7 +40,19 @@
     "name:eng_x_variant":[
         "Nahr Yei"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Yei"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d9\u05d0\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Yei"
+    ],
+    "name:spa_x_preferred":[
         "Yei"
     ],
     "src:geom":"meso",
@@ -78,7 +90,7 @@
         }
     ],
     "wof:id":1091914579,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1636496020,
     "wof:name":"Yei",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

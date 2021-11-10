@@ -64,6 +64,9 @@
     "name:hin_x_preferred":[
         "\u092c\u0947\u0902\u091f\u093f\u092f\u0942"
     ],
+    "name:hun_x_preferred":[
+        "Bentiu"
+    ],
     "name:ind_x_preferred":[
         "Bentiu"
     ],
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":890441257,
-    "wof:lastmodified":1566650431,
+    "wof:lastmodified":1636496022,
     "wof:name":"Bentiu",
     "wof:parent_id":1091915999,
     "wof:placetype":"locality",

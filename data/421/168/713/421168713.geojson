@@ -50,6 +50,9 @@
     "name:epo_x_preferred":[
         "Rumbek"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u0645\u0628\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Rumbek"
     ],
@@ -304,7 +307,7 @@
         }
     ],
     "wof:id":421168713,
-    "wof:lastmodified":1566650428,
+    "wof:lastmodified":1636496021,
     "wof:name":"Rumbek",
     "wof:parent_id":1091916013,
     "wof:placetype":"locality",

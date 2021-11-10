@@ -35,10 +35,19 @@
     "name:deu_x_preferred":[
         "Wau"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03bf\u03c5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Wau"
     ],
     "name:fra_x_preferred":[
+        "Wau"
+    ],
+    "name:hun_x_preferred":[
         "Wau"
     ],
     "name:nld_x_preferred":[
@@ -76,7 +85,7 @@
         }
     ],
     "wof:id":1327348803,
-    "wof:lastmodified":1566649933,
+    "wof:lastmodified":1636496008,
     "wof:name":"Wau",
     "wof:parent_id":1091913549,
     "wof:placetype":"locality",

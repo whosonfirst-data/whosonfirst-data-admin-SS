@@ -51,6 +51,9 @@
         "Waw"
     ],
     "name:ell_x_preferred":[
+        "\u0392\u03ac\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
         "Wau"
     ],
     "name:eng_x_preferred":[
@@ -61,6 +64,9 @@
     ],
     "name:est_x_preferred":[
         "Wau"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648"
     ],
     "name:fin_x_preferred":[
         "Wau"
@@ -76,6 +82,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0935\u093e\u0909"
+    ],
+    "name:hun_x_preferred":[
+        "Wau"
     ],
     "name:ind_x_preferred":[
         "Wau"
@@ -322,7 +331,7 @@
         }
     ],
     "wof:id":421203053,
-    "wof:lastmodified":1566650429,
+    "wof:lastmodified":1636496021,
     "wof:name":"Wau",
     "wof:parent_id":1091916187,
     "wof:placetype":"locality",

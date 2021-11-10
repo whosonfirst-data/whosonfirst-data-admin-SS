@@ -65,6 +65,9 @@
     "name:hin_x_preferred":[
         "\u092f\u093e\u092e\u092c\u0940\u0913"
     ],
+    "name:hun_x_preferred":[
+        "Yambio"
+    ],
     "name:ind_x_preferred":[
         "Yambio"
     ],
@@ -301,7 +304,7 @@
         }
     ],
     "wof:id":421200265,
-    "wof:lastmodified":1566650430,
+    "wof:lastmodified":1636496022,
     "wof:name":"Yambio",
     "wof:parent_id":1091916233,
     "wof:placetype":"locality",

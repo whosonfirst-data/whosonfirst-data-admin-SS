@@ -41,6 +41,9 @@
     "name:eng_x_preferred":[
         "Bor"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631"
+    ],
     "name:fin_x_preferred":[
         "Bor"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092c\u094b\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Bor"
     ],
     "name:ind_x_preferred":[
         "Bor"
@@ -298,7 +304,7 @@
         }
     ],
     "wof:id":421171247,
-    "wof:lastmodified":1566650430,
+    "wof:lastmodified":1636496022,
     "wof:name":"Bor",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

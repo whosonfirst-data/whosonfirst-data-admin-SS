@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0628\u064a\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09ac\u09c7\u0987"
+    ],
     "name:cat_x_preferred":[
         "Abyei"
     ],
@@ -59,6 +62,12 @@
     "name:fra_x_preferred":[
         "Abiy\u00e9"
     ],
+    "name:hin_x_preferred":[
+        "\u0905\u092c\u0947\u0908"
+    ],
+    "name:hun_x_preferred":[
+        "Abjej"
+    ],
     "name:ita_x_preferred":[
         "Abyei"
     ],
@@ -80,6 +89,9 @@
     "name:pnb_x_preferred":[
         "\u0627\u0628\u06cc\u0626\u06cc"
     ],
+    "name:pol_x_preferred":[
+        "Abyei"
+    ],
     "name:por_x_preferred":[
         "Abyei"
     ],
@@ -98,8 +110,17 @@
     "name:swe_x_preferred":[
         "Abyei"
     ],
+    "name:tur_x_preferred":[
+        "Abyei"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0431'\u0454\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0628\u0627\u0626\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Abyei"
     ],
     "name:zho_x_preferred":[
         "\u963f\u535c\u8036\u4f0a\u5730\u533a"
@@ -127,7 +148,7 @@
         }
     ],
     "wof:id":1327348583,
-    "wof:lastmodified":1566649937,
+    "wof:lastmodified":1636496008,
     "wof:name":"Abyei",
     "wof:parent_id":1091913463,
     "wof:placetype":"locality",

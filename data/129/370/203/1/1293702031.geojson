@@ -156,7 +156,16 @@
         "\u0631\u0627\u06c1\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
+        "N\u00fai Nun"
+    ],
+    "name:vie_x_variant":[
         "N\u1eef tu"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6012\u5c71"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5974\u6069\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":1293702031,
-    "wof:lastmodified":1566650086,
+    "wof:lastmodified":1636496012,
     "wof:name":"Nun",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

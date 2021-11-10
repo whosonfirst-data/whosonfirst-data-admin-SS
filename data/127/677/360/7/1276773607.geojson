@@ -60,6 +60,9 @@
         "\u0411\u0430\u043b\u043e\u043d\u043d\u044f"
     ],
     "name:ben_x_preferred":[
+        "\u09ac\u09cb\u09b2\u09cb\u0997\u09a8\u09be"
+    ],
+    "name:ben_x_variant":[
         "\u09ac\u09cb\u09b2\u09cb\u09a8\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
@@ -139,6 +142,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05dc\u05d5\u05e0\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0932\u094b\u0917\u094d\u0928\u093e"
     ],
     "name:hrv_x_preferred":[
         "Bologna"
@@ -376,7 +382,7 @@
         }
     ],
     "wof:id":1276773607,
-    "wof:lastmodified":1566650195,
+    "wof:lastmodified":1636496014,
     "wof:name":"Bologna",
     "wof:parent_id":1091916075,
     "wof:placetype":"locality",
