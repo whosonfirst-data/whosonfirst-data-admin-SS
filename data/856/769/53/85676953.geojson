@@ -93,6 +93,9 @@
     "name:hin_x_preferred":[
         "\u090a\u092a\u0930\u0940 \u0928\u0940\u0932"
     ],
+    "name:hrv_x_preferred":[
+        "Gornji Nil"
+    ],
     "name:hun_x_preferred":[
         "Fels\u0151-N\u00edlus"
     ],
@@ -113,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc0c1\ub098\uc77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0c1\ub098\uc77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Aug\u0161n\u012bla"
@@ -200,6 +206,12 @@
     ],
     "name:zho_x_preferred":[
         "\u4e0a\u5c3c\u7f57\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u5c3c\u7f57\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Upper Nile"
     ],
     "ne:abbrev":"U.N.",
     "ne:adm0_a3":"SDS",
@@ -324,7 +336,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496011,
+    "wof:lastmodified":1690866738,
     "wof:name":"Upper Nile",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

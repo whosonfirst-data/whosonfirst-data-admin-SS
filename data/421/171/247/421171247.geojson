@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09b0"
     ],
@@ -48,6 +51,9 @@
         "Bor"
     ],
     "name:fra_x_preferred":[
+        "Bor"
+    ],
+    "name:gle_x_preferred":[
         "Bor"
     ],
     "name:guj_x_preferred":[
@@ -152,6 +158,9 @@
     "name:urd_x_variant":[
         "\u0628\u0648\u0631"
     ],
+    "name:vec_x_preferred":[
+        "Bor"
+    ],
     "name:vie_x_preferred":[
         "Bor"
     ],
@@ -160,6 +169,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6ce2\u723e"
+    ],
+    "name:zul_x_preferred":[
+        "Bor"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Sudan",
@@ -304,7 +316,7 @@
         }
     ],
     "wof:id":421171247,
-    "wof:lastmodified":1636496022,
+    "wof:lastmodified":1690866747,
     "wof:name":"Bor",
     "wof:parent_id":1091914581,
     "wof:placetype":"locality",

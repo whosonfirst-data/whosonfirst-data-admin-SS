@@ -61,6 +61,9 @@
     "name:swe_x_preferred":[
         "Magwi County"
     ],
+    "name:zul_x_preferred":[
+        "Magwi County"
+    ],
     "qs:name":"Magwi County",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890452095,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1690866748,
     "wof:name":"Magwi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

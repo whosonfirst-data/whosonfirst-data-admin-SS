@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Juba Airport"
     ],
+    "name:cym_x_preferred":[
+        "Maes Awyr Rhyngwladol Juba"
+    ],
     "name:deu_x_preferred":[
         "Flughafen Juba"
     ],
@@ -38,11 +41,17 @@
     "name:heb_x_preferred":[
         "\u05e0\u05de\u05dc \u05d4\u05ea\u05e2\u05d5\u05e4\u05d4 \u05d2'\u05d5\u05d1\u05d4"
     ],
+    "name:hun_x_preferred":[
+        "Jubai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
     "name:ind_x_preferred":[
         "Bandar Udara Juba"
     ],
     "name:jpn_x_preferred":[
         "\u30b8\u30e5\u30d0\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc8fc\ubc14 \uad6d\uc81c\uacf5\ud56d"
     ],
     "name:lit_x_preferred":[
         "D\u017eubos oro uostas"
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":102546303,
-    "wof:lastmodified":1631745406,
+    "wof:lastmodified":1690866736,
     "wof:name":"Juba Airport",
     "wof:parent_id":85676947,
     "wof:placetype":"campus",

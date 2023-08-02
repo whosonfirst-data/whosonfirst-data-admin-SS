@@ -107,6 +107,9 @@
     "name:kor_x_preferred":[
         "\uc11c\uc5d0\ucf70\ud1a0\ub9ac\uc544 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc11c\uc5d0\ucf70\ud1a0\ub9ac\uc544\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Rietumu Ekvatorija"
     ],
@@ -164,6 +167,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0b86"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0b86"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c08\u0c15\u0c4d\u0c35\u0c46\u0c1f\u0c4b\u0c30\u0c3f\u0c2f\u0c3e"
     ],
@@ -190,6 +196,9 @@
     ],
     "name:zho_x_variant":[
         "\u897f\u8d64\u9053\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Western Equatoria"
     ],
     "ne:abbrev":"W. Eq.",
     "ne:adm0_a3":"SDS",
@@ -317,7 +326,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895996,
+    "wof:lastmodified":1690866737,
     "wof:name":"West Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

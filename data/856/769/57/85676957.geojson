@@ -68,6 +68,9 @@
         "Jonglei State",
         "Jungoli"
     ],
+    "name:epo_x_preferred":[
+        "Jonglei"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0648\u0646\u0642\u0644\u06cc"
     ],
@@ -86,6 +89,9 @@
     "name:hin_x_preferred":[
         "\u091c\u094b\u0902\u0917\u0932\u0940"
     ],
+    "name:hye_x_preferred":[
+        "\u054b\u0578\u0576\u0563\u056c\u0565\u0575"
+    ],
     "name:ind_x_preferred":[
         "Junqali"
     ],
@@ -103,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc885\uae00\ub808\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc885\uae00\ub808\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "D\u017e\u016bnkal\u012b"
@@ -190,6 +199,12 @@
     ],
     "name:zho_x_preferred":[
         "\u743c\u83b1\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u743c\u83b1\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Jonglei"
     ],
     "ne:abbrev":"Jung.",
     "ne:adm0_a3":"SDS",
@@ -316,7 +331,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895995,
+    "wof:lastmodified":1690866736,
     "wof:name":"Jungoli",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

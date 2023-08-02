@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0631\u064a\u062a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0631\u064a\u062a"
+    ],
+    "name:ast_x_preferred":[
+        "Torit"
+    ],
     "name:bre_x_preferred":[
         "Torit"
     ],
@@ -32,7 +38,13 @@
     "name:deu_x_preferred":[
         "Torit"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03bf\u03c1\u03af\u03c4"
+    ],
     "name:eng_x_preferred":[
+        "Torit"
+    ],
+    "name:fin_x_preferred":[
         "Torit"
     ],
     "name:fra_x_preferred":[
@@ -49,6 +61,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud1a0\ub9ac\ud2b8"
+    ],
+    "name:lit_x_preferred":[
+        "Toritas"
     ],
     "name:nld_x_preferred":[
         "Torit"
@@ -77,14 +92,23 @@
     "name:swe_x_preferred":[
         "Torit"
     ],
+    "name:ukr_x_preferred":[
+        "\u0422\u043e\u0440\u0438\u0442"
+    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0631\u06cc\u062a"
+    ],
+    "name:vie_x_preferred":[
+        "Torit"
     ],
     "name:war_x_preferred":[
         "Torit"
     ],
     "name:zho_x_preferred":[
         "\u6258\u91cc\u7279"
+    ],
+    "name:zul_x_preferred":[
+        "Torit"
     ],
     "qs:gn_country":"SS",
     "qs:gn_fcode":"PPLA",
@@ -137,7 +161,7 @@
         }
     ],
     "wof:id":421202345,
-    "wof:lastmodified":1566650429,
+    "wof:lastmodified":1690866744,
     "wof:name":"Torit",
     "wof:parent_id":1091914269,
     "wof:placetype":"locality",

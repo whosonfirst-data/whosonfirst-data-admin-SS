@@ -109,6 +109,9 @@
     "name:kor_x_preferred":[
         "\ub808\uc774\ud06c\uc2a4 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub808\uc774\ud06c\uc2a4\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Buheir\u0101ta"
     ],
@@ -192,6 +195,12 @@
     ],
     "name:zho_x_preferred":[
         "\u6e56\u6cca\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u6e56\u6cca\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Lakes"
     ],
     "ne:abbrev":"Lakes",
     "ne:adm0_a3":"SDS",
@@ -318,7 +327,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496011,
+    "wof:lastmodified":1690866738,
     "wof:name":"Lakes",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

@@ -65,6 +65,9 @@
         "North Bahr-al-Ghazal",
         "Northern Bahr el Ghazal"
     ],
+    "name:epo_x_preferred":[
+        "Norda Bahr el Ghazal"
+    ],
     "name:fin_x_preferred":[
         "Pohjoinen Bahr el-Ghazal"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\ubc14\ub974\uc54c\uac00\uc798 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ubc14\ub974\uc54c\uac00\uc798\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cu Bahrelgaz\u0101la"
@@ -193,6 +199,9 @@
     ],
     "name:zho_x_variant":[
         "\u5317\u52a0\u624e\u52d2\u6cb3\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Northern Bahr el Ghazal"
     ],
     "ne:abbrev":"N. BaG.",
     "ne:adm0_a3":"SDS",
@@ -318,7 +327,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895995,
+    "wof:lastmodified":1690866737,
     "wof:name":"North Bahr-al-Ghazal",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
