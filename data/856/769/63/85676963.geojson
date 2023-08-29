@@ -111,6 +111,9 @@
     "name:kor_x_preferred":[
         "\uc720\ub2c8\ud2f0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc720\ub2c8\ud2f0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Vahdas vil\u0101js"
     ],
@@ -203,6 +206,9 @@
     ],
     "name:zho_x_variant":[
         "\u7336\u5c3c\u63d0\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Unity"
     ],
     "ne:abbrev":"Unity",
     "ne:adm0_a3":"SDS",
@@ -330,7 +336,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496012,
+    "wof:lastmodified":1690866739,
     "wof:name":"Unity",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0627\u0635\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0646\u0627\u0635\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09b8\u09bf\u09b0"
     ],
@@ -101,6 +104,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u5915\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u7d0d\u897f\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Sudan",
@@ -221,7 +227,7 @@
         }
     ],
     "wof:id":1141906965,
-    "wof:lastmodified":1636496026,
+    "wof:lastmodified":1690866749,
     "wof:name":"Nasir",
     "wof:parent_id":1091913609,
     "wof:placetype":"locality",

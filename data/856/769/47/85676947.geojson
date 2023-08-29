@@ -114,6 +114,9 @@
     "name:kor_x_preferred":[
         "\uc911\uc559\uc5d0\ucf70\ud1a0\ub9ac\uc544 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc911\uc559\uc5d0\ucf70\ud1a0\ub9ac\uc544\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Centr\u0101l\u0101 Ekvatorija"
     ],
@@ -206,6 +209,9 @@
     ],
     "name:zho_x_variant":[
         "\u4e2d\u8d64\u9053\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Central Equatoria"
     ],
     "ne:abbrev":"C. Eq.",
     "ne:adm0_a3":"SDS",
@@ -333,7 +339,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496012,
+    "wof:lastmodified":1690866740,
     "wof:name":"Central Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

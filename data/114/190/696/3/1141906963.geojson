@@ -21,10 +21,16 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0648\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Melut"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09b2\u09c1\u09a4"
     ],
     "name:dan_x_preferred":[
+        "Melut"
+    ],
+    "name:deu_x_preferred":[
         "Melut"
     ],
     "name:ell_x_preferred":[
@@ -248,7 +254,7 @@
         }
     ],
     "wof:id":1141906963,
-    "wof:lastmodified":1636496026,
+    "wof:lastmodified":1690866749,
     "wof:name":"Melut",
     "wof:parent_id":1091914927,
     "wof:placetype":"locality",

@@ -67,6 +67,9 @@
         "Warrap State",
         "Warap"
     ],
+    "name:epo_x_preferred":[
+        "Warrap"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0627\u0631\u0627\u0628"
     ],
@@ -102,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc640\ub78d \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc640\ub78d\uc8fc"
     ],
     "name:lav_x_preferred":[
         "V\u0101r\u0101pa"
@@ -189,6 +195,12 @@
     ],
     "name:zho_x_preferred":[
         "\u74e6\u62c9\u5e03\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u74e6\u62c9\u535c\u5dde"
+    ],
+    "name:zul_x_preferred":[
+        "Warrap"
     ],
     "ne:abbrev":"War.",
     "ne:adm0_a3":"SDS",
@@ -315,7 +327,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895996,
+    "wof:lastmodified":1690866738,
     "wof:name":"Warap",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

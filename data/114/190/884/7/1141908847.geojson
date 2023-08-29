@@ -24,6 +24,9 @@
     "name:ara_x_variant":[
         "\u0646\u0645\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0645\u0648\u0644\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09ae\u09c1\u09b2"
     ],
@@ -123,6 +126,9 @@
     "name:srp_x_preferred":[
         "\u041d\u0438\u043c\u0443\u043b\u0435"
     ],
+    "name:swa_x_preferred":[
+        "Nimule"
+    ],
     "name:swe_x_preferred":[
         "Nimule"
     ],
@@ -149,6 +155,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u7a46\u840a"
+    ],
+    "name:zul_x_preferred":[
+        "Nimule"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Sudan",
@@ -269,7 +278,7 @@
         }
     ],
     "wof:id":1141908847,
-    "wof:lastmodified":1636496026,
+    "wof:lastmodified":1690866749,
     "wof:name":"Nimule",
     "wof:parent_id":890452095,
     "wof:placetype":"locality",

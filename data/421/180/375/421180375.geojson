@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0646\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0646\u062c"
+    ],
     "name:azb_x_preferred":[
         "\u062a\u0648\u0646\u062c"
     ],
@@ -143,6 +146,9 @@
     "name:zho_x_preferred":[
         "\u901a\u5b63"
     ],
+    "name:zul_x_preferred":[
+        "Tonj"
+    ],
     "qs:gn_country":"SS",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":365763,
@@ -191,7 +197,7 @@
         }
     ],
     "wof:id":421180375,
-    "wof:lastmodified":1566650429,
+    "wof:lastmodified":1690866745,
     "wof:name":"Tonj",
     "wof:parent_id":1091914221,
     "wof:placetype":"locality",

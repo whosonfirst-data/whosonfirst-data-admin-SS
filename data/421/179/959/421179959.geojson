@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u0643\u0627\u0644"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0644\u0643\u0627\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Malakal"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b2\u09be\u0995\u09be\u09b2"
     ],
@@ -53,10 +59,16 @@
     "name:est_x_preferred":[
         "Malakal"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u06a9\u0627\u0644"
+    ],
     "name:fin_x_preferred":[
         "Malakal"
     ],
     "name:fra_x_preferred":[
+        "Malakal"
+    ],
+    "name:gle_x_preferred":[
         "Malakal"
     ],
     "name:guj_x_preferred":[
@@ -76,6 +88,9 @@
     ],
     "name:hun_x_preferred":[
         "Malakal"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0561\u056f\u0561\u056c"
     ],
     "name:ind_x_preferred":[
         "Malakal"
@@ -167,6 +182,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0644\u06a9\u0627\u0644"
     ],
+    "name:vec_x_preferred":[
+        "Malakal"
+    ],
     "name:vie_x_preferred":[
         "Malakal"
     ],
@@ -175,6 +193,12 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u5361\u723e"
+    ],
+    "name:zho_x_variant":[
+        "\u99ac\u62c9\u5361\u52d2"
+    ],
+    "name:zul_x_preferred":[
+        "Malakal"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"South Sudan",
@@ -318,7 +342,7 @@
         }
     ],
     "wof:id":421179959,
-    "wof:lastmodified":1636496022,
+    "wof:lastmodified":1690866747,
     "wof:name":"Malakal",
     "wof:parent_id":1091915845,
     "wof:placetype":"locality",

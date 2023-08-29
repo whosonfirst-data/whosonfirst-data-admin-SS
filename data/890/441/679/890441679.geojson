@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u064a\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u064a\u064a\u0631"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09c0\u09b0"
+    ],
+    "name:cat_x_preferred":[
+        "Leer"
     ],
     "name:ceb_x_preferred":[
         "Leer"
@@ -32,6 +38,9 @@
         "Leer"
     ],
     "name:dan_x_preferred":[
+        "Leer"
+    ],
+    "name:deu_x_preferred":[
         "Leer"
     ],
     "name:ell_x_preferred":[
@@ -119,7 +128,8 @@
         "\u0644\u06cc\u06cc\u0631 \u060c \u0633\u0627\u0624\u062a\u06be \u0633\u0648\u0688\u0627\u0646"
     ],
     "name:urd_x_variant":[
-        "\u0644\u06cc\u06cc\u0631"
+        "\u0644\u06cc\u06cc\u0631",
+        "\u0644\u06cc\u06cc\u0631 "
     ],
     "name:vie_x_preferred":[
         "Leer"
@@ -132,8 +142,8 @@
     "wof:belongsto":[
         102191573,
         85632657,
-        1091915755,
-        85676963
+        85676963,
+        1091915755
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -155,7 +165,7 @@
         }
     ],
     "wof:id":890441679,
-    "wof:lastmodified":1587163142,
+    "wof:lastmodified":1690866747,
     "wof:name":"Ler",
     "wof:parent_id":1091915755,
     "wof:placetype":"locality",

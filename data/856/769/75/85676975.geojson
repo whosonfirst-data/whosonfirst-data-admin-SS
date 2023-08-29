@@ -112,6 +112,9 @@
     "name:kor_x_preferred":[
         "\ub3d9\uc5d0\ucf70\ud1a0\ub9ac\uc544 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub3d9\uc5d0\ucf70\ud1a0\ub9ac\uc544\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Austrumu Ekvatorija"
     ],
@@ -172,6 +175,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1  \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0baf"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0b8f\u0b95\u0bc1\u0bb5\u0b9f\u0bcb\u0bb0\u0bbf\u0baf"
+    ],
     "name:tel_x_preferred":[
         "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c08\u0c15\u0c4d\u0c35\u0c1f\u0c4b\u0c30\u0c3f\u0c2f\u0c3e"
     ],
@@ -204,6 +210,9 @@
     ],
     "name:zho_x_variant":[
         "\u4e1c\u8d64\u9053\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Eastern Equatoria"
     ],
     "ne:abbrev":"E. Eq.",
     "ne:adm0_a3":"SDS",
@@ -330,7 +339,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614895996,
+    "wof:lastmodified":1690866737,
     "wof:name":"East Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
