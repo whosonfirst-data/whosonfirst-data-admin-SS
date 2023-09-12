@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363956,
-    "geom:area_square_m":4449755772.012072,
+    "geom:area_square_m":4449755582.062145,
     "geom:bbox":"28.152161,7.995065,29.168781,9.039256",
     "geom:latitude":8.597745,
     "geom:longitude":28.589754,
@@ -63,10 +63,12 @@
         85676965
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.WR.GE"
+    },
     "wof:country":"SS",
     "wof:created":1473892721,
-    "wof:geomhash":"955e4f810511fd9083235e7219ee4b37",
+    "wof:geomhash":"921dc00fb1564ad19289cc09aa439afb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1091913463,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1694492794,
     "wof:name":"Gogrial East",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

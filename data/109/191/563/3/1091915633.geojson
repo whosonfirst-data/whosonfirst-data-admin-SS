@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.325822,
-    "geom:area_square_m":16324890575.123352,
+    "geom:area_square_m":16324890575.123268,
     "geom:bbox":"32.0963942596,4.4637205937,33.3109399807,5.85939868956",
     "geom:latitude":5.251815,
     "geom:longitude":32.671197,
@@ -66,10 +66,12 @@
         85676975
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.EE.LO"
+    },
     "wof:country":"SS",
     "wof:created":1473892815,
-    "wof:geomhash":"d321edf3b47da034f6e36350c330722d",
+    "wof:geomhash":"5395314f81043f191bb80aa73c7bd748",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +81,7 @@
         }
     ],
     "wof:id":1091915633,
-    "wof:lastmodified":1566650402,
+    "wof:lastmodified":1694492409,
     "wof:name":"Lafon",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

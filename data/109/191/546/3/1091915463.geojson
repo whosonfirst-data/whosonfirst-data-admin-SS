@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.638279,
-    "geom:area_square_m":7793669693.136494,
+    "geom:area_square_m":7793669693.136458,
     "geom:bbox":"30.209439405,8.57070552422,31.1777126732,9.51608225431",
     "geom:latitude":9.071109,
     "geom:longitude":30.687025,
@@ -67,10 +67,12 @@
         85676957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.JG.OF"
+    },
     "wof:country":"SS",
     "wof:created":1473892808,
-    "wof:geomhash":"4eb77dd3f3994602a04878bde5071828",
+    "wof:geomhash":"aa7553f172c85b93c0d55dfd16cdd750",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1091915463,
-    "wof:lastmodified":1566650408,
+    "wof:lastmodified":1694492409,
     "wof:name":"Fangak",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

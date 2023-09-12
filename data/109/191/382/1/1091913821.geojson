@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.36582,
-    "geom:area_square_m":4466682887.842873,
+    "geom:area_square_m":4466682648.591922,
     "geom:bbox":"31.077636,8.769983,31.831497,9.42309",
     "geom:latitude":9.08388,
     "geom:longitude":31.441585,
@@ -64,10 +64,12 @@
         85676957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.JG.KH"
+    },
     "wof:country":"SS",
     "wof:created":1473892737,
-    "wof:geomhash":"4ee385377247e58a19f87934cd8d4fc6",
+    "wof:geomhash":"10995c46fd9437d5134ac2795dd7a3af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1091913821,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1694492794,
     "wof:name":"Canal/Pigi",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

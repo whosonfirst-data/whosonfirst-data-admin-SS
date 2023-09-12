@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.205267,
-    "geom:area_square_m":2532305648.97666,
+    "geom:area_square_m":2532305082.231492,
     "geom:bbox":"31.098636,3.652984,31.804303,4.131094",
     "geom:latitude":3.896791,
     "geom:longitude":31.460811,
@@ -64,10 +64,12 @@
         85676947
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.BG.KK"
+    },
     "wof:country":"SS",
     "wof:created":1473892818,
-    "wof:geomhash":"ca4f2216a09032493a5d3a58ad4f78fe",
+    "wof:geomhash":"c1b903a8eeb316833c1a7be94bc73aaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1091915715,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1694492794,
     "wof:name":"Kajo-keji",
     "wof:parent_id":85676947,
     "wof:placetype":"county",
