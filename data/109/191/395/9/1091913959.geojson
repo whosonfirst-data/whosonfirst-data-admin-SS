@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.438376,
-    "geom:area_square_m":5373866977.099915,
+    "geom:area_square_m":5373867267.427598,
     "geom:bbox":"29.966506,7.068426,30.704826,7.990716",
     "geom:latitude":7.525307,
     "geom:longitude":30.335129,
@@ -63,10 +63,12 @@
         85676963
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.WH.PJ"
+    },
     "wof:country":"SS",
     "wof:created":1473892742,
-    "wof:geomhash":"0fe5fbea8f4db6d597579f6d5aa4bf82",
+    "wof:geomhash":"1b1af043cbe3078d43124c38816e3142",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1091913959,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1694492794,
     "wof:name":"Panyijiar",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

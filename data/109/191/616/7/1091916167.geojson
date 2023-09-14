@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.996902,
-    "geom:area_square_m":12217677480.630981,
+    "geom:area_square_m":12217677994.430595,
     "geom:bbox":"31.527056,7.020537,32.771389,8.365578",
     "geom:latitude":7.625028,
     "geom:longitude":32.111592,
@@ -63,10 +63,12 @@
         85676957
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.JG.WU"
+    },
     "wof:country":"SS",
     "wof:created":1473892840,
-    "wof:geomhash":"daca13ebbc682111273ddb52117f7568",
+    "wof:geomhash":"f4c7800c154398842ff2f64262f405ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1091916167,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1694492794,
     "wof:name":"Uror",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.394752,
-    "geom:area_square_m":4843929454.714397,
+    "geom:area_square_m":4843929119.617296,
     "geom:bbox":"28.867204,6.682111,29.596915,7.512385",
     "geom:latitude":7.080746,
     "geom:longitude":29.226963,
@@ -63,10 +63,12 @@
         85676939
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"SS.EB.CU"
+    },
     "wof:country":"SS",
     "wof:created":1473892747,
-    "wof:geomhash":"2e132d85684816da74c8e90ea8ac513e",
+    "wof:geomhash":"aae30dd8f63c80b898390e72662a234a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,7 +78,7 @@
         }
     ],
     "wof:id":1091914089,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1694492794,
     "wof:name":"Cueibet",
     "wof:parent_id":85676939,
     "wof:placetype":"county",
