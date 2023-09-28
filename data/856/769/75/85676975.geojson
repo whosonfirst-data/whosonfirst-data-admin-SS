@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":5.710248,
-    "geom:area_square_m":70345746625.884766,
+    "geom:area_square_m":70345746753.614014,
     "geom:bbox":"31.727594,3.50499,35.948997,6.001865",
     "geom:latitude":4.909347,
     "geom:longitude":33.524164,
@@ -314,17 +314,19 @@
         "gn:id":408668,
         "gp:id":20069901,
         "hasc:id":"SS.EE",
+        "iso:code":"SS-EE",
         "iso:id":"SS-EE",
         "qs_pg:id":221376,
         "unlc:id":"SS-EE",
         "wd:id":"Q488519",
         "wk:page":"Eastern Equatoria"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"81326a4e153827ab29a265d6274aff40",
+    "wof:geomhash":"b62f1db1d9dc13685bb95982478f042e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866737,
+    "wof:lastmodified":1695884536,
     "wof:name":"East Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

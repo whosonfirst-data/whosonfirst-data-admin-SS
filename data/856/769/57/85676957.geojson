@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":9.987726,
-    "geom:area_square_m":122457211050.33429,
+    "geom:area_square_m":122457211533.849457,
     "geom:bbox":"30.209439,5.720021,35.022058,9.516082",
     "geom:latitude":7.388505,
     "geom:longitude":32.33267,
@@ -306,17 +306,19 @@
         "gn:id":408662,
         "gp:id":20069909,
         "hasc:id":"SS.JG",
+        "iso:code":"SS-JG",
         "iso:id":"SS-JG",
         "qs_pg:id":1118807,
         "unlc:id":"SS-JG",
         "wd:id":"Q488904",
         "wk:page":"Jonglei"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aaa544074cd93ff31049b7b06078c348",
+    "wof:geomhash":"d8814e09d68a8938212c6103f1231fe4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -331,7 +333,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866736,
+    "wof:lastmodified":1695884535,
     "wof:name":"Jungoli",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

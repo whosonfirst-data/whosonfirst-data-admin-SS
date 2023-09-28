@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.052091,
-    "geom:area_square_m":37279119088.540131,
+    "geom:area_square_m":37279119725.837364,
     "geom:bbox":"28.701851,7.068426,30.843851,10.288068",
     "geom:latitude":8.924838,
     "geom:longitude":29.888235,
@@ -311,17 +311,19 @@
         "gn:id":408650,
         "gp:id":20069907,
         "hasc:id":"SS.WH",
+        "iso:code":"SS-UY",
         "iso:id":"SS-UY",
         "qs_pg:id":959144,
         "unlc:id":"SS-UY",
         "wd:id":"Q319965",
         "wk:page":"Unity State"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28435820fc031c3e9c0cabc133a10b58",
+    "wof:geomhash":"34861a9d9af322339563ed93ca27afdf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -336,7 +338,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866739,
+    "wof:lastmodified":1695884838,
     "wof:name":"Unity",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
