@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479062,
-    "geom:area_square_m":5899125216.44161,
+    "geom:area_square_m":5899125562.501874,
     "geom:bbox":"29.771365,4.609671,30.571246,5.692775",
     "geom:latitude":5.213131,
     "geom:longitude":30.208026,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892735,
-    "wof:geomhash":"8810974346c648db5d06c5d9825c5978",
+    "wof:geomhash":"72c7faa9440f801c09a8ecafefa7587d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913781,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1695886491,
     "wof:name":"Mundri West",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

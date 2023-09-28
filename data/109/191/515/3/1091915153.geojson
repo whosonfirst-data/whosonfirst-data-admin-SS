@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":6.125425,
-    "geom:area_square_m":74857188185.144272,
+    "geom:area_square_m":74857188185.145798,
     "geom:bbox":"23.440849,6.64783429418,26.9278545437,10.43898875",
     "geom:latitude":8.724488,
     "geom:longitude":25.338186,
@@ -162,9 +162,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WB.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892796,
-    "wof:geomhash":"0c5eda7727c100be917f04d3db09500c",
+    "wof:geomhash":"02570e2c8cb3f610c8f6afd560902f0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,7 +175,7 @@
         }
     ],
     "wof:id":1091915153,
-    "wof:lastmodified":1566650410,
+    "wof:lastmodified":1695886436,
     "wof:name":"Raga",
     "wof:parent_id":85676971,
     "wof:placetype":"county",

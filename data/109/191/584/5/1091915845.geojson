@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061174,
-    "geom:area_square_m":745711615.370699,
+    "geom:area_square_m":745711496.753948,
     "geom:bbox":"31.370134,9.44983,31.867457,9.891365",
     "geom:latitude":9.656777,
     "geom:longitude":31.644925,
@@ -171,9 +171,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.ML"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892823,
-    "wof:geomhash":"37b7b1c6aef9e2544816631df9e7a655",
+    "wof:geomhash":"13342adac00d3e614482ef74280773a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -183,7 +184,7 @@
         }
     ],
     "wof:id":1091915845,
-    "wof:lastmodified":1636496020,
+    "wof:lastmodified":1695886706,
     "wof:name":"Malakal",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

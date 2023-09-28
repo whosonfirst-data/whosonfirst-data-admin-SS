@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.978186,
-    "geom:area_square_m":11910494474.007217,
+    "geom:area_square_m":11910495718.102188,
     "geom:bbox":"32.955949,9.339717,33.999659,10.723733",
     "geom:latitude":10.027952,
     "geom:longitude":33.459733,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.MB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892785,
-    "wof:geomhash":"cc0f60223e36e3c92e0f54d364715c15",
+    "wof:geomhash":"e5102f468d81fa63991452bd9f887ddc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914847,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886491,
     "wof:name":"Maban",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

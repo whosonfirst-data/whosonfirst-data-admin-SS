@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.455015,
-    "geom:area_square_m":5586815869.434744,
+    "geom:area_square_m":5586815507.304132,
     "geom:bbox":"30.318063,6.333336,31.374661,7.219234",
     "geom:latitude":6.793572,
     "geom:longitude":30.801343,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EB.YE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892774,
-    "wof:geomhash":"399c48278d7f9aa3d23bffa39035d648",
+    "wof:geomhash":"138eda772c060d85394abcac9c1b02af",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914583,
-    "wof:lastmodified":1627522796,
+    "wof:lastmodified":1695886494,
     "wof:name":"Yirol East",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

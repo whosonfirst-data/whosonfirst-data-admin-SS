@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.153238,
-    "geom:area_square_m":26515891154.872513,
+    "geom:area_square_m":26515892592.02779,
     "geom:bbox":"33.626564,4.178446,35.948997,6.001865",
     "geom:latitude":5.181214,
     "geom:longitude":34.595849,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EE.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892783,
-    "wof:geomhash":"a3cd42ce884c5ff5eaa6902cc6694fa8",
+    "wof:geomhash":"c1c0ce479dc4dd59b17ed6cb1a9d1ece",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914791,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1695886489,
     "wof:name":"Kapoeta East",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

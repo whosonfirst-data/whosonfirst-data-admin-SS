@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.4718,
-    "geom:area_square_m":5816975831.056983,
+    "geom:area_square_m":5816975831.042645,
     "geom:bbox":"33.006588,3.831618,33.95102,4.908489",
     "geom:latitude":4.358514,
     "geom:longitude":33.448426,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EE.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892722,
-    "wof:geomhash":"e20d2c8f4a516c374e4cb778591c33de",
+    "wof:geomhash":"28db475f24070a5a1ea7127a67a4596d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091913493,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886487,
     "wof:name":"Budi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

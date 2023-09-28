@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.414762,
-    "geom:area_square_m":5059053196.980021,
+    "geom:area_square_m":5059053867.015744,
     "geom:bbox":"30.756117,8.871686,32.079725,9.822458",
     "geom:latitude":9.444131,
     "geom:longitude":31.450719,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892744,
-    "wof:geomhash":"96dfdf86dea7519564753cd5baf90855",
+    "wof:geomhash":"5377fc44faff8b0b39ccb76a4976d2fe",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914001,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1695886492,
     "wof:name":"Panyikang",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.361973,
-    "geom:area_square_m":4425868429.732261,
+    "geom:area_square_m":4425869109.391882,
     "geom:bbox":"27.862888,8.023033,28.459834,9.127116",
     "geom:latitude":8.567798,
     "geom:longitude":28.11035,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WR.GW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892812,
-    "wof:geomhash":"7b6128eb889763b240659c7a2c6c5373",
+    "wof:geomhash":"0f532a498d8754d1859de8c4540044a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915551,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1695886490,
     "wof:name":"Gogrial West",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

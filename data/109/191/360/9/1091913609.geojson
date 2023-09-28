@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.42664,
-    "geom:area_square_m":5212841470.39854,
+    "geom:area_square_m":5212841582.992719,
     "geom:bbox":"32.785323,8.424278,33.648639,9.380408",
     "geom:latitude":8.835517,
     "geom:longitude":33.162172,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.LU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892729,
-    "wof:geomhash":"293e4b690b876f85da5d6f217ef98a0b",
+    "wof:geomhash":"76394b17bbe943822b8e4f0275b48827",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913609,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886490,
     "wof:name":"Luakpiny/Nasir",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

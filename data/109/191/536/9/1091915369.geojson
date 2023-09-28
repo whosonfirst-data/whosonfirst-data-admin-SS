@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.37194,
-    "geom:area_square_m":4572613654.283226,
+    "geom:area_square_m":4572614100.435442,
     "geom:bbox":"30.624839,5.865737,31.693703,6.505904",
     "geom:latitude":6.151133,
     "geom:longitude":31.226856,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EB.AW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892804,
-    "wof:geomhash":"00077504b52e78655f4fdd562e24408a",
+    "wof:geomhash":"a12b366b6373a559fa332dc2a86b0844",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091915369,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886488,
     "wof:name":"Awerial",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

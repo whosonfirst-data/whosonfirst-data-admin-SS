@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.8712,
-    "geom:area_square_m":10719931956.762634,
+    "geom:area_square_m":10719930261.171608,
     "geom:bbox":"30.309592,5.126752,32.114383,6.248087",
     "geom:latitude":5.661652,
     "geom:longitude":31.326758,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SS.BG.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892837,
-    "wof:geomhash":"a3b2a9a2abb010214866436f50ae45c5",
+    "wof:geomhash":"a9fc79be39c92c5dbd42997c75e2aec0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091916075,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Terekeka",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

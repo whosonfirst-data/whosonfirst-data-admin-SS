@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.142453,
-    "geom:area_square_m":14036578208.695904,
+    "geom:area_square_m":14036578087.950125,
     "geom:bbox":"31.30998,5.848611,32.627664,7.094629",
     "geom:latitude":6.464956,
     "geom:longitude":32.005054,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892772,
-    "wof:geomhash":"bdfbcfe7f8c5f162b951f73b419913b8",
+    "wof:geomhash":"0ca8c0c0c7c668b4702d324f63216d50",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091914581,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886488,
     "wof:name":"Bor South",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

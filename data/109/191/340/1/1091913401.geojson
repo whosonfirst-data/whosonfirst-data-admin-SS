@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.915448,
-    "geom:area_square_m":11197639154.08507,
+    "geom:area_square_m":11197638539.934023,
     "geom:bbox":"26.200565,7.895638,27.80384,8.960555",
     "geom:latitude":8.418688,
     "geom:longitude":26.893256,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.NB.AC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892715,
-    "wof:geomhash":"0d25ba01071208eff86fa57d9f91b0d8",
+    "wof:geomhash":"27a8bc7d3aa2dc2c653f1911d46e00f9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913401,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886487,
     "wof:name":"Aweil Centre",
     "wof:parent_id":85676935,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.291884,
-    "geom:area_square_m":3584406823.201662,
+    "geom:area_square_m":3584407071.389581,
     "geom:bbox":"29.570217,6.373381,30.36994,7.115726",
     "geom:latitude":6.718039,
     "geom:longitude":30.01294,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EB.RE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892746,
-    "wof:geomhash":"8430b290b831451e2e0e56082be37975",
+    "wof:geomhash":"a4a59efa01de4eb601e74a6f342dfa28",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914045,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886492,
     "wof:name":"Rumbek East",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

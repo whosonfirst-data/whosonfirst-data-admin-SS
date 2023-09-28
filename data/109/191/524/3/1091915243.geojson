@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.021343,
-    "geom:area_square_m":12558635103.771423,
+    "geom:area_square_m":12558635103.771786,
     "geom:bbox":"26.284445,5.34650288008,27.9664177231,6.71899970878",
     "geom:latitude":6.04553,
     "geom:longitude":27.142079,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892799,
-    "wof:geomhash":"f8fc07883da25bd2949e31409b87df25",
+    "wof:geomhash":"33a51e41a27a1433c2290bdfab91676e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1091915243,
-    "wof:lastmodified":1566650409,
+    "wof:lastmodified":1695886436,
     "wof:name":"Tambura",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

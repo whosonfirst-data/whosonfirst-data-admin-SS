@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106759,
-    "geom:area_square_m":1317289162.414373,
+    "geom:area_square_m":1317288968.222774,
     "geom:bbox":"30.556342,3.488987,31.10145,3.945105",
     "geom:latitude":3.740053,
     "geom:longitude":30.833774,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.BG.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892790,
-    "wof:geomhash":"3f1634b3dde0593a38a922eb931e8179",
+    "wof:geomhash":"c8716b300d18729de76ec9318bf6b325",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914975,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1695886492,
     "wof:name":"Morobo",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

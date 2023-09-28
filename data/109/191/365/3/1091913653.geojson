@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293656,
-    "geom:area_square_m":3576168706.100695,
+    "geom:area_square_m":3576169435.520839,
     "geom:bbox":"31.42831,9.672891,32.28944,10.301845",
     "geom:latitude":9.979452,
     "geom:longitude":31.845625,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.FA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892731,
-    "wof:geomhash":"b3f6f1ec0cd98934bce5e684ea536d65",
+    "wof:geomhash":"cde67c33b6e827ee88583d4d644fdd18",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913653,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1695886489,
     "wof:name":"Fashoda",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

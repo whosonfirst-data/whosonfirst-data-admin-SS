@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.54852,
-    "geom:area_square_m":6763859678.039212,
+    "geom:area_square_m":6763860131.481956,
     "geom:bbox":"29.79678,3.77775,30.931469,4.709768",
     "geom:latitude":4.249008,
     "geom:longitude":30.345504,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"SS.BG.YE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892771,
-    "wof:geomhash":"ba66954400091f67f22e12bfb72bfd99",
+    "wof:geomhash":"465a1c9e3f278821464a679a7485f291",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091914579,
-    "wof:lastmodified":1636496020,
+    "wof:lastmodified":1695886706,
     "wof:name":"Yei",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

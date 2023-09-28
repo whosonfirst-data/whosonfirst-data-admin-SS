@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.478232,
-    "geom:area_square_m":5896167182.899759,
+    "geom:area_square_m":5896167182.899757,
     "geom:bbox":"32.0164040884,3.82431860756,33.0495802832,4.94263183398",
     "geom:latitude":4.373575,
     "geom:longitude":32.566402,
@@ -117,9 +117,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EE.TO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892759,
-    "wof:geomhash":"744322298de842e1b33115c4f523a2fa",
+    "wof:geomhash":"cb1a5e2ca173a3147832df4d4018d154",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -129,7 +130,7 @@
         }
     ],
     "wof:id":1091914269,
-    "wof:lastmodified":1566650404,
+    "wof:lastmodified":1695886435,
     "wof:name":"Torit",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

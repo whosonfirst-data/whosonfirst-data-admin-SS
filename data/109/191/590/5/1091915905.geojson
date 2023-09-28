@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.414409,
-    "geom:area_square_m":5102227484.272037,
+    "geom:area_square_m":5102227982.820153,
     "geom:bbox":"30.346187,4.801292,31.017784,5.801367",
     "geom:latitude":5.308117,
     "geom:longitude":30.682003,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892826,
-    "wof:geomhash":"5bb521de7953c9ce09da4c6a6f53efca",
+    "wof:geomhash":"9841881fdcc7cd88053b9f32592f296e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915905,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1695886492,
     "wof:name":"Mundri East",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

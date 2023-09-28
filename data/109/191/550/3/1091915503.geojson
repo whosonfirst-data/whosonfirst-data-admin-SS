@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.960299,
-    "geom:area_square_m":11711606630.614159,
+    "geom:area_square_m":11711605115.830009,
     "geom:bbox":"31.707267,8.716187,32.996497,10.099195",
     "geom:latitude":9.490906,
     "geom:longitude":32.402248,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892810,
-    "wof:geomhash":"21849ac10ec5bfbd132f6a89f8cb4dae",
+    "wof:geomhash":"b8dd56350875f708e1aa00d26c7458b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915503,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886488,
     "wof:name":"Baliet",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

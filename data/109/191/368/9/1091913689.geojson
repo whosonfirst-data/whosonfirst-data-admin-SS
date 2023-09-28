@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.573626,
-    "geom:area_square_m":6976858776.465246,
+    "geom:area_square_m":6976857939.533344,
     "geom:bbox":"32.104958,9.891056,33.002225,10.850472",
     "geom:latitude":10.38018,
     "geom:longitude":32.568557,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892732,
-    "wof:geomhash":"1ea012f7ef48e28a3b6b04d797b0441e",
+    "wof:geomhash":"30245efaa50fcdca0df79c2de294e746",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1091913689,
-    "wof:lastmodified":1636496019,
+    "wof:lastmodified":1695886705,
     "wof:name":"Melut",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

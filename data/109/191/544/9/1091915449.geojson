@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.56407,
-    "geom:area_square_m":6913256328.377392,
+    "geom:area_square_m":6913256046.267497,
     "geom:bbox":"30.507679,7.282012,31.757289,8.03796",
     "geom:latitude":7.617652,
     "geom:longitude":31.185652,
@@ -76,9 +76,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.DU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892807,
-    "wof:geomhash":"6e0f3c6318c30394e02a31d2a59b7fb9",
+    "wof:geomhash":"48d371f04eb8d0f2cf415ed37085dbcf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,7 +89,7 @@
         }
     ],
     "wof:id":1091915449,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886488,
     "wof:name":"Duk",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

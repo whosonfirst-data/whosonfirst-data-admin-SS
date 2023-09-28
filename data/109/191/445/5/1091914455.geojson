@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.627124,
-    "geom:area_square_m":7723722500.944599,
+    "geom:area_square_m":7723722682.597078,
     "geom:bbox":"29.316225,4.560808,30.202271,5.709641",
     "geom:latitude":5.098319,
     "geom:longitude":29.683371,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.MA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892766,
-    "wof:geomhash":"b82cb1bac9d38a573abaf93cf175a9a2",
+    "wof:geomhash":"f1ff874beb636ea2be0e26ea7547e769",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1091914455,
-    "wof:lastmodified":1636496020,
+    "wof:lastmodified":1695886706,
     "wof:name":"Maridi",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31536,
-    "geom:area_square_m":3870261235.182396,
+    "geom:area_square_m":3870261926.715742,
     "geom:bbox":"29.376177,6.667385,30.2257,7.307292",
     "geom:latitude":7.017994,
     "geom:longitude":29.783416,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EB.RC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892834,
-    "wof:geomhash":"f9a526697ec36fe3d95a3b24ee536bd5",
+    "wof:geomhash":"01db6c1c446dd80ec1eaf0e6e56106f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091916013,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Rumbek Centre",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

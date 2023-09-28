@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285701,
-    "geom:area_square_m":3524011004.675015,
+    "geom:area_square_m":3524011004.675174,
     "geom:bbox":"32.7822085827,3.749066,33.5967814652,4.41616651393",
     "geom:latitude":4.028592,
     "geom:longitude":33.131466,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EE.IK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892781,
-    "wof:geomhash":"4509f7e4ebfad7daba193113b0c93654",
+    "wof:geomhash":"456965e3058df8fa20abcbf162e8e058",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091914753,
-    "wof:lastmodified":1566650404,
+    "wof:lastmodified":1695886435,
     "wof:name":"Ikotos",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

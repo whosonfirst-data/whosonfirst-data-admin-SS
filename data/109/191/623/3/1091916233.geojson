@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.717756,
-    "geom:area_square_m":8839378043.327803,
+    "geom:area_square_m":8839378244.803801,
     "geom:bbox":"28.17764,4.28069,28.945119,6.075147",
     "geom:latitude":5.127584,
     "geom:longitude":28.547118,
@@ -138,9 +138,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.YA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892843,
-    "wof:geomhash":"6c245dc912254cd8b077eabbe8eb3c86",
+    "wof:geomhash":"e59f4190d0d56f34602a1ed4f8a3e017",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1091916233,
-    "wof:lastmodified":1636496019,
+    "wof:lastmodified":1695886706,
     "wof:name":"Yambio",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

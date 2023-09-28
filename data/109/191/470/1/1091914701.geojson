@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.786012,
-    "geom:area_square_m":9680490062.710186,
+    "geom:area_square_m":9680489536.088493,
     "geom:bbox":"28.593124,4.340702,29.468781,5.776422",
     "geom:latitude":5.102551,
     "geom:longitude":29.062173,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.IB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892780,
-    "wof:geomhash":"c73d00930550fff06eb1df42967e52b0",
+    "wof:geomhash":"fb17e5c7044cb21ee3845e031d4f1cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914701,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1695886489,
     "wof:name":"Ibba",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

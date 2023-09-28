@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.39684,
-    "geom:area_square_m":4852058027.711448,
+    "geom:area_square_m":4852058120.829844,
     "geom:bbox":"32.409531,7.979316,33.21886,9.117761",
     "geom:latitude":8.577303,
     "geom:longitude":32.828359,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.UL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892764,
-    "wof:geomhash":"425c0873f32b872b38ee419a3ea0bdb9",
+    "wof:geomhash":"7293a842b9e7beb8e2c239b14ecd89ad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914409,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Ulang",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

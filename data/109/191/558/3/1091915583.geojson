@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282869,
-    "geom:area_square_m":3452748680.650735,
+    "geom:area_square_m":3452748345.161131,
     "geom:bbox":"29.809985,8.842962,30.391163,9.551198",
     "geom:latitude":9.197213,
     "geom:longitude":30.07492,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WH.GU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892813,
-    "wof:geomhash":"8c6bd2f455c2ea92f35e117a43f721a7",
+    "wof:geomhash":"8f8de423708fc72c48f2334a3cde1ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915583,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1695886490,
     "wof:name":"Guit",
     "wof:parent_id":85676963,
     "wof:placetype":"county",
