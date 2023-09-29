@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"SS.EB.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892747,
     "wof:geomhash":"aae30dd8f63c80b898390e72662a234a",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914089,
-    "wof:lastmodified":1695886488,
+    "wof:lastmodified":1696023154,
     "wof:name":"Cueibet",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

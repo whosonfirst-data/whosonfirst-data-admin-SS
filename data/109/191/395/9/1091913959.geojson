@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"SS.WH.PJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892742,
     "wof:geomhash":"1b1af043cbe3078d43124c38816e3142",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913959,
-    "wof:lastmodified":1695886491,
+    "wof:lastmodified":1696023154,
     "wof:name":"Panyijiar",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

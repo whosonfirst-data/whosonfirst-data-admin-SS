@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.WU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892840,
     "wof:geomhash":"f4c7800c154398842ff2f64262f405ac",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091916167,
-    "wof:lastmodified":1695886494,
+    "wof:lastmodified":1696023154,
     "wof:name":"Uror",
     "wof:parent_id":85676957,
     "wof:placetype":"county",
