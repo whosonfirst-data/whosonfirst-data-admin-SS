@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.676916,
-    "geom:area_square_m":8305709422.260561,
+    "geom:area_square_m":8305709422.260295,
     "geom:bbox":"33.2119428791,6.67116958964,34.54339,7.736792",
     "geom:latitude":7.11293,
     "geom:longitude":33.812947,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892794,
-    "wof:geomhash":"baea535e0d987ac8f76dd77fe8789fa5",
+    "wof:geomhash":"18af3b78e364829a699161993b5d4d52",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091915101,
-    "wof:lastmodified":1566650397,
+    "wof:lastmodified":1695886434,
     "wof:name":"Pochalla",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

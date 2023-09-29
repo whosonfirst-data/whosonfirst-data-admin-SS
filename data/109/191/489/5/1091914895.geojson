@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.309424,
-    "geom:area_square_m":3781625911.191136,
+    "geom:area_square_m":3781626002.244036,
     "geom:bbox":"33.464135,8.367628,34.145517,9.211037",
     "geom:latitude":8.741743,
     "geom:longitude":33.863289,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892786,
-    "wof:geomhash":"c47e3c5e088a984a70d254d38e04ebb6",
+    "wof:geomhash":"64e68ce255595875add1f9da1b1a095d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091914895,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886491,
     "wof:name":"Maiwut",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

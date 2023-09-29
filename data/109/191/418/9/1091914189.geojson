@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.664187,
-    "geom:area_square_m":8175283162.969456,
+    "geom:area_square_m":8175283842.934271,
     "geom:bbox":"27.248278,4.688948,28.503333,6.517129",
     "geom:latitude":5.458708,
     "geom:longitude":27.89227,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.EZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892756,
-    "wof:geomhash":"1ceb159b9d1e2ada93a4655e13c6f158",
+    "wof:geomhash":"4685cd9cbb30e465c39cccbc9cf20cf5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1091914189,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1695886489,
     "wof:name":"Ezo",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

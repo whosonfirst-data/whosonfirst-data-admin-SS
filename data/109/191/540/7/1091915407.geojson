@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099032,
-    "geom:area_square_m":1220663025.957003,
+    "geom:area_square_m":1220662904.563685,
     "geom:bbox":"33.443826,4.219598,33.917882,4.871075",
     "geom:latitude":4.564939,
     "geom:longitude":33.680312,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EE.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892805,
-    "wof:geomhash":"b81c9f0adf13e6ac60caf583b5ebba50",
+    "wof:geomhash":"9c4ae6886a19f6d674fd185fd98daeb6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915407,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886491,
     "wof:name":"Kapoeta South",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

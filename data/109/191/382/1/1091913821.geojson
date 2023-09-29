@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.KH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892737,
     "wof:geomhash":"10995c46fd9437d5134ac2795dd7a3af",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091913821,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1696023154,
     "wof:name":"Canal/Pigi",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

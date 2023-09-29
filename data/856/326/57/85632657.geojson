@@ -954,6 +954,7 @@
         "gn:id":7909807,
         "gp:id":56558055,
         "hasc:id":"SS",
+        "iso:code":"SS",
         "itu:id":"SSD",
         "m49:code":"728",
         "marc:id":"sd",
@@ -964,6 +965,7 @@
         "wd:id":"Q958",
         "wk:page":"South Sudan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:country_alpha3":"SSD",
     "wof:geom_alt":[
@@ -986,7 +988,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639600,
+    "wof:lastmodified":1695881262,
     "wof:name":"South Sudan",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

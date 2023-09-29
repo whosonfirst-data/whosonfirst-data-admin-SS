@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.568702,
-    "geom:area_square_m":19240286423.879925,
+    "geom:area_square_m":19240285707.997765,
     "geom:bbox":"26.447447,6.650103,28.092881,8.146731",
     "geom:latitude":7.28668,
     "geom:longitude":27.296926,
@@ -93,9 +93,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WB.WA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892841,
-    "wof:geomhash":"e349e5df90ed9f1627886378c720aee0",
+    "wof:geomhash":"6db655f6e51018f3f4dd43ee935b06b5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":1091916187,
-    "wof:lastmodified":1636496019,
+    "wof:lastmodified":1695886705,
     "wof:name":"Wau",
     "wof:parent_id":85676971,
     "wof:placetype":"county",

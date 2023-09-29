@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.827998,
-    "geom:area_square_m":10148304635.117308,
+    "geom:area_square_m":10148305387.528652,
     "geom:bbox":"27.241812,6.739798,28.534497,8.499651",
     "geom:latitude":7.590763,
     "geom:longitude":28.025386,
@@ -91,9 +91,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WB.JR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892719,
-    "wof:geomhash":"c57559c07f5c458d6c617fc8c1afca61",
+    "wof:geomhash":"447ff6b9742116522bd72b00d99fd25c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":1091913431,
-    "wof:lastmodified":1627522792,
+    "wof:lastmodified":1695886489,
     "wof:name":"Jur River",
     "wof:parent_id":85676971,
     "wof:placetype":"county",

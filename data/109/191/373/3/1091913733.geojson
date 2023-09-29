@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.28658,
-    "geom:area_square_m":3533731397.9328,
+    "geom:area_square_m":3533731699.309847,
     "geom:bbox":"30.464631,3.736418,31.210975,4.670305",
     "geom:latitude":4.277625,
     "geom:longitude":30.854972,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.BG.LA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892734,
-    "wof:geomhash":"34428192431247765f3620d6a5bc7ef7",
+    "wof:geomhash":"f580af34afcec74e7bada03578c454b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913733,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886490,
     "wof:name":"Lainya",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

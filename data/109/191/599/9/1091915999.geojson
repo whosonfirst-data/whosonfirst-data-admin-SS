@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.293276,
-    "geom:area_square_m":3579048844.07327,
+    "geom:area_square_m":3579049254.622573,
     "geom:bbox":"29.344534,8.859855,29.917858,9.747052",
     "geom:latitude":9.268299,
     "geom:longitude":29.636143,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WH.RU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892832,
-    "wof:geomhash":"9d76eebd8945ff5a3b8b0fee5a5ff2b0",
+    "wof:geomhash":"eb2de9579ec2cacdd6b428f7406cfc19",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1091915999,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Rubkona",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

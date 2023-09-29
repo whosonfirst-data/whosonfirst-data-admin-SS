@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.80596,
-    "geom:area_square_m":46537050565.78891,
+    "geom:area_square_m":46537047733.426369,
     "geom:bbox":"27.833333,6.389177,29.703512,10.166667",
     "geom:latitude":8.51114,
     "geom:longitude":28.65596,
@@ -302,17 +302,19 @@
         "gn:id":408670,
         "gp:id":20069898,
         "hasc:id":"SS.WR",
+        "iso:code":"SS-WR",
         "iso:id":"SS-WR",
         "qs_pg:id":1186582,
         "unlc:id":"SS-WR",
         "wd:id":"Q491138",
         "wk:page":"Warrap (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"238efc56246682fe6bef27e7df21b264",
+    "wof:geomhash":"f5848cd533e0b25edf02ac6dafbdc032",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866738,
+    "wof:lastmodified":1695884536,
     "wof:name":"Warap",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.510738,
-    "geom:area_square_m":43258232533.474373,
+    "geom:area_square_m":43258231616.747833,
     "geom:bbox":"29.79678,3.488987,32.169888,6.248087",
     "geom:latitude":4.76495,
     "geom:longitude":31.194042,
@@ -314,17 +314,19 @@
         "gn:id":408655,
         "gp:id":20069902,
         "hasc:id":"SS.BG",
+        "iso:code":"SS-EC",
         "iso:id":"SS-EC",
         "qs_pg:id":1118714,
         "unlc:id":"SS-EC",
         "wd:id":"Q487709",
         "wk:page":"Central Equatoria"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b3a2d382dd9b8515b7f6af2f63f69ccc",
+    "wof:geomhash":"b6bd82a9dee6888bcb88f375a81ad661",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -339,7 +341,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866740,
+    "wof:lastmodified":1695884837,
     "wof:name":"Central Equatoria",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

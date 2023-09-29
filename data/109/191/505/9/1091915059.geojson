@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.693326,
-    "geom:area_square_m":33095502598.917496,
+    "geom:area_square_m":33095502498.344833,
     "geom:bbox":"32.389713,5.720021,35.022058,7.399072",
     "geom:latitude":6.396698,
     "geom:longitude":33.571121,
@@ -129,9 +129,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.PI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892793,
-    "wof:geomhash":"937f0beb1af51c0ebd61e7c4fc6682d9",
+    "wof:geomhash":"e525be6b36abb4757f61422ba1a65699",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1091915059,
-    "wof:lastmodified":1636496018,
+    "wof:lastmodified":1695886705,
     "wof:name":"Pibor",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

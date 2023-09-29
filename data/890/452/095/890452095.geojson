@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.424757,
-    "geom:area_square_m":5239972525.952456,
+    "geom:area_square_m":5239971559.305503,
     "geom:bbox":"31.727594,3.50499,32.883262,4.364631",
     "geom:latitude":3.907688,
     "geom:longitude":32.212502,
@@ -98,12 +98,13 @@
         "wd:id":"Q1956550",
         "wk:page":"Magwi County"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1469052805,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"966d6d9a904198be658a9447c50ffb11",
+    "wof:geomhash":"1645e0c27b18f43af2cd35be44456012",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":890452095,
-    "wof:lastmodified":1690866748,
+    "wof:lastmodified":1695886490,
     "wof:name":"Magwi",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

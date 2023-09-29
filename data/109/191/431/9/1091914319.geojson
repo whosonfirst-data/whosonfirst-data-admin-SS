@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.487432,
-    "geom:area_square_m":5980940605.567763,
+    "geom:area_square_m":5980941145.272779,
     "geom:bbox":"30.682315,6.616626,31.789861,7.448196",
     "geom:latitude":7.100532,
     "geom:longitude":31.322258,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892761,
-    "wof:geomhash":"fc673a787f2784256366e71848fc83b1",
+    "wof:geomhash":"2482d45b9b8d810a17ae2fa5e879200e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091914319,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Twic East",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363008,
-    "geom:area_square_m":4446610690.146944,
+    "geom:area_square_m":4446610902.318717,
     "geom:bbox":"28.806324,7.486774,29.703512,8.182551",
     "geom:latitude":7.847346,
     "geom:longitude":29.286201,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WR.TE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892749,
-    "wof:geomhash":"c23fb527468bb19470bcbdfa7651fd05",
+    "wof:geomhash":"434df974c20640db8dd10362e77b55eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914139,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Tonj East",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

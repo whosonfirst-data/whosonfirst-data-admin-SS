@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.545373,
-    "geom:area_square_m":31096010185.583183,
+    "geom:area_square_m":31096009252.611881,
     "geom:bbox":"26.134083,7.895638,28.036385,9.866408",
     "geom:latitude":8.878715,
     "geom:longitude":27.033103,
@@ -303,16 +303,18 @@
         "gn:id":408665,
         "gp:id":20069897,
         "hasc:id":"SS.NB",
+        "iso:code":"SS-BN",
         "iso:id":"SS-BN",
         "qs_pg:id":888131,
         "wd:id":"Q491111",
         "wk:page":"Northern Bahr el Ghazal"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48c7659b8d777ad3a72232e7663cc41c",
+    "wof:geomhash":"697c694b074acff002d9747feb718e6a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866737,
+    "wof:lastmodified":1695884535,
     "wof:name":"North Bahr-al-Ghazal",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

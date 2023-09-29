@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.35141,
-    "geom:area_square_m":4290621953.595342,
+    "geom:area_square_m":4290621723.231829,
     "geom:bbox":"28.701851,8.692918,29.609501,9.453466",
     "geom:latitude":9.093551,
     "geom:longitude":29.21647,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WH.MM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892824,
-    "wof:geomhash":"37bb050803bf2380582e01f10990d7f7",
+    "wof:geomhash":"b869df1b01d79b3502bbbcb13bd165e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915879,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886491,
     "wof:name":"Mayom",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

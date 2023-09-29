@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.413799,
-    "geom:area_square_m":5054659058.392956,
+    "geom:area_square_m":5054658749.433007,
     "geom:bbox":"26.134083,8.601897,27.431274,9.20839",
     "geom:latitude":8.930831,
     "geom:longitude":26.718769,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.NB.AW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892802,
-    "wof:geomhash":"f897f21646310b99770ba25bc8e9227f",
+    "wof:geomhash":"e54b9707b9b4eb408c570245e5c187cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915329,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886488,
     "wof:name":"Aweil West",
     "wof:parent_id":85676935,
     "wof:placetype":"county",

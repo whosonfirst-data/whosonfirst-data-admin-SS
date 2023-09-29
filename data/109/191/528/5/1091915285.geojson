@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.739585,
-    "geom:area_square_m":9060380449.346203,
+    "geom:area_square_m":9060380352.217327,
     "geom:bbox":"32.163234,7.191459,33.529629,8.435633",
     "geom:latitude":7.799643,
     "geom:longitude":32.85412,
@@ -133,9 +133,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.AK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892801,
-    "wof:geomhash":"c895448163bc324b0c5ee62896878247",
+    "wof:geomhash":"542bc855cbe753260dc1904aa732e952",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -145,7 +146,7 @@
         }
     ],
     "wof:id":1091915285,
-    "wof:lastmodified":1636496019,
+    "wof:lastmodified":1695886705,
     "wof:name":"Akobo",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

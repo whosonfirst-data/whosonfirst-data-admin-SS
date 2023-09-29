@@ -66,6 +66,7 @@
     "wof:concordances":{
         "hasc:id":"SS.WR.GE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892721,
     "wof:geomhash":"921dc00fb1564ad19289cc09aa439afb",
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913463,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1696023154,
     "wof:name":"Gogrial East",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

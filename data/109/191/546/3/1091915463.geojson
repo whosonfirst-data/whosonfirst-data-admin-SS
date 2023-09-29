@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.OF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892808,
     "wof:geomhash":"aa7553f172c85b93c0d55dfd16cdd750",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1091915463,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1696023152,
     "wof:name":"Fangak",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.527212,
-    "geom:area_square_m":6432683406.455519,
+    "geom:area_square_m":6432683211.189367,
     "geom:bbox":"26.145035,8.917766,27.381426,9.866408",
     "geom:latitude":9.336929,
     "geom:longitude":26.726882,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.NB.AN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892778,
-    "wof:geomhash":"aadfa9a92f9c97e78d7131366f0258bf",
+    "wof:geomhash":"2c5898fb517d07bf21810bb8d7b66c5d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914653,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886488,
     "wof:name":"Aweil North",
     "wof:parent_id":85676935,
     "wof:placetype":"county",

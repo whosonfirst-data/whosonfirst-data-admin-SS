@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.526988,
-    "geom:area_square_m":6431642528.394932,
+    "geom:area_square_m":6431642440.22763,
     "geom:bbox":"27.181435,8.73026,28.036385,9.628333",
     "geom:latitude":9.24362,
     "geom:longitude":27.613388,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.NB.AE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892716,
-    "wof:geomhash":"fc98656af2837923829f67c96c3c66ed",
+    "wof:geomhash":"d9bfaae9ccf454720b5944999ac12462",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913403,
-    "wof:lastmodified":1627522791,
+    "wof:lastmodified":1695886487,
     "wof:name":"Aweil East",
     "wof:parent_id":85676935,
     "wof:placetype":"county",

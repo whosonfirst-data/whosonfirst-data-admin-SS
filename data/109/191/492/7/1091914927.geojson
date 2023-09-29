@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.552776,
-    "geom:area_square_m":6706220235.056769,
+    "geom:area_square_m":6706220044.128461,
     "geom:bbox":"31.787144,10.122358,32.789852,11.951051",
     "geom:latitude":11.132624,
     "geom:longitude":32.368586,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892788,
-    "wof:geomhash":"b39fb8f40f403d5436f82d5754d7af2c",
+    "wof:geomhash":"bfc1a23330f9500ef655209869444c0b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1091914927,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886491,
     "wof:name":"Manyo",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

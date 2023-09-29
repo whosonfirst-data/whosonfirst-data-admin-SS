@@ -67,6 +67,7 @@
     "wof:concordances":{
         "hasc:id":"SS.BG.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892818,
     "wof:geomhash":"c1b903a8eeb316833c1a7be94bc73aaa",
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1091915715,
-    "wof:lastmodified":1694492794,
+    "wof:lastmodified":1696023154,
     "wof:name":"Kajo-keji",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

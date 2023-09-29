@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.569061,
-    "geom:area_square_m":6944892353.986838,
+    "geom:area_square_m":6944891880.470414,
     "geom:bbox":"32.916248,8.838717,34.131594,9.771509",
     "geom:latitude":9.255755,
     "geom:longitude":33.526279,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892821,
-    "wof:geomhash":"f418b290204784cd09c0eff41fa9fee8",
+    "wof:geomhash":"f2c45b25d72751cf1d60653a9ed31dce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915801,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886491,
     "wof:name":"Longochuk",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

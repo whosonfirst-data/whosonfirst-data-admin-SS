@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.755762,
-    "geom:area_square_m":9285530342.659355,
+    "geom:area_square_m":9285530642.565638,
     "geom:bbox":"27.068824,6.014829,28.503333,6.798119",
     "geom:latitude":6.472376,
     "geom:longitude":27.737834,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WE.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892830,
-    "wof:geomhash":"59fd4a1ed39f2b91caf1f3e67a85c321",
+    "wof:geomhash":"9152e28ee2465d6609349d58e926eb4c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091915985,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1695886492,
     "wof:name":"Nagero",
     "wof:parent_id":85676945,
     "wof:placetype":"county",

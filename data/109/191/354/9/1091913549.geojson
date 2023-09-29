@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.100851,
-    "geom:area_square_m":13469799903.852139,
+    "geom:area_square_m":13469799903.852272,
     "geom:bbox":"30.2850188482,7.69634257094,31.7087870432,8.84926183675",
     "geom:latitude":8.29168,
     "geom:longitude":30.980728,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892725,
-    "wof:geomhash":"cf09d80bd36d9fecf877137a6349a241",
+    "wof:geomhash":"f8d81265ea72fc5267e633fe93edcc38",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091913549,
-    "wof:lastmodified":1566650390,
+    "wof:lastmodified":1695886434,
     "wof:name":"Ayod",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

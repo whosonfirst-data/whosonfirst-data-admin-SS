@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":8.522125,
-    "geom:area_square_m":104245779244.143967,
+    "geom:area_square_m":104245780404.2845,
     "geom:bbox":"23.440849,6.647834,28.534497,10.438989",
     "geom:latitude":8.349674,
     "geom:longitude":25.959824,
@@ -312,17 +312,19 @@
         "gn:id":408657,
         "gp:id":20069899,
         "hasc:id":"SS.WB",
+        "iso:code":"SS-BW",
         "iso:id":"SS-BW",
         "qs_pg:id":531454,
         "unlc:id":"SS-BW",
         "wd:id":"Q332095",
         "wk:page":"Western Bahr el Ghazal"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd1f663c3550e0dd8da4d6b74f06c9b9",
+    "wof:geomhash":"2a1dd4b0a8b194874375c46eb02457eb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -337,7 +339,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866739,
+    "wof:lastmodified":1695884536,
     "wof:name":"West Bahr-al-Ghazal",
     "wof:parent_id":85632657,
     "wof:placetype":"region",

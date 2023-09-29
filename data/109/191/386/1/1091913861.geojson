@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.582091,
-    "geom:area_square_m":7117013471.705196,
+    "geom:area_square_m":7117013444.788924,
     "geom:bbox":"31.490782,8.042621,32.64608,9.092685",
     "geom:latitude":8.583729,
     "geom:longitude":32.118945,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.JG.NY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892739,
-    "wof:geomhash":"9cbaf76f5b017523652f88ef5142213b",
+    "wof:geomhash":"a7e6cc5228a2625e6930a6ae31838e6c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913861,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1695886491,
     "wof:name":"Nyirol",
     "wof:parent_id":85676957,
     "wof:placetype":"county",

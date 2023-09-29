@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.334823,
-    "geom:area_square_m":4104493701.652977,
+    "geom:area_square_m":4104492485.722063,
     "geom:bbox":"29.174083,7.248536,30.142435,7.833143",
     "geom:latitude":7.524708,
     "geom:longitude":29.703185,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.EB.RN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892835,
-    "wof:geomhash":"4cf4a6c729a472f39514399cffd72b72",
+    "wof:geomhash":"3b04ccc6464195de9eda7ddfba6208a4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091916061,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Rumbek North",
     "wof:parent_id":85676939,
     "wof:placetype":"county",

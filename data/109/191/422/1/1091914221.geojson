@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.609992,
-    "geom:area_square_m":7484979510.839913,
+    "geom:area_square_m":7484979675.159763,
     "geom:bbox":"28.372646,6.389177,29.15491,7.788265",
     "geom:latitude":7.081402,
     "geom:longitude":28.737449,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WR.TS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892758,
-    "wof:geomhash":"ab9d3bc4561ff205440f798d84d32c30",
+    "wof:geomhash":"3be533ae580227ed4791d93247de946e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091914221,
-    "wof:lastmodified":1627522795,
+    "wof:lastmodified":1695886493,
     "wof:name":"Tonj South",
     "wof:parent_id":85676965,
     "wof:placetype":"county",

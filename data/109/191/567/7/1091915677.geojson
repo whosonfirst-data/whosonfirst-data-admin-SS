@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.49241,
-    "geom:area_square_m":18391114689.347813,
+    "geom:area_square_m":18391114689.34856,
     "geom:bbox":"30.5146880593,3.95984043011,32.1698876094,5.46041741784",
     "geom:latitude":4.717428,
     "geom:longitude":31.482631,
@@ -373,9 +373,10 @@
     "wof:concordances":{
         "hasc:id":"SS.BG.JU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892816,
-    "wof:geomhash":"b81087fb7f8ee659d92254c0cc7f9367",
+    "wof:geomhash":"43bd1d11889a7fd331faef42b5cbfd59",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -385,7 +386,7 @@
         }
     ],
     "wof:id":1091915677,
-    "wof:lastmodified":1566650389,
+    "wof:lastmodified":1695886434,
     "wof:name":"Juba",
     "wof:parent_id":85676947,
     "wof:placetype":"county",

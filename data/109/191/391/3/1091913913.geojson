@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25086,
-    "geom:area_square_m":3070789002.452187,
+    "geom:area_square_m":3070789894.187432,
     "geom:bbox":"29.659968,7.69655,30.353472,8.558693",
     "geom:latitude":8.123161,
     "geom:longitude":29.920528,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WH.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892740,
-    "wof:geomhash":"b432e8a08edc8ccb240aeb372b13a0f8",
+    "wof:geomhash":"0599f20a1ab2bf7f2a65f6c32ff34d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1091913913,
-    "wof:lastmodified":1627522793,
+    "wof:lastmodified":1695886490,
     "wof:name":"Mayendit",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

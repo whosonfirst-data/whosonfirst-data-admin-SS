@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.133176,
-    "geom:area_square_m":1630014885.020323,
+    "geom:area_square_m":1630014885.020365,
     "geom:bbox":"30.0373598701,7.89580518335,30.4664505457,8.48173741635",
     "geom:latitude":8.174471,
     "geom:longitude":30.228322,
@@ -168,9 +168,10 @@
     "wof:concordances":{
         "hasc:id":"SS.WH.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892820,
-    "wof:geomhash":"fed03ccc4dfd76631f98530e82d6970a",
+    "wof:geomhash":"d43e0fb30198dd3c845947a76874e2b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -180,7 +181,7 @@
         }
     ],
     "wof:id":1091915755,
-    "wof:lastmodified":1566650399,
+    "wof:lastmodified":1695886435,
     "wof:name":"Leer",
     "wof:parent_id":85676963,
     "wof:placetype":"county",

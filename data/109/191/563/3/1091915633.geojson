@@ -69,6 +69,7 @@
     "wof:concordances":{
         "hasc:id":"SS.EE.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892815,
     "wof:geomhash":"5395314f81043f191bb80aa73c7bd748",
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091915633,
-    "wof:lastmodified":1694492409,
+    "wof:lastmodified":1696023152,
     "wof:name":"Lafon",
     "wof:parent_id":85676975,
     "wof:placetype":"county",

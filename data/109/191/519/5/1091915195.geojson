@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.843948,
-    "geom:area_square_m":10230810061.958647,
+    "geom:area_square_m":10230810858.261375,
     "geom:bbox":"32.472808,10.347851,33.354392,12.236389",
     "geom:latitude":11.359003,
     "geom:longitude":32.959236,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"SS.UN.RE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"SS",
     "wof:created":1473892798,
-    "wof:geomhash":"be4ab9ca64047c61927dded2da345649",
+    "wof:geomhash":"984f9673686d01933f7e6eb1d0494b93",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1091915195,
-    "wof:lastmodified":1627522794,
+    "wof:lastmodified":1695886492,
     "wof:name":"Renk",
     "wof:parent_id":85676953,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.521825,
-    "geom:area_square_m":43254868013.90197,
+    "geom:area_square_m":43254867320.889717,
     "geom:bbox":"28.467327,5.674201,31.693703,7.833143",
     "geom:latitude":6.634783,
     "geom:longitude":29.938808,
@@ -302,17 +302,19 @@
         "gn:id":408647,
         "gp:id":20069896,
         "hasc:id":"SS.EB",
+        "iso:code":"SS-LK",
         "iso:id":"SS-LK",
         "qs_pg:id":1085606,
         "unlc:id":"SS-LK",
         "wd:id":"Q491096",
         "wk:page":"Lakes (state)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"SS",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b532a83626fd0f526fb5e171daec2ba7",
+    "wof:geomhash":"e01d82cf31149ad8682b5a85067bce6a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866738,
+    "wof:lastmodified":1695884837,
     "wof:name":"Lakes",
     "wof:parent_id":85632657,
     "wof:placetype":"region",
